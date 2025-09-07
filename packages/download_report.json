@@ -1,8 +1,12 @@
 {
-  "download_time": "2025-09-07T20:27:54.456775",
-  "total_packages_downloaded": 72,
-  "total_size_mb": 9.64,
+  "download_time": "2025-09-07T20:36:14.795676",
+  "total_packages_downloaded": 71,
+  "total_size_mb": 0.26,
   "packages": [
+    "lilpipe",
+    "unicore",
+    "ai-subtitle-translator",
+    "pyloan",
     "deepparameters",
     "eric-api",
     "authentik-client",
@@ -14,7 +18,6 @@
     "asgi-sqlalchemy",
     "hyperquant",
     "lstenv",
-    "unicore",
     "pyonir",
     "ts-preprocessing",
     "ljobx",
@@ -50,7 +53,6 @@
     "yamla",
     "isofate",
     "twill",
-    "lilpipe",
     "facet-mcp-server",
     "psann",
     "datacamp-downloader",
@@ -71,9 +73,6 @@
     "pynintendoparental",
     "aletheia-genetic-optimizers",
     "cdk-factory",
-    "logflux-io",
-    "moto",
-    "lookup-license",
-    "cocotbext-i2c"
+    "logflux-io"
   ]
 }

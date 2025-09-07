@@ -1,11 +1,15 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-07T20:27:54.456775
-- **Total Packages**: 72
-- **Total Size**: 9.64 MB
+- **Download Time**: 2025-09-07T20:36:14.795676
+- **Total Packages**: 71
+- **Total Size**: 0.26 MB
 
 ## Packages List
+- lilpipe
+- unicore
+- ai-subtitle-translator
+- pyloan
 - deepparameters
 - eric-api
 - authentik-client
@@ -17,7 +21,6 @@
 - asgi-sqlalchemy
 - hyperquant
 - lstenv
-- unicore
 - pyonir
 - ts-preprocessing
 - ljobx
@@ -53,7 +56,6 @@
 - yamla
 - isofate
 - twill
-- lilpipe
 - facet-mcp-server
 - psann
 - datacamp-downloader
@@ -75,6 +77,3 @@
 - aletheia-genetic-optimizers
 - cdk-factory
 - logflux-io
-- moto
-- lookup-license
-- cocotbext-i2c
