@@ -1,0 +1,11 @@
+{
+  "name": "pygithub-mate",
+  "version": "0.1.1",
+  "summary": "A user-friendly wrapper around PyGithub with workflow automation for common GitHub operations.",
+  "author": "Sanhe Hu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pygithub_mate-0.1.1.tar.gz",
+  "download_time": "2025-09-07T20:46:35.019009",
+  "package_url": "https://pypi.org/project/pygithub-mate/"
+}

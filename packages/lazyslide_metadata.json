@@ -1,0 +1,11 @@
+{
+  "name": "lazyslide",
+  "version": "0.8.3",
+  "summary": "Accessible and interoperable whole slide image analysis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lazyslide-0.8.3.tar.gz",
+  "download_time": "2025-09-07T20:46:28.298331",
+  "package_url": "https://pypi.org/project/lazyslide/"
+}
