@@ -1,8 +1,20 @@
 {
-  "download_time": "2025-09-07T23:24:54.030962",
-  "total_packages_downloaded": 73,
-  "total_size_mb": 3.74,
+  "download_time": "2025-09-07T23:32:47.281232",
+  "total_packages_downloaded": 75,
+  "total_size_mb": 1.17,
   "packages": [
+    "heartai",
+    "autocrud",
+    "x-make-yahw-x",
+    "svc-infra",
+    "dektools",
+    "MetaRpcMT5",
+    "pydantic-ai-litellm",
+    "pdd-cli",
+    "psann",
+    "pyrplidarsdk",
+    "dome-api-sdk",
+    "headless-waf-builder",
     "authentik-client",
     "msgflux",
     "pymammotion",
@@ -28,8 +40,6 @@
     "syntaxmatrix",
     "bookalimo",
     "brain-agent",
-    "MetaRpcMT5",
-    "headless-waf-builder",
     "llmpop",
     "heaven-framework",
     "specifyx",
@@ -67,14 +77,6 @@
     "pytest-fixtures-fixtures",
     "wgcapture",
     "sevn",
-    "fraiseql",
-    "amigo_sdk",
-    "teds",
-    "moose-lib",
-    "hud-sdk",
-    "lpibydevcoder",
-    "omnipkg",
-    "hackaclime",
-    "bitrab"
+    "fraiseql"
   ]
 }
