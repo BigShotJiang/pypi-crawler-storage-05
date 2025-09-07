@@ -1,11 +1,11 @@
 {
   "name": "lpibydevcoder",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "summary": "My simple and easy programming language",
   "author": "DevCooder",
   "license": null,
   "home_page": "https://github.com/ZeroMurder/My-Programming-Language",
-  "download_filename": "lpibydevcoder-0.0.6.tar.gz",
-  "download_time": "2025-09-07T22:08:22.078586",
+  "download_filename": "lpibydevcoder-0.0.8.tar.gz",
+  "download_time": "2025-09-07T22:27:35.428053",
   "package_url": "https://pypi.org/project/lpibydevcoder/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sevn",
+  "version": "1.0.3",
+  "summary": "A secure environment variable manager",
+  "author": "Tim Hoerner",
+  "license": null,
+  "home_page": "https://github.com/thoerner/sevn",
+  "download_filename": "sevn-1.0.3.tar.gz",
+  "download_time": "2025-09-07T22:27:29.563124",
+  "package_url": "https://pypi.org/project/sevn/"
+}

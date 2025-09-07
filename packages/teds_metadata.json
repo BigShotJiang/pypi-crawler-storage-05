@@ -1,11 +1,11 @@
 {
   "name": "teds",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Verify YAML testspecs against JSON Schemas and generate tests from schema refs",
   "author": "TeDS Authors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "teds-0.1.4.tar.gz",
-  "download_time": "2025-09-07T20:46:26.761742",
+  "download_filename": "teds-0.1.5.tar.gz",
+  "download_time": "2025-09-07T22:27:33.294705",
   "package_url": "https://pypi.org/project/teds/"
 }
