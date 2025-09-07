@@ -1,0 +1,11 @@
+{
+  "name": "kiwoom-restful",
+  "version": "0.1.0",
+  "summary": "Simple Python Wrapper for Kiwoom REST API+",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kiwoom_restful-0.1.0.tar.gz",
+  "download_time": "2025-09-07T18:48:24.958526",
+  "package_url": "https://pypi.org/project/kiwoom-restful/"
+}
