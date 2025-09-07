@@ -1,0 +1,11 @@
+{
+  "name": "modbus-wrapper",
+  "version": "2.1.2",
+  "summary": "wrapper for pyModbusTCP accepting all Modbus numbers with Fatek support",
+  "author": "Przemyslaw Bubas",
+  "license": null,
+  "home_page": "https://github.com/pbubas/modbus_wrapper",
+  "download_filename": "modbus_wrapper-2.1.2.tar.gz",
+  "download_time": "2025-09-07T18:34:34.579526",
+  "package_url": "https://pypi.org/project/modbus-wrapper/"
+}

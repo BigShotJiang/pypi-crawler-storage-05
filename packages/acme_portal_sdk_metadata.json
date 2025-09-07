@@ -1,0 +1,11 @@
+{
+  "name": "acme_portal_sdk",
+  "version": "1.2.0",
+  "summary": "acme-portal-sdk helps to manage deployments for applications that implement \"flows\" (Jobs/DAGs/Workflows). It's intended to be used with acme-portal VSCode extension.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "acme_portal_sdk-1.2.0.tar.gz",
+  "download_time": "2025-09-07T18:34:39.283415",
+  "package_url": "https://pypi.org/project/acme_portal_sdk/"
+}
