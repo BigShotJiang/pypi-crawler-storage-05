@@ -1,11 +1,11 @@
 {
   "name": "MetaRpcMT5",
-  "version": "1.0.8",
+  "version": "1.0.10",
   "summary": "MetaRPC MT5 gRPC Python client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "metarpcmt5-1.0.8.tar.gz",
-  "download_time": "2025-09-07T20:27:26.283486",
+  "download_filename": "metarpcmt5-1.0.10.tar.gz",
+  "download_time": "2025-09-07T21:23:10.570299",
   "package_url": "https://pypi.org/project/MetaRpcMT5/"
 }

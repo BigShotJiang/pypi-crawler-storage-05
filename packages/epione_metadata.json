@@ -1,0 +1,11 @@
+{
+  "name": "epione",
+  "version": "0.0.1rc1",
+  "summary": "EpiOne: Generative cartography of single-cell epigenomes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "epione-0.0.1rc1.tar.gz",
+  "download_time": "2025-09-07T21:23:22.760029",
+  "package_url": "https://pypi.org/project/epione/"
+}

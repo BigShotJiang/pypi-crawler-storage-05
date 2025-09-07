@@ -1,0 +1,11 @@
+{
+  "name": "resistorendecode",
+  "version": "0.1.2",
+  "summary": "Tool to decode or encode resistance color codes",
+  "author": "Alfredo Cubitos",
+  "license": null,
+  "home_page": null,
+  "download_filename": "resistorendecode-0.1.2.tar.gz",
+  "download_time": "2025-09-07T21:23:17.982414",
+  "package_url": "https://pypi.org/project/resistorendecode/"
+}

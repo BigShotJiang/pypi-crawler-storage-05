@@ -1,0 +1,11 @@
+{
+  "name": "scanhero",
+  "version": "1.0.0",
+  "summary": "A modern, lightweight, and modular Python package for basic port and service scanning in cybersecurity contexts",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scanhero-1.0.0.tar.gz",
+  "download_time": "2025-09-07T21:23:17.382970",
+  "package_url": "https://pypi.org/project/scanhero/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "market-data-source",
+  "version": "0.3.0",
+  "summary": "High-performance financial data generation with Python bindings. Rust-powered market data simulation for Python data scientists and quantitative researchers.",
+  "author": "Market Data Source Contributors",
+  "license": null,
+  "home_page": "https://github.com/destenson/market-data-source",
+  "download_filename": "market_data_source-0.3.0-cp312-cp312-win_amd64.whl",
+  "download_time": "2025-09-07T21:23:09.980353",
+  "package_url": "https://pypi.org/project/market-data-source/"
+}

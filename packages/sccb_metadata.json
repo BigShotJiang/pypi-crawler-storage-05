@@ -1,11 +1,11 @@
 {
   "name": "sccb",
-  "version": "0.4.1",
+  "version": "0.4.3",
   "summary": "SCCB – A customizable CLI tool for managing command shortcuts and clipboard snippets.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sccb-0.4.1.tar.gz",
-  "download_time": "2025-09-07T21:07:55.807690",
+  "download_filename": "sccb-0.4.3.tar.gz",
+  "download_time": "2025-09-07T21:23:20.968815",
   "package_url": "https://pypi.org/project/sccb/"
 }
