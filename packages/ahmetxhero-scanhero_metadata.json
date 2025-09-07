@@ -1,0 +1,11 @@
+{
+  "name": "ahmetxhero-scanhero",
+  "version": "1.0.0",
+  "summary": "A modern, lightweight, and modular Python package for basic port and service scanning in cybersecurity contexts",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ahmetxhero_scanhero-1.0.0.tar.gz",
+  "download_time": "2025-09-07T22:08:28.282124",
+  "package_url": "https://pypi.org/project/ahmetxhero-scanhero/"
+}

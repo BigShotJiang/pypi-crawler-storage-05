@@ -1,0 +1,11 @@
+{
+  "name": "scraper-bcv",
+  "version": "0.1.1",
+  "summary": "Cliente Python para obtener datos del BCV con trazabilidad y cumplimiento legal",
+  "author": "Francisco Antonio Quivera González",
+  "license": "MIT",
+  "home_page": "https://github.com/fquivera/scraper-bcv",
+  "download_filename": "scraper_bcv-0.1.1.tar.gz",
+  "download_time": "2025-09-07T22:08:26.533139",
+  "package_url": "https://pypi.org/project/scraper-bcv/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "python-autodiff",
+  "version": "0.1.1",
+  "summary": "A simple automatic differentiation library",
+  "author": "Om Panchal",
+  "license": null,
+  "home_page": "https://github.com/OmPanchal/Autodiff",
+  "download_filename": "python_autodiff-0.1.1.tar.gz",
+  "download_time": "2025-09-07T22:08:11.483892",
+  "package_url": "https://pypi.org/project/python-autodiff/"
+}

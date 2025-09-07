@@ -1,0 +1,11 @@
+{
+  "name": "prompt-to-json",
+  "version": "0.1.1",
+  "summary": "Convert natural language prompts to structured JSON using OpenAI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "prompt_to_json-0.1.1.tar.gz",
+  "download_time": "2025-09-07T22:08:12.646141",
+  "package_url": "https://pypi.org/project/prompt-to-json/"
+}
