@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-setup",
+  "version": "10.6.17",
+  "summary": "passagemath: Build system of the Sage library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_setup-10.6.17.tar.gz",
+  "download_time": "2025-09-07T21:32:17.606605",
+  "package_url": "https://pypi.org/project/passagemath-setup/"
+}

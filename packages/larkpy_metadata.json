@@ -1,0 +1,11 @@
+{
+  "name": "larkpy",
+  "version": "0.3.0",
+  "summary": "飞书开放平台 Python 接口 | Python SDK for Lark",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "larkpy-0.3.0.tar.gz",
+  "download_time": "2025-09-07T21:32:29.898103",
+  "package_url": "https://pypi.org/project/larkpy/"
+}
