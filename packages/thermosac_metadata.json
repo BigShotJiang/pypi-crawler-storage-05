@@ -1,0 +1,11 @@
+{
+  "name": "thermosac",
+  "version": "0.1.0",
+  "summary": "High-throughput LLE prediction and screening using the COSMO-SAC model",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "thermosac-0.1.0.tar.gz",
+  "download_time": "2025-09-07T19:32:16.449432",
+  "package_url": "https://pypi.org/project/thermosac/"
+}
