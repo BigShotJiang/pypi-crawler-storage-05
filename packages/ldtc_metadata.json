@@ -1,0 +1,11 @@
+{
+  "name": "ldtc",
+  "version": "1.0.0",
+  "summary": "Single-machine, real-time digital boundary organism: NC1/SC1 verification harness.",
+  "author": "Owen Carey",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ldtc-1.0.0.tar.gz",
+  "download_time": "2025-09-07T23:46:40.954544",
+  "package_url": "https://pypi.org/project/ldtc/"
+}

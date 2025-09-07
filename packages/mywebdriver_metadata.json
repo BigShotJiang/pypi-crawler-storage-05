@@ -1,0 +1,11 @@
+{
+  "name": "mywebdriver",
+  "version": "1.2.0",
+  "summary": "A quick library to install your webdriver according to your browser version",
+  "author": "Gabriel Lopes de Souza",
+  "license": "MIT License",
+  "home_page": "https://github.com/gabriellopesdesouza2002/mywebdriver",
+  "download_filename": "mywebdriver-1.2.0.tar.gz",
+  "download_time": "2025-09-07T23:46:30.744505",
+  "package_url": "https://pypi.org/project/mywebdriver/"
+}
