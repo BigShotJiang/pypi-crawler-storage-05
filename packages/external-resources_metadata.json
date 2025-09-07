@@ -1,0 +1,11 @@
+{
+  "name": "external-resources",
+  "version": "0.3.0",
+  "summary": "Fetch and deploy external resources (CSS, JS, Fonts) for web services",
+  "author": "Detlef Lannert",
+  "license": null,
+  "home_page": null,
+  "download_filename": "external_resources-0.3.0.tar.gz",
+  "download_time": "2025-09-07T23:08:15.232510",
+  "package_url": "https://pypi.org/project/external-resources/"
+}

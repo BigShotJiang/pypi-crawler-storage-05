@@ -1,0 +1,11 @@
+{
+  "name": "AhmetX-LogHero",
+  "version": "1.0.0",
+  "summary": "System log analyzer for detecting suspicious activities",
+  "author": "Ahmet KAHRAMAN (AhmetXHero)",
+  "license": "MIT",
+  "home_page": "https://github.com/ahmetxhero/AhmetX-LogHero",
+  "download_filename": "ahmetx_loghero-1.0.0.tar.gz",
+  "download_time": "2025-09-07T23:08:06.826480",
+  "package_url": "https://pypi.org/project/AhmetX-LogHero/"
+}
