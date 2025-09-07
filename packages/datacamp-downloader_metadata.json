@@ -1,0 +1,11 @@
+{
+  "name": "datacamp-downloader",
+  "version": "3.3",
+  "summary": "Download your completed courses on Datacamp easily!",
+  "author": "Mohammad Al-Fetyani",
+  "license": null,
+  "home_page": "https://github.com/TRoboto/datacamp-downloader",
+  "download_filename": "datacamp_downloader-3.3.tar.gz",
+  "download_time": "2025-09-07T20:09:37.321660",
+  "package_url": "https://pypi.org/project/datacamp-downloader/"
+}

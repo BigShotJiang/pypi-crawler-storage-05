@@ -1,0 +1,11 @@
+{
+  "name": "yoloplayer",
+  "version": "0.1.0",
+  "summary": "A wrapper for OpenCV video playback with YOLO detection",
+  "author": "Raunit singh",
+  "license": null,
+  "home_page": "https://github.com/raunitsingh/yoloplayer",
+  "download_filename": "yoloplayer-0.1.0.tar.gz",
+  "download_time": "2025-09-07T20:09:31.453896",
+  "package_url": "https://pypi.org/project/yoloplayer/"
+}
