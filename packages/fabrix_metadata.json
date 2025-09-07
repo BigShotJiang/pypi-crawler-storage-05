@@ -1,0 +1,11 @@
+{
+  "name": "fabrix",
+  "version": "0.5.1",
+  "summary": "A python toolkit to evaluate, validate, and debug Azure Data Factory & Microsoft Fabric pipeline expressions with rich tracing.",
+  "author": "Pit Nahrstedt",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fabrix-0.5.1.tar.gz",
+  "download_time": "2025-09-07T19:46:31.002233",
+  "package_url": "https://pypi.org/project/fabrix/"
+}

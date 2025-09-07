@@ -1,0 +1,11 @@
+{
+  "name": "logflux-io",
+  "version": "0.1.0b0",
+  "summary": "A lightweight Python SDK for LogFlux agent communication",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "logflux_io-0.1.0b0.tar.gz",
+  "download_time": "2025-09-07T19:46:38.419139",
+  "package_url": "https://pypi.org/project/logflux-io/"
+}
