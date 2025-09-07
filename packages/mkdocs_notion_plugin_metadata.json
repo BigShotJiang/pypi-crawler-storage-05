@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs_notion_plugin",
+  "version": "0.0.7",
+  "summary": "Notion Plugin for mkdocs",
+  "author": "Robbin dev team",
+  "license": null,
+  "home_page": "https://github.com/cartaorobbin/mkdocs-notion-plugin",
+  "download_filename": "mkdocs_notion_plugin-0.0.7.tar.gz",
+  "download_time": "2025-09-07T21:07:53.356520",
+  "package_url": "https://pypi.org/project/mkdocs_notion_plugin/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-faceid",
+  "version": "3.0.1457",
+  "summary": "Tencent Cloud Faceid SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud-sdk-python-faceid-3.0.1457.tar.gz",
+  "download_time": "2025-09-07T21:08:02.901672",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-faceid/"
+}
