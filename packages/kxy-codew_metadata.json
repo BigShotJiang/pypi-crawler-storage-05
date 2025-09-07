@@ -1,11 +1,11 @@
 {
   "name": "kxy-codew",
-  "version": "0.1.35",
+  "version": "0.1.352",
   "summary": "KXY, a package for profiling remotely",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kxy_codew-0.1.35.tar.gz",
-  "download_time": "2025-09-07T22:27:26.400586",
+  "download_filename": "kxy_codew-0.1.352.tar.gz",
+  "download_time": "2025-09-07T22:36:57.620062",
   "package_url": "https://pypi.org/project/kxy-codew/"
 }
