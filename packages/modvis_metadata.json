@@ -1,0 +1,11 @@
+{
+  "name": "modvis",
+  "version": "0.0.9",
+  "summary": "A python package for model visualization.",
+  "author": "Pin Shuai",
+  "license": "MIT license",
+  "home_page": "https://github.com/pinshuai/modvis",
+  "download_filename": "modvis-0.0.9.tar.gz",
+  "download_time": "2025-09-07T19:20:59.859064",
+  "package_url": "https://pypi.org/project/modvis/"
+}
