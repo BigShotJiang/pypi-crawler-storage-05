@@ -1,0 +1,11 @@
+{
+  "name": "chat-console",
+  "version": "0.5.93",
+  "summary": "A command-line interface for chatting with LLMs, storing chats and (future) rag interactions",
+  "author": "Johnathan Greenaway",
+  "license": null,
+  "home_page": "https://github.com/wazacraftrfid/chat-console",
+  "download_filename": "chat_console-0.5.93.tar.gz",
+  "download_time": "2025-09-07T17:50:27.913896",
+  "package_url": "https://pypi.org/project/chat-console/"
+}

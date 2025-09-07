@@ -1,0 +1,11 @@
+{
+  "name": "tidal-dl-ng",
+  "version": "0.26.6",
+  "summary": "TIDAL Medial Downloader Next Generation!",
+  "author": "Robert Honz",
+  "license": null,
+  "home_page": "https://github.com/exislow/tidal-dl-ng",
+  "download_filename": "tidal_dl_ng-0.26.6.tar.gz",
+  "download_time": "2025-09-07T17:49:54.435710",
+  "package_url": "https://pypi.org/project/tidal-dl-ng/"
+}

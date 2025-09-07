@@ -1,0 +1,11 @@
+{
+  "name": "chatterbox-io",
+  "version": "1.4.1",
+  "summary": "Python client for ChatterBox - Integrate with Zoom, Teams, Google Meet for real-time transcripts",
+  "author": "OverQuotaAI",
+  "license": null,
+  "home_page": "https://github.com/OverQuotaAI/chatterbox-python",
+  "download_filename": "chatterbox_io-1.4.1-py3-none-any.whl",
+  "download_time": "2025-09-07T17:50:29.074157",
+  "package_url": "https://pypi.org/project/chatterbox-io/"
+}

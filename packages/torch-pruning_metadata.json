@@ -1,0 +1,11 @@
+{
+  "name": "torch-pruning",
+  "version": "1.6.1",
+  "summary": "Towards Any Structural Pruning",
+  "author": "Gongfan Fang",
+  "license": null,
+  "home_page": "https://github.com/VainF/Torch-Pruning",
+  "download_filename": "torch_pruning-1.6.1.tar.gz",
+  "download_time": "2025-09-07T17:50:11.913760",
+  "package_url": "https://pypi.org/project/torch-pruning/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "auth-kit-fastapi",
+  "version": "0.3.3",
+  "summary": "FastAPI authentication backend for Auth Kit",
+  "author": "Erick Ama",
+  "license": null,
+  "home_page": "https://github.com/erickva/auth-kit",
+  "download_filename": "auth-kit-fastapi-0.3.3.tar.gz",
+  "download_time": "2025-09-07T17:50:34.403422",
+  "package_url": "https://pypi.org/project/auth-kit-fastapi/"
+}

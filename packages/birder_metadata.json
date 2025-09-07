@@ -1,0 +1,11 @@
+{
+  "name": "birder",
+  "version": "0.0.10a6",
+  "summary": "An open-source computer vision framework for wildlife image analysis, featuring state-of-the-art models for species classification and detection.",
+  "author": "Ofer Hasson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "birder-0.0.10a6.tar.gz",
+  "download_time": "2025-09-07T17:50:08.033576",
+  "package_url": "https://pypi.org/project/birder/"
+}
