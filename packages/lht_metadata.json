@@ -1,0 +1,11 @@
+{
+  "name": "lht",
+  "version": "0.1.234",
+  "summary": "Lakehouse Tools for Snowflake and Salesforce",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lht-0.1.234.tar.gz",
+  "download_time": "2025-09-07T20:27:27.404519",
+  "package_url": "https://pypi.org/project/lht/"
+}

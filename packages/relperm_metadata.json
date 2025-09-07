@@ -1,11 +1,11 @@
 {
   "name": "relperm",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "relperm-0.1.1.tar.gz",
-  "download_time": "2025-09-07T19:46:32.343612",
+  "download_filename": "relperm-0.1.2.tar.gz",
+  "download_time": "2025-09-07T20:27:32.936627",
   "package_url": "https://pypi.org/project/relperm/"
 }
