@@ -1,0 +1,11 @@
+{
+  "name": "chi-sdk",
+  "version": "0.0.5",
+  "summary": "Build beautiful Terminal UIs for Python CLIs without rewriting your code",
+  "author": null,
+  "license": "Apache-2.0 for SDK, AGPL-3.0 for TUI binary (see LICENSE files)",
+  "home_page": null,
+  "download_filename": "chi_sdk-0.0.5.tar.gz",
+  "download_time": "2025-09-07T22:46:42.950183",
+  "package_url": "https://pypi.org/project/chi-sdk/"
+}

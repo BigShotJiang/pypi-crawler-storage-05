@@ -1,11 +1,11 @@
 {
   "name": "lambda-universal-router",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "A flexible AWS Lambda event router with support for multiple event sources",
   "author": "Raumil Dhandhukia",
   "license": null,
   "home_page": "https://github.com/raumildhandhukia/lambda-universal-router",
-  "download_filename": "lambda_universal_router-0.2.3.tar.gz",
-  "download_time": "2025-09-07T22:27:29.029208",
+  "download_filename": "lambda_universal_router-0.2.4.tar.gz",
+  "download_time": "2025-09-07T22:46:42.334126",
   "package_url": "https://pypi.org/project/lambda-universal-router/"
 }
