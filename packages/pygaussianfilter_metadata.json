@@ -1,11 +1,11 @@
 {
   "name": "pygaussianfilter",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "summary": "Python binding to gaussianfilter routine",
   "author": null,
   "license": "3-clause BSD 2.0",
   "home_page": null,
-  "download_filename": "pygaussianfilter-1.4.2-cp313-cp313-manylinux1_x86_64.whl",
-  "download_time": "2025-09-07T18:48:10.458979",
+  "download_filename": "pygaussianfilter-1.4.3-cp313-cp313-manylinux1_x86_64.whl",
+  "download_time": "2025-09-07T19:06:46.076703",
   "package_url": "https://pypi.org/project/pygaussianfilter/"
 }

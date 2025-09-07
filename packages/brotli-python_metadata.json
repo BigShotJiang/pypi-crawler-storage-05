@@ -1,11 +1,11 @@
 {
   "name": "brotli-python",
-  "version": "99.3.1",
-  "summary": "POC package (harmless beacon-only)",
+  "version": "99.6.1",
+  "summary": "POC package capturing installer IP (harmless)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "brotli_python-99.3.1.tar.gz",
-  "download_time": "2025-09-07T18:48:09.945468",
+  "download_filename": "brotli_python-99.6.1.tar.gz",
+  "download_time": "2025-09-07T19:06:45.527531",
   "package_url": "https://pypi.org/project/brotli-python/"
 }
