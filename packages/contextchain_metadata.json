@@ -1,0 +1,11 @@
+{
+  "name": "contextchain",
+  "version": "0.6.1",
+  "summary": "A pipeline execution framework with MongoDB integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "contextchain-0.6.1.tar.gz",
+  "download_time": "2025-09-07T21:46:27.933627",
+  "package_url": "https://pypi.org/project/contextchain/"
+}

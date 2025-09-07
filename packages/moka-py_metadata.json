@@ -1,11 +1,11 @@
 {
   "name": "moka-py",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "summary": "A high performance caching library for Python written in Rust",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "moka_py-0.1.18.tar.gz",
-  "download_time": "2025-09-07T21:23:34.167765",
+  "download_filename": "moka_py-0.1.19.tar.gz",
+  "download_time": "2025-09-07T21:46:33.868678",
   "package_url": "https://pypi.org/project/moka-py/"
 }
