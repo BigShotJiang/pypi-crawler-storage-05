@@ -1,0 +1,11 @@
+{
+  "name": "pylibjpeg-rle",
+  "version": "2.2.0",
+  "summary": "Python bindings for a fast RLE decoder/encoder, with a focus on use as a plugin for pylibjpeg",
+  "author": "pylibjpeg-rle contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylibjpeg_rle-2.2.0.tar.gz",
+  "download_time": "2025-09-07T23:24:16.334288",
+  "package_url": "https://pypi.org/project/pylibjpeg-rle/"
+}

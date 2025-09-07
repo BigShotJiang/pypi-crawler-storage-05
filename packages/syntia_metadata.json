@@ -1,11 +1,11 @@
 {
   "name": "syntia",
-  "version": "0.0.1",
-  "summary": "An AI assisted coding editor",
+  "version": "0.0.4",
+  "summary": "A minimal IDE for your terminal",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "syntia-0.0.1.tar.gz",
-  "download_time": "2025-09-07T22:27:31.165214",
+  "download_filename": "syntia-0.0.4.tar.gz",
+  "download_time": "2025-09-07T23:24:19.066874",
   "package_url": "https://pypi.org/project/syntia/"
 }

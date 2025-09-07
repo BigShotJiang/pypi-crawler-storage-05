@@ -1,11 +1,11 @@
 {
   "name": "imj",
-  "version": "1.1.1",
+  "version": "1.1.3",
   "summary": "Python client for i.marcusj.org",
   "author": "AgeOfMarcus",
   "license": null,
   "home_page": "https://github.com/AgeOfMarcus/imj",
-  "download_filename": "imj-1.1.1.tar.gz",
-  "download_time": "2025-09-07T23:08:05.245420",
+  "download_filename": "imj-1.1.3.tar.gz",
+  "download_time": "2025-09-07T23:24:18.528633",
   "package_url": "https://pypi.org/project/imj/"
 }
