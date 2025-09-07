@@ -1,11 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-07T17:50:37.525593
-- **Total Packages**: 75
-- **Total Size**: 43.14 MB
+- **Download Time**: 2025-09-07T18:12:17.483226
+- **Total Packages**: 79
+- **Total Size**: 7.09 MB
 
 ## Packages List
+- pybooklid
+- arpx
+- authentik-client
+- criteria-pattern
+- graph-games-proto
+- dual-math
+- hgvs
+- recce-nightly
+- google-adk-extras
+- pixverse-ai-free
+- clanguru
+- simpleDicomViewer
+- pipeline-lib
+- cloudreports
+- ducky-L
+- hypha
+- auth-kit-fastapi
+- dagtool
+- unisi
+- aiauto-client
+- tiddl
+- bombhtml
+- fastsqs
+- klotho-cac
+- chaturbate-events
+- aionvk
+- apicrusher
+- ScriptCollection
 - zeon
 - s3dgraphy
 - edgartools
@@ -13,7 +41,6 @@
 - partis-pyproj
 - mkdocs-material
 - pytbox
-- ducky-L
 - nanokvm
 - ljobx
 - django-dynforms
@@ -24,8 +51,6 @@
 - repo-structure
 - ffcapcha
 - topmark
-- kepler-downloader-dr25
-- authentik-client
 - realloc
 - anilibria-api-client
 - dana-python
@@ -60,24 +85,3 @@
 - algomanim
 - fraiseql
 - legit-api-client
-- langgraph
-- ut-eviq
-- i18n-check
-- chat-console
-- mle-kit-mcp
-- chatterbox-io
-- DBUtils
-- iLaplace
-- eaasy
-- easy-tornado
-- praasper
-- hd2api.py
-- fred-oss
-- graph-games-proto
-- misterio
-- auth-kit-fastapi
-- agent-compose-kit
-- fittrackee
-- nonebot-bison
-- maleo-google
-- code-context-analyzer

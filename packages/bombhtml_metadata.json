@@ -1,0 +1,11 @@
+{
+  "name": "bombhtml",
+  "version": "0.4.4",
+  "summary": "simple html/css templating / static site generator system written in python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bombhtml-0.4.4.tar.gz",
+  "download_time": "2025-09-07T18:11:46.792289",
+  "package_url": "https://pypi.org/project/bombhtml/"
+}

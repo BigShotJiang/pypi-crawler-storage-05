@@ -1,0 +1,11 @@
+{
+  "name": "tiddl",
+  "version": "2.5.2",
+  "summary": "Download Tidal tracks with CLI downloader.",
+  "author": "oskvr37",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tiddl-2.5.2.tar.gz",
+  "download_time": "2025-09-07T18:11:46.268539",
+  "package_url": "https://pypi.org/project/tiddl/"
+}
