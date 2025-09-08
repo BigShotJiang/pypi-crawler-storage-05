@@ -1,0 +1,11 @@
+{
+  "name": "datascour",
+  "version": "0.1.1",
+  "summary": "An AI-powered data cleaning and validation toolkit.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/tiwariPratyush/datascour",
+  "download_filename": "datascour-0.1.1.tar.gz",
+  "download_time": "2025-09-08T16:35:55.562121",
+  "package_url": "https://pypi.org/project/datascour/"
+}

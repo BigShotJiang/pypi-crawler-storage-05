@@ -1,0 +1,11 @@
+{
+  "name": "tabbed",
+  "version": "1.1.1",
+  "summary": "An iterative reader of irregular text files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tabbed-1.1.1.tar.gz",
+  "download_time": "2025-09-08T16:36:26.871641",
+  "package_url": "https://pypi.org/project/tabbed/"
+}

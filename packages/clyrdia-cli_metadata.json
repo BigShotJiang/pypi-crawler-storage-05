@@ -1,11 +1,11 @@
 {
   "name": "clyrdia-cli",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "State-of-the-Art AI Benchmarking for CI/CD",
   "author": "Clyrdia Team",
   "license": "MIT",
   "home_page": "https://clyrdia.com",
-  "download_filename": "clyrdia_cli-2.0.0.tar.gz",
-  "download_time": "2025-09-08T15:10:25.931425",
+  "download_filename": "clyrdia_cli-2.0.1.tar.gz",
+  "download_time": "2025-09-08T16:36:07.857287",
   "package_url": "https://pypi.org/project/clyrdia-cli/"
 }

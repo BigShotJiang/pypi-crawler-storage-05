@@ -1,0 +1,11 @@
+{
+  "name": "pybmda",
+  "version": "0.2.5",
+  "summary": "Python interface for BlackMagicDebugApplication (BMDA)",
+  "author": "Lynkz Instruments Inc",
+  "license": "MIT",
+  "home_page": "https://github.com/Lynkz-Instruments/pybmda",
+  "download_filename": "pybmda-0.2.5.tar.gz",
+  "download_time": "2025-09-08T16:35:56.074664",
+  "package_url": "https://pypi.org/project/pybmda/"
+}

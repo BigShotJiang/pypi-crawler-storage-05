@@ -1,0 +1,11 @@
+{
+  "name": "Bottleneck",
+  "version": "1.6.0",
+  "summary": "Fast NumPy array functions written in C",
+  "author": null,
+  "license": "Simplified BSD",
+  "home_page": "https://github.com/pydata/bottleneck",
+  "download_filename": "bottleneck-1.6.0.tar.gz",
+  "download_time": "2025-09-08T16:35:59.799101",
+  "package_url": "https://pypi.org/project/Bottleneck/"
+}

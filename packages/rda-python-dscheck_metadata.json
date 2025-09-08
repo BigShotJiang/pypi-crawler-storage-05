@@ -1,0 +1,11 @@
+{
+  "name": "rda-python-dscheck",
+  "version": "1.0.8",
+  "summary": "RDA python package to add and process batch jobs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rda_python_dscheck-1.0.8.tar.gz",
+  "download_time": "2025-09-08T16:36:03.553938",
+  "package_url": "https://pypi.org/project/rda-python-dscheck/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tokenix-auth-component",
+  "version": "0.1.4",
+  "summary": "Componente de autenticación reutilizable para lambdas de RapidCredit que requieran autenticarse en Tokenix",
+  "author": "Edwin Caicedo Venté",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tokenix_auth_component-0.1.4.tar.gz",
+  "download_time": "2025-09-08T16:35:54.015326",
+  "package_url": "https://pypi.org/project/tokenix-auth-component/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "html-tstring",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A 🤘 rockin' t-string HTML templating system for Python 3.14.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "html_tstring-0.1.0.tar.gz",
-  "download_time": "2025-09-08T02:23:18.427078",
+  "download_filename": "html_tstring-0.1.1.tar.gz",
+  "download_time": "2025-09-08T16:36:08.931060",
   "package_url": "https://pypi.org/project/html-tstring/"
 }

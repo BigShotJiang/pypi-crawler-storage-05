@@ -1,0 +1,11 @@
+{
+  "name": "synthex",
+  "version": "0.4.2",
+  "summary": "Generate high-quality, large-scale synthetic datasets 📊🧪",
+  "author": "Saurabh Pradhan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "synthex-0.4.2.tar.gz",
+  "download_time": "2025-09-08T16:36:19.698463",
+  "package_url": "https://pypi.org/project/synthex/"
+}
