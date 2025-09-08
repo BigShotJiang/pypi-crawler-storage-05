@@ -1,11 +1,11 @@
 {
   "name": "banko-ai-assistant",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "summary": "AI-powered expense analysis and RAG system with CockroachDB vector search and multi-provider AI support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "banko_ai_assistant-1.0.15.tar.gz",
-  "download_time": "2025-09-08T19:47:42.156363",
+  "download_filename": "banko_ai_assistant-1.0.16.tar.gz",
+  "download_time": "2025-09-08T21:47:51.340600",
   "package_url": "https://pypi.org/project/banko-ai-assistant/"
 }
