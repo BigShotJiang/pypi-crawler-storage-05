@@ -1,0 +1,11 @@
+{
+  "name": "popexposure",
+  "version": "1.0.0.dev18",
+  "summary": "A package for finding the number of people residing near environmental hazards",
+  "author": "heathermcb",
+  "license": "MIT",
+  "home_page": "https://github.com/heathermcb/popexposure",
+  "download_filename": "popexposure-1.0.0.dev18.tar.gz",
+  "download_time": "2025-09-08T18:40:32.608736",
+  "package_url": "https://pypi.org/project/popexposure/"
+}

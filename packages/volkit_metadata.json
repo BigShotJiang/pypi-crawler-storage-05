@@ -1,11 +1,11 @@
 {
   "name": "volkit",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Volatility Modelling Toolkit",
   "author": "Thijs van den Berg",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "volkit-0.2.0.tar.gz",
-  "download_time": "2025-09-08T13:03:40.731150",
+  "download_filename": "volkit-0.2.1.tar.gz",
+  "download_time": "2025-09-08T18:40:47.864394",
   "package_url": "https://pypi.org/project/volkit/"
 }

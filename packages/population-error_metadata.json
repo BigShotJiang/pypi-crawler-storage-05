@@ -1,0 +1,11 @@
+{
+  "name": "population-error",
+  "version": "0.1",
+  "summary": "JAX-based package for estimating the information lost due to Monte Carlo approximations in GW population inference.",
+  "author": "Jack Heinzel",
+  "license": null,
+  "home_page": "https://github.com/jack-heinzel/population-error",
+  "download_filename": "population_error-0.1.tar.gz",
+  "download_time": "2025-09-08T18:40:52.649090",
+  "package_url": "https://pypi.org/project/population-error/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tinyloop",
+  "version": "0.1.28",
+  "summary": "A super lightweight library for LLM-based applications",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tinyloop-0.1.28.tar.gz",
+  "download_time": "2025-09-08T18:40:23.927257",
+  "package_url": "https://pypi.org/project/tinyloop/"
+}

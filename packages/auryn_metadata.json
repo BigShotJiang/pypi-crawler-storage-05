@@ -1,0 +1,11 @@
+{
+  "name": "auryn",
+  "version": "1.0.3",
+  "summary": "The Auryn Metaprogramming Engine",
+  "author": "Dan Gittik",
+  "license": null,
+  "home_page": null,
+  "download_filename": "auryn-1.0.3.tar.gz",
+  "download_time": "2025-09-08T18:40:35.055903",
+  "package_url": "https://pypi.org/project/auryn/"
+}

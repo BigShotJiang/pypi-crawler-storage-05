@@ -1,0 +1,11 @@
+{
+  "name": "perrot",
+  "version": "0.25.0",
+  "summary": "Draw simple plots using Pero drawing library",
+  "author": "Martin Strohalm",
+  "license": "MIT",
+  "home_page": "https://github.com/xxao/perrot",
+  "download_filename": "perrot-0.25.0.tar.gz",
+  "download_time": "2025-09-08T18:40:52.071968",
+  "package_url": "https://pypi.org/project/perrot/"
+}

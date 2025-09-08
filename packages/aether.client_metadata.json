@@ -1,0 +1,11 @@
+{
+  "name": "aether.client",
+  "version": "0.1.0",
+  "summary": "Cliente para reportar acciones a Aether",
+  "author": "Aether",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aether.client-0.1.0.tar.gz",
+  "download_time": "2025-09-08T18:40:38.489870",
+  "package_url": "https://pypi.org/project/aether.client/"
+}
