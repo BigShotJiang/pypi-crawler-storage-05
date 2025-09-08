@@ -1,0 +1,11 @@
+{
+  "name": "proofcarryingthought-sdk",
+  "version": "0.1.0",
+  "summary": "Minimal Proof-Carrying Thought (PCT) SDK: canonical bytes, Merkle, CAS, optional Ed25519 signing, policy gates, and chain-of-custody.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "proofcarryingthought_sdk-0.1.0.tar.gz",
+  "download_time": "2025-09-08T03:26:24.818172",
+  "package_url": "https://pypi.org/project/proofcarryingthought-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "charmlibs-interfaces",
+  "version": "1.0.0a1",
+  "summary": "The charmlibs.interfaces namespace. This package should not be installed.",
+  "author": "The Charm Tech team at Canonical Ltd.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "charmlibs_interfaces-1.0.0a1.tar.gz",
+  "download_time": "2025-09-08T03:26:01.291139",
+  "package_url": "https://pypi.org/project/charmlibs-interfaces/"
+}

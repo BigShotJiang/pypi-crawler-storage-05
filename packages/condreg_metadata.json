@@ -1,0 +1,11 @@
+{
+  "name": "condreg",
+  "version": "0.1.3",
+  "summary": "Condition Number Regularized Covariance Estimation",
+  "author": "Sang Yun Oh, Lixing Guo",
+  "license": "MIT",
+  "home_page": "https://github.com/dddlab/CondReg",
+  "download_filename": "condreg-0.1.3.tar.gz",
+  "download_time": "2025-09-08T03:26:31.605340",
+  "package_url": "https://pypi.org/project/condreg/"
+}

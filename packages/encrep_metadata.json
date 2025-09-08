@@ -1,0 +1,11 @@
+{
+  "name": "encrep",
+  "version": "1.0.5",
+  "summary": "CLI tool for dumping and restoring Git repos via AWS S3.",
+  "author": "Anatoly Petrov",
+  "license": "MIT",
+  "home_page": "https://github.com/AnatoliyProjects/encrep",
+  "download_filename": "encrep-1.0.5.tar.gz",
+  "download_time": "2025-09-08T03:26:30.555006",
+  "package_url": "https://pypi.org/project/encrep/"
+}

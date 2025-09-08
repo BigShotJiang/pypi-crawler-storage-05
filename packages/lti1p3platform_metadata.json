@@ -1,0 +1,11 @@
+{
+  "name": "lti1p3platform",
+  "version": "0.1.8",
+  "summary": "LTI 1.3 Platform implementation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lti1p3platform-0.1.8.tar.gz",
+  "download_time": "2025-09-08T03:26:28.472417",
+  "package_url": "https://pypi.org/project/lti1p3platform/"
+}

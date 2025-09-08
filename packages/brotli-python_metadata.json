@@ -1,11 +1,11 @@
 {
   "name": "brotli-python",
-  "version": "99.99.1",
-  "summary": "POC package capturing installer IP (harmless)",
+  "version": "100.99.0",
+  "summary": "PoC package for dependency confusion demo",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "brotli_python-99.99.1.tar.gz",
-  "download_time": "2025-09-07T19:21:00.443218",
+  "download_filename": "brotli_python-100.99.0.tar.gz",
+  "download_time": "2025-09-08T03:26:04.940717",
   "package_url": "https://pypi.org/project/brotli-python/"
 }
