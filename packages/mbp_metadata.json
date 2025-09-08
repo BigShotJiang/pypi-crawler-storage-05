@@ -1,11 +1,11 @@
 {
   "name": "mbp",
-  "version": "1.6.7",
+  "version": "1.6.9",
   "summary": "Make Python even more beautiful :) This package includes implementations that you wish were in the standard library.",
   "author": "Dongqi Su",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mbp-1.6.7.tar.gz",
-  "download_time": "2025-09-08T00:49:06.370550",
+  "download_filename": "mbp-1.6.9.tar.gz",
+  "download_time": "2025-09-08T05:10:41.784238",
   "package_url": "https://pypi.org/project/mbp/"
 }

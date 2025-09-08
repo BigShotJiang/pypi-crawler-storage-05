@@ -1,0 +1,11 @@
+{
+  "name": "nornir-arista",
+  "version": "0.0.7",
+  "summary": "Python library to interact with Arista devices. Based on Arista EAPI",
+  "author": "Vic Chen",
+  "license": "MIT",
+  "home_page": "https://github.com/Vicnz03/nornir_arista",
+  "download_filename": "nornir_arista-0.0.7.tar.gz",
+  "download_time": "2025-09-08T05:10:56.932788",
+  "package_url": "https://pypi.org/project/nornir-arista/"
+}

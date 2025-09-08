@@ -1,23 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-08T04:50:02.755518
-- **Total Packages**: 73
-- **Total Size**: 0.54 MB
+- **Download Time**: 2025-09-08T05:11:22.173322
+- **Total Packages**: 79
+- **Total Size**: 15.97 MB
 
 ## Packages List
+- cms-jwt
+- Rangekeeper
+- ViewScope
+- AIEmailAutomationUtility
+- mbp
+- authentik-client
+- gptqmodel
+- saterys
+- ai-lls-lib
+- intake-nexgddp
+- azureml-registry-tools
+- circle-schema
+- fitscube
+- nfelodcm
+- pkscreener
+- ci-starter
+- fastapi-router-viz
+- tensorzero
+- agentcrew-ai
+- agentic-blocks
+- aiauto-client
+- fdc-shared-kernel
+- svc-infra
+- core-system-grpc
+- databricks-sqlalchemy
+- quiper
+- noumenon
+- visidata
+- natural-pdf
+- esp-secure-cert-tool
+- iamdata
+- nornir-arista
+- paymentsgate
+- gllm-inference-binary
+- odoo-addon-l10n-br-nfse
+- odoo-addon-l10n-br-fiscal
+- byzh-core
+- omnipkg
+- ampy-bus
+- tengods-bazi-mcp
+- lingua-sql
+- tubescribe
+- aorta-sirius-dev
+- django-cfg
+- croquis
+- pybotchi-files
+- truss
+- cfl-sdk
 - korpy
 - WUADS
 - mermaid-parser-py
-- svc-infra
-- truss
 - scpair
 - yaralyzer
-- ViewScope
 - evkc
 - patterpunk
 - tp-helper
-- authentik-client
 - pyre-tools
 - omnara
 - bank-statement-separator
@@ -26,7 +70,6 @@
 - vrouter-agent
 - devstack-cli
 - metatoolkit
-- tubescribe
 - thothctl
 - megatron-core
 - InvokeAI
@@ -42,40 +85,3 @@
 - spakky-typer
 - fastapi-rtk
 - b3alien
-- ai-memory-sdk
-- html2cleantext
-- agex
-- hassette
-- praasper
-- pyreads
-- auth-kit-fastapi
-- chromedriver-binary
-- spakky-fastapi
-- nerdd-module
-- ai-infra
-- pantheon-legends
-- LLM-Bridge
-- foreva-ai
-- cliboa
-- pqdict
-- langchain-dev-utils
-- lt-tensor
-- kaas-cli
-- plush-fabric
-- toltecmk
-- foamlib
-- tachyons
-- myepubapp
-- syTool
-- splunk-soar-sdk
-- workspace-services
-- odoo-addon-base-name-search-improved
-- aidev-agent
-- orchagent-cli
-- robhan-cdk-lib.aws-grafana
-- robhan-cdk-lib.aws-aps
-- fontquery
-- loongdata
-- ariel-data-preprocessing
-- ajperry-pipeline
-- bizteam-smcp

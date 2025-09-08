@@ -1,0 +1,11 @@
+{
+  "name": "lingua-sql",
+  "version": "0.2.1",
+  "summary": "A text-to-SQL pipeline using DeepSeek and ChromaDB",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lingua_sql-0.2.1-py3-none-any.whl",
+  "download_time": "2025-09-08T05:11:01.652503",
+  "package_url": "https://pypi.org/project/lingua-sql/"
+}

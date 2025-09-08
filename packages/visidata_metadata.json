@@ -1,0 +1,11 @@
+{
+  "name": "visidata",
+  "version": "3.3",
+  "summary": "terminal interface for exploring and arranging tabular data",
+  "author": "Saul Pwanson",
+  "license": "GPLv3",
+  "home_page": "https://visidata.org",
+  "download_filename": "visidata-3.3-py3-none-any.whl",
+  "download_time": "2025-09-08T05:10:54.838320",
+  "package_url": "https://pypi.org/project/visidata/"
+}
