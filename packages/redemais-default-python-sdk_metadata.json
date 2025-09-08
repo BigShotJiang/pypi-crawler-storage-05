@@ -1,11 +1,11 @@
 {
   "name": "redemais-default-python-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Client de comunicaçao c/ API Default da Rede+",
   "author": null,
   "license": "MIT License\n        \n        Copyright (c) 2025 Seu Nome\n        \n        Permission is hereby granted, free of charge, to any person obtaining a copy...\n        ",
   "home_page": null,
-  "download_filename": "redemais_default_python_sdk-1.0.1.tar.gz",
-  "download_time": "2025-09-08T22:10:32.163591",
+  "download_filename": "redemais_default_python_sdk-1.0.2.tar.gz",
+  "download_time": "2025-09-08T23:29:13.685418",
   "package_url": "https://pypi.org/project/redemais-default-python-sdk/"
 }

@@ -5,7 +5,7 @@
   "author": "The Flower Authors",
   "license": "Apache-2.0",
   "home_page": "https://flower.ai",
-  "download_filename": "flwr_nightly-1.21.0.dev20250908-py3-none-any.whl",
-  "download_time": "2025-09-08T23:10:39.116483",
+  "download_filename": "flwr_nightly-1.21.0.dev20250908.tar.gz",
+  "download_time": "2025-09-08T23:29:18.971682",
   "package_url": "https://pypi.org/project/flwr-nightly/"
 }

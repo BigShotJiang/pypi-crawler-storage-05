@@ -1,0 +1,11 @@
+{
+  "name": "ANSIController",
+  "version": "1.1.2",
+  "summary": "Basic Python Module to control & color & style text in terminal",
+  "author": "JoOx01",
+  "license": "MIT",
+  "home_page": "https://github.com/jo0x01/ansicontroller",
+  "download_filename": "ansicontroller-1.1.2.tar.gz",
+  "download_time": "2025-09-08T23:28:56.230680",
+  "package_url": "https://pypi.org/project/ANSIController/"
+}

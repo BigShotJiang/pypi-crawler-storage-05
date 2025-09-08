@@ -1,11 +1,11 @@
 {
   "name": "ctxkit",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Create AI prompts with files, directories, and URLs",
   "author": "Craig A. Hobbs",
   "license": "MIT",
   "home_page": "https://github.com/craigahobbs/ctxkit",
-  "download_filename": "ctxkit-1.2.0.tar.gz",
-  "download_time": "2025-09-08T22:40:11.663381",
+  "download_filename": "ctxkit-1.2.1.tar.gz",
+  "download_time": "2025-09-08T23:28:54.124981",
   "package_url": "https://pypi.org/project/ctxkit/"
 }
