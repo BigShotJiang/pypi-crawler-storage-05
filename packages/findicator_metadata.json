@@ -1,0 +1,11 @@
+{
+  "name": "findicator",
+  "version": "0.1.11",
+  "summary": "A modern Python library for financial indicators",
+  "author": "Refen",
+  "license": "MIT",
+  "home_page": "https://github.com/RefenRefen/findicator",
+  "download_filename": "findicator-0.1.11.tar.gz",
+  "download_time": "2025-09-08T20:11:02.321224",
+  "package_url": "https://pypi.org/project/findicator/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kaggle-discussion-extractor",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "summary": "A professional-grade tool for extracting and analyzing discussions from Kaggle competitions",
   "author": "Kaggle Discussion Extractor Contributors",
   "license": "MIT",
   "home_page": "https://github.com/Letemoin/kaggle-discussion-extractor",
-  "download_filename": "kaggle_discussion_extractor-1.1.1.tar.gz",
-  "download_time": "2025-09-07T21:07:58.674541",
+  "download_filename": "kaggle_discussion_extractor-1.2.0.tar.gz",
+  "download_time": "2025-09-08T20:11:10.844866",
   "package_url": "https://pypi.org/project/kaggle-discussion-extractor/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "django-tracker-unergy",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "summary": "A Django app for advanced logging capabilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_tracker_unergy-1.2.0.tar.gz",
-  "download_time": "2025-09-08T19:47:30.287550",
+  "download_filename": "django_tracker_unergy-1.2.2.tar.gz",
+  "download_time": "2025-09-08T20:11:14.870691",
   "package_url": "https://pypi.org/project/django-tracker-unergy/"
 }

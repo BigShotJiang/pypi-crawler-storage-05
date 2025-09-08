@@ -1,11 +1,11 @@
 {
   "name": "dbt-duckdb",
-  "version": "1.9.5",
+  "version": "1.9.6",
   "summary": "The duckdb adapter plugin for dbt (data build tool)",
   "author": "Josh Wills",
   "license": "Apache-2",
   "home_page": "https://github.com/jwills/dbt-duckdb",
-  "download_filename": "dbt_duckdb-1.9.5.tar.gz",
-  "download_time": "2025-09-08T17:47:17.553751",
+  "download_filename": "dbt_duckdb-1.9.6.tar.gz",
+  "download_time": "2025-09-08T20:10:57.967200",
   "package_url": "https://pypi.org/project/dbt-duckdb/"
 }

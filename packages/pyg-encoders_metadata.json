@@ -1,11 +1,11 @@
 {
   "name": "pyg-encoders",
-  "version": "0.0.28",
+  "version": "0.0.30",
   "summary": "Utilities for encoding DataFrame/Series within a document as npy parquet or csv files",
   "author": "Yoav Git",
   "license": null,
   "home_page": "https://github.com/gityoav/pyg-encoders",
-  "download_filename": "pyg_encoders-0.0.28.tar.gz",
-  "download_time": "2025-09-08T16:52:03.500819",
+  "download_filename": "pyg_encoders-0.0.30.tar.gz",
+  "download_time": "2025-09-08T20:11:27.848609",
   "package_url": "https://pypi.org/project/pyg-encoders/"
 }
