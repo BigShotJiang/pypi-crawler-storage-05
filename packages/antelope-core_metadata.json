@@ -1,0 +1,11 @@
+{
+  "name": "antelope-core",
+  "version": "0.3.7",
+  "summary": null,
+  "author": "Brandon Kuczenski",
+  "license": "BSD 3-Clause",
+  "home_page": "https://github.com/AntelopeLCA/core",
+  "download_filename": "antelope_core-0.3.7.tar.gz",
+  "download_time": "2025-09-08T19:08:12.782032",
+  "package_url": "https://pypi.org/project/antelope-core/"
+}

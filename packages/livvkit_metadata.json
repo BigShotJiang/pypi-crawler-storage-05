@@ -1,0 +1,11 @@
+{
+  "name": "livvkit",
+  "version": "3.2.0",
+  "summary": "The land ice verification and validation toolkit",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "livvkit-3.2.0.tar.gz",
+  "download_time": "2025-09-08T19:08:07.632746",
+  "package_url": "https://pypi.org/project/livvkit/"
+}

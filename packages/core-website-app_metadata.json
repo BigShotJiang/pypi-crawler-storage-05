@@ -1,0 +1,11 @@
+{
+  "name": "core-website-app",
+  "version": "2.17.0",
+  "summary": "Basic web functionalities for the curator core project",
+  "author": "NIST IT Lab",
+  "license": null,
+  "home_page": "https://github.com/usnistgov/core_website_app",
+  "download_filename": "core_website_app-2.17.0.tar.gz",
+  "download_time": "2025-09-08T19:08:20.497324",
+  "package_url": "https://pypi.org/project/core-website-app/"
+}

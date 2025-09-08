@@ -1,0 +1,11 @@
+{
+  "name": "core-user-registration-app",
+  "version": "2.17.0",
+  "summary": "User registration module for the core project",
+  "author": "NIST IT Lab",
+  "license": null,
+  "home_page": "https://github.com/usnistgov/core_user_registration_app",
+  "download_filename": "core_user_registration_app-2.17.0.tar.gz",
+  "download_time": "2025-09-08T19:08:22.106778",
+  "package_url": "https://pypi.org/project/core-user-registration-app/"
+}

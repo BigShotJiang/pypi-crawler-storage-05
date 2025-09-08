@@ -1,0 +1,11 @@
+{
+  "name": "gnewcash",
+  "version": "1.4.0",
+  "summary": "Python Library for reading, interacting with, and writing GnuCash files",
+  "author": "Paul Bromwell Jr.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gnewcash-1.4.0.tar.gz",
+  "download_time": "2025-09-08T19:08:01.955295",
+  "package_url": "https://pypi.org/project/gnewcash/"
+}

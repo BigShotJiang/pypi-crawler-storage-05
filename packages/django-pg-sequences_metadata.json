@@ -1,0 +1,11 @@
+{
+  "name": "django-pg-sequences",
+  "version": "1.0.0",
+  "summary": "Generate gapless sequences of integer values using PostgreSQL native sequences.",
+  "author": "ganesh-shipsy",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "django_pg_sequences-1.0.0.tar.gz",
+  "download_time": "2025-09-08T19:08:00.930086",
+  "package_url": "https://pypi.org/project/django-pg-sequences/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cs103",
-  "version": "0.3.9",
+  "version": "0.3.10",
   "summary": "cs103 utils package",
   "author": "CPSC 103",
   "license": "GPLv3",
   "home_page": null,
-  "download_filename": "cs103-0.3.9-py3-none-any.whl",
-  "download_time": "2025-09-08T18:40:59.054004",
+  "download_filename": "cs103-0.3.10-py3-none-any.whl",
+  "download_time": "2025-09-08T19:08:16.389291",
   "package_url": "https://pypi.org/project/cs103/"
 }
