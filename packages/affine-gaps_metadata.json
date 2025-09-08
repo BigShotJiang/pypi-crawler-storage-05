@@ -1,0 +1,11 @@
+{
+  "name": "affine-gaps",
+  "version": "0.2.3",
+  "summary": "Numba-accelerated Python implementation of affine gap penalty extensions for Needleman-Wunsch and Smith-Waterman algorithms",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "affine_gaps-0.2.3.tar.gz",
+  "download_time": "2025-09-08T19:32:54.158404",
+  "package_url": "https://pypi.org/project/affine-gaps/"
+}

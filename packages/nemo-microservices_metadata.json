@@ -1,0 +1,11 @@
+{
+  "name": "nemo-microservices",
+  "version": "1.2.0",
+  "summary": "The official Python library for the NeMo Microservices API",
+  "author": "NVIDIA Corporation",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nemo_microservices-1.2.0-py3-none-any.whl",
+  "download_time": "2025-09-08T19:32:37.264769",
+  "package_url": "https://pypi.org/project/nemo-microservices/"
+}
