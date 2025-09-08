@@ -1,0 +1,11 @@
+{
+  "name": "ai-edge-torch-nightly",
+  "version": "0.6.0.dev20250908",
+  "summary": "Supporting PyTorch models with the Google AI Edge TFLite runtime.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/google-ai-edge/ai-edge-torch",
+  "download_filename": "ai_edge_torch_nightly-0.6.0.dev20250908-py3-none-any.whl",
+  "download_time": "2025-09-08T10:35:46.474121",
+  "package_url": "https://pypi.org/project/ai-edge-torch-nightly/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mtc-token-healing",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": "https://github.com/ModelTC/mtc-token-healing",
-  "download_filename": "mtc_token_healing-0.3.0.tar.gz",
-  "download_time": "2025-09-08T07:46:29.462570",
+  "download_filename": "mtc_token_healing-0.3.1.tar.gz",
+  "download_time": "2025-09-08T10:35:38.006025",
   "package_url": "https://pypi.org/project/mtc-token-healing/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dsipts",
+  "version": "1.1.7",
+  "summary": "Unified library for timeseries modelling",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dsipts-1.1.7.tar.gz",
+  "download_time": "2025-09-08T10:35:40.334155",
+  "package_url": "https://pypi.org/project/dsipts/"
+}

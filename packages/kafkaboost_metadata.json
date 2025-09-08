@@ -1,0 +1,11 @@
+{
+  "name": "kafkaboost",
+  "version": "0.2.0",
+  "summary": "Enhanced Apache Kafka library with priority-based message processing",
+  "author": "KafkaBoost Team",
+  "license": "MIT",
+  "home_page": "https://github.com/your-org/kafkaboost",
+  "download_filename": "kafkaboost-0.2.0-py3-none-any.whl",
+  "download_time": "2025-09-08T10:35:19.208544",
+  "package_url": "https://pypi.org/project/kafkaboost/"
+}

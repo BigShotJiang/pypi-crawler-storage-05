@@ -1,0 +1,11 @@
+{
+  "name": "elysia-ai",
+  "version": "0.2.6",
+  "summary": "Elysia is an open-source agentic platform for searching data. It is built with customisation in mind, allowing you to build agents and tools that are tailored to your specific use case. It uses Weaviate as the default retrieval tools, and can interface with your data stored in a Weaviate cluster.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "elysia_ai-0.2.6.tar.gz",
+  "download_time": "2025-09-08T10:35:48.615535",
+  "package_url": "https://pypi.org/project/elysia-ai/"
+}
