@@ -1,0 +1,11 @@
+{
+  "name": "tap-belvo",
+  "version": "0.3.0",
+  "summary": "Singer tap for Belvo, built with the Meltano SDK for Singer Taps.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tap_belvo-0.3.0.tar.gz",
+  "download_time": "2025-09-08T22:40:08.102116",
+  "package_url": "https://pypi.org/project/tap-belvo/"
+}
