@@ -1,0 +1,11 @@
+{
+  "name": "faster-whisper-hotkey",
+  "version": "0.3.5",
+  "summary": "Push-to-talk transcription using faster-whisper",
+  "author": "blakkd",
+  "license": null,
+  "home_page": null,
+  "download_filename": "faster_whisper_hotkey-0.3.5.tar.gz",
+  "download_time": "2025-09-08T08:53:27.552023",
+  "package_url": "https://pypi.org/project/faster-whisper-hotkey/"
+}

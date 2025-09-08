@@ -1,11 +1,11 @@
 {
   "name": "symmorademo",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "A simple demo package for PyPI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "symmorademo-0.6.0.tar.gz",
-  "download_time": "2025-09-08T08:15:04.298493",
+  "download_filename": "symmorademo-0.7.0.tar.gz",
+  "download_time": "2025-09-08T08:54:04.187967",
   "package_url": "https://pypi.org/project/symmorademo/"
 }

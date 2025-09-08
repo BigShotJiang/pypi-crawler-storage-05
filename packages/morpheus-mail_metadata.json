@@ -1,0 +1,11 @@
+{
+  "name": "morpheus-mail",
+  "version": "1.0.40",
+  "summary": "Email rendering engine from morpheus",
+  "author": "Samuel Colvin",
+  "license": "MIT",
+  "home_page": "https://github.com/tutorcruncher/morpheus",
+  "download_filename": "morpheus_mail-1.0.40.tar.gz",
+  "download_time": "2025-09-08T08:53:30.132973",
+  "package_url": "https://pypi.org/project/morpheus-mail/"
+}

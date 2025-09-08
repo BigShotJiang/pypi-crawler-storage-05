@@ -1,0 +1,11 @@
+{
+  "name": "mseep-chunkhound",
+  "version": "3.2.1",
+  "summary": "Local-first semantic code search with vector and regex capabilities for AI assistants via MCP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_chunkhound-3.2.1.tar.gz",
+  "download_time": "2025-09-08T08:53:32.754587",
+  "package_url": "https://pypi.org/project/mseep-chunkhound/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pibert",
+  "version": "0.1.0",
+  "summary": "Physics-Informed BERT-style Transformer for Multiscale PDE Modeling",
+  "author": "Somyajit Chakraborty, Chen Xizhong",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/pibert",
+  "download_filename": "pibert-0.1.0.tar.gz",
+  "download_time": "2025-09-08T08:53:54.391724",
+  "package_url": "https://pypi.org/project/pibert/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mseep-pywss",
+  "version": "0.2.7",
+  "summary": "This Is A Web/WebSocket Server By Python",
+  "author": "mseep",
+  "license": "MIT",
+  "home_page": "https://github.com/czasg/pywss",
+  "download_filename": "mseep_pywss-0.2.7.tar.gz",
+  "download_time": "2025-09-08T08:53:47.682615",
+  "package_url": "https://pypi.org/project/mseep-pywss/"
+}

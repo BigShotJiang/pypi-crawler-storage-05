@@ -1,11 +1,11 @@
 {
   "name": "spakky-core",
-  "version": "2.13.3",
+  "version": "2.13.4",
   "summary": "Highly abstracted Framework core to use DDD & DI/IoC & AOP & Etc...",
   "author": "Spakky",
   "license": null,
   "home_page": null,
-  "download_filename": "spakky_core-2.13.3.tar.gz",
-  "download_time": "2025-09-08T07:28:06.837400",
+  "download_filename": "spakky_core-2.13.4.tar.gz",
+  "download_time": "2025-09-08T08:53:37.873519",
   "package_url": "https://pypi.org/project/spakky-core/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "deglib",
+  "version": "0.1.6",
+  "summary": "Python bindings for the Dynamic Exploration Graph library by Nico Hezel",
+  "author": "Nico Hezel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "deglib-0.1.6.tar.gz",
+  "download_time": "2025-09-08T08:54:05.214581",
+  "package_url": "https://pypi.org/project/deglib/"
+}

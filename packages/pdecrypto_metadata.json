@@ -1,0 +1,11 @@
+{
+  "name": "pdecrypto",
+  "version": "0.1.1",
+  "summary": "Position-Dependent Encryption (PDE) library with authentication and padding",
+  "author": "QKing",
+  "license": "MIT",
+  "home_page": "https://github.com/QKing-Official/pdecrypto",
+  "download_filename": "pdecrypto-0.1.1.tar.gz",
+  "download_time": "2025-09-08T08:54:02.654553",
+  "package_url": "https://pypi.org/project/pdecrypto/"
+}
