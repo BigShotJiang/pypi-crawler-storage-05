@@ -1,0 +1,11 @@
+{
+  "name": "thingsboardlink",
+  "version": "1.2.0",
+  "summary": "一个专为 Python 开发者设计的高级 IoT 平台交互工具包 | A high-level IoT platform interaction toolkit designed for Python developers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "thingsboardlink-1.2.0.tar.gz",
+  "download_time": "2025-09-08T13:03:48.006293",
+  "package_url": "https://pypi.org/project/thingsboardlink/"
+}

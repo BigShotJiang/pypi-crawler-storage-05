@@ -1,0 +1,11 @@
+{
+  "name": "DE-Lib",
+  "version": "0.0.56.3.3",
+  "summary": "Biblioteca de funcionalidades",
+  "author": "Almir J Gomes",
+  "license": null,
+  "home_page": "https://github.com/DE-DataEng/DE_Lib.git",
+  "download_filename": "de_lib-0.0.56.3.3.tar.gz",
+  "download_time": "2025-09-08T13:03:46.979812",
+  "package_url": "https://pypi.org/project/DE-Lib/"
+}

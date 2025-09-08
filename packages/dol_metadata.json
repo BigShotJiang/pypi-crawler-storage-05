@@ -1,0 +1,11 @@
+{
+  "name": "dol",
+  "version": "0.3.20",
+  "summary": "Base builtin tools make and transform data object layers (dols).",
+  "author": null,
+  "license": "mit",
+  "home_page": "https://github.com/i2mint/dol",
+  "download_filename": "dol-0.3.20.tar.gz",
+  "download_time": "2025-09-08T13:04:03.556588",
+  "package_url": "https://pypi.org/project/dol/"
+}

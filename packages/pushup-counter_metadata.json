@@ -1,0 +1,11 @@
+{
+  "name": "pushup-counter",
+  "version": "0.0.1",
+  "summary": "A pushup counter using Mediapipe.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pushup_counter-0.0.1.tar.gz",
+  "download_time": "2025-09-08T13:03:56.840222",
+  "package_url": "https://pypi.org/project/pushup-counter/"
+}

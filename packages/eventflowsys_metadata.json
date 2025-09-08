@@ -1,0 +1,11 @@
+{
+  "name": "eventflowsys",
+  "version": "0.1.4",
+  "summary": "Base logger and internal event bus implementations.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eventflowsys-0.1.4.tar.gz",
+  "download_time": "2025-09-08T13:03:58.907388",
+  "package_url": "https://pypi.org/project/eventflowsys/"
+}
