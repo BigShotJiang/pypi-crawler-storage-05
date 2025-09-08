@@ -1,11 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-08T04:13:15.069896
-- **Total Packages**: 70
-- **Total Size**: 2.29 MB
+- **Download Time**: 2025-09-08T04:35:18.282408
+- **Total Packages**: 73
+- **Total Size**: 14.48 MB
 
 ## Packages List
+- WUADS
+- mermaid-parser-py
+- svc-infra
+- truss
+- scpair
+- yaralyzer
+- ViewScope
+- evkc
+- patterpunk
+- tp-helper
+- authentik-client
+- pyre-tools
+- omnara
+- bank-statement-separator
+- rootfinding
+- pkdevtools
+- vrouter-agent
+- devstack-cli
+- metatoolkit
+- tubescribe
+- thothctl
+- megatron-core
+- InvokeAI
+- syncraft
+- cspdk
+- grain-nightly
+- ocnn
+- mlon
+- codeguard-lgedv
+- spellbot
+- iflow-mcp_office-powerpoint-mcp-server
+- arthur-client
+- spakky-typer
+- fastapi-rtk
+- b3alien
+- ai-memory-sdk
+- html2cleantext
 - agex
 - hassette
 - praasper
@@ -14,25 +51,18 @@
 - chromedriver-binary
 - spakky-fastapi
 - nerdd-module
-- PersonalSignature-STT
 - ai-infra
-- svc-infra
 - pantheon-legends
 - LLM-Bridge
 - foreva-ai
 - cliboa
-- tp-helper
 - pqdict
 - langchain-dev-utils
-- ViewScope
 - lt-tensor
 - kaas-cli
-- authentik-client
 - plush-fabric
 - toltecmk
-- spellbot
 - foamlib
-- tubescribe
 - tachyons
 - myepubapp
 - syTool
@@ -49,30 +79,3 @@
 - ajperry-pipeline
 - bizteam-smcp
 - cecil
-- hts-tst-mcp-demo
-- hasse
-- chattr
-- third-party-license-file-generator
-- spakky-core
-- fastuv
-- framekit
-- androtools
-- ut-eviq
-- GANDLF
-- tp-shared
-- cogents-core
-- dictionarpy
-- charmlibs
-- charmlibs-pathops
-- charmlibs-interfaces
-- neuro-api
-- gguf-connector
-- orchagent
-- nonebot-plugin-algo
-- odoo-addons-oca-multi-company
-- vchrome
-- omnicloudmask
-- ViOTUcluster
-- cumulusci-plus
-- siglab-py
-- bbansi

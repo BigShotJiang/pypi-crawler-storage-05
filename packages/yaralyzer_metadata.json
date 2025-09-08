@@ -1,11 +1,11 @@
 {
   "name": "yaralyzer",
-  "version": "1.0.7",
-  "summary": "Visualize and force decode YARA and regex matches found in a file or byte stream. With colors. Lots of colors.",
+  "version": "1.0.8",
+  "summary": "Visualize and force decode YARA and regex matches found in a file or byte stream with colors. Lots of colors.",
   "author": "Michel de Cryptadamus",
   "license": "GPL-3.0-or-later",
   "home_page": "https://github.com/michelcrypt4d4mus/yaralyzer",
-  "download_filename": "yaralyzer-1.0.7.tar.gz",
-  "download_time": "2025-09-07T19:20:56.065787",
+  "download_filename": "yaralyzer-1.0.8.tar.gz",
+  "download_time": "2025-09-08T04:34:39.119278",
   "package_url": "https://pypi.org/project/yaralyzer/"
 }

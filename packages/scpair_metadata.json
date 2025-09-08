@@ -1,0 +1,11 @@
+{
+  "name": "scpair",
+  "version": "0.1.0",
+  "summary": "scPair: boosting single cell multimodal analysis by leveraging implicit feature selection and single cell atlases",
+  "author": "Hongru Hu, Gerald Quon",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scpair-0.1.0.tar.gz",
+  "download_time": "2025-09-08T04:34:38.573512",
+  "package_url": "https://pypi.org/project/scpair/"
+}
