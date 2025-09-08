@@ -1,0 +1,11 @@
+{
+  "name": "autoevals",
+  "version": "0.0.130",
+  "summary": "Universal library for evaluating AI models",
+  "author": "BrainTrust",
+  "license": null,
+  "home_page": "https://www.braintrustdata.com",
+  "download_filename": "autoevals-0.0.130.tar.gz",
+  "download_time": "2025-09-08T05:30:40.378638",
+  "package_url": "https://pypi.org/project/autoevals/"
+}

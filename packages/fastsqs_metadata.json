@@ -1,11 +1,11 @@
 {
   "name": "fastsqs",
-  "version": "0.3.7",
+  "version": "0.4.0",
   "summary": "FastAPI-like, modern async SQS message processing for Python with advanced features",
   "author": "Gabriel LaFayette",
   "license": "MIT",
   "home_page": "https://github.com/lafayettegabe/fastsqs",
-  "download_filename": "fastsqs-0.3.7.tar.gz",
-  "download_time": "2025-09-07T19:06:41.537820",
+  "download_filename": "fastsqs-0.4.0.tar.gz",
+  "download_time": "2025-09-08T05:30:45.003149",
   "package_url": "https://pypi.org/project/fastsqs/"
 }

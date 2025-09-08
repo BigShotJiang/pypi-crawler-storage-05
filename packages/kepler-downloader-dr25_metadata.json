@@ -1,11 +1,11 @@
 {
   "name": "kepler-downloader-dr25",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "summary": "A comprehensive toolkit for downloading and filtering Kepler DR25 FITS files from NASA's MAST archive",
   "author": "akira921x",
   "license": "Apache-2.0",
   "home_page": "https://github.com/akira921x/Kepler-Downloader-DR25",
-  "download_filename": "kepler_downloader_dr25-1.4.0.tar.gz",
-  "download_time": "2025-09-07T22:08:17.967266",
+  "download_filename": "kepler_downloader_dr25-1.5.0.tar.gz",
+  "download_time": "2025-09-08T05:30:52.238123",
   "package_url": "https://pypi.org/project/kepler-downloader-dr25/"
 }
