@@ -1,0 +1,11 @@
+{
+  "name": "mseep-mcp-server-aact",
+  "version": "0.4.1",
+  "summary": "MCP server for AACT clinical trials database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_mcp_server_aact-0.4.1.tar.gz",
+  "download_time": "2025-09-08T10:12:00.065742",
+  "package_url": "https://pypi.org/project/mseep-mcp-server-aact/"
+}

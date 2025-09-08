@@ -1,0 +1,11 @@
+{
+  "name": "yirgacheffe",
+  "version": "1.7.7",
+  "summary": "Abstraction of gdal datasets for doing basic math operations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yirgacheffe-1.7.7.tar.gz",
+  "download_time": "2025-09-08T10:12:03.181451",
+  "package_url": "https://pypi.org/project/yirgacheffe/"
+}

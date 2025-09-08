@@ -1,0 +1,11 @@
+{
+  "name": "openi",
+  "version": "3.0.0",
+  "summary": "A package for openi pypi",
+  "author": "chenzh05",
+  "license": "MIT",
+  "home_page": "https://openi.pcl.ac.cn/OpenIOSSG/openi-pypi",
+  "download_filename": "openi-3.0.0.tar.gz",
+  "download_time": "2025-09-08T10:12:01.106393",
+  "package_url": "https://pypi.org/project/openi/"
+}

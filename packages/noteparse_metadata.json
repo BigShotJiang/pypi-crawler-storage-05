@@ -1,0 +1,11 @@
+{
+  "name": "noteparse",
+  "version": "1.1.23",
+  "summary": "a package for parse html to noteinfo",
+  "author": "maoyuyan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "noteparse-1.1.23.tar.gz",
+  "download_time": "2025-09-08T10:11:51.694299",
+  "package_url": "https://pypi.org/project/noteparse/"
+}

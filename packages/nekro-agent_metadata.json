@@ -1,0 +1,11 @@
+{
+  "name": "nekro-agent",
+  "version": "2.0.2",
+  "summary": "更智能、更优雅的代理执行 AI",
+  "author": "KroMiose",
+  "license": null,
+  "home_page": "https://github.com/KroMiose/nekro-agent",
+  "download_filename": "nekro_agent-2.0.2.tar.gz",
+  "download_time": "2025-09-08T10:11:55.348705",
+  "package_url": "https://pypi.org/project/nekro-agent/"
+}

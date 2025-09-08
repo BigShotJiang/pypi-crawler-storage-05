@@ -1,0 +1,11 @@
+{
+  "name": "mseep-xctools-mcp-server",
+  "version": "0.1.1",
+  "summary": "A Model Context Protocol server for different Xcode related tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_xctools_mcp_server-0.1.1.tar.gz",
+  "download_time": "2025-09-08T10:11:34.881341",
+  "package_url": "https://pypi.org/project/mseep-xctools-mcp-server/"
+}

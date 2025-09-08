@@ -1,0 +1,11 @@
+{
+  "name": "dvd-rw",
+  "version": "0.1.6",
+  "summary": "Speed-optimized request recording and replaying for HTTPX",
+  "author": "Lode Braced",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dvd_rw-0.1.6.tar.gz",
+  "download_time": "2025-09-08T10:11:34.362551",
+  "package_url": "https://pypi.org/project/dvd-rw/"
+}

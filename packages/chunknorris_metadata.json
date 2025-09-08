@@ -1,0 +1,11 @@
+{
+  "name": "chunknorris",
+  "version": "1.1.5",
+  "summary": "A package for chunking documents from various formats",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chunknorris-1.1.5.tar.gz",
+  "download_time": "2025-09-08T10:11:24.778606",
+  "package_url": "https://pypi.org/project/chunknorris/"
+}
