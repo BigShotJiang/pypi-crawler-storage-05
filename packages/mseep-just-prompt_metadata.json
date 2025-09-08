@@ -1,0 +1,11 @@
+{
+  "name": "mseep-just-prompt",
+  "version": "0.1.5",
+  "summary": "A lightweight MCP server for various LLM providers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_just_prompt-0.1.5.tar.gz",
+  "download_time": "2025-09-08T06:16:27.662084",
+  "package_url": "https://pypi.org/project/mseep-just-prompt/"
+}

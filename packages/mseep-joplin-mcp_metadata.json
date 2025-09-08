@@ -1,0 +1,11 @@
+{
+  "name": "mseep-joplin-mcp",
+  "version": "0.1.2",
+  "summary": "Joplin MCP Server - A Model Context Protocol Server for Joplin",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_joplin_mcp-0.1.2.tar.gz",
+  "download_time": "2025-09-08T06:16:35.438379",
+  "package_url": "https://pypi.org/project/mseep-joplin-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "giftassetsdk",
+  "version": "0.1.2",
+  "summary": "sdk for @giftassetapi",
+  "author": "KILLDABORNE",
+  "license": null,
+  "home_page": "https://github.com/yourusername/your-library",
+  "download_filename": "giftassetsdk-0.1.2.tar.gz",
+  "download_time": "2025-09-08T06:16:44.243499",
+  "package_url": "https://pypi.org/project/giftassetsdk/"
+}

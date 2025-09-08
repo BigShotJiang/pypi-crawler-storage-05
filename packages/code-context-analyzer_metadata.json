@@ -1,11 +1,11 @@
 {
   "name": "code-context-analyzer",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "A tool to analyze codebase structure and summarize content to use with AI easily.",
   "author": "Md. Ahasanul Arafath",
   "license": "MIT",
   "home_page": "https://github.com/ahasanular/code-context-analyzer",
-  "download_filename": "code_context_analyzer-0.3.2.tar.gz",
-  "download_time": "2025-09-07T17:50:37.024694",
+  "download_filename": "code_context_analyzer-0.3.3.tar.gz",
+  "download_time": "2025-09-08T06:16:43.726206",
   "package_url": "https://pypi.org/project/code-context-analyzer/"
 }

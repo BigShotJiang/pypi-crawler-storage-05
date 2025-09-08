@@ -1,0 +1,11 @@
+{
+  "name": "pyfory",
+  "version": "0.12.2",
+  "summary": "Apache Fory™ is a blazingly fast multi-language serialization framework powered by jit and zero-copy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyfory-0.12.2-cp310-cp310-macosx_10_13_x86_64.whl",
+  "download_time": "2025-09-08T06:16:20.314168",
+  "package_url": "https://pypi.org/project/pyfory/"
+}

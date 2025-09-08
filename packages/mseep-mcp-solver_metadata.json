@@ -1,0 +1,11 @@
+{
+  "name": "mseep-mcp-solver",
+  "version": "3.3.3",
+  "summary": "MCP server for Constraint, SAT, and SMT solving",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_mcp_solver-3.3.3.tar.gz",
+  "download_time": "2025-09-08T06:16:27.140081",
+  "package_url": "https://pypi.org/project/mseep-mcp-solver/"
+}

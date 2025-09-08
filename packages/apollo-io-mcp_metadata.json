@@ -1,0 +1,11 @@
+{
+  "name": "apollo-io-mcp",
+  "version": "0.1.4",
+  "summary": "AThis is an MCP (Model Context Protocol) server specifically built to collect and serve ratings and reviews for other MCP servers deployed on the NetMind platform.",
+  "author": "yanrujing",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apollo_io_mcp-0.1.4.tar.gz",
+  "download_time": "2025-09-08T06:16:40.097639",
+  "package_url": "https://pypi.org/project/apollo-io-mcp/"
+}
