@@ -1,20 +1,72 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-08T08:15:29.439941
-- **Total Packages**: 88
-- **Total Size**: 48.69 MB
+- **Download Time**: 2025-09-08T08:41:46.832780
+- **Total Packages**: 86
+- **Total Size**: 34.32 MB
 
 ## Packages List
+- agentcrew-ai
+- simple-gcp-auth
+- banko-ai-assistant
+- iqm-pulla
+- iqm-pulse
+- nlbone
+- cratedb-async
+- bsdatetime
+- authentik-client
+- superlinked-server
+- azcex
+- amsatop
+- colliderml
+- komtet-kassa-sdk
+- chellow
+- superlinked
+- ucompress
+- azdex
+- zylib-test
+- coordinate-system
+- simple-logging-interceptor
+- shoestring-setup
+- storey
+- oxylabs-mcp
+- cyberintegrations
+- osm-osw-reformatter
+- atla-insights
+- predipy
+- crp
+- pluk
+- Psyop
+- flowllm
+- arcticdb
+- LLM-Bridge
+- nc-user-terminator
+- pyrogram-xydevs
+- fmtr.tools
+- multidb-mcp-client
+- gopad
+- django-telegram-support
+- pyrdms
+- imagedata
+- mjpreprocessor
+- myfaasmctl
+- xtrack
+- kleister
+- kiwi-pdf-chunker
+- datacosmos
+- iflow-mcp_opencv-mcp-server
+- shardate
+- nucliadb-admin-assets
+- matlab-proxy
+- alita-sdk
+- botobuddy
 - terra-tai
 - kcntools
 - DLMS-SPODES-client
 - apollo-openapi
 - arthur-client
 - odoo-addon-l10n-de-tax-statement
-- authentik-client
 - jason-plugin-emoji-sentence
-- myfaasmctl
 - pyglove
 - pytest-playwright-asyncio
 - pytest-playwright
@@ -23,7 +75,6 @@
 - wauo
 - usf-agents
 - prune-norminette
-- nc-user-terminator
 - DLMSCommunicationProfile
 - orientationpy
 - scrapegraph-py
@@ -36,61 +87,8 @@
 - mseep-workspace-mcp
 - myepubapp
 - mseep-apiweaver
-- banko-ai-assistant
 - mseep-imagesorcery-mcp
 - toadr3
 - jupyterlite
 - tubescribe
 - scruby
-- ert
-- predipy
-- DLMSAdapter
-- adr-kit
-- samudra-ai
-- caluma-alexandria
-- symmorademo
-- hexin-server
-- nanogui
-- perplexityai
-- tobiko-cloud-helpers
-- tobiko-cloud-pydantic
-- tobiko-cloud-api-client
-- kiwi-pdf-chunker
-- port-ocean
-- g4f
-- mangotools
-- cdk-vscode-server
-- odoo-addon-sale-line-refund-to-invoice-qty
-- wllegal
-- bear-dereth
-- struqture-py
-- pasta-eln
-- colliderml
-- pyscn
-- komtet-kassa-sdk
-- lakehouse-engine
-- flowllm
-- rebrandly-otel
-- localstack-core
-- hestia-earth-schema
-- nomad-camels-toolbox
-- cwtoken
-- bkflow-django-webhook
-- brodata
-- emerge
-- overfitting
-- openapi-python-generator
-- ingrain
-- alita-sdk
-- bizyui
-- vibegit
-- funboost
-- gseda
-- cloudflare-challenge
-- bizyengine
-- eegdash
-- neosqlite
-- ant-ray-cpp-nightly
-- DLMS-SPODES
-- daktari
-- odoo-addon-partner-second-lastname

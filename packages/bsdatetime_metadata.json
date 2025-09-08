@@ -1,0 +1,11 @@
+{
+  "name": "bsdatetime",
+  "version": "1.0.1",
+  "summary": "Bikram Sambat (Nepali) date/datetime conversion and utilities",
+  "author": "Rajendra Katuwal",
+  "license": "MIT",
+  "home_page": "https://github.com/Rajendra-Katuwal/bsdatetime",
+  "download_filename": "bsdatetime-1.0.1.tar.gz",
+  "download_time": "2025-09-08T08:40:58.973301",
+  "package_url": "https://pypi.org/project/bsdatetime/"
+}

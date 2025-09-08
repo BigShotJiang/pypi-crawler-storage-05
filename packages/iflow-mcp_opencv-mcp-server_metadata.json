@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_opencv-mcp-server",
+  "version": "0.1.4",
+  "summary": "MCP server providing OpenCV computer vision capabilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_opencv_mcp_server-0.1.4-py3-none-any.whl",
+  "download_time": "2025-09-08T08:41:25.088885",
+  "package_url": "https://pypi.org/project/iflow-mcp_opencv-mcp-server/"
+}
