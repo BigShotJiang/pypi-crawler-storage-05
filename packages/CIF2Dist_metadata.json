@@ -1,0 +1,11 @@
+{
+  "name": "CIF2Dist",
+  "version": "0.1.0",
+  "summary": "CIF2Dist is a python application to calculate the number and distance of coordination spheres of atoms in a lattice based on a cif.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cif2dist-0.1.0.tar.gz",
+  "download_time": "2025-09-08T12:21:06.069269",
+  "package_url": "https://pypi.org/project/CIF2Dist/"
+}

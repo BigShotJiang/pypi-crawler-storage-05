@@ -1,0 +1,11 @@
+{
+  "name": "SendX",
+  "version": "2.0.0",
+  "summary": "SendX REST API",
+  "author": "SendX Dev Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sendx-2.0.0.tar.gz",
+  "download_time": "2025-09-08T12:21:03.449576",
+  "package_url": "https://pypi.org/project/SendX/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "meeteval",
+  "version": "0.4.3",
+  "summary": null,
+  "author": "Department of Communications Engineering, Paderborn University",
+  "license": "MIT",
+  "home_page": "https://github.com/fgnt/meeteval/",
+  "download_filename": "meeteval-0.4.3.tar.gz",
+  "download_time": "2025-09-08T12:21:11.266410",
+  "package_url": "https://pypi.org/project/meeteval/"
+}

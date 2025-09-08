@@ -1,0 +1,11 @@
+{
+  "name": "QuLab",
+  "version": "2.12.1",
+  "summary": "contral instruments and manage data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qulab-2.12.1.tar.gz",
+  "download_time": "2025-09-08T12:20:34.559690",
+  "package_url": "https://pypi.org/project/QuLab/"
+}

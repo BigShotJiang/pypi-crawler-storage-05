@@ -1,0 +1,11 @@
+{
+  "name": "pyHomee",
+  "version": "1.3.2",
+  "summary": "a python library to interact with homee",
+  "author": "Taraman17",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyhomee-1.3.2.tar.gz",
+  "download_time": "2025-09-08T12:20:40.257621",
+  "package_url": "https://pypi.org/project/pyHomee/"
+}
