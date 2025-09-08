@@ -1,0 +1,11 @@
+{
+  "name": "wds-client",
+  "version": "0.38.19",
+  "summary": "Workspace Data Service",
+  "author": "OpenAPI Generator community",
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "wds_client-0.38.19.tar.gz",
+  "download_time": "2025-09-08T13:50:29.028856",
+  "package_url": "https://pypi.org/project/wds-client/"
+}

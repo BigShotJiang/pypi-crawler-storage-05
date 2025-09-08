@@ -1,0 +1,11 @@
+{
+  "name": "cpz-ai",
+  "version": "1.1.6",
+  "summary": "CPZ — Python SDK for Strategy Lab, Risk, Backtesting, and Execution (multi-broker)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cpz_ai-1.1.6.tar.gz",
+  "download_time": "2025-09-08T13:50:32.164791",
+  "package_url": "https://pypi.org/project/cpz-ai/"
+}

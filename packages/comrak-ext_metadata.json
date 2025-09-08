@@ -1,0 +1,11 @@
+{
+  "name": "comrak-ext",
+  "version": "0.1.1",
+  "summary": "Extended Python bindings for the Comrak Rust library, a fast CommonMark/GFM parser",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "comrak_ext-0.1.1.tar.gz",
+  "download_time": "2025-09-08T13:50:42.058637",
+  "package_url": "https://pypi.org/project/comrak-ext/"
+}

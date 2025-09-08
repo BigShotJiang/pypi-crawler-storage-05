@@ -1,0 +1,11 @@
+{
+  "name": "pyforcis",
+  "version": "0.0.1",
+  "summary": "Lightweight FORCIS versioning/download toolkit with rich CLI (devices, parquet, integrity)",
+  "author": "Khalil Hammami",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "pyforcis-0.0.1.tar.gz",
+  "download_time": "2025-09-08T13:50:53.128456",
+  "package_url": "https://pypi.org/project/pyforcis/"
+}
