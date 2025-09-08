@@ -1,36 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-08T03:26:37.855339
+- **Download Time**: 2025-09-08T03:49:54.544710
 - **Total Packages**: 72
-- **Total Size**: 26.56 MB
+- **Total Size**: 1.39 MB
 
 ## Packages List
+- ai-infra
+- odoo-addon-base-name-search-improved
+- aidev-agent
+- orchagent-cli
+- robhan-cdk-lib.aws-grafana
+- robhan-cdk-lib.aws-aps
+- fontquery
+- loongdata
+- ariel-data-preprocessing
+- ajperry-pipeline
+- bizteam-smcp
+- cecil
+- spellbot
+- hts-tst-mcp-demo
+- hasse
+- chattr
+- pyreads
+- third-party-license-file-generator
+- spakky-core
+- authentik-client
+- auth-kit-fastapi
+- fastuv
+- framekit
+- androtools
+- svc-infra
+- ut-eviq
+- GANDLF
+- tp-shared
+- brotli-python
+- cogents-core
 - dictionarpy
 - charmlibs
 - charmlibs-pathops
 - charmlibs-interfaces
 - neuro-api
-- tp-shared
 - gguf-connector
 - orchagent
 - nonebot-plugin-algo
-- svc-infra
-- brotli-python
 - odoo-addons-oca-multi-company
 - vchrome
 - ViewScope
 - omnicloudmask
 - ViOTUcluster
-- framekit
-- spellbot
 - cumulusci-plus
 - siglab-py
-- spakky-core
 - bbansi
 - lt-tensor
 - arthur-client
-- authentik-client
 - simple-carla
 - modicons
 - syTool
@@ -38,7 +61,6 @@
 - getout-of-text-3
 - zenx
 - smithery
-- chattr
 - byzh-extra
 - byzh-core
 - autofillcvlac
@@ -56,25 +78,3 @@
 - proofcarryingthought-sdk
 - panda-math
 - air
-- tf-shell
-- standardweb3
-- core-system-grpc
-- veadk-python
-- lti1p3platform
-- flexwurx-event-hub-python
-- odoo-addon-delivery-driver
-- cubie
-- encrep
-- nonebot-plugin-quark-autosave
-- condreg
-- clientry
-- naif-eop-high-prec
-- plotastrodata
-- pyvelocity
-- jotunn
-- jotun
-- aider-code
-- ubox-py-sdk
-- dyngle
-- pytbox
-- spells-mtg
