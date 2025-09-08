@@ -1,8 +1,9 @@
 {
-  "download_time": "2025-09-08T04:35:18.282408",
+  "download_time": "2025-09-08T04:50:02.755518",
   "total_packages_downloaded": 73,
-  "total_size_mb": 14.48,
+  "total_size_mb": 0.54,
   "packages": [
+    "korpy",
     "WUADS",
     "mermaid-parser-py",
     "svc-infra",
@@ -74,7 +75,6 @@
     "loongdata",
     "ariel-data-preprocessing",
     "ajperry-pipeline",
-    "bizteam-smcp",
-    "cecil"
+    "bizteam-smcp"
   ]
 }
