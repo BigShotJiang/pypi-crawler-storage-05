@@ -1,0 +1,11 @@
+{
+  "name": "zmp-manual-backend",
+  "version": "0.4.4",
+  "summary": "Backend service for ZMP manual management",
+  "author": "stiron",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zmp_manual_backend-0.4.4.tar.gz",
+  "download_time": "2025-09-08T00:48:24.511691",
+  "package_url": "https://pypi.org/project/zmp-manual-backend/"
+}

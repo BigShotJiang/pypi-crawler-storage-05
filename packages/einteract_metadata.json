@@ -1,0 +1,11 @@
+{
+  "name": "einteract",
+  "version": "1.4.2",
+  "summary": "An enhanced version of ipywidgets's interactive widgets.",
+  "author": "Abdul Saboor",
+  "license": "MIT",
+  "home_page": "https://github.com/asaboor-gh/einteract",
+  "download_filename": "einteract-1.4.2.tar.gz",
+  "download_time": "2025-09-08T00:49:00.085320",
+  "package_url": "https://pypi.org/project/einteract/"
+}

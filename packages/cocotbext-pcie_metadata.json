@@ -1,0 +1,11 @@
+{
+  "name": "cocotbext-pcie",
+  "version": "0.2.16",
+  "summary": "PCI express simulation framework for cocotb",
+  "author": "Alex Forencich",
+  "license": "MIT",
+  "home_page": "https://github.com/alexforencich/cocotbext-pcie",
+  "download_filename": "cocotbext_pcie-0.2.16.tar.gz",
+  "download_time": "2025-09-08T00:48:27.527743",
+  "package_url": "https://pypi.org/project/cocotbext-pcie/"
+}

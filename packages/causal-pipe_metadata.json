@@ -1,0 +1,11 @@
+{
+  "name": "causal-pipe",
+  "version": "0.9.10",
+  "summary": "A Python package streamlining the causal discovery pipeline for easy use.",
+  "author": "Buchard, Albert",
+  "license": null,
+  "home_page": "https://github.com/albertbuchard/causal-pipe",
+  "download_filename": "causal_pipe-0.9.10.tar.gz",
+  "download_time": "2025-09-08T00:49:07.468373",
+  "package_url": "https://pypi.org/project/causal-pipe/"
+}

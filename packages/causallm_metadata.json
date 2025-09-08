@@ -1,0 +1,11 @@
+{
+  "name": "causallm",
+  "version": "4.1.0",
+  "summary": "Open source causal inference powered by LLMs",
+  "author": "CausalLLM Team",
+  "license": null,
+  "home_page": "https://github.com/rdmurugan/causallm",
+  "download_filename": "causallm-4.1.0.tar.gz",
+  "download_time": "2025-09-08T00:48:23.343874",
+  "package_url": "https://pypi.org/project/causallm/"
+}
