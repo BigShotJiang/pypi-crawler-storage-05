@@ -1,0 +1,11 @@
+{
+  "name": "mag-cusps",
+  "version": "0.1.4",
+  "summary": "High-performance Python module with C++ backend to analyse numerical simulation outputs of planetary magnetosphere",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mag_cusps-0.1.4.tar.gz",
+  "download_time": "2025-09-08T05:47:03.841205",
+  "package_url": "https://pypi.org/project/mag-cusps/"
+}

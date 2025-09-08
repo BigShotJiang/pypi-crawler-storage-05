@@ -1,0 +1,11 @@
+{
+  "name": "python-calamine",
+  "version": "0.5.3",
+  "summary": "Python binding for Rust's library for reading excel and odf file - calamine",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_calamine-0.5.3.tar.gz",
+  "download_time": "2025-09-08T05:47:00.860578",
+  "package_url": "https://pypi.org/project/python-calamine/"
+}
