@@ -1,0 +1,11 @@
+{
+  "name": "docx-translate",
+  "version": "1.0.0",
+  "summary": "A Python tool for translating docx files",
+  "author": "suqingdong",
+  "license": "MIT License",
+  "home_page": "https://github.com/suqingdong/docx_translate",
+  "download_filename": "docx_translate-1.0.0.tar.gz",
+  "download_time": "2025-09-08T07:28:03.695452",
+  "package_url": "https://pypi.org/project/docx-translate/"
+}

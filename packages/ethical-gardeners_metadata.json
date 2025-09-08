@@ -1,0 +1,11 @@
+{
+  "name": "ethical-gardeners",
+  "version": "0.0.1",
+  "summary": "A RL environment for learning ethically-aligned behaviours",
+  "author": "Enzo Dos Anjos",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ethical_gardeners-0.0.1.tar.gz",
+  "download_time": "2025-09-08T07:28:15.785157",
+  "package_url": "https://pypi.org/project/ethical-gardeners/"
+}

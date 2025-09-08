@@ -1,0 +1,11 @@
+{
+  "name": "kcntools",
+  "version": "1.0.0",
+  "summary": "kc ai nlp tools",
+  "author": "xuen",
+  "license": null,
+  "home_page": "https://ezone.ksyun.com/code/ai-app/kcntools/-/tree",
+  "download_filename": "kcntools-1.0.0.tar.gz",
+  "download_time": "2025-09-08T07:28:25.887026",
+  "package_url": "https://pypi.org/project/kcntools/"
+}

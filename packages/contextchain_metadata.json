@@ -1,11 +1,11 @@
 {
   "name": "contextchain",
-  "version": "1.0.1",
-  "summary": "A pipeline execution framework with MongoDB and ChromaDB integration for AI and full-stack workflows",
+  "version": "1.1.2",
+  "summary": "A pipeline execution framework with MongoDB and ChromaDB integration for AI workflows",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "contextchain-1.0.1.tar.gz",
-  "download_time": "2025-09-08T07:11:16.166296",
+  "download_filename": "contextchain-1.1.2.tar.gz",
+  "download_time": "2025-09-08T07:28:05.800337",
   "package_url": "https://pypi.org/project/contextchain/"
 }

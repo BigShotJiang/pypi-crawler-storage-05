@@ -1,0 +1,11 @@
+{
+  "name": "kadoa-sdk",
+  "version": "0.6.0",
+  "summary": "Official Kadoa SDK for Python - Web data extraction and automation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kadoa_sdk-0.6.0.tar.gz",
+  "download_time": "2025-09-08T07:28:13.130295",
+  "package_url": "https://pypi.org/project/kadoa-sdk/"
+}

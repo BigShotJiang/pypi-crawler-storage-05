@@ -1,0 +1,11 @@
+{
+  "name": "rabbitmq-arq",
+  "version": "0.2.2",
+  "summary": "一个基于RabbitMQ的任务队列库，提供类似arq的简洁API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rabbitmq_arq-0.2.2.tar.gz",
+  "download_time": "2025-09-08T07:28:22.702099",
+  "package_url": "https://pypi.org/project/rabbitmq-arq/"
+}

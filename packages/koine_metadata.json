@@ -1,0 +1,11 @@
+{
+  "name": "koine",
+  "version": "0.10.2",
+  "summary": "A declarative, data-driven parser generator for creating languages, ASTs, and transpilers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "koine-0.10.2.tar.gz",
+  "download_time": "2025-09-08T07:28:26.930246",
+  "package_url": "https://pypi.org/project/koine/"
+}

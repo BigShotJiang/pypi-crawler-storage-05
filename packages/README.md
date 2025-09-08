@@ -1,12 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-08T07:11:49.973593
-- **Total Packages**: 60
-- **Total Size**: 17.62 MB
+- **Download Time**: 2025-09-08T07:28:46.389483
+- **Total Packages**: 80
+- **Total Size**: 14.77 MB
 
 ## Packages List
+- lv-ui-testing
+- google-adk-extras
+- livekit-plugins-external-turn-detector
+- docx-translate
+- vector-mcp
 - authentik-client
+- jndataset-up-test
+- contextchain
+- jndataset-down-test
+- spakky-core
+- lqbox
+- essreduce
+- tubescribe
+- langswarm
+- cdk-vpc-module
+- agent-sandbox
+- jndataset-down
+- codemie-mcp-datasources
+- ALT-file-utils
+- codemie-mcp-assistants
+- protein-quest
+- kadoa-sdk
+- albumentations-mcp
+- sqlsaber
+- codemie-sdk-python
+- ethical-gardeners
+- workspace-services
+- mteb
+- smarttest
+- risclog.logging
+- mcp-proxy-adapter
+- jndataset-up
+- bctools
+- banko-ai-assistant
+- ViewScope
+- coordinationz
+- cli-ih
+- kion-vectorstore
+- rabbitmq-arq
+- bridgecrew
+- filterzyme
+- nlbone
+- arthur-client
+- tunablex
+- kcntools
+- hestia-earth-schema
+- koine
+- documentdataextraction
+- omnata-plugin-runtime
+- usf-agents
 - synapse-lang
 - aionvk
 - trexselector
@@ -14,7 +63,6 @@
 - gmsg
 - lamindb
 - pooolify
-- contextchain
 - HandsON-BuildHat-API
 - tf-models-nightly
 - NeMo-Export-Deploy
@@ -30,7 +78,6 @@
 - oceanbase-mcp
 - ut-eviq
 - user-terminator
-- ViewScope
 - mcp-security-framework
 - omniadapters
 - python-semantic-release
@@ -39,30 +86,3 @@
 - pumpe
 - fast-mcp-telegram
 - dissect
-- banko-ai-assistant
-- cli-ih
-- alibabacloud-iqs20241111
-- nlbone
-- elevenlabs
-- gllm-inference-binary
-- mtcli-trade
-- novatrace
-- odoo-addon-hr-expense-invoice
-- ert
-- dyd
-- middoe
-- modusa
-- fashionstar-uart-sdk
-- donelib
-- gdsfactoryplus
-- qrpa
-- ara-cli
-- dylib
-- mtcli
-- karrio-veho
-- karrio-tge
-- karrio-shipengine
-- karrio-seko
-- karrio-sapient
-- karrio-mydhl
-- karrio-hay-post
