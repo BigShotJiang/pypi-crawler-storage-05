@@ -1,0 +1,11 @@
+{
+  "name": "foreva-ai",
+  "version": "0.0.4",
+  "summary": "Voice AI for restaurants - Python SDK for Partners",
+  "author": "Foreva AI",
+  "license": null,
+  "home_page": "https://foreva.ai/partners",
+  "download_filename": "foreva_ai-0.0.4.tar.gz",
+  "download_time": "2025-09-08T02:23:03.966886",
+  "package_url": "https://pypi.org/project/foreva-ai/"
+}

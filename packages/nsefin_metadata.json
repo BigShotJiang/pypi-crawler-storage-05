@@ -1,0 +1,11 @@
+{
+  "name": "nsefin",
+  "version": "0.1.5",
+  "summary": "A Python library to download publicly available historical candlestick data from NSE India",
+  "author": "Vinod Bhadala",
+  "license": null,
+  "home_page": "https://github.com/vbhadala/nsefin",
+  "download_filename": "nsefin-0.1.5.tar.gz",
+  "download_time": "2025-09-08T02:23:10.187649",
+  "package_url": "https://pypi.org/project/nsefin/"
+}

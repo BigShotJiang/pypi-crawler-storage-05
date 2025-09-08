@@ -1,0 +1,11 @@
+{
+  "name": "expressive",
+  "version": "3.10.20250908",
+  "summary": "A library for quickly applying symbolic expressions to NumPy arrays",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": "https://gitlab.com/expressive-py/expressive",
+  "download_filename": "expressive-3.10.20250908.tar.gz",
+  "download_time": "2025-09-08T02:23:25.363524",
+  "package_url": "https://pypi.org/project/expressive/"
+}

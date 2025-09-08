@@ -1,0 +1,11 @@
+{
+  "name": "diffeqpy",
+  "version": "2.5.4",
+  "summary": "Solving Differential Equations in Python",
+  "author": "Chris Rackauckas and Takafumi Arakaki",
+  "license": "MIT",
+  "home_page": "http://github.com/SciML/diffeqpy",
+  "download_filename": "diffeqpy-2.5.4.tar.gz",
+  "download_time": "2025-09-08T02:23:39.519418",
+  "package_url": "https://pypi.org/project/diffeqpy/"
+}

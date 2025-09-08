@@ -1,0 +1,11 @@
+{
+  "name": "modicon-http-fastapi",
+  "version": "0.1.2",
+  "summary": "Modicon HTTP FastAPI Integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "modicon_http_fastapi-0.1.2.tar.gz",
+  "download_time": "2025-09-08T02:23:01.372709",
+  "package_url": "https://pypi.org/project/modicon-http-fastapi/"
+}

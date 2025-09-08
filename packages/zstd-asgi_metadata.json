@@ -1,0 +1,11 @@
+{
+  "name": "zstd-asgi",
+  "version": "1.0",
+  "summary": "Zstd compression ASGI middleware",
+  "author": "Phil Krylov",
+  "license": "MIT",
+  "home_page": "https://github.com/tuffnatty/zstd-asgi",
+  "download_filename": "zstd_asgi-1.0.tar.gz",
+  "download_time": "2025-09-08T02:23:28.452109",
+  "package_url": "https://pypi.org/project/zstd-asgi/"
+}
