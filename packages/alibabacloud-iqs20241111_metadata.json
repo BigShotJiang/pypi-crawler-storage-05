@@ -1,11 +1,11 @@
 {
   "name": "alibabacloud-iqs20241111",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "summary": "Alibaba Cloud IQS (20241111) SDK Library for Python",
   "author": "Alibaba Cloud SDK",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
-  "download_filename": "alibabacloud_iqs20241111-1.4.2.tar.gz",
-  "download_time": "2025-09-08T07:11:33.423541",
+  "download_filename": "alibabacloud_iqs20241111-1.4.3.tar.gz",
+  "download_time": "2025-09-08T11:08:36.712047",
   "package_url": "https://pypi.org/project/alibabacloud-iqs20241111/"
 }

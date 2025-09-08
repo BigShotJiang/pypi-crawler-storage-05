@@ -1,0 +1,11 @@
+{
+  "name": "slepc4py",
+  "version": "3.23.3",
+  "summary": "SLEPc for Python",
+  "author": "Lisandro Dalcin",
+  "license": "BSD-2-Clause",
+  "home_page": "https://gitlab.com/slepc/slepc",
+  "download_filename": "slepc4py-3.23.3.tar.gz",
+  "download_time": "2025-09-08T11:09:06.596936",
+  "package_url": "https://pypi.org/project/slepc4py/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lang2sql",
+  "version": "0.2.2",
+  "summary": "Lang2SQL - Query Generator for Data Warehouse",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lang2sql-0.2.2.tar.gz",
+  "download_time": "2025-09-08T11:09:00.425125",
+  "package_url": "https://pypi.org/project/lang2sql/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "singlestore-mcp-server",
+  "version": "0.4.12",
+  "summary": "SingleStore MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "singlestore_mcp_server-0.4.12.tar.gz",
+  "download_time": "2025-09-08T11:08:52.192811",
+  "package_url": "https://pypi.org/project/singlestore-mcp-server/"
+}

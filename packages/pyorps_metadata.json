@@ -1,11 +1,11 @@
 {
   "name": "pyorps",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "PYORPS - (Python for Optimal Routes in Power Systems)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyorps-0.2.2.tar.gz",
-  "download_time": "2025-09-08T10:12:02.662738",
+  "download_filename": "pyorps-0.2.3.tar.gz",
+  "download_time": "2025-09-08T11:08:41.872486",
   "package_url": "https://pypi.org/project/pyorps/"
 }

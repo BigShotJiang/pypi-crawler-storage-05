@@ -1,0 +1,11 @@
+{
+  "name": "visualtest-python",
+  "version": "1.9.6",
+  "summary": "Python SDK for SmartBear VisualTest via Selenium WebDriver",
+  "author": "Luke Kende",
+  "license": null,
+  "home_page": "https://github.com/SmartBear/visualtest-python",
+  "download_filename": "visualtest_python-1.9.6-py3-none-any.whl",
+  "download_time": "2025-09-08T11:08:40.845139",
+  "package_url": "https://pypi.org/project/visualtest-python/"
+}

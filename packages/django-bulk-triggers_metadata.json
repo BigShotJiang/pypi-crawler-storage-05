@@ -1,11 +1,11 @@
 {
   "name": "django-bulk-triggers",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Trigger-style triggers for Django bulk operations like bulk_create and bulk_update.",
   "author": "Konrad Beck",
   "license": "MIT",
   "home_page": "https://github.com/AugendLimited/django-bulk-triggers",
-  "download_filename": "django_bulk_triggers-0.1.2.tar.gz",
-  "download_time": "2025-09-08T10:35:28.704765",
+  "download_filename": "django_bulk_triggers-0.1.3.tar.gz",
+  "download_time": "2025-09-08T11:09:12.236600",
   "package_url": "https://pypi.org/project/django-bulk-triggers/"
 }
