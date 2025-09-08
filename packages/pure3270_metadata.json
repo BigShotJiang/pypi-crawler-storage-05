@@ -1,11 +1,11 @@
 {
   "name": "pure3270",
-  "version": "0.1.0b3",
+  "version": "0.1.0b4",
   "summary": "Pure Python 3270 emulator",
   "author": "Pure3270 Developers",
   "license": null,
   "home_page": null,
-  "download_filename": "pure3270-0.1.0b3.tar.gz",
-  "download_time": "2025-09-08T20:10:59.566683",
+  "download_filename": "pure3270-0.1.0b4.tar.gz",
+  "download_time": "2025-09-08T22:10:37.042694",
   "package_url": "https://pypi.org/project/pure3270/"
 }

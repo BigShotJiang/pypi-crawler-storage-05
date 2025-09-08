@@ -1,11 +1,11 @@
 {
   "name": "rxfoundry.clients.swifty_api",
-  "version": "0.0.761",
+  "version": "0.0.764",
   "summary": "SwiftyRX API",
   "author": "RxFoundry Team",
   "license": "NoLicense",
   "home_page": "https://github.com/GIT_USER_ID/GIT_REPO_ID",
-  "download_filename": "rxfoundry_clients_swifty_api-0.0.761.tar.gz",
-  "download_time": "2025-09-08T19:47:27.101213",
+  "download_filename": "rxfoundry_clients_swifty_api-0.0.764.tar.gz",
+  "download_time": "2025-09-08T22:10:16.606813",
   "package_url": "https://pypi.org/project/rxfoundry.clients.swifty_api/"
 }

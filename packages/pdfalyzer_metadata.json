@@ -1,11 +1,11 @@
 {
   "name": "pdfalyzer",
-  "version": "1.16.13",
+  "version": "1.16.14",
   "summary": "PDF analysis tool. Scan a PDF with YARA rules, visualize its inner tree-like data structure in living color (lots of colors), force decodes of suspicious font binaries, and more.",
   "author": "Michel de Cryptadamus",
   "license": "GPL-3.0-or-later",
   "home_page": "https://github.com/michelcrypt4d4mus/pdfalyzer",
-  "download_filename": "pdfalyzer-1.16.13.tar.gz",
-  "download_time": "2025-09-07T20:27:31.834463",
+  "download_filename": "pdfalyzer-1.16.14.tar.gz",
+  "download_time": "2025-09-08T22:10:19.832592",
   "package_url": "https://pypi.org/project/pdfalyzer/"
 }

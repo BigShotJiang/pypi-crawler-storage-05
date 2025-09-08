@@ -1,0 +1,11 @@
+{
+  "name": "graspologic",
+  "version": "3.4.4",
+  "summary": "A set of Python modules for graph statistics",
+  "author": "Eric Bridgeford",
+  "license": "MIT",
+  "home_page": "https://github.com/graspologic-org/graspologic",
+  "download_filename": "graspologic-3.4.4.tar.gz",
+  "download_time": "2025-09-08T22:10:35.432105",
+  "package_url": "https://pypi.org/project/graspologic/"
+}

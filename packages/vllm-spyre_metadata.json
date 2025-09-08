@@ -1,0 +1,11 @@
+{
+  "name": "vllm-spyre",
+  "version": "0.9.2",
+  "summary": "vLLM plugin for Spyre hardware support",
+  "author": null,
+  "license": "Apache 2",
+  "home_page": null,
+  "download_filename": "vllm_spyre-0.9.2.tar.gz",
+  "download_time": "2025-09-08T22:10:36.507551",
+  "package_url": "https://pypi.org/project/vllm-spyre/"
+}
