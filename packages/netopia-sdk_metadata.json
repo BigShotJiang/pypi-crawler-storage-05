@@ -1,0 +1,11 @@
+{
+  "name": "netopia-sdk",
+  "version": "2.1.1",
+  "summary": "NETOPIA Payments Python SDK for integration with the NETOPIA Payments API v2.",
+  "author": "NETOPIA Payments",
+  "license": null,
+  "home_page": "https://github.com/netopiapayments/python-sdk",
+  "download_filename": "netopia_sdk-2.1.1.tar.gz",
+  "download_time": "2025-09-08T09:33:32.445909",
+  "package_url": "https://pypi.org/project/netopia-sdk/"
+}

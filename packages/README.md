@@ -1,11 +1,70 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-08T09:13:40.454511
-- **Total Packages**: 90
-- **Total Size**: 41.56 MB
+- **Download Time**: 2025-09-08T09:34:11.631386
+- **Total Packages**: 88
+- **Total Size**: 23.49 MB
 
 ## Packages List
+- amlaidatatests
+- fastcodedog
+- specifyx
+- Asialuxe
+- tcad
+- itam-assistant
+- hestia-earth-schema
+- wheel-getter
+- rqalpha
+- unique_toolkit
+- spamir-updater
+- flix-cli
+- airsmodel
+- travo
+- netopia-sdk
+- odoo-addon-purchase-invoice-status-line
+- social-auth-pipeline-app
+- pitchlense-mcp
+- fantacalciosimulator
+- dsf
+- authentik-client
+- mseep-ai-kline
+- sparql-file
+- qrpa
+- pythagix
+- snowplow-signals
+- alphatrion
+- clear-skies-akeyless-custom-wiz
+- tensorkube
+- atomicshop
+- mcp-image-cutout
+- github-actions-wizard
+- PyLatencyMap
+- mseep-markitdown-mcp-server
+- etos-test-runner
+- dapper
+- seam
+- qanswer_sdk
+- twigs
+- isegcan
+- odoo-addon-purchase-reception-status
+- paasta-tools
+- odoo-addon-purchase-stock-reception-status
+- imeon-inverter-api
+- DIRAC
+- uiautomator2
+- faster-whisper-hotkey
+- DIRACCommon
+- mcp-zephyr-scale-cloud
+- vermouth
+- wetlab
+- scrapy-selenium-enhanced
+- pywheels
+- nucliadb-admin-assets
+- mseep-mcp-server-demo
+- nlbone
+- django-cfg
+- psycopg-c
+- adbutils
 - tadoasync
 - arthur-client
 - tbp-nightly
@@ -13,8 +72,6 @@
 - pyalgotrading
 - pibert
 - hurozo
-- authentik-client
-- wheel-getter
 - lgtm-ai
 - mseep-bocha-search-mcp
 - mseep-mcp-prompt-tester
@@ -25,7 +82,6 @@
 - psycopg
 - mseep-cmr-search-mcp
 - parkapi-sources
-- social-auth-pipeline-app
 - pex-demo-stepanmatula
 - autogluon
 - autogluon.timeseries
@@ -38,61 +94,3 @@
 - autoed
 - python-accessor
 - sinabs
-- timewise
-- databpy
-- odoo-addon-web-company-color
-- wandelbots-api-client
-- corelp
-- PPIFold
-- lumigo-opentelemetry
-- squid-game-doll
-- alibabacloud-green20220302
-- gpustack-runner
-- qrkey
-- snakemake
-- pyees
-- openadr3-client
-- image-gen-mcp
-- codemie-mcp-datasources
-- pywheels
-- codemie-mcp-assistants
-- h2o-mlops
-- mapvu
-- PyLatencyMap
-- gufo-http
-- napari-dmc-brainmap
-- fantacalciosimulator
-- pttechnologies
-- mseep-paddleocr-mcp
-- banko-ai-assistant
-- bthlabs-jsonrpc-django
-- kiwi-pdf-chunker
-- vlm-recog
-- ptelastic
-- eodash_catalog
-- smellman-mbutil
-- localstack-core
-- aznews
-- hcai-discover
-- faster-whisper-hotkey
-- cycode
-- mseep-toolfront
-- mseep-mcp-utils
-- mseep-memcord
-- mseep-google-genai
-- morpheus-mail
-- aiolifx-themes
-- transactron
-- pyscn
-- code-loader
-- mseep-chunkhound
-- demo-example-package
-- mseep-langflow
-- pooolify
-- canonicalwebteam.store-api
-- alibabacloud-cloudauth20190307
-- dq-suite-amsterdam
-- mcp-image-cutout
-- twingly-pyamqp
-- spakky-core
-- mseep-fastmcp-threatintel

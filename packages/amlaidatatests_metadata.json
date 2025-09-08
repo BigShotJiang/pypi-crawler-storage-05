@@ -1,0 +1,11 @@
+{
+  "name": "amlaidatatests",
+  "version": "0.1.16",
+  "summary": "Data tests for Google AML AI",
+  "author": "Matthew Shipton",
+  "license": "Apache-2.0",
+  "home_page": "https://amlaidatatests.readthedocs.io/en/latest/",
+  "download_filename": "amlaidatatests-0.1.16.tar.gz",
+  "download_time": "2025-09-08T09:33:25.016099",
+  "package_url": "https://pypi.org/project/amlaidatatests/"
+}

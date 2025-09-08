@@ -1,0 +1,11 @@
+{
+  "name": "spamir-updater",
+  "version": "1.0.0",
+  "summary": "Secure automatic update client for Python applications with encrypted communication and package verification",
+  "author": "Spamir",
+  "license": null,
+  "home_page": "https://github.com/spamir/spamir-updater",
+  "download_filename": "spamir-updater-1.0.0.tar.gz",
+  "download_time": "2025-09-08T09:33:30.341002",
+  "package_url": "https://pypi.org/project/spamir-updater/"
+}

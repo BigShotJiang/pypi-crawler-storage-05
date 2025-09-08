@@ -1,0 +1,11 @@
+{
+  "name": "flix-cli",
+  "version": "1.6.5",
+  "summary": "A high efficient, powerful and fast movie scraper.",
+  "author": "DemonKingSwarn",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "flix_cli-1.6.5.tar.gz",
+  "download_time": "2025-09-08T09:33:30.859061",
+  "package_url": "https://pypi.org/project/flix-cli/"
+}

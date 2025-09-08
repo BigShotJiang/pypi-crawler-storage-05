@@ -1,0 +1,11 @@
+{
+  "name": "dapper",
+  "version": "1.7.3",
+  "summary": "DAPPER benchmarks the performance of data assimilation (DA) methods.",
+  "author": "Patrick N. Raanes",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dapper-1.7.3.tar.gz",
+  "download_time": "2025-09-08T09:33:43.946506",
+  "package_url": "https://pypi.org/project/dapper/"
+}
