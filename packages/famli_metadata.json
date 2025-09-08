@@ -1,0 +1,11 @@
+{
+  "name": "famli",
+  "version": "1.2.1",
+  "summary": "Functional Analysis of Metagenomes by Likelihood Inferrence",
+  "author": "Samuel Minot",
+  "license": null,
+  "home_page": "https://github.com/FredHutch/FAMLI",
+  "download_filename": "famli-1.2.1.tar.gz",
+  "download_time": "2025-09-08T18:15:05.896948",
+  "package_url": "https://pypi.org/project/famli/"
+}

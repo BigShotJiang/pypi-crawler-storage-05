@@ -1,0 +1,11 @@
+{
+  "name": "cost-katana",
+  "version": "1.0.3",
+  "summary": "Unified AI interface with cost optimization and failover",
+  "author": "Cost Katana Team",
+  "license": null,
+  "home_page": "https://github.com/Hypothesize-Tech/cost-katana-python",
+  "download_filename": "cost_katana-1.0.3.tar.gz",
+  "download_time": "2025-09-08T18:14:51.169912",
+  "package_url": "https://pypi.org/project/cost-katana/"
+}

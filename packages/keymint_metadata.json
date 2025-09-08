@@ -1,0 +1,11 @@
+{
+  "name": "keymint",
+  "version": "2.0.0",
+  "summary": "Official Python SDK for KeyMint license management with comprehensive API coverage.",
+  "author": "KeyMint",
+  "license": null,
+  "home_page": "https://github.com/keymint-dev/keymint-python",
+  "download_filename": "keymint-2.0.0.tar.gz",
+  "download_time": "2025-09-08T18:15:20.697545",
+  "package_url": "https://pypi.org/project/keymint/"
+}

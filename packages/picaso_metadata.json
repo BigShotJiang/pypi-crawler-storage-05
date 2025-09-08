@@ -1,0 +1,11 @@
+{
+  "name": "picaso",
+  "version": "3.4",
+  "summary": "planetary intesity code for atmospheric scattering observations",
+  "author": "Natasha E. Batalha",
+  "license": "GPL-3.0",
+  "home_page": "https://natashabatalha.github.io/picaso",
+  "download_filename": "picaso-3.4.tar.gz",
+  "download_time": "2025-09-08T18:15:25.910513",
+  "package_url": "https://pypi.org/project/picaso/"
+}

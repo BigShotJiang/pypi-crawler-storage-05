@@ -1,0 +1,11 @@
+{
+  "name": "httpx-gssapi",
+  "version": "0.5",
+  "summary": "A Python GSSAPI authentication handler for HTTPX",
+  "author": "Ian Cordasco, Cory Benfield, Michael Komitee, Robbie Harwood, Roger Aiudi",
+  "license": "MIT",
+  "home_page": "https://github.com/pythongssapi/httpx-gssapi",
+  "download_filename": "httpx_gssapi-0.5.tar.gz",
+  "download_time": "2025-09-08T18:15:31.219692",
+  "package_url": "https://pypi.org/project/httpx-gssapi/"
+}
