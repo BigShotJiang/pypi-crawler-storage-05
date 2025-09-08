@@ -1,11 +1,25 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-08T11:25:02.120531
-- **Total Packages**: 91
-- **Total Size**: 23.31 MB
+- **Download Time**: 2025-09-08T11:33:20.416551
+- **Total Packages**: 89
+- **Total Size**: 3.01 MB
 
 ## Packages List
+- rtdi-kafkaavro
+- brightspace-api
+- gllm-inference-binary
+- sportsball
+- qanswer_sdk
+- sema4ai-data
+- weknora-mcp-server
+- ubox-py-sdk
+- rust-pyfunc
+- psiutils
+- quvis
+- azure-carbon-tracker
+- dashlab
+- odoo-addon-gestion-editorial
 - Asialuxe
 - fds.sdk.OfficeCloudRefresh
 - authentik-client
@@ -16,7 +30,6 @@
 - appium-python-client-shadowstep
 - fast-mcp-telegram
 - prompture
-- qanswer_sdk
 - carla-driving-simulator-client
 - arpx
 - p115nano302
@@ -32,7 +45,6 @@
 - teds
 - tina4-python
 - svoi_framework
-- psiutils
 - odoo-addon-openupgrade-scripts
 - pyntagma
 - patronus
@@ -83,17 +95,3 @@
 - cdhdashboard
 - ragaai-catalyst
 - banana-straightener
-- dashlab
-- fastapi-rtk
-- arithematic-mr.sagar
-- singlestore-mcp-server
-- oarepo-model-builder-nr
-- nr-metadata
-- odp-sdk
-- netgen-mesher
-- diracx-testing
-- diracx-routers
-- diracx-logic
-- diracx-db
-- diracx-core
-- diracx-client
