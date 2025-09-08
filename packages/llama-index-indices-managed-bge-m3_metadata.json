@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-indices-managed-bge-m3",
+  "version": "0.6.1",
+  "summary": "llama-index managed indices bge-m3 integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_indices_managed_bge_m3-0.6.1.tar.gz",
+  "download_time": "2025-09-08T20:31:40.805762",
+  "package_url": "https://pypi.org/project/llama-index-indices-managed-bge-m3/"
+}

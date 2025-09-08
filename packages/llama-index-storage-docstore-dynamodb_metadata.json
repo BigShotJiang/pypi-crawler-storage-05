@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-storage-docstore-dynamodb",
+  "version": "0.4.1",
+  "summary": "llama-index docstore dynamodb integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_storage_docstore_dynamodb-0.4.1.tar.gz",
+  "download_time": "2025-09-08T20:32:03.040356",
+  "package_url": "https://pypi.org/project/llama-index-storage-docstore-dynamodb/"
+}

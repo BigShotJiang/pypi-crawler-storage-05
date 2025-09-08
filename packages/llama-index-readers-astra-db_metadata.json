@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-readers-astra-db",
+  "version": "0.4.0",
+  "summary": "llama-index readers astra_db integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_readers_astra_db-0.4.0.tar.gz",
+  "download_time": "2025-09-08T20:31:46.327074",
+  "package_url": "https://pypi.org/project/llama-index-readers-astra-db/"
+}

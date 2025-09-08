@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-vector-stores-bigquery",
+  "version": "0.1.1",
+  "summary": "llama-index vector_stores bigquery vector search integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_vector_stores_bigquery-0.1.1.tar.gz",
+  "download_time": "2025-09-08T20:31:11.262518",
+  "package_url": "https://pypi.org/project/llama-index-vector-stores-bigquery/"
+}

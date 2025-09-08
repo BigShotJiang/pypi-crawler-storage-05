@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-embeddings-xinference",
+  "version": "0.3.1",
+  "summary": "llama-index embeddings xinference integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_embeddings_xinference-0.3.1.tar.gz",
+  "download_time": "2025-09-08T20:31:43.590982",
+  "package_url": "https://pypi.org/project/llama-index-embeddings-xinference/"
+}

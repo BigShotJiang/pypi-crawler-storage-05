@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-readers-remote",
+  "version": "0.4.1",
+  "summary": "llama-index readers remote integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_readers_remote-0.4.1.tar.gz",
+  "download_time": "2025-09-08T20:31:18.430849",
+  "package_url": "https://pypi.org/project/llama-index-readers-remote/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-vector-store-firestore",
+  "version": "0.4.1",
+  "summary": "llama-index vector_store firestore integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_vector_store_firestore-0.4.1.tar.gz",
+  "download_time": "2025-09-08T20:31:56.007649",
+  "package_url": "https://pypi.org/project/llama-index-vector-store-firestore/"
+}

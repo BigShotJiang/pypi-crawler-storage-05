@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-packs-ollama-query-engine",
+  "version": "0.5.1",
+  "summary": "llama-index packs ollama_query_engine integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_packs_ollama_query_engine-0.5.1.tar.gz",
+  "download_time": "2025-09-08T20:31:21.924262",
+  "package_url": "https://pypi.org/project/llama-index-packs-ollama-query-engine/"
+}
