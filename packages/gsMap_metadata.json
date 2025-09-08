@@ -1,0 +1,11 @@
+{
+  "name": "gsMap",
+  "version": "1.73.6",
+  "summary": "Genetically informed spatial mapping of cells for complex traits",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gsmap-1.73.6.tar.gz",
+  "download_time": "2025-09-08T16:52:20.640227",
+  "package_url": "https://pypi.org/project/gsMap/"
+}

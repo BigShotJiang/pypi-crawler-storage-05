@@ -1,11 +1,11 @@
 {
   "name": "init-service-auto",
-  "version": "0.1.13",
+  "version": "0.1.15",
   "summary": "init-service-auto",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "init_service_auto-0.1.13.tar.gz",
-  "download_time": "2025-09-08T16:35:59.257422",
+  "download_filename": "init_service_auto-0.1.15.tar.gz",
+  "download_time": "2025-09-08T16:51:58.388885",
   "package_url": "https://pypi.org/project/init-service-auto/"
 }

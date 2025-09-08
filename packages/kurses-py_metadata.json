@@ -1,0 +1,11 @@
+{
+  "name": "kurses-py",
+  "version": "0.1.1.4",
+  "summary": "This module simulates the ‘conio’ and ‘curses’ libraries to create text interfaces with color and cursor.",
+  "author": "SealtielFreak",
+  "license": "LGPL 2.1",
+  "home_page": "https://github.com/SealtielFreak/kurses.py",
+  "download_filename": "kurses_py-0.1.1.4.tar.gz",
+  "download_time": "2025-09-08T16:52:05.163816",
+  "package_url": "https://pypi.org/project/kurses-py/"
+}

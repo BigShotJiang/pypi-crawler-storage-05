@@ -1,0 +1,11 @@
+{
+  "name": "resumeio-dl",
+  "version": "0.1.0",
+  "summary": "Download resumes from resume.io as PDF files",
+  "author": "Noreddine",
+  "license": null,
+  "home_page": "https://github.com/yourusername/resumeio-dl",
+  "download_filename": "resumeio_dl-0.1.0.tar.gz",
+  "download_time": "2025-09-08T16:52:10.636261",
+  "package_url": "https://pypi.org/project/resumeio-dl/"
+}
