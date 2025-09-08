@@ -1,11 +1,11 @@
 {
   "name": "wheel-getter",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "summary": "Get or build wheels for isolated installation of a Python package",
   "author": "Detlef Lannert",
   "license": null,
   "home_page": null,
-  "download_filename": "wheel_getter-0.3.6.tar.gz",
-  "download_time": "2025-09-08T09:33:28.768514",
+  "download_filename": "wheel_getter-0.3.7.tar.gz",
+  "download_time": "2025-09-08T09:50:26.872618",
   "package_url": "https://pypi.org/project/wheel-getter/"
 }

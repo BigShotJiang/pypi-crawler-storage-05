@@ -1,0 +1,11 @@
+{
+  "name": "codedev",
+  "version": "3.0.0",
+  "summary": "Advanced AI Coding Assistant with Terminal Integration",
+  "author": "Ashok Kumar",
+  "license": "MIT",
+  "home_page": "https://ashokumar.in",
+  "download_filename": "codedev-3.0.0.tar.gz",
+  "download_time": "2025-09-08T09:50:33.339225",
+  "package_url": "https://pypi.org/project/codedev/"
+}

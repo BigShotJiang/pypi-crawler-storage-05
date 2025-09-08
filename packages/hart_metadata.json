@@ -1,0 +1,11 @@
+{
+  "name": "hart",
+  "version": "0.18.3",
+  "summary": "Opinionated salt-cloud alternative",
+  "author": "Tarjei Husøy",
+  "license": null,
+  "home_page": "https://github.com/thusoy/hart",
+  "download_filename": "hart-0.18.3.tar.gz",
+  "download_time": "2025-09-08T09:50:34.504370",
+  "package_url": "https://pypi.org/project/hart/"
+}

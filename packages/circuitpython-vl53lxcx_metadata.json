@@ -1,11 +1,11 @@
 {
   "name": "circuitpython-vl53lxcx",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "CircuitPython driver for VL53L5CX and VL53L8CX ToF sensors",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "circuitpython_vl53lxcx-0.0.4.tar.gz",
-  "download_time": "2025-09-08T07:46:33.655413",
+  "download_filename": "circuitpython_vl53lxcx-0.0.5.tar.gz",
+  "download_time": "2025-09-08T09:50:22.528108",
   "package_url": "https://pypi.org/project/circuitpython-vl53lxcx/"
 }

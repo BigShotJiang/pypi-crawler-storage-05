@@ -1,11 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-08T09:34:11.631386
-- **Total Packages**: 88
-- **Total Size**: 23.49 MB
+- **Download Time**: 2025-09-08T09:50:57.428278
+- **Total Packages**: 86
+- **Total Size**: 29.91 MB
 
 ## Packages List
+- mcp-image-cutout
+- any-llm-sdk
+- mseep-mapas-mentais
+- django-bulk-triggers
+- united-backtester-japy-v1
+- mseep-mcp-caiyun-weather
+- mseep-solsecurity-mcp
+- pganalytics
+- mseep-mcp-weather-server
+- rqdatac
+- mseep-amazing-marvin-mcp
+- mseep-lucidity-mcp
+- mseep-temporal-invoice-mcp
+- gguf-connector
+- mseep-mcpgex
+- odoo-addon-l10n-es-verifactu-oca
+- Nuitka
+- mseep-shopify-py-mcp
+- molcraft
+- slurp-masks
+- akshare
+- ftllm-rocm
+- mcp-android
+- json-logify
+- vlm-recog
+- PySrDaliGateway
+- abs-nosql-repository-core
+- circuitpython-vl53lxcx
+- pywheels
+- pmoired
+- rqsdk
+- authentik-client
+- huscy.participations
+- github-actions-wizard
+- wheel-getter
+- hikari
+- autocoder-nano
+- pyg-base
+- ffdd
+- pyg-cell
+- galtea
+- CubeRaspberryLib3
+- OpenFisca-France
+- crawlee
+- spamir-updater
+- codedev
+- mseep-mcp-google-suite
+- hart
 - amlaidatatests
 - fastcodedog
 - specifyx
@@ -13,10 +61,8 @@
 - tcad
 - itam-assistant
 - hestia-earth-schema
-- wheel-getter
 - rqalpha
 - unique_toolkit
-- spamir-updater
 - flix-cli
 - airsmodel
 - travo
@@ -26,7 +72,6 @@
 - pitchlense-mcp
 - fantacalciosimulator
 - dsf
-- authentik-client
 - mseep-ai-kline
 - sparql-file
 - qrpa
@@ -36,8 +81,6 @@
 - clear-skies-akeyless-custom-wiz
 - tensorkube
 - atomicshop
-- mcp-image-cutout
-- github-actions-wizard
 - PyLatencyMap
 - mseep-markitdown-mcp-server
 - etos-test-runner
@@ -49,48 +92,3 @@
 - odoo-addon-purchase-reception-status
 - paasta-tools
 - odoo-addon-purchase-stock-reception-status
-- imeon-inverter-api
-- DIRAC
-- uiautomator2
-- faster-whisper-hotkey
-- DIRACCommon
-- mcp-zephyr-scale-cloud
-- vermouth
-- wetlab
-- scrapy-selenium-enhanced
-- pywheels
-- nucliadb-admin-assets
-- mseep-mcp-server-demo
-- nlbone
-- django-cfg
-- psycopg-c
-- adbutils
-- tadoasync
-- arthur-client
-- tbp-nightly
-- mollie-api-python-beta
-- pyalgotrading
-- pibert
-- hurozo
-- lgtm-ai
-- mseep-bocha-search-mcp
-- mseep-mcp-prompt-tester
-- bionty
-- mseep-coze-workflow-mcp
-- mseep-substack-reader
-- psycopg-binary
-- psycopg
-- mseep-cmr-search-mcp
-- parkapi-sources
-- pex-demo-stepanmatula
-- autogluon
-- autogluon.timeseries
-- autogluon.multimodal
-- autogluon.tabular
-- autogluon.features
-- autogluon.core
-- autogluon.common
-- gthelp
-- autoed
-- python-accessor
-- sinabs
