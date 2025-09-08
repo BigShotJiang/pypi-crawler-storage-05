@@ -1,0 +1,11 @@
+{
+  "name": "ag-ui-adk-middleware",
+  "version": "0.2.1",
+  "summary": "ADK Middleware for AG-UI Protocol - Bridge Google ADK agents with AG-UI",
+  "author": "AG-UI Protocol Contributors",
+  "license": null,
+  "home_page": "https://github.com/ag-ui-protocol/ag-ui-protocol",
+  "download_filename": "ag_ui_adk_middleware-0.2.1.tar.gz",
+  "download_time": "2025-09-08T15:30:58.846927",
+  "package_url": "https://pypi.org/project/ag-ui-adk-middleware/"
+}

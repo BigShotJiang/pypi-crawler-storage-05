@@ -1,0 +1,11 @@
+{
+  "name": "mlip_jax",
+  "version": "0.1.4",
+  "summary": "Machine Learning Interatomic Potentials in JAX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlip_jax-0.1.4.tar.gz",
+  "download_time": "2025-09-08T15:31:00.007442",
+  "package_url": "https://pypi.org/project/mlip_jax/"
+}

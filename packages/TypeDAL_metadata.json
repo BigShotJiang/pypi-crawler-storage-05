@@ -1,11 +1,11 @@
 {
   "name": "TypeDAL",
-  "version": "3.16.4",
+  "version": "3.16.5",
   "summary": "Typing support for PyDAL",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "typedal-3.16.4.tar.gz",
-  "download_time": "2025-09-08T14:50:52.311147",
+  "download_filename": "typedal-3.16.5.tar.gz",
+  "download_time": "2025-09-08T15:31:03.519534",
   "package_url": "https://pypi.org/project/TypeDAL/"
 }

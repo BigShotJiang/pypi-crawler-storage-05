@@ -1,11 +1,11 @@
 {
   "name": "test-genie-test",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "AI-powered CLI tool to auto-generate test cases for Python, C++, and Java code with both online and offline modes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "test_genie_test-1.0.4.tar.gz",
-  "download_time": "2025-09-07T19:32:20.714609",
+  "download_filename": "test_genie_test-1.0.5.tar.gz",
+  "download_time": "2025-09-08T15:31:01.195289",
   "package_url": "https://pypi.org/project/test-genie-test/"
 }

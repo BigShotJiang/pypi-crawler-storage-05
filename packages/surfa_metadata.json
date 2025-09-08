@@ -1,0 +1,11 @@
+{
+  "name": "surfa",
+  "version": "0.6.2",
+  "summary": "Utilities for medical image and surface processing.",
+  "author": "Andrew Hoopes",
+  "license": null,
+  "home_page": "https://github.com/freesurfer/surfa",
+  "download_filename": "surfa-0.6.2.tar.gz",
+  "download_time": "2025-09-08T15:30:55.968376",
+  "package_url": "https://pypi.org/project/surfa/"
+}
