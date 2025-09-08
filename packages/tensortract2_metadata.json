@@ -1,0 +1,11 @@
+{
+  "name": "tensortract2",
+  "version": "0.0.4",
+  "summary": "A PyTorch implementation of TensorTract2",
+  "author": "Paul Krug",
+  "license": "Commons Clause License Condition v1.0",
+  "home_page": "https://github.com/Altavo/tensortract2",
+  "download_filename": "tensortract2-0.0.4.tar.gz",
+  "download_time": "2025-09-08T11:24:25.878504",
+  "package_url": "https://pypi.org/project/tensortract2/"
+}

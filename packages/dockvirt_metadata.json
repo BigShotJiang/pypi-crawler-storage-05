@@ -1,0 +1,11 @@
+{
+  "name": "dockvirt",
+  "version": "0.1.10",
+  "summary": "Run dynadock + Caddy environments in isolated VMs created by libvirt/KVM.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dockvirt-0.1.10.tar.gz",
+  "download_time": "2025-09-08T11:24:31.093280",
+  "package_url": "https://pypi.org/project/dockvirt/"
+}

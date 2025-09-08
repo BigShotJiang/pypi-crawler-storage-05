@@ -1,0 +1,11 @@
+{
+  "name": "bot-vision-suite",
+  "version": "1.1.1",
+  "summary": "Biblioteca Python avançada para automação de interface gráfica com OCR multi-técnica, detecção de imagens robusta e sistema de backtrack inteligente",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bot_vision_suite-1.1.1.tar.gz",
+  "download_time": "2025-09-08T11:24:34.770964",
+  "package_url": "https://pypi.org/project/bot-vision-suite/"
+}
