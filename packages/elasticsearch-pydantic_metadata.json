@@ -1,11 +1,11 @@
 {
   "name": "elasticsearch-pydantic",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Use the Elasticsearch DSL with Pydantic models.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "elasticsearch_pydantic-0.1.0.tar.gz",
-  "download_time": "2025-09-08T20:32:02.456884",
+  "download_filename": "elasticsearch_pydantic-0.1.1.tar.gz",
+  "download_time": "2025-09-08T22:47:28.140732",
   "package_url": "https://pypi.org/project/elasticsearch-pydantic/"
 }

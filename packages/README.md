@@ -1,11 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-08T22:40:50.920633
-- **Total Packages**: 81
-- **Total Size**: 3.63 MB
+- **Download Time**: 2025-09-08T22:48:05.826436
+- **Total Packages**: 80
+- **Total Size**: 10.95 MB
 
 ## Packages List
+- crunchflow
+- synthetic-transformers
+- llamactl
+- llama-deploy-core
+- llama-deploy-appserver
+- pynimcodec
+- rxfoundry.clients.swifty_api
+- rxfoundry.clients.swifty_oauth_api
+- django-perf-rec
+- elasticsearch-pydantic
+- parsl
+- nv-ingest-client
+- ECOv003-L2T-STARS
+- g1asm
+- sbcli-rdma
+- moose-lib
+- smart-ai-guard
+- pressoir
+- py2dag
+- exosphere-cli
 - xml2rfc
 - tty-egpf-monitor
 - FinToolsAP
@@ -19,8 +39,6 @@
 - vital
 - ctxkit
 - additive-manufacturing
-- rxfoundry.clients.swifty_oauth_api
-- rxfoundry.clients.swifty_api
 - bbansi
 - aind-hierarchical-bootstrap
 - truss
@@ -33,7 +51,6 @@
 - datacommons-mcp
 - llama-stack
 - llama-stack-client
-- g1asm
 - tap-betterstack
 - aorta-sirius-dev
 - chime-frb-api
@@ -52,7 +69,6 @@
 - lightning-action
 - anatools
 - octicons-pack
-- py2dag
 - omnibench
 - autofillcvlac
 - atomicds
@@ -70,20 +86,3 @@
 - qsharp-jupyterlab
 - vantiqservicesdk
 - qsharp
-- picklescan
-- bedrock-agentcore-starter-toolkit
-- langgraph-checkpoint-aws
-- rda-python-dsarch
-- regula-documentreader-webclient
-- agentmake
-- cirq
-- cirq-ionq
-- llm-snowglobe
-- cirq-aqt
-- cirq-core
-- cirq-google
-- cirq-pasqal
-- cirq-web
-- odoo14-addon-ssi-consulting
-- nornir-arista
-- ytube-podcast

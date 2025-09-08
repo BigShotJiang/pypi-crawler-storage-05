@@ -1,11 +1,11 @@
 {
   "name": "g1asm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Assembler implementation for the g1 ISA",
   "author": "7Limes",
   "license": "MIT",
   "home_page": "https://github.com/7Limes/g1asm",
-  "download_filename": "g1asm-0.1.0.tar.gz",
-  "download_time": "2025-09-08T22:33:40.723666",
+  "download_filename": "g1asm-0.1.1.tar.gz",
+  "download_time": "2025-09-08T22:47:30.263247",
   "package_url": "https://pypi.org/project/g1asm/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pynimcodec",
+  "version": "0.4.14",
+  "summary": "Codecs for Satellite IoT messaging implemented in Python.",
+  "author": "geoffbrucepayne",
+  "license": "Apache2.0",
+  "home_page": "https://github.com/inmarsat-enterprise/pynimomodem",
+  "download_filename": "pynimcodec-0.4.14.tar.gz",
+  "download_time": "2025-09-08T22:47:26.021964",
+  "package_url": "https://pypi.org/project/pynimcodec/"
+}
