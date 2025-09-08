@@ -1,0 +1,11 @@
+{
+  "name": "osaca",
+  "version": "0.7.1",
+  "summary": "Open Source Architecture Code Analyzer",
+  "author": "Jan Laukemann",
+  "license": "AGPLv3",
+  "home_page": "https://github.com/RRZE-HPC/OSACA",
+  "download_filename": "osaca-0.7.1.tar.gz",
+  "download_time": "2025-09-08T14:50:47.617001",
+  "package_url": "https://pypi.org/project/osaca/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "generalize",
+  "version": "0.3.0",
+  "summary": "Machine learning tools for running repeated nested leave-one-dataset-out validation and more.",
+  "author": "Ludvig",
+  "license": null,
+  "home_page": "https://github.com/ludvigolsen/generalize",
+  "download_filename": "generalize-0.3.0.tar.gz",
+  "download_time": "2025-09-08T14:50:59.634686",
+  "package_url": "https://pypi.org/project/generalize/"
+}

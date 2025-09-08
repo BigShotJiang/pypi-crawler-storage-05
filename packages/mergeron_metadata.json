@@ -1,11 +1,11 @@
 {
   "name": "mergeron",
-  "version": "2025.739439.25",
+  "version": "2025.739439.26",
   "summary": "Python for analyzing merger enforcement policy",
   "author": "Murthy Kambhampaty",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mergeron-2025.739439.25.tar.gz",
-  "download_time": "2025-09-08T13:04:10.878390",
+  "download_filename": "mergeron-2025.739439.26.tar.gz",
+  "download_time": "2025-09-08T14:51:00.156551",
   "package_url": "https://pypi.org/project/mergeron/"
 }

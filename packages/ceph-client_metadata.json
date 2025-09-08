@@ -1,0 +1,11 @@
+{
+  "name": "ceph-client",
+  "version": "1.0.3",
+  "summary": "A Python client for Ceph S3-compatible storage",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ceph_client-1.0.3.tar.gz",
+  "download_time": "2025-09-08T14:51:00.675249",
+  "package_url": "https://pypi.org/project/ceph-client/"
+}

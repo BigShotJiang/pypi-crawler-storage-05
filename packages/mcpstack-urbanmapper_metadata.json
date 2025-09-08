@@ -1,0 +1,11 @@
+{
+  "name": "mcpstack-urbanmapper",
+  "version": "0.0.0",
+  "summary": "MCPStack tool for UrbanMapper that emits HF-only pipeline code strings (no execution).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcpstack_urbanmapper-0.0.0.tar.gz",
+  "download_time": "2025-09-08T14:50:55.976217",
+  "package_url": "https://pypi.org/project/mcpstack-urbanmapper/"
+}

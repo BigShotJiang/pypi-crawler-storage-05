@@ -1,0 +1,11 @@
+{
+  "name": "eevb",
+  "version": "0.2.2",
+  "summary": "EEVB simplifies Enigma Virtual Box command-line usage by building virtualized executables via a JSON configuration file.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eevb-0.2.2.tar.gz",
+  "download_time": "2025-09-08T14:51:24.471754",
+  "package_url": "https://pypi.org/project/eevb/"
+}

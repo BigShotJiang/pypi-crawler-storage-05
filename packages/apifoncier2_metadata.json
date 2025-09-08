@@ -1,0 +1,11 @@
+{
+  "name": "apifoncier2",
+  "version": "0.1.4",
+  "summary": "Utiliser l'API Données foncières du Cerema en python",
+  "author": "aherman59",
+  "license": null,
+  "home_page": null,
+  "download_filename": "apifoncier2-0.1.4.tar.gz",
+  "download_time": "2025-09-08T14:51:03.854818",
+  "package_url": "https://pypi.org/project/apifoncier2/"
+}

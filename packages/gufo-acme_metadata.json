@@ -1,0 +1,11 @@
+{
+  "name": "gufo-acme",
+  "version": "0.5.1",
+  "summary": "Python Automatic Certificate Management Environment (ACME) client",
+  "author": "Gufo Labs",
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "gufo_acme-0.5.1.tar.gz",
+  "download_time": "2025-09-08T14:51:36.344509",
+  "package_url": "https://pypi.org/project/gufo-acme/"
+}
