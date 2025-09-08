@@ -1,0 +1,11 @@
+{
+  "name": "aws-lambda-manager",
+  "version": "1.0.0",
+  "summary": "Herramienta simple y directa para administrar AWS Lambda y EventBridge desde Python",
+  "author": "Edwin Caicedo Venté",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/lambda-manager/",
+  "download_filename": "aws_lambda_manager-1.0.0.tar.gz",
+  "download_time": "2025-09-08T21:34:03.568911",
+  "package_url": "https://pypi.org/project/aws-lambda-manager/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "yandex-yc-dwh-cli-tools",
+  "version": "66.0.3",
+  "summary": "A package to prevent Dependency Confusion attacks against Yandex.",
+  "author": "Yandex",
+  "license": null,
+  "home_page": "https://ya.ru",
+  "download_filename": "yandex-yc-dwh-cli-tools-66.0.3.tar.gz",
+  "download_time": "2025-09-08T21:33:59.133361",
+  "package_url": "https://pypi.org/project/yandex-yc-dwh-cli-tools/"
+}

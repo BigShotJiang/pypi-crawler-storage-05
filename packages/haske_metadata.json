@@ -1,11 +1,11 @@
 {
   "name": "haske",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A high-performance Python web framework with Rust extensions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "haske-0.2.1-cp39-abi3-win_amd64.whl",
-  "download_time": "2025-09-08T21:27:20.507535",
+  "download_filename": "haske-0.2.2-cp39-abi3-win_amd64.whl",
+  "download_time": "2025-09-08T21:34:03.011930",
   "package_url": "https://pypi.org/project/haske/"
 }
