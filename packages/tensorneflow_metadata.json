@@ -1,0 +1,11 @@
+{
+  "name": "tensorneflow",
+  "version": "0.1.0",
+  "summary": "A tensorflow utility library",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/tensorneflow",
+  "download_filename": "tensorneflow-0.1.0.tar.gz",
+  "download_time": "2025-09-08T07:46:38.866160",
+  "package_url": "https://pypi.org/project/tensorneflow/"
+}
