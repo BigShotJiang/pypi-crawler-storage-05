@@ -1,0 +1,11 @@
+{
+  "name": "karrio-cli",
+  "version": "2025.5rc20",
+  "summary": "Command line interface for Karrio",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "karrio_cli-2025.5rc20-py3-none-any.whl",
+  "download_time": "2025-09-08T06:48:21.513441",
+  "package_url": "https://pypi.org/project/karrio-cli/"
+}

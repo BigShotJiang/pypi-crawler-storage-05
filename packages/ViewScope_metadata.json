@@ -1,11 +1,11 @@
 {
   "name": "ViewScope",
-  "version": "1.1.3",
+  "version": "1.1.6",
   "summary": "Android UI inspection and automation tool",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "viewscope-1.1.3.tar.gz",
-  "download_time": "2025-09-08T06:16:26.094084",
+  "download_filename": "viewscope-1.1.6.tar.gz",
+  "download_time": "2025-09-08T06:48:09.940982",
   "package_url": "https://pypi.org/project/ViewScope/"
 }

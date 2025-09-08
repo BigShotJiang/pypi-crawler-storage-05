@@ -1,0 +1,11 @@
+{
+  "name": "d3dtools",
+  "version": "0.14.0",
+  "summary": "A collection of tools for working with shapefiles and converting them for Delft3D modeling",
+  "author": "aaronchh",
+  "license": null,
+  "home_page": "https://github.com/AaronOET/d3dtools",
+  "download_filename": "d3dtools-0.14.0.tar.gz",
+  "download_time": "2025-09-08T06:48:34.209862",
+  "package_url": "https://pypi.org/project/d3dtools/"
+}

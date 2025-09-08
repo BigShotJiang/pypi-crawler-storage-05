@@ -1,0 +1,11 @@
+{
+  "name": "middoe",
+  "version": "0.0.48",
+  "summary": "Model Identification, Discrimination, and Design of Experiments.",
+  "author": "Zuhair Tabrizi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "middoe-0.0.48.tar.gz",
+  "download_time": "2025-09-08T06:48:11.091297",
+  "package_url": "https://pypi.org/project/middoe/"
+}

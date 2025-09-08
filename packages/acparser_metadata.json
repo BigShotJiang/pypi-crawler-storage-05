@@ -1,0 +1,11 @@
+{
+  "name": "acparser",
+  "version": "1.0.0",
+  "summary": "Ansible collection parser for developers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "acparser-1.0.0.tar.gz",
+  "download_time": "2025-09-08T06:48:29.341443",
+  "package_url": "https://pypi.org/project/acparser/"
+}
