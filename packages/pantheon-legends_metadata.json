@@ -1,11 +1,11 @@
 {
   "name": "pantheon-legends",
-  "version": "0.1.0",
-  "summary": "Python implementation of the Pantheon Legends model for financial market analysis",
+  "version": "0.2.0",
+  "summary": "Python framework for implementing financial market analysis legend engines with type-aware Traditional vs Scanner distinction",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pantheon_legends-0.1.0.tar.gz",
-  "download_time": "2025-09-08T00:48:48.098312",
+  "download_filename": "pantheon_legends-0.2.0.tar.gz",
+  "download_time": "2025-09-08T04:12:40.505738",
   "package_url": "https://pypi.org/project/pantheon-legends/"
 }

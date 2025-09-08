@@ -1,0 +1,11 @@
+{
+  "name": "pqdict",
+  "version": "1.4.1",
+  "summary": "A Pythonic indexed priority queue.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pqdict-1.4.1.tar.gz",
+  "download_time": "2025-09-08T04:12:44.105219",
+  "package_url": "https://pypi.org/project/pqdict/"
+}

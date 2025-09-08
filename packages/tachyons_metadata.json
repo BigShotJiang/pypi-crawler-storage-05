@@ -1,11 +1,11 @@
 {
   "name": "tachyons",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "tachyons",
   "author": "Abdelmathin Habachi",
   "license": null,
   "home_page": "https://github.com/Abdelmathin/tachyons",
-  "download_filename": "tachyons-1.0.5.tar.gz",
-  "download_time": "2025-09-07T22:27:38.651650",
+  "download_filename": "tachyons-1.0.6.tar.gz",
+  "download_time": "2025-09-08T04:12:51.204419",
   "package_url": "https://pypi.org/project/tachyons/"
 }

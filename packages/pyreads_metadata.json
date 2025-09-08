@@ -1,11 +1,11 @@
 {
   "name": "pyreads",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "summary": "PyReads package to process Goodreads site data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyreads-0.3.0.tar.gz",
-  "download_time": "2025-09-08T03:49:21.584111",
+  "download_filename": "pyreads-0.3.2.tar.gz",
+  "download_time": "2025-09-08T04:12:35.737298",
   "package_url": "https://pypi.org/project/pyreads/"
 }

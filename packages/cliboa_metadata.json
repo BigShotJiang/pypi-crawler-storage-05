@@ -1,0 +1,11 @@
+{
+  "name": "cliboa",
+  "version": "2.6.1b0",
+  "summary": "application framework for ETL(ELT) processing",
+  "author": "BrainPad",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cliboa-2.6.1b0.tar.gz",
+  "download_time": "2025-09-08T04:12:42.906723",
+  "package_url": "https://pypi.org/project/cliboa/"
+}

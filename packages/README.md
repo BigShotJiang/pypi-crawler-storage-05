@@ -1,12 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-08T03:49:54.544710
-- **Total Packages**: 72
-- **Total Size**: 1.39 MB
+- **Download Time**: 2025-09-08T04:13:15.069896
+- **Total Packages**: 70
+- **Total Size**: 2.29 MB
 
 ## Packages List
+- agex
+- hassette
+- praasper
+- pyreads
+- auth-kit-fastapi
+- chromedriver-binary
+- spakky-fastapi
+- nerdd-module
+- PersonalSignature-STT
 - ai-infra
+- svc-infra
+- pantheon-legends
+- LLM-Bridge
+- foreva-ai
+- cliboa
+- tp-helper
+- pqdict
+- langchain-dev-utils
+- ViewScope
+- lt-tensor
+- kaas-cli
+- authentik-client
+- plush-fabric
+- toltecmk
+- spellbot
+- foamlib
+- tubescribe
+- tachyons
+- myepubapp
+- syTool
+- splunk-soar-sdk
+- workspace-services
 - odoo-addon-base-name-search-improved
 - aidev-agent
 - orchagent-cli
@@ -18,23 +49,17 @@
 - ajperry-pipeline
 - bizteam-smcp
 - cecil
-- spellbot
 - hts-tst-mcp-demo
 - hasse
 - chattr
-- pyreads
 - third-party-license-file-generator
 - spakky-core
-- authentik-client
-- auth-kit-fastapi
 - fastuv
 - framekit
 - androtools
-- svc-infra
 - ut-eviq
 - GANDLF
 - tp-shared
-- brotli-python
 - cogents-core
 - dictionarpy
 - charmlibs
@@ -46,35 +71,8 @@
 - nonebot-plugin-algo
 - odoo-addons-oca-multi-company
 - vchrome
-- ViewScope
 - omnicloudmask
 - ViOTUcluster
 - cumulusci-plus
 - siglab-py
 - bbansi
-- lt-tensor
-- arthur-client
-- simple-carla
-- modicons
-- syTool
-- robokop-orion
-- getout-of-text-3
-- zenx
-- smithery
-- byzh-extra
-- byzh-core
-- autofillcvlac
-- damo
-- PaddockTS
-- siada-cli
-- maven-proxy
-- asyncly
-- mineru
-- kittycad
-- gtm-rosamii1
-- batch-store
-- odoo-addon-helpdesk-mgmt
-- workspace-services
-- proofcarryingthought-sdk
-- panda-math
-- air
