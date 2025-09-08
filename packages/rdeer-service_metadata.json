@@ -1,0 +1,11 @@
+{
+  "name": "rdeer-service",
+  "version": "2.1.2",
+  "summary": "Client-server to handle Reindeer in query mode.",
+  "author": "Benoit Guibert",
+  "license": "GPLv3",
+  "home_page": "https://github.com/Bio2M/rdeer-service",
+  "download_filename": "rdeer_service-2.1.2.tar.gz",
+  "download_time": "2025-09-08T13:38:38.443575",
+  "package_url": "https://pypi.org/project/rdeer-service/"
+}

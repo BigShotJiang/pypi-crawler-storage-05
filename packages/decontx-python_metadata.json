@@ -1,0 +1,11 @@
+{
+  "name": "decontx-python",
+  "version": "0.2.0",
+  "summary": "Python implementation of DecontX for removing ambient RNA contamination from single-cell RNA-seq data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "decontx_python-0.2.0.tar.gz",
+  "download_time": "2025-09-08T13:39:13.174362",
+  "package_url": "https://pypi.org/project/decontx-python/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "unacatlib",
+  "version": "0.0.93",
+  "summary": "Unacat Python client",
+  "author": null,
+  "license": "MIT",
+  "home_page": "http://github.com/unacast/unacat",
+  "download_filename": "unacatlib-0.0.93-py2.py3-none-any.whl",
+  "download_time": "2025-09-08T13:39:12.138924",
+  "package_url": "https://pypi.org/project/unacatlib/"
+}

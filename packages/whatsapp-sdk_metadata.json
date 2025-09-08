@@ -1,11 +1,11 @@
 {
   "name": "whatsapp-sdk",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A comprehensive synchronous Python SDK for WhatsApp Business Cloud API following Meta's official documentation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "whatsapp_sdk-0.1.0.tar.gz",
-  "download_time": "2025-09-07T22:08:21.493765",
+  "download_filename": "whatsapp_sdk-0.2.0.tar.gz",
+  "download_time": "2025-09-08T13:38:55.270276",
   "package_url": "https://pypi.org/project/whatsapp-sdk/"
 }
