@@ -1,0 +1,11 @@
+{
+  "name": "qsl",
+  "version": "0.2.45",
+  "summary": "A package for labeling image, video, and time series data quickly",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qsl-0.2.45-py3-none-any.whl",
+  "download_time": "2025-09-08T17:09:08.179577",
+  "package_url": "https://pypi.org/project/qsl/"
+}

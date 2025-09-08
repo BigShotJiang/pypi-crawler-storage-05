@@ -1,0 +1,11 @@
+{
+  "name": "guidepost",
+  "version": "0.2.18",
+  "summary": "Guidepost. An overview visualization for understanding supercomputer queue data.",
+  "author": "Connor Scully-Allison",
+  "license": null,
+  "home_page": "https://github.com/cscully-allison/guidepost",
+  "download_filename": "guidepost-0.2.18.tar.gz",
+  "download_time": "2025-09-08T17:09:09.982398",
+  "package_url": "https://pypi.org/project/guidepost/"
+}

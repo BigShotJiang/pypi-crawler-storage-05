@@ -1,0 +1,11 @@
+{
+  "name": "vindaloo",
+  "version": "4.5.0",
+  "summary": "K8S deployer",
+  "author": "Daniel Milde",
+  "license": null,
+  "home_page": "https://github.com/seznam/vindaloo",
+  "download_filename": "vindaloo-4.5.0.tar.gz",
+  "download_time": "2025-09-08T17:09:26.255266",
+  "package_url": "https://pypi.org/project/vindaloo/"
+}

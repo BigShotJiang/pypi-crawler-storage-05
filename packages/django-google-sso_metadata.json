@@ -1,0 +1,11 @@
+{
+  "name": "django-google-sso",
+  "version": "8.0.2",
+  "summary": "Easily add Google Authentication to your Django Projects",
+  "author": "Chris Maillefaud",
+  "license": "MIT",
+  "home_page": "https://github.com/megalus/django-google-sso",
+  "download_filename": "django_google_sso-8.0.2.tar.gz",
+  "download_time": "2025-09-08T17:09:28.781770",
+  "package_url": "https://pypi.org/project/django-google-sso/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fresfolio",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Flask and Vue3 based notebook for personal and research projects.",
   "author": "Dimitrios Kioroglou",
   "license": "GPL-3.0",
   "home_page": "https://github.com/dkioroglou/fresfolio/tree/main",
-  "download_filename": "fresfolio-0.2.3.tar.gz",
-  "download_time": "2025-09-08T16:51:55.051405",
+  "download_filename": "fresfolio-0.2.4.tar.gz",
+  "download_time": "2025-09-08T17:09:07.532737",
   "package_url": "https://pypi.org/project/fresfolio/"
 }

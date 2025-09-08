@@ -1,28 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-08T16:52:37.905906
-- **Total Packages**: 84
-- **Total Size**: 31.15 MB
+- **Download Time**: 2025-09-08T17:09:58.419503
+- **Total Packages**: 86
+- **Total Size**: 19.32 MB
 
 ## Packages List
+- redgtech-api
+- scriptcraft-python
+- fresfolio
+- qsl
+- AgentService
+- habluetooth
+- guidepost
+- wry
+- codex-cli-linker
+- daytona_sdk
+- talk-box
+- daytona
+- traceforest
+- clesyde_cloud_lib
+- pnwtools
+- daytona_api_client
+- daytona_api_client_async
+- cccc-pair
+- thds.atacama
+- thds.mops
+- thds.humenc
+- thds.core
+- thds.adls
+- physioprep
+- fuzzytrie
+- ut-xls
+- galileo-core
+- dkist-processing-core
+- reqman4
+- chatlas
+- pagerduty
+- graphstorm
+- cuda-cccl
+- vindaloo
+- a1facts
+- authentik-client
+- victron-mqtt
+- django-google-sso
+- aind-clabe
 - modal
 - django-rehive-extras
 - pytrimal
 - tobiko-cloud-api-client
 - ics-to-org
-- scriptcraft-python
 - teds
 - listofdicts
 - tobiko-cloud-helpers
-- fresfolio
 - tobiko-cloud-pydantic
 - xclip-json
 - snaplogic-common-robot
 - ansys-api-discovery
 - kittycad
 - init-service-auto
-- clesyde_cloud_lib
 - Navygram
 - complexipy
 - vsec-tls
@@ -38,7 +74,6 @@
 - academia-mcp
 - skipper-cli
 - friendly-sequences
-- authentik-client
 - svc-infra
 - beeai-sdk
 - surya-ocr
@@ -57,36 +92,3 @@
 - stoa-env
 - mcp-mysql-ops
 - z007
-- pyspdbutils
-- retell-sdk
-- gsMap
-- pyiron-base
-- superu
-- picassosr
-- aiko-monitor
-- sinonym
-- learning-loop-node
-- wry
-- tokenix-auth-component
-- hugo
-- zerobug
-- ariel-data-preprocessing
-- pybmda
-- kaqing
-- agent-sandbox
-- qonscious
-- arpakitlib
-- leaguewizard
-- Bottleneck
-- OpenFisca-France
-- numpy-quaternion
-- lpibydevcoder
-- animl
-- rda-python-dscheck
-- MaxCleanerDB
-- intugle
-- sequence
-- nci-cidc-schemas
-- blackfire-conprof
-- clyrdia-cli
-- x-make-markdown-x
