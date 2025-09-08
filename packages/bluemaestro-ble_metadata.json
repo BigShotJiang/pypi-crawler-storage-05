@@ -1,0 +1,11 @@
+{
+  "name": "bluemaestro-ble",
+  "version": "1.0.0",
+  "summary": "bluemaestro BLE devices",
+  "author": "J. Nick Koston",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bluemaestro_ble-1.0.0.tar.gz",
+  "download_time": "2025-09-08T19:47:48.396871",
+  "package_url": "https://pypi.org/project/bluemaestro-ble/"
+}

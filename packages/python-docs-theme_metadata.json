@@ -1,11 +1,11 @@
 {
   "name": "python-docs-theme",
-  "version": "2025.9",
+  "version": "2025.9.1",
   "summary": "The Sphinx theme for the CPython docs and related projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "python_docs_theme-2025.9.tar.gz",
-  "download_time": "2025-09-08T18:15:34.407082",
+  "download_filename": "python_docs_theme-2025.9.1.tar.gz",
+  "download_time": "2025-09-08T19:47:50.499099",
   "package_url": "https://pypi.org/project/python-docs-theme/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "vital-llm-reasoner",
+  "version": "0.0.10",
+  "summary": "Vital LLM Reasoner",
+  "author": "Marc Hadfield",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/vital-ai/vital-llm-reasoner",
+  "download_filename": "vital_llm_reasoner-0.0.10.tar.gz",
+  "download_time": "2025-09-08T19:47:32.554728",
+  "package_url": "https://pypi.org/project/vital-llm-reasoner/"
+}

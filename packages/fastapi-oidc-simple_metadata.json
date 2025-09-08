@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-oidc-simple",
+  "version": "0.1.0",
+  "summary": "Simple OIDC integration for FastAPI using Authlib",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_oidc_simple-0.1.0-py3-none-any.whl",
+  "download_time": "2025-09-08T19:47:37.271219",
+  "package_url": "https://pypi.org/project/fastapi-oidc-simple/"
+}
