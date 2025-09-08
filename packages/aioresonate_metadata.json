@@ -1,0 +1,11 @@
+{
+  "name": "aioresonate",
+  "version": "0.8.0",
+  "summary": "Async Python implementation of the Resonate Protocol.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aioresonate-0.8.0.tar.gz",
+  "download_time": "2025-09-08T15:10:03.876961",
+  "package_url": "https://pypi.org/project/aioresonate/"
+}

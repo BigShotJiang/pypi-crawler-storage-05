@@ -1,0 +1,11 @@
+{
+  "name": "botcity-ms365-outlook-plugin",
+  "version": "0.1.1",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/botcity-dev/bot-ms365-outlook-plugin-python.git",
+  "download_filename": "botcity_ms365_outlook_plugin-0.1.1.tar.gz",
+  "download_time": "2025-09-08T15:10:14.356262",
+  "package_url": "https://pypi.org/project/botcity-ms365-outlook-plugin/"
+}

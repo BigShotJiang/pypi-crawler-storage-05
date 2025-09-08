@@ -1,11 +1,11 @@
 {
   "name": "rxiv-maker",
-  "version": "1.7.1",
+  "version": "1.7.2",
   "summary": "Automated LaTeX article generation with modern CLI and figure creation capabilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rxiv_maker-1.7.1.tar.gz",
-  "download_time": "2025-09-08T13:50:35.821662",
+  "download_filename": "rxiv_maker-1.7.2.tar.gz",
+  "download_time": "2025-09-08T15:10:31.743023",
   "package_url": "https://pypi.org/project/rxiv-maker/"
 }
