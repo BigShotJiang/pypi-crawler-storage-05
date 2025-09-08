@@ -1,11 +1,11 @@
 {
   "name": "Anime3rbDL",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A simple and fast command-line tool to **search, retrieve, and download anime episodes** from **[Anime3rb](https://anime3rb.com)**.",
   "author": "Jo0x01",
   "license": "MIT",
   "home_page": "https://github.com/jo0x01/Anime3rbDL",
-  "download_filename": "anime3rbdl-1.0.3.tar.gz",
-  "download_time": "2025-09-08T23:29:14.205783",
+  "download_filename": "anime3rbdl-1.0.4.tar.gz",
+  "download_time": "2025-09-08T23:37:27.871459",
   "package_url": "https://pypi.org/project/Anime3rbDL/"
 }

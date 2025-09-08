@@ -1,0 +1,11 @@
+{
+  "name": "fred-quincast",
+  "version": "0.2.1",
+  "summary": "A package for exploratory time series analysis and forecasting with FRED integration.",
+  "author": "Rory G. Quinlan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fred_quincast-0.2.1.tar.gz",
+  "download_time": "2025-09-08T23:37:25.245936",
+  "package_url": "https://pypi.org/project/fred-quincast/"
+}

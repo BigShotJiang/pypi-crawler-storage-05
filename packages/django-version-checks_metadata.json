@@ -1,0 +1,11 @@
+{
+  "name": "django-version-checks",
+  "version": "1.15.0",
+  "summary": "System checks for your project's environment.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_version_checks-1.15.0.tar.gz",
+  "download_time": "2025-09-08T23:37:27.351188",
+  "package_url": "https://pypi.org/project/django-version-checks/"
+}
