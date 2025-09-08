@@ -1,0 +1,11 @@
+{
+  "name": "mbtrack2",
+  "version": "0.9.1",
+  "summary": "A coherent object-oriented framework to work on collective effects in synchrotrons.",
+  "author": "Alexis Gamelin",
+  "license": "BSD-3-Clause",
+  "home_page": "https://gitlab.synchrotron-soleil.fr/PA/collective-effects/mbtrack2",
+  "download_filename": "mbtrack2-0.9.1.tar.gz",
+  "download_time": "2025-09-08T16:11:55.352315",
+  "package_url": "https://pypi.org/project/mbtrack2/"
+}

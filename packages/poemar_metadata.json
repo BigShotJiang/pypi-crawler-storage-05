@@ -1,11 +1,11 @@
 {
   "name": "poemar",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "library for writing poems",
   "author": "montoyamoraga",
   "license": "MIT",
   "home_page": "https://github.com/montoyamoraga/poemarpy",
-  "download_filename": "poemar-0.0.2.tar.gz",
-  "download_time": "2025-09-08T15:48:23.020425",
+  "download_filename": "poemar-0.0.4.tar.gz",
+  "download_time": "2025-09-08T16:12:01.111794",
   "package_url": "https://pypi.org/project/poemar/"
 }

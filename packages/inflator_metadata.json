@@ -1,0 +1,11 @@
+{
+  "name": "inflator",
+  "version": "1.0.9",
+  "summary": "Inflates gobos. A goboscript package manager.",
+  "author": "faretek1",
+  "license": null,
+  "home_page": null,
+  "download_filename": "inflator-1.0.9.tar.gz",
+  "download_time": "2025-09-08T16:12:03.201563",
+  "package_url": "https://pypi.org/project/inflator/"
+}

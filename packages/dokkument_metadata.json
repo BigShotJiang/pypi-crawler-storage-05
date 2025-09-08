@@ -1,0 +1,11 @@
+{
+  "name": "dokkument",
+  "version": "1.0.0",
+  "summary": "CLI Manager for corporate documentation via .dokk files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dokkument-1.0.0.tar.gz",
+  "download_time": "2025-09-08T16:11:59.030909",
+  "package_url": "https://pypi.org/project/dokkument/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ff-sqlalchemy",
+  "version": "0.1.0",
+  "summary": "A simple sqlalchemy library.",
+  "author": "foris.feng",
+  "license": "MIT",
+  "home_page": "https://github.com/itsanr-oris/ff-sqlalchemy",
+  "download_filename": "ff_sqlalchemy-0.1.0.tar.gz",
+  "download_time": "2025-09-08T16:11:57.431942",
+  "package_url": "https://pypi.org/project/ff-sqlalchemy/"
+}

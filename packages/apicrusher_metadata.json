@@ -1,11 +1,11 @@
 {
   "name": "apicrusher",
-  "version": "2.0.0",
-  "summary": "Cut AI API costs by 63-99% with intelligent routing",
+  "version": "2.0.1",
+  "summary": "Cut AI API costs by 63-99% with intelligent routing across all AI providers",
   "author": "APICrusher",
-  "license": null,
+  "license": "MIT",
   "home_page": "https://apicrusher.com",
-  "download_filename": "apicrusher-2.0.0.tar.gz",
-  "download_time": "2025-09-08T14:33:57.078495",
+  "download_filename": "apicrusher-2.0.1.tar.gz",
+  "download_time": "2025-09-08T16:11:40.139685",
   "package_url": "https://pypi.org/project/apicrusher/"
 }
