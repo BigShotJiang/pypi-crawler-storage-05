@@ -1,0 +1,11 @@
+{
+  "name": "hifitime",
+  "version": "4.2.0",
+  "summary": "Ultra-precise date and time handling in Rust for scientific applications with leap second support",
+  "author": "Christopher Rabotin <christopher.rabotin@gmail.com>",
+  "license": "MPL-2.0",
+  "home_page": "https://nyxspace.com/",
+  "download_filename": "hifitime-4.2.0-cp310-cp310-manylinux_2_17_armv7l.manylinux2014_armv7l.whl",
+  "download_time": "2025-09-08T14:34:14.363017",
+  "package_url": "https://pypi.org/project/hifitime/"
+}

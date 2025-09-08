@@ -1,0 +1,11 @@
+{
+  "name": "datgfg.rds-control-plane-mcp-server",
+  "version": "0.0.0",
+  "summary": "An AWS Labs Model Context Protocol (MCP) server for rds-control-plane",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "datgfg_rds_control_plane_mcp_server-0.0.0.tar.gz",
+  "download_time": "2025-09-08T14:33:57.662812",
+  "package_url": "https://pypi.org/project/datgfg.rds-control-plane-mcp-server/"
+}

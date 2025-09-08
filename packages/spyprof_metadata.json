@@ -1,0 +1,11 @@
+{
+  "name": "spyprof",
+  "version": "0.0.2",
+  "summary": "Sampling Python Profiler",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spyprof-0.0.2.tar.gz",
+  "download_time": "2025-09-08T14:34:06.382335",
+  "package_url": "https://pypi.org/project/spyprof/"
+}

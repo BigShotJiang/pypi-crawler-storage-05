@@ -1,0 +1,11 @@
+{
+  "name": "cronk",
+  "version": "0.0.19",
+  "summary": "A crontab-json translator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cronk-0.0.19.tar.gz",
+  "download_time": "2025-09-08T14:34:01.194266",
+  "package_url": "https://pypi.org/project/cronk/"
+}
