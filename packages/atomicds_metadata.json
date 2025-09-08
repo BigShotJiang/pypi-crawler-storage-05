@@ -1,0 +1,11 @@
+{
+  "name": "atomicds",
+  "version": "0.2.0",
+  "summary": "API client for Atomic Data Sciences.",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "atomicds-0.2.0.tar.gz",
+  "download_time": "2025-09-08T22:33:55.380542",
+  "package_url": "https://pypi.org/project/atomicds/"
+}

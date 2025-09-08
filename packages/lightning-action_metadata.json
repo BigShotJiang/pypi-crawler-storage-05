@@ -1,0 +1,11 @@
+{
+  "name": "lightning-action",
+  "version": "0.2.3",
+  "summary": "Action segmentation framework built with PyTorch Lightning",
+  "author": "Matt Whiteway",
+  "license": "MIT",
+  "home_page": "https://github.com/paninski-lab/lightning-action",
+  "download_filename": "lightning_action-0.2.3.tar.gz",
+  "download_time": "2025-09-08T22:33:51.850348",
+  "package_url": "https://pypi.org/project/lightning-action/"
+}

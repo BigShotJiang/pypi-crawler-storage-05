@@ -1,0 +1,11 @@
+{
+  "name": "tap-betterstack",
+  "version": "0.2.6",
+  "summary": "Singer tap for Better Stack, built with the Meltano SDK for Singer Taps.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tap_betterstack-0.2.6.tar.gz",
+  "download_time": "2025-09-08T22:33:41.364808",
+  "package_url": "https://pypi.org/project/tap-betterstack/"
+}

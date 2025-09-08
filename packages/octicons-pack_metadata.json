@@ -1,0 +1,11 @@
+{
+  "name": "octicons-pack",
+  "version": "19.17.0",
+  "summary": "A redistribution of @primer/octicons npm package's SVG and metadata.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "octicons_pack-19.17.0.tar.gz",
+  "download_time": "2025-09-08T22:33:53.004280",
+  "package_url": "https://pypi.org/project/octicons-pack/"
+}
