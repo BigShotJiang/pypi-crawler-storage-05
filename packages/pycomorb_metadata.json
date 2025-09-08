@@ -1,0 +1,11 @@
+{
+  "name": "pycomorb",
+  "version": "0.5",
+  "summary": "Comorbidity and frailty score calculation utilities (Charlson, Elixhauser, Gagne, HFRS) using polars",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycomorb-0.5.tar.gz",
+  "download_time": "2025-09-08T10:49:14.645246",
+  "package_url": "https://pypi.org/project/pycomorb/"
+}

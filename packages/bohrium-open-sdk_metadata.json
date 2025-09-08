@@ -1,11 +1,11 @@
 {
   "name": "bohrium-open-sdk",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "summary": "bohrium-open-sdk",
   "author": "Bohrium Team",
   "license": null,
   "home_page": "https://bohrium.dp.tech/developer",
-  "download_filename": "bohrium_open_sdk-1.0.2.tar.gz",
-  "download_time": "2025-09-08T10:11:38.576751",
+  "download_filename": "bohrium_open_sdk-1.0.5.tar.gz",
+  "download_time": "2025-09-08T10:49:19.460703",
   "package_url": "https://pypi.org/project/bohrium-open-sdk/"
 }
