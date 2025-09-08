@@ -1,0 +1,11 @@
+{
+  "name": "pynose",
+  "version": "1.5.5",
+  "summary": "pynose fixes nose to extend unittest and make testing easier",
+  "author": "Michael Mintz",
+  "license": "GNU LGPL",
+  "home_page": "https://github.com/mdmintz/pynose",
+  "download_filename": "pynose-1.5.5.tar.gz",
+  "download_time": "2025-09-08T20:48:04.596882",
+  "package_url": "https://pypi.org/project/pynose/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-packs-arize-phoenix-query-engine",
+  "version": "0.4.1",
+  "summary": "llama-index packs arize_phoenix_query_engine integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_packs_arize_phoenix_query_engine-0.4.1.tar.gz",
+  "download_time": "2025-09-08T20:47:33.206374",
+  "package_url": "https://pypi.org/project/llama-index-packs-arize-phoenix-query-engine/"
+}

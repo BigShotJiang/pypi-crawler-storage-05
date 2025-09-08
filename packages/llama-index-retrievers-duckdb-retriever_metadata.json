@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-retrievers-duckdb-retriever",
+  "version": "0.5.1",
+  "summary": "llama-index retrievers duckdb-retriever integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_retrievers_duckdb_retriever-0.5.1.tar.gz",
+  "download_time": "2025-09-08T20:47:59.974931",
+  "package_url": "https://pypi.org/project/llama-index-retrievers-duckdb-retriever/"
+}

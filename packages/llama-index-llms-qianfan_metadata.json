@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-llms-qianfan",
+  "version": "0.4.1",
+  "summary": "llama-index llms baidu qianfan integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_llms_qianfan-0.4.1.tar.gz",
+  "download_time": "2025-09-08T20:48:12.892130",
+  "package_url": "https://pypi.org/project/llama-index-llms-qianfan/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-multi-modal-llms-gemini",
+  "version": "0.6.1",
+  "summary": "llama-index multi-modal-llms gemini integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_multi_modal_llms_gemini-0.6.1.tar.gz",
+  "download_time": "2025-09-08T20:47:32.693614",
+  "package_url": "https://pypi.org/project/llama-index-multi-modal-llms-gemini/"
+}
