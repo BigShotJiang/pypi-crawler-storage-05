@@ -1,0 +1,11 @@
+{
+  "name": "supergrad",
+  "version": "0.2.6",
+  "summary": "SuperGrad differentiable Hamiltonian simulator",
+  "author": "IQUBIT",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/iqubit-org/supergrad",
+  "download_filename": "supergrad-0.2.6.tar.gz",
+  "download_time": "2025-09-08T07:11:19.193643",
+  "package_url": "https://pypi.org/project/supergrad/"
+}

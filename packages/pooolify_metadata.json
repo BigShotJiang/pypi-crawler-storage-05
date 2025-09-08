@@ -1,0 +1,11 @@
+{
+  "name": "pooolify",
+  "version": "0.1.0",
+  "summary": "pooolify: Code-centric Python framework for multi-agent LLM orchestration with FastAPI + SSE and PostgreSQL persistence",
+  "author": "pooolify maintainers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pooolify-0.1.0.tar.gz",
+  "download_time": "2025-09-08T07:11:15.565089",
+  "package_url": "https://pypi.org/project/pooolify/"
+}

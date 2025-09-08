@@ -1,11 +1,11 @@
 {
   "name": "cli-ih",
-  "version": "0.5.4.3",
+  "version": "0.5.4.4",
   "summary": "A background command handler for python's command line interface.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cli_ih-0.5.4.3.tar.gz",
-  "download_time": "2025-09-08T06:48:08.140911",
+  "download_filename": "cli_ih-0.5.4.4.tar.gz",
+  "download_time": "2025-09-08T07:11:32.843626",
   "package_url": "https://pypi.org/project/cli-ih/"
 }

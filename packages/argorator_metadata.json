@@ -1,11 +1,11 @@
 {
   "name": "argorator",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "CLI to wrap shell scripts and expose variables/positionals as argparse options",
   "author": "Argorator",
   "license": null,
   "home_page": null,
-  "download_filename": "argorator-0.5.2.tar.gz",
-  "download_time": "2025-09-08T05:30:55.316861",
+  "download_filename": "argorator-0.5.3.tar.gz",
+  "download_time": "2025-09-08T07:11:21.510404",
   "package_url": "https://pypi.org/project/argorator/"
 }
