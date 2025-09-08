@@ -1,11 +1,11 @@
 {
   "name": "tty-egpf-monitor",
-  "version": "0.6.9",
+  "version": "0.6.10",
   "summary": "Python client library for TTY eBPF Monitor daemon",
   "author": "TTY eBPF Monitor Team",
   "license": "GPL-3.0",
   "home_page": "https://github.com/seelso-net/tty-egpf-monitor",
-  "download_filename": "tty_egpf_monitor-0.6.9.tar.gz",
-  "download_time": "2025-09-08T22:47:34.766128",
+  "download_filename": "tty_egpf_monitor-0.6.10.tar.gz",
+  "download_time": "2025-09-08T23:10:42.457408",
   "package_url": "https://pypi.org/project/tty-egpf-monitor/"
 }

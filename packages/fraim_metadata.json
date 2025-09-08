@@ -1,0 +1,11 @@
+{
+  "name": "fraim",
+  "version": "0.5.1",
+  "summary": "A CLI app that runs AI-powered security workflows",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fraim-0.5.1.tar.gz",
+  "download_time": "2025-09-08T23:11:04.487970",
+  "package_url": "https://pypi.org/project/fraim/"
+}

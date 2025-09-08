@@ -1,0 +1,11 @@
+{
+  "name": "async-siril",
+  "version": "0.3.0",
+  "summary": "Python async wrapper around Siril astrophotography software.",
+  "author": "Kyle LeNeau",
+  "license": null,
+  "home_page": null,
+  "download_filename": "async_siril-0.3.0.tar.gz",
+  "download_time": "2025-09-08T23:10:36.226055",
+  "package_url": "https://pypi.org/project/async-siril/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "blocklister",
+  "version": "0.0.0",
+  "summary": "Parse and output blocklists in various formats",
+  "author": "Frederik “Freso” S. Olesen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "blocklister-0.0.0.tar.gz",
+  "download_time": "2025-09-08T23:10:49.596862",
+  "package_url": "https://pypi.org/project/blocklister/"
+}

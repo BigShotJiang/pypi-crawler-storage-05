@@ -1,0 +1,11 @@
+{
+  "name": "werkflow-aws",
+  "version": "0.5.40",
+  "summary": "An AWS module for Werkflow powered by Boto3.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "werkflow_aws-0.5.40.tar.gz",
+  "download_time": "2025-09-08T23:10:45.189502",
+  "package_url": "https://pypi.org/project/werkflow-aws/"
+}

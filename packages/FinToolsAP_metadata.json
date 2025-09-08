@@ -1,11 +1,11 @@
 {
   "name": "FinToolsAP",
-  "version": "1.14.14",
+  "version": "1.14.15",
   "summary": "This package is a comprehensive Python package designed for researchers and data analysts in economics and finance. It provides streamlined tools for managing, processing, and querying large datasets using a local SQLite database, as well as convenient data manipulation utilities compatible with both pandas and polars.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fintoolsap-1.14.14.tar.gz",
-  "download_time": "2025-09-08T22:40:06.160681",
+  "download_filename": "fintoolsap-1.14.15.tar.gz",
+  "download_time": "2025-09-08T23:10:37.294128",
   "package_url": "https://pypi.org/project/FinToolsAP/"
 }

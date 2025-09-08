@@ -1,0 +1,11 @@
+{
+  "name": "django-mysql",
+  "version": "4.18.0",
+  "summary": "Django-MySQL extends Django's built-in MySQL and MariaDB support their specific features not available on other databases.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_mysql-4.18.0.tar.gz",
+  "download_time": "2025-09-08T23:11:06.619261",
+  "package_url": "https://pypi.org/project/django-mysql/"
+}
