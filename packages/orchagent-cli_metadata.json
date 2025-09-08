@@ -1,11 +1,11 @@
 {
   "name": "orchagent-cli",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "CLI for the Orchagent API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "orchagent_cli-0.1.4.tar.gz",
-  "download_time": "2025-09-08T15:31:16.361339",
+  "download_filename": "orchagent_cli-0.1.5.tar.gz",
+  "download_time": "2025-09-08T18:51:50.209308",
   "package_url": "https://pypi.org/project/orchagent-cli/"
 }
