@@ -1,0 +1,11 @@
+{
+  "name": "VeriData",
+  "version": "0.1.0",
+  "summary": "An AI-powered data cleaning and validation toolkit.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/tiwariPratyush/veridata",
+  "download_filename": "veridata-0.1.0.tar.gz",
+  "download_time": "2025-09-08T17:29:01.212067",
+  "package_url": "https://pypi.org/project/VeriData/"
+}

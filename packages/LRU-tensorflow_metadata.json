@@ -1,0 +1,11 @@
+{
+  "name": "LRU-tensorflow",
+  "version": "0.1.2",
+  "summary": "Unofficial TensorFlow implementation of a Linear Recurrent Unit, proposed by Google Deepmind.",
+  "author": "Udit Sharma",
+  "license": "MIT",
+  "home_page": "https://github.com/DemandredEng/Linear-Recurrent-Units-Tensorflow",
+  "download_filename": "lru_tensorflow-0.1.2.tar.gz",
+  "download_time": "2025-09-08T17:29:10.101613",
+  "package_url": "https://pypi.org/project/LRU-tensorflow/"
+}

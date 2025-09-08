@@ -1,0 +1,11 @@
+{
+  "name": "mcp-agentmemory",
+  "version": "0.3.0",
+  "summary": "A specialized MCP server that tracks your Python development sessions, errors, fixes, and coding patterns using a persistent knowledge graph. This helps you build a searchable database of your development learnings, solutions, and insights. ",
+  "author": "Jens Rehpöhler",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_agentmemory-0.3.0.tar.gz",
+  "download_time": "2025-09-08T17:28:46.973035",
+  "package_url": "https://pypi.org/project/mcp-agentmemory/"
+}

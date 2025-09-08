@@ -1,11 +1,11 @@
 {
   "name": "qut-gradescope-autosubmitter",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Automated Gradescope submission tool for QUT students with a pretty CLI interface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qut_gradescope_autosubmitter-1.0.0.tar.gz",
-  "download_time": "2025-09-08T12:20:59.304670",
+  "download_filename": "qut_gradescope_autosubmitter-1.0.2.tar.gz",
+  "download_time": "2025-09-08T17:29:07.864438",
   "package_url": "https://pypi.org/project/qut-gradescope-autosubmitter/"
 }

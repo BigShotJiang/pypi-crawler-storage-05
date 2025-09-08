@@ -1,11 +1,11 @@
 {
   "name": "llm-fiber",
-  "version": "1.0",
+  "version": "1.0.1",
   "summary": "A thin, fast, observable Python client for LLMs",
   "author": "Aimless",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_fiber-1.0.tar.gz",
-  "download_time": "2025-09-08T16:11:33.876852",
+  "download_filename": "llm_fiber-1.0.1.tar.gz",
+  "download_time": "2025-09-08T17:28:59.540864",
   "package_url": "https://pypi.org/project/llm-fiber/"
 }

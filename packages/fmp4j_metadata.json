@@ -1,0 +1,11 @@
+{
+  "name": "fmp4j",
+  "version": "0.2.2",
+  "summary": "Thin Python wrapper around the fmp4j Java SDK",
+  "author": "Sorn Maksumic",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fmp4j-0.2.2.tar.gz",
+  "download_time": "2025-09-08T17:29:06.719937",
+  "package_url": "https://pypi.org/project/fmp4j/"
+}
