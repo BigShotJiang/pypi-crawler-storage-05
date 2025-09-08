@@ -1,0 +1,11 @@
+{
+  "name": "faster-coco-eval",
+  "version": "1.6.8",
+  "summary": "Faster interpretation of the original COCOEval",
+  "author": "MiXaiLL76",
+  "license": null,
+  "home_page": "https://github.com/MiXaiLL76/faster_coco_eval",
+  "download_filename": "faster_coco_eval-1.6.8.tar.gz",
+  "download_time": "2025-09-08T17:47:16.497654",
+  "package_url": "https://pypi.org/project/faster-coco-eval/"
+}

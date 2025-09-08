@@ -1,0 +1,11 @@
+{
+  "name": "apipie",
+  "version": "0.7.41",
+  "summary": "A short description of your package",
+  "author": "kokolabs",
+  "license": null,
+  "home_page": "https://github.com/kokoslabs/apipie",
+  "download_filename": "apipie-0.7.41.tar.gz",
+  "download_time": "2025-09-08T17:47:29.118768",
+  "package_url": "https://pypi.org/project/apipie/"
+}

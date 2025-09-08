@@ -1,0 +1,11 @@
+{
+  "name": "tox-backtick",
+  "version": "1.0.0",
+  "summary": "Backticks tox plugin for tox v.4.x.x.",
+  "author": "Damien Nadé, Steve Hespelt, Adam Karpierz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tox_backtick-1.0.0.tar.gz",
+  "download_time": "2025-09-08T17:47:18.588909",
+  "package_url": "https://pypi.org/project/tox-backtick/"
+}
