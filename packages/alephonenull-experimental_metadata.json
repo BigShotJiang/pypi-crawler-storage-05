@@ -1,0 +1,11 @@
+{
+  "name": "alephonenull-experimental",
+  "version": "0.1.0a1",
+  "summary": "⚠️ EXPERIMENTAL: Theoretical AI safety framework - research purposes only",
+  "author": "AlephOneNull Research Team",
+  "license": "MIT",
+  "home_page": "https://github.com/purposefulmaker/alephonenull",
+  "download_filename": "alephonenull_experimental-0.1.0a1.tar.gz",
+  "download_time": "2025-09-08T14:11:16.829448",
+  "package_url": "https://pypi.org/project/alephonenull-experimental/"
+}

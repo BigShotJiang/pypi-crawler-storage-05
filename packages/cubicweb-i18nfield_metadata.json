@@ -1,0 +1,11 @@
+{
+  "name": "cubicweb-i18nfield",
+  "version": "1.0.1",
+  "summary": "Provides a way to translate entity fields individually.",
+  "author": "Florent Cayré (Villejuif, FRANCE)",
+  "license": "LGPL",
+  "home_page": "http://www.cubicweb.org/project/cubicweb-i18nfield",
+  "download_filename": "cubicweb_i18nfield-1.0.1.tar.gz",
+  "download_time": "2025-09-08T14:11:20.442305",
+  "package_url": "https://pypi.org/project/cubicweb-i18nfield/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pfns",
+  "version": "0.4.2",
+  "summary": "PFNs made ready for BO",
+  "author": "Samuel Muller, Matthias Feurer, Noah Hollmann, Frank Hutter",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pfns-0.4.2.tar.gz",
+  "download_time": "2025-09-08T14:10:55.635495",
+  "package_url": "https://pypi.org/project/pfns/"
+}

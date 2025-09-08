@@ -1,0 +1,11 @@
+{
+  "name": "lockable",
+  "version": "0.13.1",
+  "summary": "lockable resource module",
+  "author": "Jussi Vatjus-Anttila",
+  "license": null,
+  "home_page": "https://github.com/jupe/py-lockable",
+  "download_filename": "lockable-0.13.1.tar.gz",
+  "download_time": "2025-09-08T14:11:21.472587",
+  "package_url": "https://pypi.org/project/lockable/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "snallygaster",
+  "version": "0.0.14",
+  "summary": "Tool to scan for secret files on HTTP servers",
+  "author": "Hanno Böck",
+  "license": "0BSD",
+  "home_page": "https://github.com/hannob/snallygaster",
+  "download_filename": "snallygaster-0.0.14.tar.gz",
+  "download_time": "2025-09-08T14:11:20.960941",
+  "package_url": "https://pypi.org/project/snallygaster/"
+}

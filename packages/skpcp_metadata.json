@@ -1,0 +1,11 @@
+{
+  "name": "skpcp",
+  "version": "0.1.0",
+  "summary": "Principal component pursuit built on top of scikit-learn",
+  "author": "Mohammadjavad Vakili",
+  "license": null,
+  "home_page": null,
+  "download_filename": "skpcp-0.1.0.tar.gz",
+  "download_time": "2025-09-08T14:11:08.596206",
+  "package_url": "https://pypi.org/project/skpcp/"
+}

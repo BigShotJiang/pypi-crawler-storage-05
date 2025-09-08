@@ -1,0 +1,11 @@
+{
+  "name": "pytest-lockable",
+  "version": "0.11.0",
+  "summary": "lockable resource plugin for pytest",
+  "author": "Jussi Vatjus-Anttila",
+  "license": null,
+  "home_page": "https://github.com/jupe/pytest-lockable",
+  "download_filename": "pytest_lockable-0.11.0.tar.gz",
+  "download_time": "2025-09-08T14:10:56.148135",
+  "package_url": "https://pypi.org/project/pytest-lockable/"
+}
