@@ -1,0 +1,11 @@
+{
+  "name": "terra-tai",
+  "version": "0.1.0",
+  "summary": "Terra Command AI - A natural language shell command tool with AI",
+  "author": "Terra AGI",
+  "license": "MIT",
+  "home_page": "https://github.com/terra-agi/terra-commands",
+  "download_filename": "terra_tai-0.1.0.tar.gz",
+  "download_time": "2025-09-08T08:14:41.639676",
+  "package_url": "https://pypi.org/project/terra-tai/"
+}

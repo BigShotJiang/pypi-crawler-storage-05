@@ -1,0 +1,11 @@
+{
+  "name": "drf-action-kit",
+  "version": "0.1.0",
+  "summary": "DRF mixins & viewsets with action-based serializer support.",
+  "author": "Erdi Mollahüseyinoğlu",
+  "license": "MIT",
+  "home_page": "https://github.com/erdimollahuseyin/drf-action-kit",
+  "download_filename": "drf_action_kit-0.1.0.tar.gz",
+  "download_time": "2025-09-08T08:14:53.755290",
+  "package_url": "https://pypi.org/project/drf-action-kit/"
+}

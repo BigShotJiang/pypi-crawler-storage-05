@@ -1,0 +1,11 @@
+{
+  "name": "wauo",
+  "version": "0.9",
+  "summary": "Python工具大全",
+  "author": "WangTuo",
+  "license": null,
+  "home_page": "https://github.com/markadc/wauo",
+  "download_filename": "wauo-0.9.tar.gz",
+  "download_time": "2025-09-08T08:14:48.997267",
+  "package_url": "https://pypi.org/project/wauo/"
+}

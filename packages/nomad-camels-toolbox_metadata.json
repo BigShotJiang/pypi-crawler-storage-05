@@ -1,11 +1,11 @@
 {
   "name": "nomad-camels-toolbox",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "This package provides easy access to data generated with nomad-camels",
   "author": "nomad-camels team",
   "license": null,
   "home_page": null,
-  "download_filename": "nomad_camels_toolbox-0.3.1.tar.gz",
-  "download_time": "2025-09-08T07:46:28.944262",
+  "download_filename": "nomad_camels_toolbox-0.3.2.tar.gz",
+  "download_time": "2025-09-08T08:15:17.549303",
   "package_url": "https://pypi.org/project/nomad-camels-toolbox/"
 }

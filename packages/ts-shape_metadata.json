@@ -1,0 +1,11 @@
+{
+  "name": "ts-shape",
+  "version": "0.0.0.25",
+  "summary": "ts-shape filters, transforms and engineers your timeseries dataframe",
+  "author": "Jakob Gabriel",
+  "license": null,
+  "home_page": "https://jakobgabriel.github.io/ts-shape/",
+  "download_filename": "ts_shape-0.0.0.25.tar.gz",
+  "download_time": "2025-09-08T08:14:54.803593",
+  "package_url": "https://pypi.org/project/ts-shape/"
+}

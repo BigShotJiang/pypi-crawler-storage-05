@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-line-refund-to-invoice-qty",
+  "version": "18.0.1.0.0.3",
+  "summary": "Allow deciding whether refunded quantity should be considered as quantity to reinvoice",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/account-invoicing",
+  "download_filename": "odoo_addon_sale_line_refund_to_invoice_qty-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-09-08T08:15:10.670492",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-line-refund-to-invoice-qty/"
+}
