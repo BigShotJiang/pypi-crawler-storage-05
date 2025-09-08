@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-appflow20230904",
+  "version": "1.0.1",
+  "summary": "Alibaba Cloud appflow (20230904) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_appflow20230904-1.0.1.tar.gz",
+  "download_time": "2025-09-08T17:39:00.747870",
+  "package_url": "https://pypi.org/project/alibabacloud-appflow20230904/"
+}

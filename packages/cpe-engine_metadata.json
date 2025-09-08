@@ -1,0 +1,11 @@
+{
+  "name": "cpe-engine",
+  "version": "0.2.2",
+  "summary": "Sistema de Emisión del Contribuyente - Facturación Electrónica Peruana",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cpe_engine-0.2.2.tar.gz",
+  "download_time": "2025-09-08T17:39:01.316140",
+  "package_url": "https://pypi.org/project/cpe-engine/"
+}

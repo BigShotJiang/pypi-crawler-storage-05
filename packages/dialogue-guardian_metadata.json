@@ -1,0 +1,11 @@
+{
+  "name": "dialogue-guardian",
+  "version": "1.1.2",
+  "summary": "Universal Media Censor - Automatically detect and censor profane language in video files",
+  "author": "Tony Snearly",
+  "license": "MIT",
+  "home_page": "https://github.com/tsnearly/dialogue-guardian",
+  "download_filename": "dialogue_guardian-1.1.2.tar.gz",
+  "download_time": "2025-09-08T17:38:45.040854",
+  "package_url": "https://pypi.org/project/dialogue-guardian/"
+}

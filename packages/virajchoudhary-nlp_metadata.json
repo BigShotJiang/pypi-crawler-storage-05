@@ -1,11 +1,11 @@
 {
   "name": "virajchoudhary-nlp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A personal toolkit for NLP lab coursework.",
   "author": "Viraj Choudhary",
   "license": null,
   "home_page": null,
-  "download_filename": "virajchoudhary_nlp-0.0.1.tar.gz",
-  "download_time": "2025-09-08T17:28:37.583019",
+  "download_filename": "virajchoudhary_nlp-0.0.2.tar.gz",
+  "download_time": "2025-09-08T17:38:47.358876",
   "package_url": "https://pypi.org/project/virajchoudhary-nlp/"
 }
