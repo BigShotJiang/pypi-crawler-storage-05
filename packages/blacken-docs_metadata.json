@@ -1,0 +1,11 @@
+{
+  "name": "blacken-docs",
+  "version": "1.20.0",
+  "summary": "Run Black on Python code blocks in documentation files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "blacken_docs-1.20.0.tar.gz",
+  "download_time": "2025-09-08T15:48:57.683534",
+  "package_url": "https://pypi.org/project/blacken-docs/"
+}

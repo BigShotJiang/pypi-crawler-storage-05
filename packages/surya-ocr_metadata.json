@@ -1,11 +1,11 @@
 {
   "name": "surya-ocr",
-  "version": "0.16.5",
+  "version": "0.16.6",
   "summary": "OCR, layout, reading order, and table recognition in 90+ languages",
   "author": "Vik Paruchuri",
   "license": "GPL-3.0-or-later",
   "home_page": "https://github.com/VikParuchuri/surya",
-  "download_filename": "surya_ocr-0.16.5.tar.gz",
-  "download_time": "2025-09-08T02:23:28.967728",
+  "download_filename": "surya_ocr-0.16.6.tar.gz",
+  "download_time": "2025-09-08T15:48:48.271186",
   "package_url": "https://pypi.org/project/surya-ocr/"
 }

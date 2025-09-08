@@ -1,0 +1,11 @@
+{
+  "name": "smartcut",
+  "version": "1.3.3",
+  "summary": "CLI tool for efficient video cutting with minimal recoding",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smartcut-1.3.3.tar.gz",
+  "download_time": "2025-09-08T15:48:10.946250",
+  "package_url": "https://pypi.org/project/smartcut/"
+}

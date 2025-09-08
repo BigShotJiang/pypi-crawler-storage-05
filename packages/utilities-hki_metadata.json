@@ -1,0 +1,11 @@
+{
+  "name": "utilities-hki",
+  "version": "0.1.24",
+  "summary": "Global utilities for Humankind data science",
+  "author": "Francisco Pena, Colleen Treado",
+  "license": null,
+  "home_page": null,
+  "download_filename": "utilities_hki-0.1.24.tar.gz",
+  "download_time": "2025-09-08T15:48:28.283856",
+  "package_url": "https://pypi.org/project/utilities-hki/"
+}
