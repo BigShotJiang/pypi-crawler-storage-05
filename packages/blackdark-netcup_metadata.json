@@ -1,0 +1,11 @@
+{
+  "name": "blackdark-netcup",
+  "version": "0.1.0",
+  "summary": "A Pulumi provider for managing Netcup DNS records and resources.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "blackdark_netcup-0.1.0.tar.gz",
+  "download_time": "2025-09-08T21:26:52.713043",
+  "package_url": "https://pypi.org/project/blackdark-netcup/"
+}

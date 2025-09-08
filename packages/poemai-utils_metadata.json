@@ -1,11 +1,11 @@
 {
   "name": "poemai-utils",
-  "version": "1.22.4",
+  "version": "1.22.5",
   "summary": "Add a short description here!",
   "author": "Markus Emmenegger",
   "license": "MIT",
   "home_page": "https://github.com/poemAI-ch/poemai-utils",
-  "download_filename": "poemai_utils-1.22.4.tar.gz",
-  "download_time": "2025-09-08T16:11:43.257138",
+  "download_filename": "poemai_utils-1.22.5.tar.gz",
+  "download_time": "2025-09-08T21:27:08.336707",
   "package_url": "https://pypi.org/project/poemai-utils/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "claude-saga",
+  "version": "0.1.1",
+  "summary": "A Redux Saga-like effect system for Python, designed for Claude Code hooks",
+  "author": "Iain",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_saga-0.1.1.tar.gz",
+  "download_time": "2025-09-08T21:27:22.817165",
+  "package_url": "https://pypi.org/project/claude-saga/"
+}

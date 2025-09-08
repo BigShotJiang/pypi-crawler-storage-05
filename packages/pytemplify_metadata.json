@@ -1,11 +1,11 @@
 {
   "name": "pytemplify",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "A generic generator framework using Jinja2 and user-defined parsers.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytemplify-0.1.14.tar.gz",
-  "download_time": "2025-09-08T20:48:01.515234",
+  "download_filename": "pytemplify-0.1.15.tar.gz",
+  "download_time": "2025-09-08T21:27:06.554658",
   "package_url": "https://pypi.org/project/pytemplify/"
 }

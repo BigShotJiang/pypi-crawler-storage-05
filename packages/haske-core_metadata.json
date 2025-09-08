@@ -1,11 +1,11 @@
 {
   "name": "haske-core",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "haske_core-0.2.0-cp39-abi3-win_amd64.whl",
-  "download_time": "2025-09-08T20:11:00.695011",
+  "download_filename": "haske_core-0.2.2-cp39-abi3-win_amd64.whl",
+  "download_time": "2025-09-08T21:27:14.161380",
   "package_url": "https://pypi.org/project/haske-core/"
 }

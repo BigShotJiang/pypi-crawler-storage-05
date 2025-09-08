@@ -1,0 +1,11 @@
+{
+  "name": "Wg-web-client",
+  "version": "0.1.12",
+  "summary": "WireGuard automation client with async support using Selenium and aiohttp",
+  "author": "Zurlex",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wg_web_client-0.1.12.tar.gz",
+  "download_time": "2025-09-08T21:26:39.071305",
+  "package_url": "https://pypi.org/project/Wg-web-client/"
+}
