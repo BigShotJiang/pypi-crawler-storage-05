@@ -1,0 +1,11 @@
+{
+  "name": "image-gen-mcp",
+  "version": "0.1.5",
+  "summary": "MCP image generation server with modular engines and routing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "image_gen_mcp-0.1.5.tar.gz",
+  "download_time": "2025-09-08T09:13:17.473659",
+  "package_url": "https://pypi.org/project/image-gen-mcp/"
+}

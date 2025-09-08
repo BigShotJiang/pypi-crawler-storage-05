@@ -1,0 +1,11 @@
+{
+  "name": "pyalgotrading",
+  "version": "2025.9.1",
+  "summary": "Official Python Package for Algorithmic Trading APIs powered by AlgoBulls",
+  "author": "Pushpak Dagade",
+  "license": null,
+  "home_page": "https://github.com/algobulls/pyalgotrading",
+  "download_filename": "pyalgotrading-2025.9.1-py3-none-any.whl",
+  "download_time": "2025-09-08T09:12:55.032390",
+  "package_url": "https://pypi.org/project/pyalgotrading/"
+}

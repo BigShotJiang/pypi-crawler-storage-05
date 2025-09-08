@@ -1,0 +1,11 @@
+{
+  "name": "mapvu",
+  "version": "0.0.1",
+  "summary": "A python package for web map application to crate interative mapping.",
+  "author": "Atul Bhardwaj",
+  "license": "MIT license",
+  "home_page": "https://github.com/gisatb/mapvu",
+  "download_filename": "mapvu-0.0.1.tar.gz",
+  "download_time": "2025-09-08T09:13:20.048412",
+  "package_url": "https://pypi.org/project/mapvu/"
+}

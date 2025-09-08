@@ -1,0 +1,11 @@
+{
+  "name": "wandelbots-api-client",
+  "version": "25.7.1",
+  "summary": "Wandelbots Python Client: Interact with robots in an easy and intuitive way.",
+  "author": "Copyright (c) 2025 Wandelbots GmbH",
+  "license": "Apache-2.0",
+  "home_page": "https://wandelbots.com/",
+  "download_filename": "wandelbots_api_client-25.7.1.tar.gz",
+  "download_time": "2025-09-08T09:13:11.763393",
+  "package_url": "https://pypi.org/project/wandelbots-api-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bthlabs-jsonrpc-django",
+  "version": "1.2.0",
+  "summary": "BTHLabs JSONRPC - Django integration",
+  "author": "Tomek Wójcik",
+  "license": "MIT",
+  "home_page": "https://projects.bthlabs.pl/bthlabs-jsonrpc/",
+  "download_filename": "bthlabs_jsonrpc_django-1.2.0.tar.gz",
+  "download_time": "2025-09-08T09:13:24.689979",
+  "package_url": "https://pypi.org/project/bthlabs-jsonrpc-django/"
+}
