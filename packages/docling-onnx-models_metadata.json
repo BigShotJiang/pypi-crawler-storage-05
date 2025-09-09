@@ -1,0 +1,11 @@
+{
+  "name": "docling-onnx-models",
+  "version": "0.1.1.dev0",
+  "summary": "ONNX Runtime implementations for Docling AI models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "docling_onnx_models-0.1.1.dev0.tar.gz",
+  "download_time": "2025-09-09T06:16:52.402091",
+  "package_url": "https://pypi.org/project/docling-onnx-models/"
+}

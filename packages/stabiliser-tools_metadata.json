@@ -1,0 +1,11 @@
+{
+  "name": "stabiliser-tools",
+  "version": "1.0.7",
+  "summary": "Fast algorithms for verifying and converting specifications of stabiliser states and Clifford gates.",
+  "author": "Wilfred Salmon, Nadish de Silva, Ming Yin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "stabiliser_tools-1.0.7.tar.gz",
+  "download_time": "2025-09-09T06:16:14.035089",
+  "package_url": "https://pypi.org/project/stabiliser-tools/"
+}

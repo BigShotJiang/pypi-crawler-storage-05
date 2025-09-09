@@ -1,11 +1,11 @@
 {
   "name": "easyUI-Qt",
-  "version": "0.0.2",
-  "summary": "A small example UI package",
-  "author": "pitelink",
+  "version": "0.0.3",
+  "summary": "A small UI package",
+  "author": "彭冲",
   "license": null,
   "home_page": null,
-  "download_filename": "easyui_qt-0.0.2.tar.gz",
-  "download_time": "2025-09-09T04:12:44.241739",
+  "download_filename": "easyui_qt-0.0.3.tar.gz",
+  "download_time": "2025-09-09T06:16:22.864939",
   "package_url": "https://pypi.org/project/easyUI-Qt/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "social-auth-pipeline-app",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "social_auth_pipeline_app-0.10.0.tar.gz",
-  "download_time": "2025-09-08T11:50:13.989919",
+  "download_filename": "social_auth_pipeline_app-0.11.0.tar.gz",
+  "download_time": "2025-09-09T06:16:17.629872",
   "package_url": "https://pypi.org/project/social-auth-pipeline-app/"
 }

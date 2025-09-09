@@ -1,0 +1,11 @@
+{
+  "name": "result-parser-agent",
+  "version": "1.2.0",
+  "summary": "A deep agent for extracting metrics from raw result files using LangGraph and intelligent parsing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "result_parser_agent-1.2.0.tar.gz",
+  "download_time": "2025-09-09T06:16:30.656479",
+  "package_url": "https://pypi.org/project/result-parser-agent/"
+}
