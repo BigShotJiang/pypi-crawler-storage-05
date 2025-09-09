@@ -1,0 +1,11 @@
+{
+  "name": "plcoding",
+  "version": "0.1.1",
+  "summary": "An advanced research toolkit for Arikan's polar codes.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "plcoding-0.1.1.tar.gz",
+  "download_time": "2025-09-09T05:30:39.302103",
+  "package_url": "https://pypi.org/project/plcoding/"
+}

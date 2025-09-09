@@ -1,0 +1,11 @@
+{
+  "name": "gandan",
+  "version": "0.4.0",
+  "summary": "a small tcp based middlware for raw with advanced pub-sub features",
+  "author": "SANG-HUN, KIM",
+  "license": null,
+  "home_page": "https://github.com/willcaster0418/gandan",
+  "download_filename": "gandan-0.4.0.tar.gz",
+  "download_time": "2025-09-09T05:30:41.369020",
+  "package_url": "https://pypi.org/project/gandan/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tap-hubspot",
+  "version": "4.0.0",
+  "summary": "Singer.io tap for extracting data from the HubSpot API",
+  "author": "Stitch",
+  "license": null,
+  "home_page": "http://singer.io",
+  "download_filename": "tap-hubspot-4.0.0.tar.gz",
+  "download_time": "2025-09-09T05:30:36.230271",
+  "package_url": "https://pypi.org/project/tap-hubspot/"
+}

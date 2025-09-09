@@ -1,0 +1,11 @@
+{
+  "name": "ScratchAgent",
+  "version": "0.1.0",
+  "summary": "A Python agent framework for building intelligent automation tools",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scratchagent-0.1.0.tar.gz",
+  "download_time": "2025-09-09T05:30:43.947421",
+  "package_url": "https://pypi.org/project/ScratchAgent/"
+}

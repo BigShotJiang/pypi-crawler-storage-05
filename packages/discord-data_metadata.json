@@ -1,0 +1,11 @@
+{
+  "name": "discord-data",
+  "version": "0.2.3",
+  "summary": "Library to parse the Discord GDPR export",
+  "author": "purarue",
+  "license": null,
+  "home_page": null,
+  "download_filename": "discord_data-0.2.3.tar.gz",
+  "download_time": "2025-09-09T05:30:27.501340",
+  "package_url": "https://pypi.org/project/discord-data/"
+}

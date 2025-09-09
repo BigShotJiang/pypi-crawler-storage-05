@@ -1,0 +1,11 @@
+{
+  "name": "ibauth",
+  "version": "0.0.9",
+  "summary": "Interactive Brokers OAuth",
+  "author": "Andrew Collier",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ibauth-0.0.9.tar.gz",
+  "download_time": "2025-09-09T05:30:30.075562",
+  "package_url": "https://pypi.org/project/ibauth/"
+}

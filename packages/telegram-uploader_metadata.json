@@ -1,11 +1,11 @@
 {
   "name": "telegram-uploader",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "summary": "A simple tool for interacting with the Telegram API, enabling file uploads (2GB), downloads, message deletion, and other common tasks. Built for automation and easy management of Telegram account activities. ",
   "author": "MohammadHam",
   "license": null,
   "home_page": "https://github.com/mohammadham/telegram-uploader/",
-  "download_filename": "telegram-uploader-0.9.2.tar.gz",
-  "download_time": "2025-09-08T10:35:33.858241",
+  "download_filename": "telegram-uploader-0.9.3.tar.gz",
+  "download_time": "2025-09-09T05:30:36.741772",
   "package_url": "https://pypi.org/project/telegram-uploader/"
 }

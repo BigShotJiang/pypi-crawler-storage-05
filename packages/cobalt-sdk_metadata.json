@@ -1,11 +1,11 @@
 {
   "name": "cobalt-sdk",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Python API for the Cobalt perception stack",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cobalt_sdk-0.3.0.tar.gz",
-  "download_time": "2025-09-09T03:13:31.603094",
+  "download_filename": "cobalt_sdk-0.3.1.tar.gz",
+  "download_time": "2025-09-09T05:30:30.585511",
   "package_url": "https://pypi.org/project/cobalt-sdk/"
 }
