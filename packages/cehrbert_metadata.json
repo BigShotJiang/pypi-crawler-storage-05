@@ -1,11 +1,11 @@
 {
   "name": "cehrbert",
-  "version": "1.4.8",
+  "version": "1.4.9",
   "summary": "CEHR-BERT: Incorporating temporal information from structured EHR data to improve prediction tasks",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "cehrbert-1.4.8-py3-none-any.whl",
-  "download_time": "2025-09-09T20:11:50.282315",
+  "download_filename": "cehrbert-1.4.9-py3-none-any.whl",
+  "download_time": "2025-09-09T23:33:29.608908",
   "package_url": "https://pypi.org/project/cehrbert/"
 }
