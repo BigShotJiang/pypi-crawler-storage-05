@@ -1,0 +1,11 @@
+{
+  "name": "qilowatt",
+  "version": "2025.9.2",
+  "summary": "Communication package for Qilowatt inverters",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qilowatt-2025.9.2.tar.gz",
+  "download_time": "2025-09-09T16:37:49.767854",
+  "package_url": "https://pypi.org/project/qilowatt/"
+}

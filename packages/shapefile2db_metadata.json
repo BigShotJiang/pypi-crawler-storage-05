@@ -1,11 +1,11 @@
 {
   "name": "shapefile2db",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Exports US Census ZCTA (Zip Code Tabulation Area) shapefiles to a SQLite database via CLI or Python API.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "shapefile2db-0.1.5.tar.gz",
-  "download_time": "2025-09-09T15:51:01.743108",
+  "download_filename": "shapefile2db-0.1.6.tar.gz",
+  "download_time": "2025-09-09T16:38:01.330584",
   "package_url": "https://pypi.org/project/shapefile2db/"
 }

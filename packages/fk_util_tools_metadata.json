@@ -1,0 +1,11 @@
+{
+  "name": "fk_util_tools",
+  "version": "0.2.0",
+  "summary": "This repository provides utility tools and common functions for FK projects, including helpers for configuration, logging, middleware, AWS integration, and OpenTelemetry instrumentation for Python web frameworks.",
+  "author": "Steven Santacruz Garcia",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fk_util_tools-0.2.0.tar.gz",
+  "download_time": "2025-09-09T16:38:00.272928",
+  "package_url": "https://pypi.org/project/fk_util_tools/"
+}

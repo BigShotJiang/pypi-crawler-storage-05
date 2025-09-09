@@ -1,0 +1,11 @@
+{
+  "name": "BinStandard",
+  "version": "0.1.0",
+  "summary": "An Simple Library With Fetch Bin info With binlist.net, Fully Asyncio With Uvloop Power.",
+  "author": "@Nactire",
+  "license": null,
+  "home_page": "https://github.com/yourusername/BinStandard",
+  "download_filename": "binstandard-0.1.0.tar.gz",
+  "download_time": "2025-09-09T16:37:55.533655",
+  "package_url": "https://pypi.org/project/BinStandard/"
+}

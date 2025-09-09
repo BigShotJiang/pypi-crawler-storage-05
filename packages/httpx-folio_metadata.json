@@ -1,11 +1,11 @@
 {
   "name": "httpx-folio",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "FOLIO related niceties for the next generation HTTP client for Python",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "httpx_folio-0.2.0.tar.gz",
-  "download_time": "2025-09-09T15:32:19.829100",
+  "download_filename": "httpx_folio-0.2.1.tar.gz",
+  "download_time": "2025-09-09T16:37:33.440679",
   "package_url": "https://pypi.org/project/httpx-folio/"
 }
