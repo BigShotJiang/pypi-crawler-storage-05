@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-dst-qq",
+  "version": "0.4.5",
+  "summary": "基于 NoneBot2 的饥荒管理平台 (DMP) QQ 机器人插件，支持游戏信息查询、命令执行和消息互通功能",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_dst_qq-0.4.5.tar.gz",
+  "download_time": "2025-09-09T05:11:40.391449",
+  "package_url": "https://pypi.org/project/nonebot-plugin-dst-qq/"
+}

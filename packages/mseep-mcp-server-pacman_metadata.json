@@ -1,0 +1,11 @@
+{
+  "name": "mseep-mcp-server-pacman",
+  "version": "0.2.0",
+  "summary": "A Model Context Protocol server providing tools to query package indices like PyPI, npm, and crates.io",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_mcp_server_pacman-0.2.0.tar.gz",
+  "download_time": "2025-09-09T05:11:28.162322",
+  "package_url": "https://pypi.org/project/mseep-mcp-server-pacman/"
+}

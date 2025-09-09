@@ -1,0 +1,11 @@
+{
+  "name": "mseep-mcp-neocoder",
+  "version": "0.1.0",
+  "summary": "Neo4j-guided AI coding workflow for MCP",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_mcp_neocoder-0.1.0.tar.gz",
+  "download_time": "2025-09-09T05:11:27.123573",
+  "package_url": "https://pypi.org/project/mseep-mcp-neocoder/"
+}

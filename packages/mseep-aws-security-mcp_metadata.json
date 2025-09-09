@@ -1,0 +1,11 @@
+{
+  "name": "mseep-aws-security-mcp",
+  "version": "0.1.0",
+  "summary": "AWS Security MCP - A comprehensive AWS security inspection and remediation tool",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_aws_security_mcp-0.1.0.tar.gz",
+  "download_time": "2025-09-09T05:11:28.694317",
+  "package_url": "https://pypi.org/project/mseep-aws-security-mcp/"
+}

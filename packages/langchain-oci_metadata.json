@@ -1,0 +1,11 @@
+{
+  "name": "langchain-oci",
+  "version": "0.1.5",
+  "summary": "An integration package connecting OCI and LangChain",
+  "author": null,
+  "license": "UPL",
+  "home_page": "https://github.com/oracle/langchain-oracle",
+  "download_filename": "langchain_oci-0.1.5.tar.gz",
+  "download_time": "2025-09-09T05:11:50.912369",
+  "package_url": "https://pypi.org/project/langchain-oci/"
+}

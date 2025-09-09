@@ -1,11 +1,11 @@
 {
   "name": "minecraft-datapack-language",
-  "version": "16.0.12",
+  "version": "16.0.13",
   "summary": "Compile MDL language with explicit scoping into a Minecraft datapack (1.21+ ready). Features variables, control flow, error handling, and VS Code extension.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "minecraft_datapack_language-16.0.12.tar.gz",
-  "download_time": "2025-09-09T04:35:10.577773",
+  "download_filename": "minecraft_datapack_language-16.0.13.tar.gz",
+  "download_time": "2025-09-09T05:11:20.775491",
   "package_url": "https://pypi.org/project/minecraft-datapack-language/"
 }

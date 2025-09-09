@@ -1,0 +1,11 @@
+{
+  "name": "mseep-solscan-mcp-server",
+  "version": "0.2.0",
+  "summary": "A Model Context Protocol server providing tools to interact with the Solscan Pro API via LLMs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_solscan_mcp_server-0.2.0.tar.gz",
+  "download_time": "2025-09-09T05:11:26.588757",
+  "package_url": "https://pypi.org/project/mseep-solscan-mcp-server/"
+}
