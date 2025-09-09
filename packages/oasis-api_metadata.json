@@ -1,11 +1,11 @@
 {
   "name": "oasis-api",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "summary": "Python API for the Open Acquisition System for IEPE Sensors (OASIS)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oasis_api-3.0.0.tar.gz",
-  "download_time": "2025-09-09T07:28:53.485425",
+  "download_filename": "oasis_api-3.0.1.tar.gz",
+  "download_time": "2025-09-09T15:32:42.252000",
   "package_url": "https://pypi.org/project/oasis-api/"
 }

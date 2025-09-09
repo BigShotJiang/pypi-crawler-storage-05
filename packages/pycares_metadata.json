@@ -1,0 +1,11 @@
+{
+  "name": "pycares",
+  "version": "4.11.0",
+  "summary": "Python interface for c-ares",
+  "author": "Saúl Ibarra Corretgé",
+  "license": "MIT",
+  "home_page": "http://github.com/saghul/pycares",
+  "download_filename": "pycares-4.11.0.tar.gz",
+  "download_time": "2025-09-09T15:32:32.412162",
+  "package_url": "https://pypi.org/project/pycares/"
+}

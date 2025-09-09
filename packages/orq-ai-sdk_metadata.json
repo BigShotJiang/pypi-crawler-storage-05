@@ -1,11 +1,11 @@
 {
   "name": "orq-ai-sdk",
-  "version": "3.12.4",
+  "version": "3.12.5",
   "summary": "Python Client SDK for the Orq API.",
   "author": "Orq",
   "license": null,
   "home_page": "https://github.com/orq-ai/orq-python.git",
-  "download_filename": "orq_ai_sdk-3.12.4.tar.gz",
-  "download_time": "2025-09-09T06:48:09.803865",
+  "download_filename": "orq_ai_sdk-3.12.5.tar.gz",
+  "download_time": "2025-09-09T15:32:20.869762",
   "package_url": "https://pypi.org/project/orq-ai-sdk/"
 }

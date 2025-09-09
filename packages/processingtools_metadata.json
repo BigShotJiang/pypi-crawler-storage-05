@@ -1,0 +1,11 @@
+{
+  "name": "processingtools",
+  "version": "0.5.0",
+  "summary": "A tool for image/video processing",
+  "author": "syy",
+  "license": "MIT",
+  "home_page": "https://github.com/ysy9997/ProcessingTools.git",
+  "download_filename": "processingtools-0.5.0-py3-none-any.whl",
+  "download_time": "2025-09-09T15:32:17.257500",
+  "package_url": "https://pypi.org/project/processingtools/"
+}

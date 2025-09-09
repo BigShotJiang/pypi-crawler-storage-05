@@ -1,0 +1,11 @@
+{
+  "name": "u-transkript",
+  "version": "1.1.0",
+  "summary": "YouTube videolarını otomatik olarak çıkarıp AI ile çeviren güçlü Python kütüphanesi",
+  "author": "U-C4N",
+  "license": "MIT",
+  "home_page": "https://github.com/U-C4N/u-transkript",
+  "download_filename": "u_transkript-1.1.0.tar.gz",
+  "download_time": "2025-09-09T15:32:34.985785",
+  "package_url": "https://pypi.org/project/u-transkript/"
+}

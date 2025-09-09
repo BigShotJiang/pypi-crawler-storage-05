@@ -1,11 +1,11 @@
 {
   "name": "xlwings-utils",
-  "version": "25.1.0.post0",
+  "version": "25.1.1",
   "summary": "xlwings_utils",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xlwings_utils-25.1.0.post0.tar.gz",
-  "download_time": "2025-09-09T14:32:27.174563",
+  "download_filename": "xlwings_utils-25.1.1.tar.gz",
+  "download_time": "2025-09-09T15:32:39.626739",
   "package_url": "https://pypi.org/project/xlwings-utils/"
 }

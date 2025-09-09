@@ -1,0 +1,11 @@
+{
+  "name": "validador-cnpj",
+  "version": "0.2.2",
+  "summary": "UDFs PySpark para limpeza, reparo, normalização e validação de CNPJ (numérico e alfanumérico).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "validador_cnpj-0.2.2.tar.gz",
+  "download_time": "2025-09-09T15:32:44.303756",
+  "package_url": "https://pypi.org/project/validador-cnpj/"
+}

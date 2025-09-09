@@ -1,0 +1,11 @@
+{
+  "name": "mdbf",
+  "version": "0.4.1",
+  "summary": "A Modular Discord Bot Framework based on pycord",
+  "author": "KiARC",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mdbf-0.4.1.tar.gz",
+  "download_time": "2025-09-09T15:32:19.318304",
+  "package_url": "https://pypi.org/project/mdbf/"
+}

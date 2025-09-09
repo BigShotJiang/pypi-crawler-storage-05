@@ -1,0 +1,11 @@
+{
+  "name": "openMINDS",
+  "version": "0.3.1",
+  "summary": "Python library for interacting with openMINDS metadata schemas",
+  "author": "Louisa Köhnen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openminds-0.3.1.tar.gz",
+  "download_time": "2025-09-09T15:32:14.668488",
+  "package_url": "https://pypi.org/project/openMINDS/"
+}

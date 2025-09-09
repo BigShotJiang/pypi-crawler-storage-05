@@ -1,0 +1,11 @@
+{
+  "name": "python-flexeval",
+  "version": "0.2.0",
+  "summary": "FlexEval is a tool for designing custom metrics, completion functions, and LLM-graded rubrics for evaluating the behavior of LLM-powered systems.",
+  "author": "S. Thomas Christie, Zachary Levonian, Baptiste Moreau-Pernet, Anna Rafferty, Terry Yu Tian",
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_flexeval-0.2.0.tar.gz",
+  "download_time": "2025-09-09T15:32:36.524760",
+  "package_url": "https://pypi.org/project/python-flexeval/"
+}
