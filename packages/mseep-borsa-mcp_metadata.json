@@ -1,0 +1,11 @@
+{
+  "name": "mseep-borsa-mcp",
+  "version": "0.7.1",
+  "summary": "A modular MCP Server for Borsa Istanbul (BIST) data using KAP and Yahoo Finance.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_borsa_mcp-0.7.1.tar.gz",
+  "download_time": "2025-09-09T08:54:03.087832",
+  "package_url": "https://pypi.org/project/mseep-borsa-mcp/"
+}

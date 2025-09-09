@@ -1,0 +1,11 @@
+{
+  "name": "is-number-prime",
+  "version": "0.1.0",
+  "summary": "Simple package for returning number is prime or not",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "is_number_prime-0.1.0.tar.gz",
+  "download_time": "2025-09-09T08:54:13.243387",
+  "package_url": "https://pypi.org/project/is-number-prime/"
+}

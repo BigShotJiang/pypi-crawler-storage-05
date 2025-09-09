@@ -1,0 +1,11 @@
+{
+  "name": "mseep-llm-sandbox",
+  "version": "0.3.14",
+  "summary": "LLM Sandbox is a lightweight and portable sandbox environment designed to run large language model (LLM) generated code in a safe and isolated mode.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_llm_sandbox-0.3.14.tar.gz",
+  "download_time": "2025-09-09T08:54:09.759982",
+  "package_url": "https://pypi.org/project/mseep-llm-sandbox/"
+}

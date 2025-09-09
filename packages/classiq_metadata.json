@@ -1,0 +1,11 @@
+{
+  "name": "classiq",
+  "version": "0.92.0",
+  "summary": "Classiq's Python SDK for quantum computing",
+  "author": "Classiq Technologies",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "classiq-0.92.0-py3-none-any.whl",
+  "download_time": "2025-09-09T08:53:44.873625",
+  "package_url": "https://pypi.org/project/classiq/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mseep-synalinks",
+  "version": "1.0.0",
+  "summary": "Graph-Based Programmable Neuro-Symbolic LM Framework",
+  "author": "mseep",
+  "license": null,
+  "home_page": "https://github.com/mseep",
+  "download_filename": "mseep_synalinks-1.0.0.tar.gz",
+  "download_time": "2025-09-09T08:54:12.194558",
+  "package_url": "https://pypi.org/project/mseep-synalinks/"
+}

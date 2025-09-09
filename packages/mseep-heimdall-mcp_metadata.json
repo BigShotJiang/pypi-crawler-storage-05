@@ -1,0 +1,11 @@
+{
+  "name": "mseep-heimdall-mcp",
+  "version": "0.3.6",
+  "summary": "Persistent, project-aware, long-term memory for AI coding assistants",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "mseep_heimdall_mcp-0.3.6.tar.gz",
+  "download_time": "2025-09-09T08:54:01.549580",
+  "package_url": "https://pypi.org/project/mseep-heimdall-mcp/"
+}

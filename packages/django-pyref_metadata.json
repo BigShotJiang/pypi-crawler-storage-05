@@ -1,0 +1,11 @@
+{
+  "name": "django-pyref",
+  "version": "0.6.6",
+  "summary": "A Django app defining data models for managing bibliographic references for scientific databases.",
+  "author": "Christian Hill, Frances Skinner, Iouli Gordon, Robert Hargreaves, Kelly Lockhart, Dipti",
+  "license": null,
+  "home_page": "https://github.com/xnx/django-pyref",
+  "download_filename": "django_pyref-0.6.6.tar.gz",
+  "download_time": "2025-09-09T08:53:58.993898",
+  "package_url": "https://pypi.org/project/django-pyref/"
+}
