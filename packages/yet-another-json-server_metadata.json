@@ -1,0 +1,11 @@
+{
+  "name": "yet-another-json-server",
+  "version": "0.26.2",
+  "summary": "A REST API for JSON content with zero coding.",
+  "author": "Adriano Vieira",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "yet_another_json_server-0.26.2.tar.gz",
+  "download_time": "2025-09-09T00:46:05.266777",
+  "package_url": "https://pypi.org/project/yet-another-json-server/"
+}

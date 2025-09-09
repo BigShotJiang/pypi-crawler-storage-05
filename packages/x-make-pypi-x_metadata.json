@@ -1,11 +1,11 @@
 {
   "name": "x-make-pypi-x",
-  "version": "10.0.4",
+  "version": "10.0.5",
   "summary": "Makes PyPI packages.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "x_make_pypi_x-10.0.4.tar.gz",
-  "download_time": "2025-09-08T13:50:45.804566",
+  "download_filename": "x_make_pypi_x-10.0.5.tar.gz",
+  "download_time": "2025-09-09T00:45:49.615801",
   "package_url": "https://pypi.org/project/x-make-pypi-x/"
 }

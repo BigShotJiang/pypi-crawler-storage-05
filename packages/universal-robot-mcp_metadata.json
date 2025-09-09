@@ -1,0 +1,11 @@
+{
+  "name": "universal-robot-mcp",
+  "version": "0.1.2",
+  "summary": "MCP server for Universal Robots control",
+  "author": "roversx",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "universal_robot_mcp-0.1.2.tar.gz",
+  "download_time": "2025-09-09T00:46:07.394027",
+  "package_url": "https://pypi.org/project/universal-robot-mcp/"
+}

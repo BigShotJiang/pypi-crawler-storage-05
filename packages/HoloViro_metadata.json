@@ -1,11 +1,11 @@
 {
   "name": "HoloViro",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Thread-safe, singleton virtual environment manager for rapid code generation, safe pip installs, and sandboxed Python automation.",
   "author": "Tristan McBride Sr.",
   "license": null,
   "home_page": null,
-  "download_filename": "holoviro-0.1.2.tar.gz",
-  "download_time": "2025-09-08T17:47:19.116406",
+  "download_filename": "holoviro-0.1.4.tar.gz",
+  "download_time": "2025-09-09T00:45:57.176485",
   "package_url": "https://pypi.org/project/HoloViro/"
 }

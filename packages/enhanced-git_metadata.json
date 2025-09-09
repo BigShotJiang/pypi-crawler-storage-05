@@ -1,11 +1,11 @@
 {
   "name": "enhanced-git",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Generate Conventional Commit messages and changelog sections using AI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "enhanced_git-1.0.5.tar.gz",
-  "download_time": "2025-09-08T23:37:25.768177",
+  "download_filename": "enhanced_git-1.0.6.tar.gz",
+  "download_time": "2025-09-09T00:46:05.787051",
   "package_url": "https://pypi.org/project/enhanced-git/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ec3D",
+  "version": "1.0.0",
+  "summary": "Reconstructing 3D structures of extrachromosomal DNA and other focal amplifications",
+  "author": "Biswanath Chowdhary",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ec3d-1.0.0.tar.gz",
+  "download_time": "2025-09-09T00:46:30.240508",
+  "package_url": "https://pypi.org/project/ec3D/"
+}
