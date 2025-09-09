@@ -1,11 +1,11 @@
 {
   "name": "advio",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Smart tool for sending automated",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "advio-0.1.0.tar.gz",
-  "download_time": "2025-09-09T21:47:39.824713",
+  "download_filename": "advio-0.1.1.tar.gz",
+  "download_time": "2025-09-09T22:09:05.365050",
   "package_url": "https://pypi.org/project/advio/"
 }

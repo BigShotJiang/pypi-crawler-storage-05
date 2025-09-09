@@ -1,0 +1,11 @@
+{
+  "name": "mesonet-alerts",
+  "version": "0.1.0",
+  "summary": "Shared email alerting, retries, and volume-drop checks for Mesonet workers",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "mesonet_alerts-0.1.0.tar.gz",
+  "download_time": "2025-09-09T22:09:00.179690",
+  "package_url": "https://pypi.org/project/mesonet-alerts/"
+}

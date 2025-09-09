@@ -1,11 +1,11 @@
 {
   "name": "report-pdf-wrapper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "A simple pip module for creating generic PDF reports.",
   "author": "Alex Nuccio",
   "license": null,
   "home_page": "https://github.com/nr-software/Report-PDF-Creation.git",
-  "download_filename": "report_pdf_wrapper-1.0.2-py3-none-any.whl",
-  "download_time": "2025-09-09T21:26:33.330426",
+  "download_filename": "report_pdf_wrapper-1.0.3-py3-none-any.whl",
+  "download_time": "2025-09-09T22:08:50.899160",
   "package_url": "https://pypi.org/project/report-pdf-wrapper/"
 }

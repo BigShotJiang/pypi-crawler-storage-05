@@ -1,11 +1,11 @@
 {
   "name": "powerfx",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "summary": "Power Fx python bridge to invoke c# implementation.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "powerfx-0.1.0.tar.gz",
-  "download_time": "2025-09-09T21:26:34.904136",
+  "download_filename": "powerfx-0.0.1-py3-none-any.whl",
+  "download_time": "2025-09-09T22:09:21.175580",
   "package_url": "https://pypi.org/project/powerfx/"
 }

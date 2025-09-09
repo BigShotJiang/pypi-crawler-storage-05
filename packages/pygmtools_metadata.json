@@ -1,0 +1,11 @@
+{
+  "name": "pygmtools",
+  "version": "0.5.4",
+  "summary": "pygmtools provides graph matching solvers in Python API and supports numpy and pytorch backends. pygmtools also provides dataset API for standard graph matching benchmarks.",
+  "author": "ThinkLab at SJTU",
+  "license": "Mulan PSL v2",
+  "home_page": "https://pygmtools.readthedocs.io/",
+  "download_filename": "pygmtools-0.5.4.tar.gz",
+  "download_time": "2025-09-09T22:09:19.607332",
+  "package_url": "https://pypi.org/project/pygmtools/"
+}
