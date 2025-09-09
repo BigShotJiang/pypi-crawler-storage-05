@@ -1,0 +1,11 @@
+{
+  "name": "mseep-mcp-server-windbg",
+  "version": "0.1.1",
+  "summary": "A Model Context Protocol server providing tools to analyze Windows crash dumps using WinDBG/CDB",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_mcp_server_windbg-0.1.1.tar.gz",
+  "download_time": "2025-09-09T11:09:36.188624",
+  "package_url": "https://pypi.org/project/mseep-mcp-server-windbg/"
+}

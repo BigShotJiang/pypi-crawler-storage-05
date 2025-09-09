@@ -1,0 +1,11 @@
+{
+  "name": "lionheart",
+  "version": "2.0.2",
+  "summary": "LIONHEART is a method for detecting cancer from whole genome sequenced plasma cell-free DNA. Check the README for additional installation steps.",
+  "author": "Ludvig",
+  "license": null,
+  "home_page": "https://github.com/BesenbacherLab/lionheart",
+  "download_filename": "lionheart-2.0.2.tar.gz",
+  "download_time": "2025-09-09T11:09:50.400898",
+  "package_url": "https://pypi.org/project/lionheart/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mseep-mcp-simple-chatbot",
+  "version": "0.1.1",
+  "summary": "A simple CLI chatbot using the Model Context Protocol (MCP)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_mcp_simple_chatbot-0.1.1.tar.gz",
+  "download_time": "2025-09-09T11:09:46.760113",
+  "package_url": "https://pypi.org/project/mseep-mcp-simple-chatbot/"
+}

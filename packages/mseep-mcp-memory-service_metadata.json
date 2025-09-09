@@ -1,0 +1,11 @@
+{
+  "name": "mseep-mcp-memory-service",
+  "version": "6.13.4",
+  "summary": "Universal MCP memory service with semantic search, multi-client support, and autonomous consolidation for Claude Desktop, VS Code, and 13+ AI applications",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mseep_mcp_memory_service-6.13.4.tar.gz",
+  "download_time": "2025-09-09T11:10:18.731669",
+  "package_url": "https://pypi.org/project/mseep-mcp-memory-service/"
+}

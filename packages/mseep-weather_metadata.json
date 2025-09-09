@@ -1,11 +1,11 @@
 {
   "name": "mseep-weather",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mseep_weather-0.1.7.tar.gz",
-  "download_time": "2025-09-09T10:49:34.411205",
+  "download_filename": "mseep_weather-0.1.8.tar.gz",
+  "download_time": "2025-09-09T11:10:11.950480",
   "package_url": "https://pypi.org/project/mseep-weather/"
 }

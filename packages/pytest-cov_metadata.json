@@ -1,0 +1,11 @@
+{
+  "name": "pytest-cov",
+  "version": "7.0.0",
+  "summary": "Pytest plugin for measuring coverage.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_cov-7.0.0.tar.gz",
+  "download_time": "2025-09-09T11:09:52.489978",
+  "package_url": "https://pypi.org/project/pytest-cov/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "DDS-All",
-  "version": "0.1.2",
-  "summary": "新增__init__.py文件",
+  "version": "0.1.4",
+  "summary": "修复.pyd不存在的问题",
   "author": "JackyJia",
   "license": null,
   "home_page": null,
-  "download_filename": "dds_all-0.1.2.tar.gz",
-  "download_time": "2025-09-09T09:47:54.217808",
+  "download_filename": "dds_all-0.1.4.tar.gz",
+  "download_time": "2025-09-09T11:10:01.396364",
   "package_url": "https://pypi.org/project/DDS-All/"
 }

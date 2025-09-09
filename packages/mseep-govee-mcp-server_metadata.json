@@ -1,0 +1,11 @@
+{
+  "name": "mseep-govee-mcp-server",
+  "version": "0.1.4",
+  "summary": "MCP server to control Govee LED devices",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_govee_mcp_server-0.1.4.tar.gz",
+  "download_time": "2025-09-09T11:10:00.872356",
+  "package_url": "https://pypi.org/project/mseep-govee-mcp-server/"
+}

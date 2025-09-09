@@ -1,0 +1,11 @@
+{
+  "name": "sem-meta",
+  "version": "0.1.1",
+  "summary": "Unified interface for SEM image processing: metadata extraction, OCR-based pixel size estimation, and unit conversion",
+  "author": "Ahmed Khalil, Tommaso Rodani",
+  "license": "MIT",
+  "home_page": "https://github.com/asaleh33/sem-meta",
+  "download_filename": "sem_meta-0.1.1.tar.gz",
+  "download_time": "2025-09-09T11:09:51.451263",
+  "package_url": "https://pypi.org/project/sem-meta/"
+}

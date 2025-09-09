@@ -1,11 +1,11 @@
 {
   "name": "serpy-rest",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A minimal ASGI web framework for Python.",
   "author": "Ragav Vignes",
   "license": null,
   "home_page": "https://github.com/ragav2005/SerPy",
-  "download_filename": "serpy_rest-0.1.0.tar.gz",
-  "download_time": "2025-09-09T10:49:35.976387",
+  "download_filename": "serpy_rest-0.1.1.tar.gz",
+  "download_time": "2025-09-09T11:09:48.319496",
   "package_url": "https://pypi.org/project/serpy-rest/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "stringzilla",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "summary": "Search, hash, sort, fingerprint, and fuzzy-match strings faster via SWAR, SIMD, and GPGPU",
   "author": "Ash Vardanian",
   "license": "Apache-2.0",
   "home_page": "https://github.com/ashvardanian/stringzilla",
-  "download_filename": "stringzilla-4.0.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.manylinux_2_28_aarch64.whl",
-  "download_time": "2025-09-09T10:35:28.163311",
+  "download_filename": "stringzilla-4.0.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.manylinux_2_28_aarch64.whl",
+  "download_time": "2025-09-09T11:10:10.895781",
   "package_url": "https://pypi.org/project/stringzilla/"
 }

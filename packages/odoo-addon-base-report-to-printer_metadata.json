@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-base-report-to-printer",
+  "version": "18.0.1.1.1",
+  "summary": "Report to printer",
+  "author": "Agile Business Group & Domsense, Pegueroles SCP, NaN, LasLabs, Camptocamp, Odoo Community Association (OCA), Open for Small Business Ltd",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/report-print-send",
+  "download_filename": "odoo_addon_base_report_to_printer-18.0.1.1.1-py3-none-any.whl",
+  "download_time": "2025-09-09T11:10:16.652981",
+  "package_url": "https://pypi.org/project/odoo-addon-base-report-to-printer/"
+}
