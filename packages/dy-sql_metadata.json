@@ -1,11 +1,11 @@
 {
   "name": "dy-sql",
-  "version": "3.1.178",
+  "version": "3.1.180",
   "summary": "Dynamically runs SQL queries and executions.",
   "author": "Adobe",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dy_sql-3.1.178.tar.gz",
-  "download_time": "2025-09-09T20:30:48.244198",
+  "download_filename": "dy_sql-3.1.180.tar.gz",
+  "download_time": "2025-09-09T22:28:45.993457",
   "package_url": "https://pypi.org/project/dy-sql/"
 }

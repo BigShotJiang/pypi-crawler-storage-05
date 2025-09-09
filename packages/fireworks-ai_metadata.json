@@ -1,0 +1,11 @@
+{
+  "name": "fireworks-ai",
+  "version": "0.19.19",
+  "summary": "Python client library for the Fireworks AI Platform",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fireworks_ai-0.19.19.tar.gz",
+  "download_time": "2025-09-09T22:29:15.592358",
+  "package_url": "https://pypi.org/project/fireworks-ai/"
+}

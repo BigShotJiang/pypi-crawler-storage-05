@@ -1,11 +1,11 @@
 {
   "name": "phs-poly",
-  "version": "0.1.0",
-  "summary": "Python bindings for Fortran phs3_poly2",
+  "version": "0.2.1",
+  "summary": "PHS+poly approximation procedures",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "phs_poly-0.1.0.tar.gz",
-  "download_time": "2025-09-08T23:28:49.363326",
+  "download_filename": "phs_poly-0.2.1.tar.gz",
+  "download_time": "2025-09-09T22:28:40.139018",
   "package_url": "https://pypi.org/project/phs-poly/"
 }
