@@ -1,22 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-09T22:38:56.468752
+- **Download Time**: 2025-09-09T22:52:26.359107
 - **Total Packages**: 81
-- **Total Size**: 29.95 MB
+- **Total Size**: 15.21 MB
 
 ## Packages List
+- sportsball
+- authentik-client
+- chief-ai
+- nettracer3d
+- genesis-flow
+- meridianalgo
+- music-drummer
+- simplelinks
+- gitlab-api
+- radboy
+- parsing_tools
+- systems-manager
+- agave
+- rastereasy
+- django-okta-client
+- odoo-addon-gestion-editorial
+- calimero-client-py
+- sqlmesh
+- localstack-core
+- postprocessing-seismo-lib
+- tdom
+- ai-audit-sdk
+- fused
+- pymammotion
+- ying
 - victor-openai-example
 - woffu-client
 - flake8-comprehensions
 - report-pdf-wrapper
 - novatrace
-- authentik-client
 - stock-analysis-toolkit
 - koppengeiger
 - claude-mpm
-- radboy
-- simplelinks
 - teloxi
 - aduib-rpc
 - assisted-service-client
@@ -31,7 +53,6 @@
 - fastgps
 - forecasting-tools
 - truss
-- sportsball
 - bfg-maputil
 - rangebar
 - futurehouse-client
@@ -43,7 +64,6 @@
 - plain
 - mesonet-alerts
 - witticism
-- music-drummer
 - assemblyline-core
 - dy-sql
 - assemblyline
@@ -53,7 +73,6 @@
 - assemblyline-service-client
 - ml4gw-buoy
 - statsig-python-core
-- rastereasy
 - entity-query-language
 - sapiopycommons
 - plain.worker
@@ -68,22 +87,3 @@
 - firewall-test
 - authzed
 - pytest-api-cov
-- slimformers
-- rpideck
-- rxfoundry.clients.swifty_api
-- rxfoundry.clients.swifty_oauth_api
-- airbyte-source-netsuite
-- ledger2bql
-- imap-processing
-- listofdicts
-- airbyte-source-marketo
-- airbyte-source-outbrain-amplify
-- pygmtools
-- arthur-client
-- AgentService
-- awslabs.well-architected-security-mcp-server
-- viqi-api
-- awslabs.ecs-mcp-server
-- awslabs.aws-documentation-mcp-server
-- awslabs.ccapi-mcp-server
-- awslabs.cloudtrail-mcp-server

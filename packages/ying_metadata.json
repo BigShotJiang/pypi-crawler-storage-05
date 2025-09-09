@@ -1,11 +1,11 @@
 {
   "name": "ying",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "My personal python library.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ying-0.3.1-py3-none-any.whl",
-  "download_time": "2025-09-09T21:25:54.104859",
+  "download_filename": "ying-0.3.2-py3-none-any.whl",
+  "download_time": "2025-09-09T22:51:56.196774",
   "package_url": "https://pypi.org/project/ying/"
 }

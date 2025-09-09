@@ -1,11 +1,11 @@
 {
   "name": "rastereasy",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A library to ease the manipulation of geospatial images",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rastereasy-0.1.2-py3-none-any.whl",
-  "download_time": "2025-09-09T22:28:50.377064",
+  "download_filename": "rastereasy-0.1.3.tar.gz",
+  "download_time": "2025-09-09T22:51:50.133454",
   "package_url": "https://pypi.org/project/rastereasy/"
 }

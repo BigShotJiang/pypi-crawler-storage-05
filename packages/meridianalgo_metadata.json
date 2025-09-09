@@ -1,11 +1,11 @@
 {
   "name": "meridianalgo",
-  "version": "2.2.1",
+  "version": "3.0.0",
   "summary": "Advanced Algorithmic Trading and Statistical Analysis Library",
   "author": "Meridian Algorithmic Research Team",
   "license": null,
   "home_page": "https://github.com/MeridianAlgo/Python-Packages",
-  "download_filename": "meridianalgo-2.2.1.tar.gz",
-  "download_time": "2025-09-09T03:13:29.871625",
+  "download_filename": "meridianalgo-3.0.0.tar.gz",
+  "download_time": "2025-09-09T22:51:44.450801",
   "package_url": "https://pypi.org/project/meridianalgo/"
 }
