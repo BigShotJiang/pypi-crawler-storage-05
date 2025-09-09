@@ -1,11 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-09T22:29:24.790556
-- **Total Packages**: 83
-- **Total Size**: 21.63 MB
+- **Download Time**: 2025-09-09T22:38:56.468752
+- **Total Packages**: 81
+- **Total Size**: 29.95 MB
 
 ## Packages List
+- victor-openai-example
+- woffu-client
+- flake8-comprehensions
+- report-pdf-wrapper
+- novatrace
+- authentik-client
+- stock-analysis-toolkit
+- koppengeiger
+- claude-mpm
+- radboy
+- simplelinks
+- teloxi
+- aduib-rpc
+- assisted-service-client
+- chalkpy
+- mcp-agent
+- apache-airflow
+- apache-airflow-task-sdk
+- apache-airflow-core
+- trame-dataclass
+- pytesdaq
+- moosez
+- fastgps
+- forecasting-tools
+- truss
+- sportsball
+- bfg-maputil
+- rangebar
 - futurehouse-client
 - phs-poly
 - actfast
@@ -15,7 +43,6 @@
 - plain
 - mesonet-alerts
 - witticism
-- authentik-client
 - music-drummer
 - assemblyline-core
 - dy-sql
@@ -38,16 +65,13 @@
 - chaiverse
 - pycuda
 - chuk-mcp-server
-- truss
 - firewall-test
-- report-pdf-wrapper
 - authzed
 - pytest-api-cov
 - slimformers
 - rpideck
 - rxfoundry.clients.swifty_api
 - rxfoundry.clients.swifty_oauth_api
-- rangebar
 - airbyte-source-netsuite
 - ledger2bql
 - imap-processing
@@ -57,35 +81,9 @@
 - pygmtools
 - arthur-client
 - AgentService
-- sportsball
 - awslabs.well-architected-security-mcp-server
 - viqi-api
-- stock-analysis-toolkit
 - awslabs.ecs-mcp-server
 - awslabs.aws-documentation-mcp-server
 - awslabs.ccapi-mcp-server
 - awslabs.cloudtrail-mcp-server
-- awslabs.dynamodb-mcp-server
-- awslabs.healthlake-mcp-server
-- awslabs.aws-diagram-mcp-server
-- victor-openai-example
-- moose-lib
-- regula-documentreader-webclient
-- clicycle
-- fireworks-ai
-- meshtrade
-- suga-client
-- nillanet
-- imap-data-access
-- ssh-para
-- crc-pulp-service-client
-- crc-pulp-file-client
-- crc-pulp-maven-client
-- run-para
-- crc-pulp-rpm-client
-- crc-pulp-gem-client
-- claude-mpm
-- crc-pulp-npm-client
-- crc-pulp-python-client
-- crc-pulpcore-client
-- minidocker
