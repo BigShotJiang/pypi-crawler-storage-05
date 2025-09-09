@@ -1,0 +1,11 @@
+{
+  "name": "zih-ldap",
+  "version": "0.2.4",
+  "summary": "Wrapper integrating LDAP and Pydantic for TU Dresden",
+  "author": "Ansgar Burchardt",
+  "license": "MIT",
+  "home_page": "https://gitlab.hrz.tu-chemnitz.de/zih/sde/zih-ldap",
+  "download_filename": "zih_ldap-0.2.4.tar.gz",
+  "download_time": "2025-09-09T11:25:50.873708",
+  "package_url": "https://pypi.org/project/zih-ldap/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pwrpy",
+  "version": "6.2.0",
+  "summary": "PWRPY is a Python library for interacting with the PWR network.",
+  "author": "PWR Labs",
+  "license": "MIT",
+  "home_page": "https://github.com/pwrlabs/pwrpy",
+  "download_filename": "pwrpy-6.2.0.tar.gz",
+  "download_time": "2025-09-09T11:25:27.055096",
+  "package_url": "https://pypi.org/project/pwrpy/"
+}

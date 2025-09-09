@@ -1,0 +1,11 @@
+{
+  "name": "mseep-odoo-mcp",
+  "version": "0.0.6",
+  "summary": "MCP Server for Odoo Integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_odoo_mcp-0.0.6.tar.gz",
+  "download_time": "2025-09-09T11:25:55.006210",
+  "package_url": "https://pypi.org/project/mseep-odoo-mcp/"
+}

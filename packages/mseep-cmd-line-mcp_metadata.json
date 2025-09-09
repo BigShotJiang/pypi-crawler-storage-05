@@ -1,0 +1,11 @@
+{
+  "name": "mseep-cmd-line-mcp",
+  "version": "0.5.3",
+  "summary": "Command-line MCP server for safe command execution",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_cmd_line_mcp-0.5.3.tar.gz",
+  "download_time": "2025-09-09T11:25:55.519406",
+  "package_url": "https://pypi.org/project/mseep-cmd-line-mcp/"
+}
