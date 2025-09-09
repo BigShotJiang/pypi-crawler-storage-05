@@ -1,0 +1,11 @@
+{
+  "name": "runwayml",
+  "version": "3.12.1",
+  "summary": "The official Python library for the runwayml API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "runwayml-3.12.1.tar.gz",
+  "download_time": "2025-09-09T13:41:15.450448",
+  "package_url": "https://pypi.org/project/runwayml/"
+}

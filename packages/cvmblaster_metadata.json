@@ -1,0 +1,11 @@
+{
+  "name": "cvmblaster",
+  "version": "0.6.1",
+  "summary": "find antimcirobial resistance genes",
+  "author": "Qingpo Cui",
+  "license": "MIT Licence",
+  "home_page": "https://github.com/hbucqp/cvmblaster",
+  "download_filename": "cvmblaster-0.6.1.tar.gz",
+  "download_time": "2025-09-09T13:41:13.391552",
+  "package_url": "https://pypi.org/project/cvmblaster/"
+}

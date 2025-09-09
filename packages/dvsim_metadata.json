@@ -1,0 +1,11 @@
+{
+  "name": "dvsim",
+  "version": "0.1.0",
+  "summary": "DV system",
+  "author": "lowRISC contributors (OpenTitan project)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dvsim-0.1.0.tar.gz",
+  "download_time": "2025-09-09T13:41:52.430173",
+  "package_url": "https://pypi.org/project/dvsim/"
+}

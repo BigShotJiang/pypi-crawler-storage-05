@@ -1,11 +1,11 @@
 {
   "name": "textmode",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A tiny textmode fantasy console for building games with a custom tileset-like font.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "textmode-0.2.0.tar.gz",
-  "download_time": "2025-09-09T03:13:43.312992",
+  "download_filename": "textmode-0.3.0.tar.gz",
+  "download_time": "2025-09-09T13:41:19.087923",
   "package_url": "https://pypi.org/project/textmode/"
 }

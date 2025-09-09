@@ -1,0 +1,11 @@
+{
+  "name": "verovio",
+  "version": "5.6.0",
+  "summary": "A library and toolkit for engraving MEI music notation into SVG",
+  "author": null,
+  "license": "LGPLv3",
+  "home_page": "https://www.verovio.org",
+  "download_filename": "verovio-5.6.0.tar.gz",
+  "download_time": "2025-09-09T13:41:49.344732",
+  "package_url": "https://pypi.org/project/verovio/"
+}

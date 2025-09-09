@@ -1,0 +1,11 @@
+{
+  "name": "fusesoc",
+  "version": "2.4.4",
+  "summary": "Award-winnning package manager and build abstraction tool for HDL code",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fusesoc-2.4.4.tar.gz",
+  "download_time": "2025-09-09T13:41:53.455235",
+  "package_url": "https://pypi.org/project/fusesoc/"
+}

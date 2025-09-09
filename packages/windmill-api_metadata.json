@@ -1,11 +1,11 @@
 {
   "name": "windmill-api",
-  "version": "1.540.0",
+  "version": "1.540.1",
   "summary": "A client library for accessing Windmill API",
   "author": "Ruben Fiszel",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "windmill_api-1.540.0.tar.gz",
-  "download_time": "2025-09-09T08:16:07.101796",
+  "download_filename": "windmill_api-1.540.1.tar.gz",
+  "download_time": "2025-09-09T13:41:34.740259",
   "package_url": "https://pypi.org/project/windmill-api/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pycparser",
+  "version": "2.23",
+  "summary": "C parser in Python",
+  "author": "Eli Bendersky",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/eliben/pycparser",
+  "download_filename": "pycparser-2.23.tar.gz",
+  "download_time": "2025-09-09T13:41:58.071464",
+  "package_url": "https://pypi.org/project/pycparser/"
+}
