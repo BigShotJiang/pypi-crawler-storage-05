@@ -1,11 +1,11 @@
 {
   "name": "vellum-ai",
-  "version": "1.3.7",
+  "version": "1.3.8",
   "summary": null,
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vellum_ai-1.3.7.tar.gz",
-  "download_time": "2025-09-09T17:37:05.502894",
+  "download_filename": "vellum_ai-1.3.8.tar.gz",
+  "download_time": "2025-09-09T21:34:00.646615",
   "package_url": "https://pypi.org/project/vellum-ai/"
 }

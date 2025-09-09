@@ -1,0 +1,11 @@
+{
+  "name": "tnia-python",
+  "version": "0.1.27",
+  "summary": "A collection of utilities",
+  "author": "Brian Northan",
+  "license": "MIT",
+  "home_page": "http://github.com/tnia/tnia-python",
+  "download_filename": "tnia_python-0.1.27.tar.gz",
+  "download_time": "2025-09-09T21:34:00.022515",
+  "package_url": "https://pypi.org/project/tnia-python/"
+}

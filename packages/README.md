@@ -1,53 +1,18 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-09T21:26:37.501032
-- **Total Packages**: 89
-- **Total Size**: 32.75 MB
+- **Download Time**: 2025-09-09T21:34:16.402479
+- **Total Packages**: 91
+- **Total Size**: 5.06 MB
 
 ## Packages List
-- inchpym
-- topmark
-- authentik-client
-- lander
-- jenkinsapi
-- pyclsp
-- defog
-- ying
-- tracdap-runtime
-- guidance
-- epubchapterize
-- trame-dataclass
-- sqlmesh
-- plutoprint
-- saturn-client
-- 4tlantic
-- chawk
-- calkit-python
-- green-score
-- prowlpy
-- plane-env
-- algosec-appviz
-- pulumi-provider-boilerplate
-- newportxps
-- photo-objects
-- zrb
-- roboflow
-- music-drummer
-- spinenet
-- smcpy
-- ringfit
-- albionSmallLibs
-- geocat.comp
-- videojungle
-- co-datascientist
-- runtime-lang
 - compit-inext-api
 - arthur-client
 - autopack-grn
 - rxfoundry.clients.swifty_api
 - rxfoundry.clients.swifty_oauth_api
 - airbyte
+- ying
 - natlog
 - django-content-access-control
 - talipp
@@ -58,8 +23,10 @@
 - agentmake
 - eeco
 - sift-stack-py
+- inchpym
 - standardbots
 - message-ix-models
+- authentik-client
 - fixit-ai
 - npcpy
 - dub
@@ -69,6 +36,7 @@
 - rpft
 - trustgraph-vertexai
 - trustgraph-ocr
+- pulumi-provider-boilerplate
 - trustgraph-mcp
 - trustgraph-flow
 - trustgraph-embeddings-hf
@@ -76,6 +44,7 @@
 - trustgraph-bedrock
 - trustgraph-base
 - trustgraph
+- tracdap-runtime
 - ckanext-create-typed-package
 - haske-core
 - haske
@@ -92,6 +61,39 @@
 - nbtx
 - powerfx
 - parmoji
+- topmark
 - cwl-utils
 - iab-mapper
 - galileo
+- parao
+- quantconnect-stubs
+- open-edison
+- tnia-python
+- vellum-ai
+- classroom-pilot
+- async-universalis
+- runtime-lang
+- AoUPRS
+- envcfglib
+- django-autogfk
+- PD-loss-balancing
+- nautobot-dev-example
+- thds.atacama
+- thds.mops
+- thds.humenc
+- thds.core
+- thds.adls
+- academia-mcp
+- sonyflake
+- pyTorchAutoForge
+- devsecops-engine-tools
+- clumpick
+- fasthtml-auth
+- truss
+- marker-pdf
+- imdbinfo
+- listen2_rust
+- py-lerchs-grossmann
+- tapir-archicad-mcp
+- tscompare
+- statsig
