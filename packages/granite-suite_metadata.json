@@ -1,0 +1,11 @@
+{
+  "name": "granite-suite",
+  "version": "0.4.0",
+  "summary": "granite is a collection of software to call, filter and work with genomic variants.",
+  "author": "Michele Berselli",
+  "license": "MIT",
+  "home_page": "https://github.com/dbmi-bgm/granite",
+  "download_filename": "granite_suite-0.4.0.tar.gz",
+  "download_time": "2025-09-09T20:31:07.083519",
+  "package_url": "https://pypi.org/project/granite-suite/"
+}

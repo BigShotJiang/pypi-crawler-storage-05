@@ -1,0 +1,11 @@
+{
+  "name": "hashreport",
+  "version": "1.1.0",
+  "summary": "Generate detailed file hash reports quickly and efficiently. Process large numbers of files with multiple filtering options.",
+  "author": "Jake Wells",
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "hashreport-1.1.0.tar.gz",
+  "download_time": "2025-09-09T20:30:59.758232",
+  "package_url": "https://pypi.org/project/hashreport/"
+}

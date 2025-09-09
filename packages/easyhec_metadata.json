@@ -1,11 +1,11 @@
 {
   "name": "easyhec",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "EasyHec is a library for fast and automatic camera extrinsic calibration",
   "author": "Stone Tao",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/stonet2000/easyhec",
-  "download_filename": "easyhec-0.1.7.tar.gz",
-  "download_time": "2025-09-09T05:11:15.494747",
+  "download_filename": "easyhec-0.1.8.tar.gz",
+  "download_time": "2025-09-09T20:30:35.212740",
   "package_url": "https://pypi.org/project/easyhec/"
 }
