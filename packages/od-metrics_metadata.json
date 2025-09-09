@@ -1,0 +1,11 @@
+{
+  "name": "od-metrics",
+  "version": "2.2.0",
+  "summary": "Object Detection metrics.",
+  "author": "EMalagoli92",
+  "license": null,
+  "home_page": "https://github.com/EMalagoli92/OD-metrics",
+  "download_filename": "od_metrics-2.2.0.tar.gz",
+  "download_time": "2025-09-09T18:37:03.371494",
+  "package_url": "https://pypi.org/project/od-metrics/"
+}

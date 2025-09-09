@@ -1,0 +1,11 @@
+{
+  "name": "azure-finops-mcp-server",
+  "version": "2.0.0",
+  "summary": "An MCP server for Azure FinOps to analyze costs and audit for savings.",
+  "author": "Ravi Kiran Vallamkonda",
+  "license": null,
+  "home_page": "https://github.com/julianobarbosa/azure-finops-mcp-server",
+  "download_filename": "azure_finops_mcp_server-2.0.0.tar.gz",
+  "download_time": "2025-09-09T18:37:15.449227",
+  "package_url": "https://pypi.org/project/azure-finops-mcp-server/"
+}

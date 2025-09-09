@@ -1,0 +1,11 @@
+{
+  "name": "cdk-pipelines-github",
+  "version": "0.4.132",
+  "summary": "GitHub Workflows support for CDK Pipelines",
+  "author": "Amazon Web Services<aws-cdk-dev@amazon.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cdklabs/cdk-pipelines-github.git",
+  "download_filename": "cdk_pipelines_github-0.4.132.tar.gz",
+  "download_time": "2025-09-09T18:37:18.989621",
+  "package_url": "https://pypi.org/project/cdk-pipelines-github/"
+}

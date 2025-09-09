@@ -1,0 +1,11 @@
+{
+  "name": "claripy",
+  "version": "9.2.174",
+  "summary": "An abstraction layer for constraint solvers",
+  "author": null,
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "claripy-9.2.174.tar.gz",
+  "download_time": "2025-09-09T18:37:30.509407",
+  "package_url": "https://pypi.org/project/claripy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "django-itemlist",
-  "version": "2025.7.6",
+  "version": "2025.7.7",
   "summary": "A customizable Django Admin ChangeList-like app for use outside of the admin.",
   "author": "Michel Fodje",
   "license": "MIT",
   "home_page": "https://github.com/michel4j/django-itemlist",
-  "download_filename": "django_itemlist-2025.7.6.tar.gz",
-  "download_time": "2025-09-08T21:27:10.621673",
+  "download_filename": "django_itemlist-2025.7.7.tar.gz",
+  "download_time": "2025-09-09T18:37:19.567542",
   "package_url": "https://pypi.org/project/django-itemlist/"
 }
