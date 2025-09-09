@@ -1,0 +1,11 @@
+{
+  "name": "BiFuncLib",
+  "version": "1.0.0",
+  "summary": "A Python library for biclustering with functional data",
+  "author": "Yuhao Zhong",
+  "license": "MIT",
+  "home_page": "https://github.com/XMU-Kuangnan-Fang-Team/BiFuncLib/",
+  "download_filename": "bifunclib-1.0.0.tar.gz",
+  "download_time": "2025-09-09T03:54:22.790428",
+  "package_url": "https://pypi.org/project/BiFuncLib/"
+}

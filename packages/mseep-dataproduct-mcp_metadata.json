@@ -1,0 +1,11 @@
+{
+  "name": "mseep-dataproduct-mcp",
+  "version": "0.1.11",
+  "summary": "A Model Context Protocol (MCP) server for discovering data products, requesting access, and executing queries on the data platform to access business data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_dataproduct_mcp-0.1.11.tar.gz",
+  "download_time": "2025-09-09T03:54:06.907659",
+  "package_url": "https://pypi.org/project/mseep-dataproduct-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mseep-swiftlens",
+  "version": "0.2.16",
+  "summary": "SwiftLens is a Model Context Protocol (MCP) server that provides deep, semantic-level analysis of Swift codebases to any AI models. By integrating directly with Apple's SourceKit-LSP, SwiftLens enables AI models to understand Swift code with compiler-grade accuracy.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "mseep_swiftlens-0.2.16.tar.gz",
+  "download_time": "2025-09-09T03:54:15.761583",
+  "package_url": "https://pypi.org/project/mseep-swiftlens/"
+}
