@@ -1,0 +1,11 @@
+{
+  "name": "django-tomselect",
+  "version": "2025.9.1",
+  "summary": "Django autocomplete widgets and views using Tom Select",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_tomselect-2025.9.1.tar.gz",
+  "download_time": "2025-09-09T17:05:19.442581",
+  "package_url": "https://pypi.org/project/django-tomselect/"
+}

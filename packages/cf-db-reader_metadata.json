@@ -1,0 +1,11 @@
+{
+  "name": "cf-db-reader",
+  "version": "0.1.0",
+  "summary": "A tiny in-memory Cloudflare API reader that reads API credentials from environment variables and executes a simple SQL-like query against a mock dataset.",
+  "author": "Eugene Evstafev",
+  "license": "MIT",
+  "home_page": "https://github.com/chigwell/cf_db_reader",
+  "download_filename": "cf_db_reader-0.1.0.tar.gz",
+  "download_time": "2025-09-09T17:05:25.082409",
+  "package_url": "https://pypi.org/project/cf-db-reader/"
+}

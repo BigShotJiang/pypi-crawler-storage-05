@@ -1,0 +1,11 @@
+{
+  "name": "PyKozo",
+  "version": "0.0.4",
+  "summary": "PyKozo is a Python library that allows for complete web development using Python scripts.",
+  "author": "Miguel Nevado",
+  "license": "MIT",
+  "home_page": "https://github.com/miangeldev/pykozo",
+  "download_filename": "pykozo-0.0.4.tar.gz",
+  "download_time": "2025-09-09T17:05:22.048940",
+  "package_url": "https://pypi.org/project/PyKozo/"
+}

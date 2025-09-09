@@ -1,0 +1,11 @@
+{
+  "name": "pandashifu",
+  "version": "1.0.6",
+  "summary": "PandaShifu is a user interface for descriptive and predictive analytics.",
+  "author": "Peng Xiong",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pandashifu-1.0.6.tar.gz",
+  "download_time": "2025-09-09T17:05:37.044139",
+  "package_url": "https://pypi.org/project/pandashifu/"
+}

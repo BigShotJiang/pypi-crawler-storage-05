@@ -1,0 +1,11 @@
+{
+  "name": "pyenvoy",
+  "version": "1.2.0",
+  "summary": "An API client for TRISA Envoy nodes that enables travel rule compliance.",
+  "author": "Rotational Labs",
+  "license": null,
+  "home_page": "https://trisa.dev",
+  "download_filename": "pyenvoy-1.2.0.tar.gz",
+  "download_time": "2025-09-09T17:05:36.305024",
+  "package_url": "https://pypi.org/project/pyenvoy/"
+}

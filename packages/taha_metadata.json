@@ -1,11 +1,11 @@
 {
   "name": "taha",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "کتابخونه‌ی ساده برای تست نصب با pip",
   "author": "NS-TAHA1515",
   "license": null,
   "home_page": null,
-  "download_filename": "taha-0.1.2.tar.gz",
-  "download_time": "2025-09-08T14:11:14.773161",
+  "download_filename": "taha-0.1.3.tar.gz",
+  "download_time": "2025-09-09T17:05:20.084883",
   "package_url": "https://pypi.org/project/taha/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pandas-cleanroom",
-  "version": "1.0.0",
+  "version": "1.3.1",
   "summary": "Tiny, extensible pandas utilities for aliasing and basic data cleaning",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/cleanroom",
-  "download_filename": "pandas_cleanroom-1.0.0.tar.gz",
-  "download_time": "2025-09-09T16:37:45.085073",
+  "download_filename": "pandas_cleanroom-1.3.1.tar.gz",
+  "download_time": "2025-09-09T17:05:30.530794",
   "package_url": "https://pypi.org/project/pandas-cleanroom/"
 }
