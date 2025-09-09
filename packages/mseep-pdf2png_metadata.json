@@ -1,0 +1,11 @@
+{
+  "name": "mseep-pdf2png",
+  "version": "0.1.4",
+  "summary": "MCP server to convert a PDF to a PNG file.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_pdf2png-0.1.4.tar.gz",
+  "download_time": "2025-09-09T10:49:28.162213",
+  "package_url": "https://pypi.org/project/mseep-pdf2png/"
+}

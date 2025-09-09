@@ -1,11 +1,11 @@
 {
   "name": "mseep-mcp-simple-pubmed",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "summary": "An MCP server that provides access to PubMed articles through Entrez API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mseep_mcp_simple_pubmed-0.1.16.tar.gz",
-  "download_time": "2025-09-08T06:16:28.181518",
+  "download_filename": "mseep_mcp_simple_pubmed-0.1.17.tar.gz",
+  "download_time": "2025-09-09T10:49:59.818100",
   "package_url": "https://pypi.org/project/mseep-mcp-simple-pubmed/"
 }

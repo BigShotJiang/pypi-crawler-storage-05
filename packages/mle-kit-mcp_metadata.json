@@ -1,11 +1,11 @@
 {
   "name": "mle-kit-mcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "MCP server that provides different tools for MLE",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mle_kit_mcp-1.0.1.tar.gz",
-  "download_time": "2025-09-07T17:50:28.485870",
+  "download_filename": "mle_kit_mcp-1.0.2.tar.gz",
+  "download_time": "2025-09-09T10:49:26.583711",
   "package_url": "https://pypi.org/project/mle-kit-mcp/"
 }

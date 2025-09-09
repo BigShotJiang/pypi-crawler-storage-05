@@ -1,0 +1,11 @@
+{
+  "name": "mseep-crewai-adapters",
+  "version": "0.1.5",
+  "summary": "Native adapter support for CrewAI with Model Context Protocol (MCP) integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_crewai_adapters-0.1.5.tar.gz",
+  "download_time": "2025-09-09T10:49:25.027717",
+  "package_url": "https://pypi.org/project/mseep-crewai-adapters/"
+}

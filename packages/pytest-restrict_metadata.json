@@ -1,0 +1,11 @@
+{
+  "name": "pytest-restrict",
+  "version": "4.8.0",
+  "summary": "Pytest plugin to restrict the test types allowed",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_restrict-4.8.0.tar.gz",
+  "download_time": "2025-09-09T10:49:56.705881",
+  "package_url": "https://pypi.org/project/pytest-restrict/"
+}

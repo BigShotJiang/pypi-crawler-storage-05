@@ -1,0 +1,11 @@
+{
+  "name": "mseep-vilnius-transport-mcp-server",
+  "version": "0.1.4",
+  "summary": "This is Vilnius transport MCP server for claude desktop proof of concept",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_vilnius_transport_mcp_server-0.1.4.tar.gz",
+  "download_time": "2025-09-09T10:50:00.351976",
+  "package_url": "https://pypi.org/project/mseep-vilnius-transport-mcp-server/"
+}

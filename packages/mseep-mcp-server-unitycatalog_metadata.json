@@ -1,0 +1,11 @@
+{
+  "name": "mseep-mcp-server-unitycatalog",
+  "version": "0.1.4",
+  "summary": "A Model Context Protocol server that enables LLM agents to execute Unity Catalog functions seamlessly.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_mcp_server_unitycatalog-0.1.4.tar.gz",
+  "download_time": "2025-09-09T10:49:20.266388",
+  "package_url": "https://pypi.org/project/mseep-mcp-server-unitycatalog/"
+}

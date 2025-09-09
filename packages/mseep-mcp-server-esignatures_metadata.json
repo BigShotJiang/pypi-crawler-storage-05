@@ -1,0 +1,11 @@
+{
+  "name": "mseep-mcp-server-esignatures",
+  "version": "0.1.4",
+  "summary": "MCP server for eSignatures (https://esignatures.com)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_mcp_server_esignatures-0.1.4.tar.gz",
+  "download_time": "2025-09-09T10:49:32.855289",
+  "package_url": "https://pypi.org/project/mseep-mcp-server-esignatures/"
+}

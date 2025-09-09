@@ -1,0 +1,11 @@
+{
+  "name": "mbfunc",
+  "version": "0.2.0",
+  "summary": "mbf's VapourSynth functions",
+  "author": "EutropicAI",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/EutropicAI/mbfunc",
+  "download_filename": "mbfunc-0.2.0-py3-none-any.whl",
+  "download_time": "2025-09-09T10:50:05.027280",
+  "package_url": "https://pypi.org/project/mbfunc/"
+}

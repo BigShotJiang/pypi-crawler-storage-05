@@ -1,0 +1,11 @@
+{
+  "name": "pytest-reverse",
+  "version": "1.9.0",
+  "summary": "Pytest plugin to reverse test order.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_reverse-1.9.0.tar.gz",
+  "download_time": "2025-09-09T10:49:59.298828",
+  "package_url": "https://pypi.org/project/pytest-reverse/"
+}

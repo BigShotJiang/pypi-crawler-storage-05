@@ -1,0 +1,11 @@
+{
+  "name": "mseep-stk-mcp",
+  "version": "0.1.4",
+  "summary": "STK-MCP, an MCP server allowing LLMs to interact with Ansys/AGI STK - Digital Mission Engineering Software",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_stk_mcp-0.1.4.tar.gz",
+  "download_time": "2025-09-09T10:49:17.668300",
+  "package_url": "https://pypi.org/project/mseep-stk-mcp/"
+}

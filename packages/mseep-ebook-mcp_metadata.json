@@ -1,0 +1,11 @@
+{
+  "name": "mseep-ebook-mcp",
+  "version": "0.1.9",
+  "summary": "An MCP server for chatting with ebooks (PDF/EPUB).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_ebook_mcp-0.1.9.tar.gz",
+  "download_time": "2025-09-09T10:49:27.115621",
+  "package_url": "https://pypi.org/project/mseep-ebook-mcp/"
+}
