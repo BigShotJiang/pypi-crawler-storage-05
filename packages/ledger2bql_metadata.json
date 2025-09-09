@@ -1,0 +1,11 @@
+{
+  "name": "ledger2bql",
+  "version": "1.12.0",
+  "summary": "Translate Ledger CLI query syntax into BQL",
+  "author": "Alen Šiljak",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ledger2bql-1.12.0.tar.gz",
+  "download_time": "2025-09-09T21:26:32.281131",
+  "package_url": "https://pypi.org/project/ledger2bql/"
+}

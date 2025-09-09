@@ -1,11 +1,11 @@
 {
   "name": "pyloan",
-  "version": "0.6.9",
+  "version": "0.7.0",
   "summary": "A package for mortgage/loan calculations.",
   "author": "Darius Lesch, Da.Ki.X",
   "license": null,
   "home_page": "https://github.com/sudo-dakix/pyloan",
-  "download_filename": "pyloan-0.6.9.tar.gz",
-  "download_time": "2025-09-09T06:16:17.057297",
+  "download_filename": "pyloan-0.7.0.tar.gz",
+  "download_time": "2025-09-09T21:26:29.596735",
   "package_url": "https://pypi.org/project/pyloan/"
 }

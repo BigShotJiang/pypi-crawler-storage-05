@@ -1,11 +1,11 @@
 {
   "name": "ckanext-create-typed-package",
-  "version": "0.5.0.post1",
+  "version": "0.5.1",
   "summary": "Select dataset type when adding new data",
   "author": null,
   "license": "AGPL",
   "home_page": null,
-  "download_filename": "ckanext_create_typed_package-0.5.0.post1.tar.gz",
-  "download_time": "2025-09-09T17:28:48.625226",
+  "download_filename": "ckanext_create_typed_package-0.5.1.tar.gz",
+  "download_time": "2025-09-09T21:26:27.494580",
   "package_url": "https://pypi.org/project/ckanext-create-typed-package/"
 }

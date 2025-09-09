@@ -1,0 +1,11 @@
+{
+  "name": "plane-env",
+  "version": "0.1.3.1",
+  "summary": "A reinforcement learning environment for simulating a plane in 2D available, with gymnasium and gymnax support",
+  "author": "Yann Berthelot",
+  "license": null,
+  "home_page": "https://github.com/yannberthelot/Plane",
+  "download_filename": "plane_env-0.1.3.1.tar.gz",
+  "download_time": "2025-09-09T21:26:01.006544",
+  "package_url": "https://pypi.org/project/plane-env/"
+}

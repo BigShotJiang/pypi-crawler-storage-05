@@ -1,0 +1,11 @@
+{
+  "name": "roboflow",
+  "version": "1.2.8",
+  "summary": "Official Python package for working with the Roboflow API",
+  "author": "Roboflow",
+  "license": null,
+  "home_page": "https://github.com/roboflow-ai/roboflow-python",
+  "download_filename": "roboflow-1.2.8.tar.gz",
+  "download_time": "2025-09-09T21:26:04.202039",
+  "package_url": "https://pypi.org/project/roboflow/"
+}
