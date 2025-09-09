@@ -1,11 +1,11 @@
 {
   "name": "biobatchnet",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "A deep learning framework for batch effect correction in biological data",
   "author": "Haochen Liu",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "biobatchnet-0.1.2.tar.gz",
-  "download_time": "2025-09-09T02:19:08.511767",
+  "download_filename": "biobatchnet-0.1.4.tar.gz",
+  "download_time": "2025-09-09T20:11:30.985181",
   "package_url": "https://pypi.org/project/biobatchnet/"
 }

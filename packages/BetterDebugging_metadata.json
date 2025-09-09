@@ -1,0 +1,11 @@
+{
+  "name": "BetterDebugging",
+  "version": "1.0.5",
+  "summary": "A utility plugin, allowing you to set custom logging levels with colors and microsecond precision",
+  "author": "Matthew Boyd",
+  "license": null,
+  "home_page": null,
+  "download_filename": "betterdebugging-1.0.5.tar.gz",
+  "download_time": "2025-09-09T20:11:43.782686",
+  "package_url": "https://pypi.org/project/BetterDebugging/"
+}

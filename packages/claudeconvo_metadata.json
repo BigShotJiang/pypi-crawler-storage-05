@@ -1,11 +1,11 @@
 {
   "name": "claudeconvo",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "View Claude Code session history as a conversation",
   "author": "Lorenzo Pasqualis",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claudeconvo-0.2.0.tar.gz",
-  "download_time": "2025-09-09T18:13:46.269201",
+  "download_filename": "claudeconvo-0.2.1.tar.gz",
+  "download_time": "2025-09-09T20:11:42.033976",
   "package_url": "https://pypi.org/project/claudeconvo/"
 }

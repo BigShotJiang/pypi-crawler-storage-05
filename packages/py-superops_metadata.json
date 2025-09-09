@@ -1,0 +1,11 @@
+{
+  "name": "py-superops",
+  "version": "0.2.9",
+  "summary": "Python client library for the SuperOps GraphQL API with async support, type safety, and comprehensive error handling",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py_superops-0.2.9.tar.gz",
+  "download_time": "2025-09-09T20:11:28.147629",
+  "package_url": "https://pypi.org/project/py-superops/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aimsim-core",
+  "version": "2.2.3",
+  "summary": "Core AIMSim molecular featurization and comparison utilities.",
+  "author": "Himaghna Bhattacharjee, Jackson Burns",
+  "license": "MIT",
+  "home_page": "https://github.com/VlachosGroup/AIMSim",
+  "download_filename": "aimsim_core-2.2.3.tar.gz",
+  "download_time": "2025-09-09T20:11:44.946592",
+  "package_url": "https://pypi.org/project/aimsim-core/"
+}
