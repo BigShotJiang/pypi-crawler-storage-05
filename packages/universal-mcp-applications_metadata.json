@@ -1,11 +1,11 @@
 {
   "name": "universal-mcp-applications",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A Universal MCP Application: universal_mcp_applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "universal_mcp_applications-0.1.5.tar.gz",
-  "download_time": "2025-09-09T12:21:09.527457",
+  "download_filename": "universal_mcp_applications-0.1.6.tar.gz",
+  "download_time": "2025-09-09T13:05:17.211223",
   "package_url": "https://pypi.org/project/universal-mcp-applications/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ndsharray",
+  "version": "1.1.4",
+  "summary": "Sharing numpy ndarray with a simple API between different python processes with shared memory.",
+  "author": "Rune Monzel",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/monzelr/ndsharray",
+  "download_filename": "ndsharray-1.1.4.tar.gz",
+  "download_time": "2025-09-09T13:05:32.751872",
+  "package_url": "https://pypi.org/project/ndsharray/"
+}

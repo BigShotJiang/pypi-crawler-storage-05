@@ -1,11 +1,11 @@
 {
   "name": "augmentry",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "Official Python SDK for the Augmentry API",
   "author": "Augmentry Team",
   "license": null,
   "home_page": "https://github.com/augmentry/augmentry-python-sdk",
-  "download_filename": "augmentry-1.0.6.tar.gz",
-  "download_time": "2025-09-09T12:20:49.531216",
+  "download_filename": "augmentry-1.0.7.tar.gz",
+  "download_time": "2025-09-09T13:04:59.232787",
   "package_url": "https://pypi.org/project/augmentry/"
 }
