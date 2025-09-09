@@ -1,11 +1,11 @@
 {
   "name": "google-adk-extras",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Production-ready services and FastAPI wiring for Google ADK",
   "author": "DeadMeme5441",
   "license": null,
   "home_page": "https://github.com/DeadMeme5441/google-adk-extras",
-  "download_filename": "google_adk_extras-0.3.1.tar.gz",
-  "download_time": "2025-09-09T13:41:11.832817",
+  "download_filename": "google_adk_extras-0.3.2.tar.gz",
+  "download_time": "2025-09-09T17:47:53.312764",
   "package_url": "https://pypi.org/project/google-adk-extras/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "valuascript-compiler",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "summary": "A compiler for the ValuaScript financial modeling language.",
   "author": "Alessio Marcuzzi",
   "license": null,
   "home_page": "https://github.com/Alessio2704/monte-carlo-simulator",
-  "download_filename": "valuascript_compiler-3.0.0.tar.gz",
-  "download_time": "2025-09-09T06:48:17.137880",
+  "download_filename": "valuascript_compiler-3.1.0.tar.gz",
+  "download_time": "2025-09-09T17:47:45.614846",
   "package_url": "https://pypi.org/project/valuascript-compiler/"
 }

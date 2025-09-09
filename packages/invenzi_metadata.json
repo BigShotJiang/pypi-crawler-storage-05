@@ -1,0 +1,11 @@
+{
+  "name": "invenzi",
+  "version": "0.0.1",
+  "summary": "Package for integration with the Invenzi access control system.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "invenzi-0.0.1.tar.gz",
+  "download_time": "2025-09-09T17:47:45.030095",
+  "package_url": "https://pypi.org/project/invenzi/"
+}
