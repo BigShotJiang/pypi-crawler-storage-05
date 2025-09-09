@@ -5,7 +5,7 @@
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apache_airflow_providers_weaviate-3.2.3-py3-none-any.whl",
-  "download_time": "2025-09-09T03:53:42.079015",
+  "download_filename": "apache_airflow_providers_weaviate-3.2.3.tar.gz",
+  "download_time": "2025-09-09T04:13:07.708302",
   "package_url": "https://pypi.org/project/apache-airflow-providers-weaviate/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "natsext",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Core NATS Extensions is a set of utilities providing additional features to Core NATS component of nats-py client.",
   "author": "Oliver Lambson",
   "license": null,
   "home_page": null,
-  "download_filename": "natsext-0.2.0.tar.gz",
-  "download_time": "2025-09-08T23:47:20.080059",
+  "download_filename": "natsext-0.4.0.tar.gz",
+  "download_time": "2025-09-09T04:12:59.691951",
   "package_url": "https://pypi.org/project/natsext/"
 }

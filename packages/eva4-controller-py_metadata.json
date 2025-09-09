@@ -1,0 +1,11 @@
+{
+  "name": "eva4-controller-py",
+  "version": "0.1.7",
+  "summary": "EVA ICS v4 Python macros controller service",
+  "author": "Bohemia Automation / Altertech",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/eva-ics/eva4",
+  "download_filename": "eva4_controller_py-0.1.7.tar.gz",
+  "download_time": "2025-09-09T04:12:54.946278",
+  "package_url": "https://pypi.org/project/eva4-controller-py/"
+}

@@ -5,7 +5,7 @@
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apache_airflow_providers_snowflake-6.5.3-py3-none-any.whl",
-  "download_time": "2025-09-09T03:53:43.214770",
+  "download_filename": "apache_airflow_providers_snowflake-6.5.3.tar.gz",
+  "download_time": "2025-09-09T04:13:08.821081",
   "package_url": "https://pypi.org/project/apache-airflow-providers-snowflake/"
 }

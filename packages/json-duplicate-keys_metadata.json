@@ -1,0 +1,11 @@
+{
+  "name": "json-duplicate-keys",
+  "version": "2025.9.9",
+  "summary": "Flatten/ Unflatten and Load(s)/ Dump(s) JSON File/ Object with Duplicate Keys",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "json_duplicate_keys-2025.9.9.tar.gz",
+  "download_time": "2025-09-09T04:12:46.334529",
+  "package_url": "https://pypi.org/project/json-duplicate-keys/"
+}
