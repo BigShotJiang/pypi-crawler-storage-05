@@ -1,0 +1,11 @@
+{
+  "name": "mseep-mcp-panther",
+  "version": "2.0.2",
+  "summary": "Panther Labs MCP Server",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mseep_mcp_panther-2.0.2.tar.gz",
+  "download_time": "2025-09-09T08:39:38.311905",
+  "package_url": "https://pypi.org/project/mseep-mcp-panther/"
+}

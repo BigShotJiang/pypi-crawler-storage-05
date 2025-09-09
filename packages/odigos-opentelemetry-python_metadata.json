@@ -1,0 +1,11 @@
+{
+  "name": "odigos-opentelemetry-python",
+  "version": "1.0.56",
+  "summary": "Odigos Initializer for Python OpenTelemetry Components",
+  "author": "Tamir David",
+  "license": null,
+  "home_page": null,
+  "download_filename": "odigos_opentelemetry_python-1.0.56.tar.gz",
+  "download_time": "2025-09-09T08:40:14.457973",
+  "package_url": "https://pypi.org/project/odigos-opentelemetry-python/"
+}

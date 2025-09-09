@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-zarr",
+  "version": "0.8.4",
+  "summary": "Pydantic models for the Zarr file format",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_zarr-0.8.4.tar.gz",
+  "download_time": "2025-09-09T08:40:01.650543",
+  "package_url": "https://pypi.org/project/pydantic-zarr/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bsh-file-validation-check",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bsh_file_validation_check-0.1.7-cp310-cp310-win_amd64.whl",
-  "download_time": "2025-09-09T07:11:28.935619",
+  "download_filename": "bsh_file_validation_check-0.1.9-py3-none-win_amd64.whl",
+  "download_time": "2025-09-09T08:39:46.420304",
   "package_url": "https://pypi.org/project/bsh-file-validation-check/"
 }

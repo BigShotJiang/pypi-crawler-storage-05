@@ -1,11 +1,11 @@
 {
   "name": "mseep-nautex",
-  "version": "0.2.19",
+  "version": "0.2.21",
   "summary": "Nautex AI MCP server that works as Product and Project manager for coding agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mseep_nautex-0.2.19.tar.gz",
-  "download_time": "2025-09-09T03:54:23.337955",
+  "download_filename": "mseep_nautex-0.2.21.tar.gz",
+  "download_time": "2025-09-09T08:39:50.489927",
   "package_url": "https://pypi.org/project/mseep-nautex/"
 }

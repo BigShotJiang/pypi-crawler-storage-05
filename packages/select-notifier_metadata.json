@@ -1,0 +1,11 @@
+{
+  "name": "select-notifier",
+  "version": "0.1.0",
+  "summary": "Lightweight notification package(email & Rocket.Chat) for Select services",
+  "author": "Select Team",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "select_notifier-0.1.0.tar.gz",
+  "download_time": "2025-09-09T08:40:03.981176",
+  "package_url": "https://pypi.org/project/select-notifier/"
+}

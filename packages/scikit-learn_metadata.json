@@ -1,0 +1,11 @@
+{
+  "name": "scikit-learn",
+  "version": "1.7.2",
+  "summary": "A set of python modules for machine learning and data mining",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scikit_learn-1.7.2.tar.gz",
+  "download_time": "2025-09-09T08:40:10.451041",
+  "package_url": "https://pypi.org/project/scikit-learn/"
+}

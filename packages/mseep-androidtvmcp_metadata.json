@@ -1,0 +1,11 @@
+{
+  "name": "mseep-androidtvmcp",
+  "version": "0.2.1",
+  "summary": "Android TV Remote Control to MCP Bridge",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_androidtvmcp-0.2.1.tar.gz",
+  "download_time": "2025-09-09T08:39:42.952173",
+  "package_url": "https://pypi.org/project/mseep-androidtvmcp/"
+}
