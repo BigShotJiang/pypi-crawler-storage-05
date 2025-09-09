@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-web-systray-button-init-action",
+  "version": "18.0.1.0.1.2",
+  "summary": "Add a button to go to the user init action.",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/web",
+  "download_filename": "odoo_addon_web_systray_button_init_action-18.0.1.0.1.2-py3-none-any.whl",
+  "download_time": "2025-09-09T04:34:54.718318",
+  "package_url": "https://pypi.org/project/odoo-addon-web-systray-button-init-action/"
+}

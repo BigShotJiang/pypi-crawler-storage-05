@@ -1,16 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-09T04:13:29.259238
-- **Total Packages**: 84
-- **Total Size**: 20.0 MB
+- **Download Time**: 2025-09-09T04:35:34.471855
+- **Total Packages**: 80
+- **Total Size**: 30.31 MB
 
 ## Packages List
+- claude-mpm
+- flui-tui
+- nano-banana
+- cloudproxy
+- alex-example-pkg-0909
+- pulumi-alicloud
+- authentik-client
+- zenx
+- coiled
+- jsslib
+- swarmsort
+- timestrader-preprocessing
+- openlayer
+- ozi-templates
+- quantum-scoring-sdk
+- odoo-addon-web-systray-button-init-action
+- giint-llm-intelligence
+- odoo-addons-oca-web
+- odoo-addon-web-responsive
+- clustools
+- codeprintio
+- memberful
+- autofillcvlac
+- regression-testing-framework
+- nonebot-plugin-quark-autosave
+- frametree
+- fastworkflow
+- reywechat
+- abstract-flask
+- pydzn
+- odoo-addon-stock-picking-batch-extended
+- bosa-core-binary
+- pinion-queue
+- lumi-cua-sdk
+- folder-classifier
+- aorta-sirius
+- arthur-client
 - tasty-agent
 - robotframework-schemathesislibrary
-- authentik-client
 - shardate
-- abstract-flask
 - minecraft-datapack-language
 - easyUI-Qt
 - tirex-mirror
@@ -19,13 +54,11 @@
 - json-duplicate-keys
 - timeseries-performance-calculator
 - odoo-addon-stock-barcodes
-- bili-dl
 - chromedriver-binary
 - jotunn
 - cdktf-cdktf-provider-spotinst
 - cdktf-cdktf-provider-vault
 - svc-infra
-- claude-mpm
 - odoo-addon-sign-oca
 - pandas2hdf
 - truss
@@ -53,40 +86,3 @@
 - maleo-database
 - zen-rule
 - apache-airflow-providers-weaviate
-- apache-airflow-providers-standard
-- apache-airflow-providers-snowflake
-- apache-airflow-providers-smtp
-- apache-airflow-providers-slack
-- apache-airflow-providers-sftp
-- apache-airflow-providers-samba
-- apache-airflow-providers-salesforce
-- apache-airflow-providers-redis
-- ceointerviews
-- apache-airflow-providers-postgres
-- apache-airflow-providers-pinecone
-- apache-airflow-providers-oracle
-- tiktok-collector
-- apache-airflow-providers-openlineage
-- apache-airflow-providers-neo4j
-- apache-airflow-providers-mysql
-- apache-airflow-providers-microsoft-azure
-- apache-airflow-providers-keycloak
-- apache-airflow-providers-jdbc
-- apache-airflow-providers-http
-- apache-airflow-providers-google
-- apache-airflow-providers-git
-- apache-airflow-providers-fab
-- apache-airflow-providers-edge3
-- apache-airflow-providers-dbt-cloud
-- apache-airflow-providers-databricks
-- apache-airflow-providers-common-sql
-- apache-airflow-providers-common-messaging
-- apache-airflow-providers-cncf-kubernetes
-- apache-airflow-providers-celery
-- apache-airflow-providers-apache-kafka
-- apache-airflow-providers-apache-beam
-- apache-airflow-providers-amazon
-- hestia-earth-utils
-- odoo-addon-product-warranty
-- odoo-addon-rma
-- pyZlBus2

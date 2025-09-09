@@ -1,0 +1,11 @@
+{
+  "name": "swarmsort",
+  "version": "1.1.0",
+  "summary": "Standalone SwarmSort real-time multi-object tracker with integrated lightweight embeddings",
+  "author": "Charles Fosseprez",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/cfosseprez/swarmsort",
+  "download_filename": "swarmsort-1.1.0.tar.gz",
+  "download_time": "2025-09-09T04:34:51.786182",
+  "package_url": "https://pypi.org/project/swarmsort/"
+}
