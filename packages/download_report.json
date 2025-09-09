@@ -1,8 +1,12 @@
 {
-  "download_time": "2025-09-09T07:29:37.431600",
+  "download_time": "2025-09-09T07:38:36.370848",
   "total_packages_downloaded": 88,
-  "total_size_mb": 14.74,
+  "total_size_mb": 12.54,
   "packages": [
+    "hyperqueue",
+    "shellrosetta",
+    "radboy",
+    "carestack",
     "code-loader",
     "data_exchange_tool",
     "HandsON-BuildHat-API",
@@ -86,10 +90,6 @@
     "synapse-sdk",
     "clickup-mcp-server",
     "universal-mcp-agents",
-    "easyUI-Qt",
-    "antelope-foreground",
-    "prompt4py",
-    "anytraverse",
-    "audio-toolset"
+    "easyUI-Qt"
   ]
 }
