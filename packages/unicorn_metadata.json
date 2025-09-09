@@ -1,0 +1,11 @@
+{
+  "name": "unicorn",
+  "version": "2.1.4",
+  "summary": "Unicorn CPU emulator engine",
+  "author": null,
+  "license": "BSD License",
+  "home_page": null,
+  "download_filename": "unicorn-2.1.4.tar.gz",
+  "download_time": "2025-09-09T17:28:58.145479",
+  "package_url": "https://pypi.org/project/unicorn/"
+}

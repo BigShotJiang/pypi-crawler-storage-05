@@ -1,11 +1,11 @@
 {
   "name": "polychron",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Analysis and archiving of archaeological dating evidence",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "polychron-0.2.0.tar.gz",
-  "download_time": "2025-09-09T09:32:22.613622",
+  "download_filename": "polychron-0.2.1.tar.gz",
+  "download_time": "2025-09-09T17:28:32.952659",
   "package_url": "https://pypi.org/project/polychron/"
 }

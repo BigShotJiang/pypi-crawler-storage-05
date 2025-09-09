@@ -1,0 +1,11 @@
+{
+  "name": "cuquantum-python-cu13",
+  "version": "25.9.0",
+  "summary": "NVIDIA cuQuantum Python",
+  "author": "NVIDIA Corporation",
+  "license": "BSD-3-Clause",
+  "home_page": "https://developer.nvidia.com/cuquantum-sdk",
+  "download_filename": "cuquantum_python_cu13-25.9.0-cp311-cp311-manylinux2014_aarch64.whl",
+  "download_time": "2025-09-09T17:28:58.709227",
+  "package_url": "https://pypi.org/project/cuquantum-python-cu13/"
+}

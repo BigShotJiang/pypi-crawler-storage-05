@@ -1,0 +1,11 @@
+{
+  "name": "pip3-autoremove",
+  "version": "2.0.1",
+  "summary": "Remove a package and its unused dependencies(Supports Python3)",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/mrmarvel/pip3-autoremove",
+  "download_filename": "pip3-autoremove-2.0.1.tar.gz",
+  "download_time": "2025-09-09T17:28:56.003624",
+  "package_url": "https://pypi.org/project/pip3-autoremove/"
+}

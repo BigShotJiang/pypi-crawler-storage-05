@@ -1,11 +1,11 @@
 {
   "name": "build-pip-package",
-  "version": "0.1.0",
+  "version": "2025.9.91807",
   "summary": "A package for building pip packages using LLM7 and related tools",
-  "author": "Package Author",
+  "author": "Eugene Evstafev",
   "license": "MIT",
   "home_page": "https://github.com/chigwell/build_pip_package",
-  "download_filename": "build_pip_package-0.1.0.tar.gz",
-  "download_time": "2025-09-09T17:09:51.681245",
+  "download_filename": "build_pip_package-2025.9.91807.tar.gz",
+  "download_time": "2025-09-09T17:28:59.781031",
   "package_url": "https://pypi.org/project/build-pip-package/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "matrix-biblebot",
+  "version": "0.2.0",
+  "summary": "A simple Matrix bot that fetches Bible verses",
+  "author": "Jeremiah K",
+  "license": "MIT",
+  "home_page": "https://github.com/jeremiah-k/matrix-biblebot",
+  "download_filename": "matrix_biblebot-0.2.0.tar.gz",
+  "download_time": "2025-09-09T17:28:33.480034",
+  "package_url": "https://pypi.org/project/matrix-biblebot/"
+}
