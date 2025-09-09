@@ -1,0 +1,11 @@
+{
+  "name": "biotrade",
+  "version": "0.4.1",
+  "summary": "Agriculture and forestry statistics.",
+  "author": "Paul Rougieux, Selene Patani",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/bioeconomy/forobs/biotrade/",
+  "download_filename": "biotrade-0.4.1.tar.gz",
+  "download_time": "2025-09-09T12:20:51.887087",
+  "package_url": "https://pypi.org/project/biotrade/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "phandas",
+  "version": "0.4.0",
+  "summary": "Simple cryptocurrency data fetching and visualization toolkit by Phantom Management.",
+  "author": "Phantom Management",
+  "license": null,
+  "home_page": "https://github.com/quantbai/phandas",
+  "download_filename": "phandas-0.4.0.tar.gz",
+  "download_time": "2025-09-09T12:21:08.236067",
+  "package_url": "https://pypi.org/project/phandas/"
+}

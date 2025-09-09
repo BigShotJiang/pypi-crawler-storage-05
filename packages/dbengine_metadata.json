@@ -1,0 +1,11 @@
+{
+  "name": "dbengine",
+  "version": "1.0.0",
+  "summary": "A Python package providing a unified interface for database operations, supporting CSV, SQLite, and PostgreSQL backends.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbengine-1.0.0.tar.gz",
+  "download_time": "2025-09-09T12:20:35.575793",
+  "package_url": "https://pypi.org/project/dbengine/"
+}

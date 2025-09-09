@@ -1,0 +1,11 @@
+{
+  "name": "envsh",
+  "version": "0.1.2",
+  "summary": "A Python library for loading environment variables from shell scripts with type-safe reading capabilities",
+  "author": "Envsh Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/TsybulkaM/envsh",
+  "download_filename": "envsh-0.1.2.tar.gz",
+  "download_time": "2025-09-09T12:21:17.189690",
+  "package_url": "https://pypi.org/project/envsh/"
+}
