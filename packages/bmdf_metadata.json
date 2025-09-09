@@ -1,0 +1,11 @@
+{
+  "name": "bmdf",
+  "version": "0.6.1",
+  "summary": "Embed commands, their output, and tables of contents in markdown",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bmdf-0.6.1.tar.gz",
+  "download_time": "2025-09-09T21:48:07.387265",
+  "package_url": "https://pypi.org/project/bmdf/"
+}

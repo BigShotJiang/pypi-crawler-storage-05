@@ -1,0 +1,11 @@
+{
+  "name": "ribasim",
+  "version": "2025.5.0",
+  "summary": "Pre- and post-process Ribasim",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ribasim-2025.5.0.tar.gz",
+  "download_time": "2025-09-09T21:48:19.651946",
+  "package_url": "https://pypi.org/project/ribasim/"
+}

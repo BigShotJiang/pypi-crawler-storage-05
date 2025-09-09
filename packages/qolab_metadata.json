@@ -1,11 +1,11 @@
 {
   "name": "qolab",
-  "version": "0.37",
+  "version": "0.38",
   "summary": "Classes and functions useful for the quantum optics lab: qolab.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qolab-0.37.tar.gz",
-  "download_time": "2025-09-09T13:41:14.938235",
+  "download_filename": "qolab-0.38.tar.gz",
+  "download_time": "2025-09-09T21:47:56.866118",
   "package_url": "https://pypi.org/project/qolab/"
 }

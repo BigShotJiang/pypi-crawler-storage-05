@@ -1,11 +1,11 @@
 {
   "name": "geofig",
-  "version": "1.0b13",
+  "version": "1.0b14",
   "summary": "Library to procedurally generate geometric figures as SVG images.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "geofig-1.0b13.tar.gz",
-  "download_time": "2025-09-09T00:46:23.859235",
+  "download_filename": "geofig-1.0b14.tar.gz",
+  "download_time": "2025-09-09T21:48:09.139537",
   "package_url": "https://pypi.org/project/geofig/"
 }

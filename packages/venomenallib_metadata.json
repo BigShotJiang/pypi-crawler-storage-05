@@ -1,11 +1,11 @@
 {
   "name": "venomenallib",
-  "version": "2.7.0",
-  "summary": "Advanced data processing utilities",
+  "version": "0.1.2",
+  "summary": "My first python library!",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "venomenallib-2.7.0.tar.gz",
-  "download_time": "2025-09-09T18:50:14.880435",
+  "download_filename": "venomenallib-0.1.2.tar.gz",
+  "download_time": "2025-09-09T21:47:43.504758",
   "package_url": "https://pypi.org/project/venomenallib/"
 }

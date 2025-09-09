@@ -1,11 +1,11 @@
 {
   "name": "request-vm-on-golem",
-  "version": "0.1.51",
+  "version": "0.1.52",
   "summary": "VM on Golem Requestor CLI - Create and manage virtual machines on the Golem Network",
   "author": "Phillip Jensen",
   "license": null,
   "home_page": "https://github.com/cryptobench/vm-on-golem",
-  "download_filename": "request_vm_on_golem-0.1.51.tar.gz",
-  "download_time": "2025-09-09T19:08:52.735262",
+  "download_filename": "request_vm_on_golem-0.1.52.tar.gz",
+  "download_time": "2025-09-09T21:47:56.289381",
   "package_url": "https://pypi.org/project/request-vm-on-golem/"
 }

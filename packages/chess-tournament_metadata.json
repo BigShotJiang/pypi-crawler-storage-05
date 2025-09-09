@@ -1,0 +1,11 @@
+{
+  "name": "chess-tournament",
+  "version": "0.2.0",
+  "summary": "A chess tournament software in Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chess_tournament-0.2.0.tar.gz",
+  "download_time": "2025-09-09T21:48:10.894271",
+  "package_url": "https://pypi.org/project/chess-tournament/"
+}
