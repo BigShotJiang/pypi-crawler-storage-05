@@ -1,0 +1,11 @@
+{
+  "name": "ftgo",
+  "version": "1.0.0",
+  "summary": "A Python library for fetching financial data from FT Markets",
+  "author": "gohibiki",
+  "license": null,
+  "home_page": "https://github.com/gohibiki/ftgo",
+  "download_filename": "ftgo-1.0.0.tar.gz",
+  "download_time": "2025-09-09T02:19:12.099253",
+  "package_url": "https://pypi.org/project/ftgo/"
+}

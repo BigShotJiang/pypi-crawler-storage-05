@@ -1,11 +1,11 @@
 {
   "name": "prelude-parser",
-  "version": "0.14.1",
+  "version": "0.14.2",
   "summary": "Parses XML files exported from Prelude EDC into formats usable by Python.",
   "author": null,
   "license": null,
   "home_page": "https://github.com/pbs-data-solutions/prelude-parser",
-  "download_filename": "prelude_parser-0.14.1.tar.gz",
-  "download_time": "2025-09-07T20:27:24.591577",
+  "download_filename": "prelude_parser-0.14.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-09-09T02:18:49.706122",
   "package_url": "https://pypi.org/project/prelude-parser/"
 }

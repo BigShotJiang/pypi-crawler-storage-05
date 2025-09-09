@@ -1,11 +1,11 @@
 {
   "name": "secrecy",
-  "version": "0.1.0.dev6",
+  "version": "0.1.0.dev7",
   "summary": "A symmetric encryption utility.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "secrecy-0.1.0.dev6.tar.gz",
-  "download_time": "2025-09-09T00:46:31.819541",
+  "download_filename": "secrecy-0.1.0.dev7.tar.gz",
+  "download_time": "2025-09-09T02:19:12.612156",
   "package_url": "https://pypi.org/project/secrecy/"
 }

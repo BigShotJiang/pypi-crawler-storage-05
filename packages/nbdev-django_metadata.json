@@ -1,11 +1,11 @@
 {
   "name": "nbdev-django",
-  "version": "0.0.2097",
+  "version": "0.0.2099",
   "summary": "nbdev docs lookup for django",
   "author": "Jeremy Howard",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/fastai/nbdev-index/tree/master/",
-  "download_filename": "nbdev_django-0.0.2097.tar.gz",
-  "download_time": "2025-09-08T02:23:33.210143",
+  "download_filename": "nbdev_django-0.0.2099.tar.gz",
+  "download_time": "2025-09-09T02:19:32.348218",
   "package_url": "https://pypi.org/project/nbdev-django/"
 }

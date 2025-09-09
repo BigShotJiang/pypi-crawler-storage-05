@@ -1,0 +1,11 @@
+{
+  "name": "wformat",
+  "version": "0.1.2",
+  "summary": "Opinionated code formatter for C++ code.",
+  "author": "Ziwei Wei",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wformat-0.1.2-py3-none-macosx_15_0_arm64.whl",
+  "download_time": "2025-09-09T02:19:05.413085",
+  "package_url": "https://pypi.org/project/wformat/"
+}

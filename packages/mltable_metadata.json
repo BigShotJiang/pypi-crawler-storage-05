@@ -1,0 +1,11 @@
+{
+  "name": "mltable",
+  "version": "1.6.3",
+  "summary": "Contains MLTable loading and authoring apis for the mltable package.",
+  "author": "Microsoft Corp",
+  "license": "Proprietary https://aka.ms/azureml-preview-sdk-license ",
+  "home_page": "https://docs.microsoft.com/python/api/overview/azure/ml/?view=azure-ml-py",
+  "download_filename": "mltable-1.6.3-py3-none-any.whl",
+  "download_time": "2025-09-09T02:19:13.646305",
+  "package_url": "https://pypi.org/project/mltable/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sizecheck",
+  "version": "0.1.0",
+  "summary": "Runtime shape validation for size-annotated Python code",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sizecheck-0.1.0.tar.gz",
+  "download_time": "2025-09-09T02:18:53.971125",
+  "package_url": "https://pypi.org/project/sizecheck/"
+}

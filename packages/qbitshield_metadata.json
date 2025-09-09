@@ -1,0 +1,11 @@
+{
+  "name": "qbitshield",
+  "version": "2.0.2",
+  "summary": "QbitShield Python SDK for quantum-enhanced cryptography",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qbitshield-2.0.2.tar.gz",
+  "download_time": "2025-09-09T02:19:13.123078",
+  "package_url": "https://pypi.org/project/qbitshield/"
+}
