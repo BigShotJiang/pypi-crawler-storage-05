@@ -1,11 +1,11 @@
 {
   "name": "mseep-ai-kline",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A股技术分析与AI预测工具",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mseep_ai_kline-0.1.2.tar.gz",
-  "download_time": "2025-09-09T09:12:40.269689",
+  "download_filename": "mseep_ai_kline-0.1.3.tar.gz",
+  "download_time": "2025-09-09T09:48:09.313553",
   "package_url": "https://pypi.org/project/mseep-ai-kline/"
 }

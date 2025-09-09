@@ -1,0 +1,11 @@
+{
+  "name": "mseep-outscraper-mcp",
+  "version": "1.0.1",
+  "summary": "Streamlined MCP server for Outscraper's Google Maps data extraction services - 2 essential tools for maps search and reviews",
+  "author": null,
+  "license": "Experimental Software License",
+  "home_page": null,
+  "download_filename": "mseep_outscraper_mcp-1.0.1.tar.gz",
+  "download_time": "2025-09-09T09:48:07.053514",
+  "package_url": "https://pypi.org/project/mseep-outscraper-mcp/"
+}

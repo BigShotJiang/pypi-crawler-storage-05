@@ -1,47 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-09T09:32:43.491875
-- **Total Packages**: 92
-- **Total Size**: 33.4 MB
+- **Download Time**: 2025-09-09T09:48:11.505601
+- **Total Packages**: 89
+- **Total Size**: 2.68 MB
 
 ## Packages List
-- mseep-mcp-neocoder
-- termtap
-- promptcompose
-- mseep-aws-cost-explorer-mcp
-- liveramp-automation
-- mseep-mcp-server-pacman
-- mseep-aws-security-mcp
-- mseep-mcp-oi-wiki
-- sunpeek
-- mseep-zerodha-mcp
-- mseep-wcgw
-- mseep-agentic-radar
-- ic-code
-- mseep-web-eval-agent
-- mseep-mcp-simple-tool
-- mseep-mcp-teams-server
-- one-step-frames
-- select-notifier
-- mseep-mcp-adb
-- mseep-deer-flow
-- ebs-initializer-mcp
-- mseep-voice-status-report-mcp-server
-- es-viewer
-- mseep-biothings-mcp
-- mseep-unitree-go2-mcp-server
-- kuzu
-- pdf2zh-next
-- authentik-client
-- mseep-mcpcrashcourse
-- database-smartools
-- mseep-workspace-mcp
-- simple-gcp-auth
-- mseep-google-analytics-mcp
-- mseep-mcp-tenki
-- mseep-mcp-simple-openai-assistant
-- mseep-rplayground-mcp
 - mseep-hh-mcp-comfyui
 - instavm
 - squatspotter
@@ -66,6 +30,7 @@
 - mseep-file-converter-mcp
 - effectpy
 - mseep-dbt-docs-mcp
+- ebs-initializer-mcp
 - mseep-python-mcp
 - neural-compressor
 - mseep-cortex-agents-mcp
@@ -98,3 +63,35 @@
 - edx-enterprise-subsidy-client
 - mseep-teradata-mcp-server
 - mseep-ntealan-apis-mcp
+- mseep-mysql-mcp-server
+- mseep-mcpcrashcourse
+- DDS-All
+- mseep-tdengine-mcp-server
+- invoketool
+- seam
+- mseep-redshift-mcp-server
+- hhconfig
+- utf-queue-client
+- pydantic-stack-core
+- sibr-api
+- mseep-python-hello-warp-mcp
+- daily-funcs
+- aliyun-python-sdk-live
+- mseep-dooray-mcp
+- anemoi-plugins-ecmwf-inference
+- mseep-cointelegraph-mcp
+- golem-port-checker
+- golem-faucet
+- golem-streaming-abi
+- mseep-mcp-memgraph
+- pmoired
+- mseep-mcp-server-datahub
+- retracesoftware-utils
+- mseep-outscraper-mcp
+- bili-stalker-mcp
+- mseep-mcp-proxy
+- shell-lib
+- mseep-ai-kline
+- tess-ida-tools
+- mseep-cognee-mcp
+- payload-discovery

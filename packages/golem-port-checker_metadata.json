@@ -1,0 +1,11 @@
+{
+  "name": "golem-port-checker",
+  "version": "0.1.25",
+  "summary": "Port checking service for VM on Golem - Verify network connectivity for Golem providers",
+  "author": "Phillip Jensen",
+  "license": null,
+  "home_page": "https://github.com/cryptobench/vm-on-golem",
+  "download_filename": "golem_port_checker-0.1.25.tar.gz",
+  "download_time": "2025-09-09T09:48:02.856668",
+  "package_url": "https://pypi.org/project/golem-port-checker/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "daily-funcs",
+  "version": "0.1.21",
+  "summary": "daily tools for data science employee",
+  "author": "gouqi",
+  "license": "MIT",
+  "home_page": "https://github.com/gouqi/daily_tools",
+  "download_filename": "daily_funcs-0.1.21.tar.gz",
+  "download_time": "2025-09-09T09:47:59.955892",
+  "package_url": "https://pypi.org/project/daily-funcs/"
+}
