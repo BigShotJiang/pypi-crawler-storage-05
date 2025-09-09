@@ -1,0 +1,11 @@
+{
+  "name": "pycord-quart",
+  "version": "0.1.4",
+  "summary": "A pycord extension for Discord OAuth2 authentication in Quart applications.",
+  "author": "ParrotXray",
+  "license": "MIT",
+  "home_page": "https://github.com/ParrotXray/pycord-quart",
+  "download_filename": "pycord_quart-0.1.4.tar.gz",
+  "download_time": "2025-09-09T06:48:12.675170",
+  "package_url": "https://pypi.org/project/pycord-quart/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-testing-utils",
+  "version": "0.8.0",
+  "summary": "Testing utils for Django-based projects",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_testing_utils-0.8.0.tar.gz",
+  "download_time": "2025-09-09T06:48:10.951377",
+  "package_url": "https://pypi.org/project/django-testing-utils/"
+}

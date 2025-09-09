@@ -1,11 +1,11 @@
 {
   "name": "django-currency-converter-erapi",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "summary": "A Django application for currency conversion using real-time exchange rates",
   "author": "MD. MAZHARUL ISLAM",
   "license": null,
   "home_page": "https://github.com/mislamdev/django-currency-converter-erapi",
-  "download_filename": "django_currency_converter_erapi-1.0.0.tar.gz",
-  "download_time": "2025-09-08T19:47:48.919080",
+  "download_filename": "django_currency_converter_erapi-1.2.0.tar.gz",
+  "download_time": "2025-09-09T06:48:02.939381",
   "package_url": "https://pypi.org/project/django-currency-converter-erapi/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pyadvtools",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "pyadvtools",
   "author": "NextAI",
   "license": "GPL-3.0-or-later",
   "home_page": "https://github.com/NextArtifIntell/pyadvtools",
-  "download_filename": "pyadvtools-0.0.4.tar.gz",
-  "download_time": "2025-09-09T06:16:53.676479",
+  "download_filename": "pyadvtools-0.0.5.tar.gz",
+  "download_time": "2025-09-09T06:48:23.384386",
   "package_url": "https://pypi.org/project/pyadvtools/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "generalized-range",
+  "version": "0.1.0a0",
+  "summary": "A flexible Python generator function that extends the capabilities of Python's built-in `range` to all types, using customizable comparator and successor functions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "generalized_range-0.1.0a0.tar.gz",
+  "download_time": "2025-09-09T06:48:01.668292",
+  "package_url": "https://pypi.org/project/generalized-range/"
+}

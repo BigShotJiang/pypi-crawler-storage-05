@@ -1,0 +1,11 @@
+{
+  "name": "colcon-top-level-workspace",
+  "version": "0.1.0",
+  "summary": "Extension for colcon to locate and use a top-level workspace",
+  "author": "Robert Haschke",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://colcon.readthedocs.io",
+  "download_filename": "colcon_top_level_workspace-0.1.0.tar.gz",
+  "download_time": "2025-09-09T06:48:00.976640",
+  "package_url": "https://pypi.org/project/colcon-top-level-workspace/"
+}
