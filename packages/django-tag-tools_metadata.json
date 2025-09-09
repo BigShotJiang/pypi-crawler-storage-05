@@ -1,0 +1,11 @@
+{
+  "name": "django-tag-tools",
+  "version": "0.3.0",
+  "summary": "Tag cloud for django-taggit",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_tag_tools-0.3.0.tar.gz",
+  "download_time": "2025-09-09T20:47:28.975240",
+  "package_url": "https://pypi.org/project/django-tag-tools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rest.connector",
+  "version": "25.8",
+  "summary": "pyATS REST connection package",
+  "author": "Cisco Systems Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://developer.cisco.com/docs/rest-connector/",
+  "download_filename": "rest.connector-25.8-py3-none-any.whl",
+  "download_time": "2025-09-09T20:47:30.089814",
+  "package_url": "https://pypi.org/project/rest.connector/"
+}

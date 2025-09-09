@@ -1,0 +1,11 @@
+{
+  "name": "compliance-checker",
+  "version": "5.4.2",
+  "summary": "Checks Datasets and SOS endpoints for standards compliance",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "compliance_checker-5.4.2.tar.gz",
+  "download_time": "2025-09-09T20:47:30.629592",
+  "package_url": "https://pypi.org/project/compliance-checker/"
+}
