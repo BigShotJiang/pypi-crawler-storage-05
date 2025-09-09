@@ -1,0 +1,11 @@
+{
+  "name": "nkit-agents",
+  "version": "0.2.0",
+  "summary": "A nano, minimalistic, and lightweight library for building ReACT-based AI agents that use tools to solve tasks.",
+  "author": "NavuluriBalaji",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nkit_agents-0.2.0-py3-none-any.whl",
+  "download_time": "2025-09-09T17:36:57.328177",
+  "package_url": "https://pypi.org/project/nkit-agents/"
+}
