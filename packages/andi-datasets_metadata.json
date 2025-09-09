@@ -1,0 +1,11 @@
+{
+  "name": "andi-datasets",
+  "version": "2.1.12",
+  "summary": "Generate, manage and analyze anomalous diffusion trajectories.",
+  "author": "Gorka Munoz-Gil",
+  "license": null,
+  "home_page": "https://github.com/andichallenge/andi_datasets/",
+  "download_filename": "andi_datasets-2.1.12.tar.gz",
+  "download_time": "2025-09-09T15:12:54.997163",
+  "package_url": "https://pypi.org/project/andi-datasets/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "yayarl",
+  "version": "2.2.1",
+  "summary": "\"Yet another YARL\"; A fork with `requests` integration",
+  "author": "Robin van der Noord",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/robinvandernoord/yayarl",
+  "download_filename": "yayarl-2.2.1.tar.gz",
+  "download_time": "2025-09-09T15:12:56.777114",
+  "package_url": "https://pypi.org/project/yayarl/"
+}
