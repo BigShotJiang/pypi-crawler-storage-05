@@ -1,0 +1,11 @@
+{
+  "name": "nens-meta",
+  "version": "0.8",
+  "summary": "Basic project automation and update tool",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nens_meta-0.8.tar.gz",
+  "download_time": "2025-09-09T18:50:15.909146",
+  "package_url": "https://pypi.org/project/nens-meta/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "geocif",
-  "version": "0.2.87",
+  "version": "0.2.88",
   "summary": "Add your description here",
   "author": "Ritvik Sahajpal",
   "license": null,
   "home_page": "https://ritviksahajpal.github.io/yield_forecasting/",
-  "download_filename": "geocif-0.2.87.tar.gz",
-  "download_time": "2025-09-09T18:37:14.279423",
+  "download_filename": "geocif-0.2.88.tar.gz",
+  "download_time": "2025-09-09T18:50:25.178408",
   "package_url": "https://pypi.org/project/geocif/"
 }

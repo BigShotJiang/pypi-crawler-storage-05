@@ -1,0 +1,11 @@
+{
+  "name": "ts-storagetools",
+  "version": "0.2.2",
+  "summary": "SQLite schema, Python classes and data management tools for working with time series from engineering test beds",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ts_storagetools-0.2.2.tar.gz",
+  "download_time": "2025-09-09T18:50:20.033014",
+  "package_url": "https://pypi.org/project/ts-storagetools/"
+}

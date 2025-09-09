@@ -1,11 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-09T18:37:52.534177
-- **Total Packages**: 87
-- **Total Size**: 23.59 MB
+- **Download Time**: 2025-09-09T18:50:56.833534
+- **Total Packages**: 84
+- **Total Size**: 12.91 MB
 
 ## Packages List
+- canfar
+- ampy-proto
+- haske
+- odoo-addon-l10n-ro-stock-account
+- audiomentations
+- haske-core
+- sage-agent-internal
+- venomenallib
+- b10-transfer
+- nens-meta
+- gh-analysis
+- mathlibdanval
+- aiXplain
+- aioprogress
+- music-drummer
+- svc-infra
+- vectorshift
+- ts-storagetools
+- leggen
+- xpander-sdk
+- amsatop
+- cuenca
+- mcp-server-tester
+- synthetic-transformers
+- odoo-addon-automation-oca
+- django-language-server
+- geocif
+- dda-py
+- authentik-client
+- glean-sdk
+- tiny-agent-os
+- idtap
+- etraxx-playground
+- dr-web-engine
+- eas-sdk
+- OpenTAKServer
+- django-allauth
+- biblemate
+- universal-calibration-protocol
 - artifex
 - data-doctor-lib
 - agentmake
@@ -18,21 +57,16 @@
 - od-metrics
 - forkscout
 - starlings
-- mathlibdanval
 - strideutils
 - mesalab
-- sage-agent-internal
 - pyDIFI
 - listen2_rust
 - kaqing
 - anatools
-- authentik-client
 - greeum
-- etraxx-playground
 - bioio-ome-zarr
 - hawhodid
 - snakemake-executor-plugin-slurm
-- geocif
 - janito
 - azure-finops-mcp-server
 - llm-poker
@@ -48,7 +82,6 @@
 - plane-adk
 - tesseract-olap
 - ai-ebash
-- universal-calibration-protocol
 - vyperdatum
 - anki-slicer
 - scst-proxy
@@ -57,39 +90,3 @@
 - pyvex
 - cle
 - claripy
-- archinfo
-- angr-management
-- angr
-- d4rktg
-- brainannex-neo4jv4
-- WUADS
-- eegdash
-- ntfy-notify
-- contrast-agent
-- GridPath
-- revng
-- ibm-watsonx-orchestrate-evaluation-framework
-- amazon-orders
-- pulumi-xyz
-- OpenTAKServer
-- cronk
-- recce-nightly
-- bandwidth-sdk
-- gabber-sdk
-- aibs-informatics-core
-- telerun
-- ampy-proto
-- dbt-semantic-interfaces
-- zyntex
-- ursa-ai
-- qilowatt
-- iohub
-- pythonic-fp-splitends
-- claudeconvo
-- lex-helper
-- aviyal-desktop
-- video-reader-rs
-- quantconnect-stubs
-- chaturbate-events
-- ExcelCSVParseHelper
-- pyrilog
