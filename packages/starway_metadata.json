@@ -1,11 +1,11 @@
 {
   "name": "starway",
-  "version": "0.1.0",
+  "version": "0.2.2",
   "summary": "Starway UCX P2P communication lib.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "starway-0.1.0.tar.gz",
-  "download_time": "2025-09-08T23:28:45.083413",
+  "download_filename": "starway-0.2.2-cp310-cp310-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-09-09T09:12:07.002268",
   "package_url": "https://pypi.org/project/starway/"
 }

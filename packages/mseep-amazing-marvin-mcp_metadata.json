@@ -1,11 +1,11 @@
 {
   "name": "mseep-amazing-marvin-mcp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Amazing Marvin Model Context Provider",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mseep_amazing_marvin_mcp-1.0.2.tar.gz",
-  "download_time": "2025-09-08T09:50:11.875956",
+  "download_filename": "mseep_amazing_marvin_mcp-1.0.3.tar.gz",
+  "download_time": "2025-09-09T09:11:55.067133",
   "package_url": "https://pypi.org/project/mseep-amazing-marvin-mcp/"
 }

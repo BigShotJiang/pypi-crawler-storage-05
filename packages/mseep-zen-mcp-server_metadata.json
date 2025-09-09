@@ -1,0 +1,11 @@
+{
+  "name": "mseep-zen-mcp-server",
+  "version": "5.11.1",
+  "summary": "AI-powered MCP server with multiple model providers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_zen_mcp_server-5.11.1.tar.gz",
+  "download_time": "2025-09-09T09:12:29.910472",
+  "package_url": "https://pypi.org/project/mseep-zen-mcp-server/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mseep-gemini-lg-mcp",
+  "version": "0.1.1",
+  "summary": "Gemini-powered research agent MCP server",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_gemini_lg_mcp-0.1.1.tar.gz",
+  "download_time": "2025-09-09T09:12:05.950609",
+  "package_url": "https://pypi.org/project/mseep-gemini-lg-mcp/"
+}

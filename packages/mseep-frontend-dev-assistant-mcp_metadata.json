@@ -1,0 +1,11 @@
+{
+  "name": "mseep-frontend-dev-assistant-mcp",
+  "version": "0.1.1",
+  "summary": "前端开发提示词智能助手 MCP服务器 - 专为前端团队设计的AI开发助手",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_frontend_dev_assistant_mcp-0.1.1.tar.gz",
+  "download_time": "2025-09-09T09:11:58.709630",
+  "package_url": "https://pypi.org/project/mseep-frontend-dev-assistant-mcp/"
+}

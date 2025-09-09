@@ -1,0 +1,11 @@
+{
+  "name": "mseep-freecad-mcp",
+  "version": "0.1.15",
+  "summary": "FreeCAD integration through the Model Context Protocol",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_freecad_mcp-0.1.15.tar.gz",
+  "download_time": "2025-09-09T09:11:50.813070",
+  "package_url": "https://pypi.org/project/mseep-freecad-mcp/"
+}

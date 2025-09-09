@@ -1,0 +1,11 @@
+{
+  "name": "mseep-xhs-toolkit",
+  "version": "1.2.1",
+  "summary": "一个强大的小红书自动化工具包，支持通过MCP协议与AI客户端集成",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_xhs_toolkit-1.2.1.tar.gz",
+  "download_time": "2025-09-09T09:12:20.270157",
+  "package_url": "https://pypi.org/project/mseep-xhs-toolkit/"
+}

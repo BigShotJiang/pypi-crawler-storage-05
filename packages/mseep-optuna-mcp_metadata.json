@@ -1,0 +1,11 @@
+{
+  "name": "mseep-optuna-mcp",
+  "version": "1.0.0",
+  "summary": "Optuna MCP Server operates, manages, and visualizes Optuna studies.",
+  "author": "mseep",
+  "license": null,
+  "home_page": "https://github.com/mseep",
+  "download_filename": "mseep_optuna_mcp-1.0.0.tar.gz",
+  "download_time": "2025-09-09T09:12:29.378493",
+  "package_url": "https://pypi.org/project/mseep-optuna-mcp/"
+}

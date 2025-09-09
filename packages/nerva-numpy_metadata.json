@@ -1,0 +1,11 @@
+{
+  "name": "nerva-numpy",
+  "version": "0.9.0",
+  "summary": "An implementation of multilayer perceptrons in NumPy.",
+  "author": "Wieger Wesselink",
+  "license": null,
+  "home_page": "https://github.com/wiegerw/nerva-numpy",
+  "download_filename": "nerva_numpy-0.9.0.tar.gz",
+  "download_time": "2025-09-09T09:12:19.210303",
+  "package_url": "https://pypi.org/project/nerva-numpy/"
+}

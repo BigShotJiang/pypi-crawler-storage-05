@@ -1,0 +1,11 @@
+{
+  "name": "mseep-fujitsu-sdt-mcp",
+  "version": "0.1.2",
+  "summary": "MCP Server for Fujitsu Social Digital Twin and Digital Rehearsal API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_fujitsu_sdt_mcp-0.1.2.tar.gz",
+  "download_time": "2025-09-09T09:12:15.486554",
+  "package_url": "https://pypi.org/project/mseep-fujitsu-sdt-mcp/"
+}
