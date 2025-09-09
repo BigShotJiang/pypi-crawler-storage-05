@@ -1,0 +1,11 @@
+{
+  "name": "flow-compose",
+  "version": "0.4.0",
+  "summary": "Flow Compose - Configurable Function Composition",
+  "author": "Vinko Buble",
+  "license": "MPL2",
+  "home_page": "https://github.com/execution-flows/flow-compose",
+  "download_filename": "flow_compose-0.4.0.tar.gz",
+  "download_time": "2025-09-09T03:13:24.654594",
+  "package_url": "https://pypi.org/project/flow-compose/"
+}

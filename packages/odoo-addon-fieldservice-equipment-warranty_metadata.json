@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-fieldservice-equipment-warranty",
+  "version": "18.0.1.0.0.4",
+  "summary": "Field Service equipment warranty",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/field-service",
+  "download_filename": "odoo_addon_fieldservice_equipment_warranty-18.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-09-09T03:13:13.518571",
+  "package_url": "https://pypi.org/project/odoo-addon-fieldservice-equipment-warranty/"
+}

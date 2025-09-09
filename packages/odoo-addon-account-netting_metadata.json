@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-netting",
+  "version": "18.0.1.0.0.5",
+  "summary": "Compensate AR/AP accounts from the same partner",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-financial-tools",
+  "download_filename": "odoo_addon_account_netting-18.0.1.0.0.5-py3-none-any.whl",
+  "download_time": "2025-09-09T03:13:39.154531",
+  "package_url": "https://pypi.org/project/odoo-addon-account-netting/"
+}

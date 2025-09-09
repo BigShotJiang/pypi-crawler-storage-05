@@ -1,0 +1,11 @@
+{
+  "name": "hockey-blast-common-lib",
+  "version": "0.1.53",
+  "summary": "Common library for shared functionality and DB models",
+  "author": "Pavel Kletskov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hockey_blast_common_lib-0.1.53.tar.gz",
+  "download_time": "2025-09-09T03:13:24.084209",
+  "package_url": "https://pypi.org/project/hockey-blast-common-lib/"
+}

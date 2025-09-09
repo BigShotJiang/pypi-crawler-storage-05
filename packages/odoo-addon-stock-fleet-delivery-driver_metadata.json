@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-stock-fleet-delivery-driver",
-  "version": "18.0.1.0.1",
+  "version": "18.0.1.0.1.2",
   "summary": "Allow choose Vehicle in Carriers, Transfers and Batches",
   "author": "Moduon, Odoo Community Association (OCA)",
   "license": "LGPL-3",
   "home_page": "https://github.com/OCA/delivery-carrier",
-  "download_filename": "odoo_addon_stock_fleet_delivery_driver-18.0.1.0.1-py3-none-any.whl",
-  "download_time": "2025-09-07T18:48:15.649434",
+  "download_filename": "odoo_addon_stock_fleet_delivery_driver-18.0.1.0.1.2-py3-none-any.whl",
+  "download_time": "2025-09-09T03:13:18.714907",
   "package_url": "https://pypi.org/project/odoo-addon-stock-fleet-delivery-driver/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "meridianalgo",
-  "version": "2.1.2",
-  "summary": "Advanced Financial Analysis Platform: ML Predictions, Technical Analysis, Portfolio Management, Risk Assessment & Market Intelligence",
-  "author": "MeridianAlgo Team",
-  "license": "MIT",
-  "home_page": "https://github.com/MeridianAlgo/Ara",
-  "download_filename": "meridianalgo-2.1.2.tar.gz",
-  "download_time": "2025-09-09T02:19:15.184016",
+  "version": "2.2.1",
+  "summary": "Advanced Algorithmic Trading and Statistical Analysis Library",
+  "author": "Meridian Algorithmic Research Team",
+  "license": null,
+  "home_page": "https://github.com/MeridianAlgo/Python-Packages",
+  "download_filename": "meridianalgo-2.2.1.tar.gz",
+  "download_time": "2025-09-09T03:13:29.871625",
   "package_url": "https://pypi.org/project/meridianalgo/"
 }

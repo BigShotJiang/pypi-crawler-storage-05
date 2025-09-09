@@ -1,0 +1,11 @@
+{
+  "name": "bili-dl",
+  "version": "1.0.0",
+  "summary": "一个功能强大的B站视频下载工具，支持最高清晰度下载和自动合并",
+  "author": "B站视频下载器",
+  "license": "MIT License",
+  "home_page": "https://github.com/WavesMan/bili-download",
+  "download_filename": "bili_dl-1.0.0-py3-none-any.whl",
+  "download_time": "2025-09-09T03:13:01.321075",
+  "package_url": "https://pypi.org/project/bili-dl/"
+}
