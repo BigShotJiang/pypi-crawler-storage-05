@@ -1,0 +1,11 @@
+{
+  "name": "jymkit",
+  "version": "0.0.17",
+  "summary": "A lightweight utility library for reinforcement learning projects in JAX and Equinox.",
+  "author": "Koen Ponse",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jymkit-0.0.17.tar.gz",
+  "download_time": "2025-09-09T08:15:57.895571",
+  "package_url": "https://pypi.org/project/jymkit/"
+}

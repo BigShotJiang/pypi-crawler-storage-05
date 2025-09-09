@@ -1,11 +1,11 @@
 {
   "name": "audio-toolset",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Tools for processing audio signals",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "audio_toolset-0.2.1.tar.gz",
-  "download_time": "2025-09-09T07:11:18.641091",
+  "download_filename": "audio_toolset-0.2.2.tar.gz",
+  "download_time": "2025-09-09T08:16:03.134068",
   "package_url": "https://pypi.org/project/audio-toolset/"
 }

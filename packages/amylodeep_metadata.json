@@ -1,0 +1,11 @@
+{
+  "name": "amylodeep",
+  "version": "0.2.8",
+  "summary": "Prediction of amyloid propensity from amino acid sequences using ensemble deep learning and LLM models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "amylodeep-0.2.8.tar.gz",
+  "download_time": "2025-09-09T08:16:12.991938",
+  "package_url": "https://pypi.org/project/amylodeep/"
+}

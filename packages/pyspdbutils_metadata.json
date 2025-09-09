@@ -1,11 +1,11 @@
 {
   "name": "pyspdbutils",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "summary": "Production-grade database utilities with universal interface and hash collision detection",
   "author": "Debi Prasad Rath",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/pyspdbutils",
-  "download_filename": "pyspdbutils-1.0.6.tar.gz",
-  "download_time": "2025-09-08T17:29:00.053147",
+  "download_filename": "pyspdbutils-1.0.8.tar.gz",
+  "download_time": "2025-09-09T08:15:38.753031",
   "package_url": "https://pypi.org/project/pyspdbutils/"
 }

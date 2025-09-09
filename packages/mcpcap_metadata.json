@@ -1,0 +1,11 @@
+{
+  "name": "mcpcap",
+  "version": "0.2.2",
+  "summary": "A modular Python MCP Server for analyzing PCAP files",
+  "author": "mcpcap contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpcap-0.2.2.tar.gz",
+  "download_time": "2025-09-09T08:15:31.766379",
+  "package_url": "https://pypi.org/project/mcpcap/"
+}

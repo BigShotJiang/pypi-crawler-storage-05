@@ -1,0 +1,11 @@
+{
+  "name": "scanpro",
+  "version": "0.4.0",
+  "summary": "Single-Cell Analysis of Proportions",
+  "author": "Loosolab",
+  "license": "MIT",
+  "home_page": "https://github.com/loosolab/scanpro",
+  "download_filename": "scanpro-0.4.0.tar.gz",
+  "download_time": "2025-09-09T08:16:18.698540",
+  "package_url": "https://pypi.org/project/scanpro/"
+}

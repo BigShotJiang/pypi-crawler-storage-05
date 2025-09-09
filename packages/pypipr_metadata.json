@@ -1,11 +1,11 @@
 {
   "name": "pypipr",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "summary": "The Python Package Index Project",
   "author": "ufiapjj",
   "license": null,
   "home_page": null,
-  "download_filename": "pypipr-2.0.5.tar.gz",
-  "download_time": "2025-09-09T07:47:47.529988",
+  "download_filename": "pypipr-2.0.6.tar.gz",
+  "download_time": "2025-09-09T08:15:52.643593",
   "package_url": "https://pypi.org/project/pypipr/"
 }

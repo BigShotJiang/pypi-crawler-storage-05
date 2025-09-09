@@ -1,0 +1,11 @@
+{
+  "name": "composio-core",
+  "version": "0.7.21",
+  "summary": "[DEPRECATED] Core package to act as a bridge between composio platform and other services. Please use 'composio' instead.",
+  "author": "Utkarsh",
+  "license": null,
+  "home_page": "https://github.com/composiohq/composio",
+  "download_filename": "composio_core-0.7.21.tar.gz",
+  "download_time": "2025-09-09T08:15:40.357327",
+  "package_url": "https://pypi.org/project/composio-core/"
+}
