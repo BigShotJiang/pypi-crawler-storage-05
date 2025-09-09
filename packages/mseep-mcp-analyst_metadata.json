@@ -1,0 +1,11 @@
+{
+  "name": "mseep-mcp-analyst",
+  "version": "0.3.4",
+  "summary": "MCP Analyst is an MCP server that empowers claude to analyze local CSV or Parquet files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_mcp_analyst-0.3.4.tar.gz",
+  "download_time": "2025-09-09T10:34:41.992430",
+  "package_url": "https://pypi.org/project/mseep-mcp-analyst/"
+}

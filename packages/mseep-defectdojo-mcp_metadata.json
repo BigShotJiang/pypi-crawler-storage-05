@@ -1,0 +1,11 @@
+{
+  "name": "mseep-defectdojo-mcp",
+  "version": "0.1.6",
+  "summary": "DefectDojo MCP server for integrating with DefectDojo vulnerability management system",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_defectdojo_mcp-0.1.6.tar.gz",
+  "download_time": "2025-09-09T10:35:20.927480",
+  "package_url": "https://pypi.org/project/mseep-defectdojo-mcp/"
+}

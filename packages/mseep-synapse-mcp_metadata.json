@@ -1,0 +1,11 @@
+{
+  "name": "mseep-synapse-mcp",
+  "version": "0.1.4",
+  "summary": "A Model Context Protocol (MCP) server that exposes Synapse Entities with Croissant metadata support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_synapse_mcp-0.1.4.tar.gz",
+  "download_time": "2025-09-09T10:35:25.409569",
+  "package_url": "https://pypi.org/project/mseep-synapse-mcp/"
+}

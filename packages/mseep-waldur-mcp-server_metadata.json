@@ -1,0 +1,11 @@
+{
+  "name": "mseep-waldur-mcp-server",
+  "version": "0.1.4",
+  "summary": "Waldur MCP server project",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_waldur_mcp_server-0.1.4.tar.gz",
+  "download_time": "2025-09-09T10:35:21.460771",
+  "package_url": "https://pypi.org/project/mseep-waldur-mcp-server/"
+}

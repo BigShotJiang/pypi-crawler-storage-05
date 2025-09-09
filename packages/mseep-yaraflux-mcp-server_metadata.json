@@ -1,0 +1,11 @@
+{
+  "name": "mseep-yaraflux-mcp-server",
+  "version": "1.0.18",
+  "summary": "Model Context Protocol (MCP) server for YARA scanning",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_yaraflux_mcp_server-1.0.18.tar.gz",
+  "download_time": "2025-09-09T10:34:50.545819",
+  "package_url": "https://pypi.org/project/mseep-yaraflux-mcp-server/"
+}

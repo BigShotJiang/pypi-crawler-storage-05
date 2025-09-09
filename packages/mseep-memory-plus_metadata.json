@@ -1,0 +1,11 @@
+{
+  "name": "mseep-memory-plus",
+  "version": "0.1.5",
+  "summary": "A memory management server using FastMCP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_memory_plus-0.1.5.tar.gz",
+  "download_time": "2025-09-09T10:34:43.772594",
+  "package_url": "https://pypi.org/project/mseep-memory-plus/"
+}

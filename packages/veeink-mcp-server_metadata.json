@@ -1,11 +1,11 @@
 {
   "name": "veeink-mcp-server",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "veeink的MCP服务",
-  "author": null,
+  "author": "wlf",
   "license": null,
   "home_page": null,
-  "download_filename": "veeink_mcp_server-0.1.3.tar.gz",
-  "download_time": "2025-09-09T06:48:22.309032",
+  "download_filename": "veeink_mcp_server-0.1.5.tar.gz",
+  "download_time": "2025-09-09T10:34:43.140709",
   "package_url": "https://pypi.org/project/veeink-mcp-server/"
 }

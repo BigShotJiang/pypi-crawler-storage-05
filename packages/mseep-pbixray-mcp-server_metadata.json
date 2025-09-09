@@ -1,0 +1,11 @@
+{
+  "name": "mseep-pbixray-mcp-server",
+  "version": "0.1.4",
+  "summary": "An MCP server for analyzing Power BI files using PBIXRay",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_pbixray_mcp_server-0.1.4.tar.gz",
+  "download_time": "2025-09-09T10:35:01.214036",
+  "package_url": "https://pypi.org/project/mseep-pbixray-mcp-server/"
+}

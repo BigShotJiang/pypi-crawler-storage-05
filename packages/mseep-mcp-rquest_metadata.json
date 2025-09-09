@@ -1,0 +1,11 @@
+{
+  "name": "mseep-mcp-rquest",
+  "version": "0.1.17",
+  "summary": "A Model Context Protocol (MCP) server providing advanced HTTP request capabilities with realistic browser emulation for Claude and other LLMs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_mcp_rquest-0.1.17-py3-none-any.whl",
+  "download_time": "2025-09-09T10:34:45.858730",
+  "package_url": "https://pypi.org/project/mseep-mcp-rquest/"
+}

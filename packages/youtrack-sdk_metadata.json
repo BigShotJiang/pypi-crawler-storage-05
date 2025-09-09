@@ -1,0 +1,11 @@
+{
+  "name": "youtrack-sdk",
+  "version": "1.0.202509091024",
+  "summary": "YouTrack SDK",
+  "author": "moneymeets",
+  "license": "MIT",
+  "home_page": "https://github.com/moneymeets/youtrack-sdk",
+  "download_filename": "youtrack_sdk-1.0.202509091024.tar.gz",
+  "download_time": "2025-09-09T10:35:23.180729",
+  "package_url": "https://pypi.org/project/youtrack-sdk/"
+}
