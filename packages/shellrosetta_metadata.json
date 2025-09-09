@@ -1,11 +1,11 @@
 {
   "name": "shellrosetta",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Advanced Linux/Bash to PowerShell translator with ML, plugins, web API, and interactive shell support.",
   "author": "David Donohue",
   "license": "MIT",
   "home_page": "https://github.com/sdirishguy/shellrosetta",
-  "download_filename": "shellrosetta-1.2.0.tar.gz",
-  "download_time": "2025-09-09T07:37:45.167908",
+  "download_filename": "shellrosetta-1.2.1.tar.gz",
+  "download_time": "2025-09-09T07:47:46.992777",
   "package_url": "https://pypi.org/project/shellrosetta/"
 }

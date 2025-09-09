@@ -1,11 +1,11 @@
 {
   "name": "pytest-fixtures-fixtures",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Handy fixtues to access your fixtures from your _pytest_ tests.",
   "author": "Antonio Feregrino",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytest_fixtures_fixtures-0.2.0.tar.gz",
-  "download_time": "2025-09-08T21:26:59.066502",
+  "download_filename": "pytest_fixtures_fixtures-0.3.0.tar.gz",
+  "download_time": "2025-09-09T07:47:56.678388",
   "package_url": "https://pypi.org/project/pytest-fixtures-fixtures/"
 }

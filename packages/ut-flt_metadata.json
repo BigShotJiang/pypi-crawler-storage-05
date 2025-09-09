@@ -1,0 +1,11 @@
+{
+  "name": "ut-flt",
+  "version": "1.1.0.20250909",
+  "summary": "Utilities for flatten of Dictionaries or Arrays of Dictionaries",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ut_flt-1.1.0.20250909.tar.gz",
+  "download_time": "2025-09-09T07:47:57.218955",
+  "package_url": "https://pypi.org/project/ut-flt/"
+}

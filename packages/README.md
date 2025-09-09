@@ -1,21 +1,68 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-09T07:38:36.370848
-- **Total Packages**: 88
-- **Total Size**: 12.54 MB
+- **Download Time**: 2025-09-09T07:48:15.951647
+- **Total Packages**: 80
+- **Total Size**: 11.14 MB
 
 ## Packages List
-- hyperqueue
-- shellrosetta
+- ljobx
+- HandsON-BuildHat-API
+- najaeda
+- mseep-falcon-mcp
+- huibiao-framework
+- solubilityCCS
+- django-bulk-triggers
 - radboy
+- grzctl
+- grz-db
+- FlexiConc
+- quantum-loop
+- allison
+- gcl-sdk
+- vital
+- napari-dmc-brainmap
+- gdcmd
+- stig
+- reproducibility
+- basepak
+- edri
+- openearth
+- pytractive
+- sautech
+- eseg
+- qltool
+- shellrosetta
+- pypipr
+- serptool
+- pqquotation
+- agtools
+- jacksung
+- music-drummer
+- zap-cdk
+- alibabacloud-pai-dsw20220101
+- leaf-framework
+- jpylib-jyrgenn
+- robotframework-databaselibrary
+- pinion-queue
+- clickup-mcp-server
+- authentik-client
+- ai-evaluation
+- csj-openapi-mcp
+- pyrrot-wallpaper
+- pytest-fixtures-fixtures
+- ut-flt
+- tinybird
+- loongdata
+- DDS-All
+- dissect.target
+- xronai
+- social-auth-pipeline-app
+- hyperqueue
 - carestack
 - code-loader
 - data_exchange_tool
-- HandsON-BuildHat-API
 - netbox-plugin-reloader
-- csj-openapi-mcp
-- authentik-client
 - oasis-gui
 - ltc-client
 - feldera
@@ -24,14 +71,11 @@
 - oasis-api
 - oterm
 - strix-agent
-- jpylib-jyrgenn
 - moka-py
 - giint-llm-intelligence
 - jcweaver
 - ut-http
 - singbox2proxy
-- jacksung
-- pinion-queue
 - nus-logger
 - omnipkg
 - superu
@@ -42,55 +86,3 @@
 - nb-time
 - onnxscript
 - socketdev
-- fiuai-sdk-python
-- black-langcube
-- cribl-mgmt-plane
-- brynq-sdk-profit
-- zlib-state
-- pc-monitor-server
-- MetaRpcMT5
-- cribl-control-plane
-- ecl-logging-utility
-- icetcore
-- django-silk
-- FatigueDS
-- zpp_store
-- langchain-azure-postgresql
-- tree-sitter-epics-cmd
-- siiha-sdk
-- medvision-segmentation
-- MeUtils
-- pyeasyphd
-- streamlit-nightly
-- arpakitlib
-- bizydraft
-- localstack-core
-- zpp_flow
-- cognite-toolkit
-- ruyi
-- nibe
-- mlgame
-- stackit-serviceaccount
-- deeploy
-- alibabacloud-websitebuild20250429
-- odoo-addon-mail-tracking
-- ut-ptc
-- gitcode
-- allison
-- dataeval
-- Rangekeeper
-- sec-edgar-mcp
-- gpframe
-- pyannote.audio
-- whisper-timestamped
-- basepak
-- znote
-- googleads-housekeeper
-- processpi
-- wformat
-- tf-models-nightly
-- nosible
-- synapse-sdk
-- clickup-mcp-server
-- universal-mcp-agents
-- easyUI-Qt
