@@ -1,0 +1,11 @@
+{
+  "name": "whisper-timestamped",
+  "version": "1.15.9",
+  "summary": "Multi-lingual Automatic Speech Recognition (ASR) based on Whisper models, with accurate word timestamps, access to language detection confidence, several options for Voice Activity Detection (VAD), and more.",
+  "author": "Jeronymous",
+  "license": "GPLv3",
+  "home_page": "https://github.com/linto-ai/whisper-timestamped",
+  "download_filename": "whisper_timestamped-1.15.9.tar.gz",
+  "download_time": "2025-09-09T07:11:07.390274",
+  "package_url": "https://pypi.org/project/whisper-timestamped/"
+}

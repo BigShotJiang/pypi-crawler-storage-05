@@ -1,0 +1,11 @@
+{
+  "name": "aliyun-python-sdk-websitebuild",
+  "version": "1.0.6",
+  "summary": "The websitebuild module of Aliyun Python sdk.",
+  "author": "Aliyun",
+  "license": "Apache",
+  "home_page": "http://develop.aliyun.com/sdk/python",
+  "download_filename": "aliyun-python-sdk-websitebuild-1.0.6.tar.gz",
+  "download_time": "2025-09-09T07:11:25.060116",
+  "package_url": "https://pypi.org/project/aliyun-python-sdk-websitebuild/"
+}

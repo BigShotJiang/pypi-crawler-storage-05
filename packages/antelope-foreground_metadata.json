@@ -1,0 +1,11 @@
+{
+  "name": "antelope-foreground",
+  "version": "0.3.7",
+  "summary": null,
+  "author": "Brandon Kuczenski",
+  "license": null,
+  "home_page": "https://github.com/AntelopeLCA/foreground",
+  "download_filename": "antelope_foreground-0.3.7.tar.gz",
+  "download_time": "2025-09-09T07:11:16.638648",
+  "package_url": "https://pypi.org/project/antelope-foreground/"
+}

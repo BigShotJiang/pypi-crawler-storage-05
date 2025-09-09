@@ -1,0 +1,11 @@
+{
+  "name": "pyannote.audio",
+  "version": "3.4.0",
+  "summary": "Neural building blocks for speaker diarization",
+  "author": "Hervé Bredin",
+  "license": "mit",
+  "home_page": "https://github.com/pyannote/pyannote-audio",
+  "download_filename": "pyannote_audio-3.4.0.tar.gz",
+  "download_time": "2025-09-09T07:11:06.755536",
+  "package_url": "https://pypi.org/project/pyannote.audio/"
+}

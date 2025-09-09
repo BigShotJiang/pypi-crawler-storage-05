@@ -1,0 +1,11 @@
+{
+  "name": "gitcode",
+  "version": "1.1.6",
+  "summary": "GitCode模型文件上传下载CLI工具",
+  "author": "GitCode CLI Team",
+  "license": null,
+  "home_page": "https://gitcode.com/gitcode-ai/gitcode_cli",
+  "download_filename": "gitcode-1.1.6.tar.gz",
+  "download_time": "2025-09-09T07:11:02.262463",
+  "package_url": "https://pypi.org/project/gitcode/"
+}
