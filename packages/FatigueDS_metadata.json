@@ -1,0 +1,11 @@
+{
+  "name": "FatigueDS",
+  "version": "0.3.0",
+  "summary": "Fatigue Damage Spectrum (FDS) and Extreme Response Spectrum (ERS)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fatigueds-0.3.0.tar.gz",
+  "download_time": "2025-09-09T07:29:11.770801",
+  "package_url": "https://pypi.org/project/FatigueDS/"
+}

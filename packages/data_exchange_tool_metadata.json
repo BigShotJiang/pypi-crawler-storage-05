@@ -1,0 +1,11 @@
+{
+  "name": "data_exchange_tool",
+  "version": "0.1.8",
+  "summary": "Tool for django models import",
+  "author": "Toni Caparrós García",
+  "license": null,
+  "home_page": null,
+  "download_filename": "data_exchange_tool-0.1.8.tar.gz",
+  "download_time": "2025-09-09T07:28:48.048562",
+  "package_url": "https://pypi.org/project/data_exchange_tool/"
+}

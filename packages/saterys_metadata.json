@@ -1,11 +1,11 @@
 {
   "name": "saterys",
-  "version": "0.2.8",
+  "version": "0.3.2",
   "summary": "Saterys — Scalable Analysis Toolkit for Earth Remote sYStemS",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "saterys-0.2.8.tar.gz",
-  "download_time": "2025-09-08T07:46:45.087678",
+  "download_filename": "saterys-0.3.2.tar.gz",
+  "download_time": "2025-09-09T07:29:01.756440",
   "package_url": "https://pypi.org/project/saterys/"
 }

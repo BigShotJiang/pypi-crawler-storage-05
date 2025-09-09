@@ -1,16 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-09T07:11:48.228159
-- **Total Packages**: 86
-- **Total Size**: 44.45 MB
+- **Download Time**: 2025-09-09T07:29:37.431600
+- **Total Packages**: 88
+- **Total Size**: 14.74 MB
 
 ## Packages List
+- code-loader
+- data_exchange_tool
+- HandsON-BuildHat-API
+- netbox-plugin-reloader
+- csj-openapi-mcp
+- authentik-client
+- oasis-gui
+- ltc-client
+- feldera
+- mathsys
+- oasis-tui
+- oasis-api
+- oterm
+- strix-agent
+- jpylib-jyrgenn
+- moka-py
+- giint-llm-intelligence
+- jcweaver
+- ut-http
+- singbox2proxy
+- jacksung
+- pinion-queue
+- nus-logger
+- omnipkg
+- superu
+- saterys
+- mtcli-volume
+- arthur-client
+- mysharelib
+- nb-time
+- onnxscript
+- socketdev
+- fiuai-sdk-python
+- black-langcube
+- cribl-mgmt-plane
+- brynq-sdk-profit
+- zlib-state
+- pc-monitor-server
+- MetaRpcMT5
+- cribl-control-plane
+- ecl-logging-utility
+- icetcore
+- django-silk
+- FatigueDS
+- zpp_store
+- langchain-azure-postgresql
+- tree-sitter-epics-cmd
+- siiha-sdk
+- medvision-segmentation
+- MeUtils
+- pyeasyphd
 - streamlit-nightly
 - arpakitlib
 - bizydraft
-- authentik-client
-- giint-llm-intelligence
 - localstack-core
 - zpp_flow
 - cognite-toolkit
@@ -26,7 +75,6 @@
 - allison
 - dataeval
 - Rangekeeper
-- nb-time
 - sec-edgar-mcp
 - gpframe
 - pyannote.audio
@@ -38,7 +86,6 @@
 - wformat
 - tf-models-nightly
 - nosible
-- pyeasyphd
 - synapse-sdk
 - clickup-mcp-server
 - universal-mcp-agents
@@ -47,48 +94,3 @@
 - prompt4py
 - anytraverse
 - audio-toolset
-- alibabacloud-ims-editing-mcp-server
-- mtcli-volume
-- halib
-- spinedb-api
-- spine-items
-- spine-engine
-- spinetoolbox
-- coordinated-workers
-- social-auth-pipeline-app
-- aliyun-python-sdk-websitebuild
-- langchain-oceanbase
-- alibabacloud-ecd20200930
-- pkscreener
-- abstract-utilities
-- optillm
-- bsh-file-validation-check
-- is-bot
-- ut-path
-- byzerllm
-- huawei-solar
-- ethiobank-receipts
-- base-api-utils
-- pyZlBus2
-- evo-cli
-- wavespeed-mcp
-- odoo-addon-fieldservice-sale-order-create-wizard
-- ic-code
-- autowzry
-- SpaMV
-- wujihandpy
-- hobot-dnn-rdkx5
-- hobot-vio-rdkx5
-- oc-cdtapi
-- structured-output-prompt
-- standardweb3
-- django-admin-wizard
-- tboxsdk
-- augmentry
-- fog.buildtools
-- yearn-treasury
-- jpegdata
-- valar
-- ljobx
-- openstarlab-preprocessing
-- pb2

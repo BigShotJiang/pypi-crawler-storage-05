@@ -1,0 +1,11 @@
+{
+  "name": "pc-monitor-server",
+  "version": "1.2.4",
+  "summary": null,
+  "author": "Neucrack",
+  "license": "MIT",
+  "home_page": "https://github.com/Neutree/pc-monitor-server",
+  "download_filename": "pc_monitor_server-1.2.4.tar.gz",
+  "download_time": "2025-09-09T07:29:08.539638",
+  "package_url": "https://pypi.org/project/pc-monitor-server/"
+}

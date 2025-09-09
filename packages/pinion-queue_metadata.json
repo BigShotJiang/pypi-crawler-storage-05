@@ -1,11 +1,11 @@
 {
   "name": "pinion-queue",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Pinion: a tiny pluggable job queue with retries.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pinion_queue-0.2.1.tar.gz",
-  "download_time": "2025-09-09T04:35:05.902706",
+  "download_filename": "pinion_queue-0.2.2.tar.gz",
+  "download_time": "2025-09-09T07:28:59.003640",
   "package_url": "https://pypi.org/project/pinion-queue/"
 }
