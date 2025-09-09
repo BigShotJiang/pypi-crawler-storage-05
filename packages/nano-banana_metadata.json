@@ -1,11 +1,11 @@
 {
   "name": "nano-banana",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Simple wrapper for Google Gemini image generation and analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nano_banana-0.4.0.tar.gz",
-  "download_time": "2025-09-09T04:34:46.380100",
+  "download_filename": "nano_banana-0.4.1.tar.gz",
+  "download_time": "2025-09-09T04:49:43.068441",
   "package_url": "https://pypi.org/project/nano-banana/"
 }

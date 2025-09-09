@@ -1,11 +1,11 @@
 {
   "name": "alex-example-pkg-0909",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A small example package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alex_example_pkg_0909-0.0.2.tar.gz",
-  "download_time": "2025-09-09T04:34:47.642857",
+  "download_filename": "alex_example_pkg_0909-0.0.3.tar.gz",
+  "download_time": "2025-09-09T04:49:40.835884",
   "package_url": "https://pypi.org/project/alex-example-pkg-0909/"
 }
