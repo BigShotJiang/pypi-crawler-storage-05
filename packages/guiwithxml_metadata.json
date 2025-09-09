@@ -1,0 +1,11 @@
+{
+  "name": "guiwithxml",
+  "version": "0.1.1",
+  "summary": "XML kullanarak özel Tkinter arayüzleri çizen bir kütüphane.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "guiwithxml-0.1.1.tar.gz",
+  "download_time": "2025-09-09T14:50:27.570742",
+  "package_url": "https://pypi.org/project/guiwithxml/"
+}

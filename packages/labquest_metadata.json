@@ -1,0 +1,11 @@
+{
+  "name": "labquest",
+  "version": "2.1.0",
+  "summary": "Library to interface with LabQuest interfaces via USB",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "labquest-2.1.0.tar.gz",
+  "download_time": "2025-09-09T14:50:23.811878",
+  "package_url": "https://pypi.org/project/labquest/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-watchfiles",
+  "version": "1.2.0",
+  "summary": "Use watchfiles in Django’s autoreloader.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_watchfiles-1.2.0.tar.gz",
+  "download_time": "2025-09-09T14:50:54.543971",
+  "package_url": "https://pypi.org/project/django-watchfiles/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyannote-metrics",
+  "version": "4.0.0",
+  "summary": "A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyannote_metrics-4.0.0.tar.gz",
+  "download_time": "2025-09-09T14:50:41.366201",
+  "package_url": "https://pypi.org/project/pyannote-metrics/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "staticdash",
+  "version": "2025.31",
+  "summary": "A lightweight static HTML dashboard generator with Plotly and pandas support.",
+  "author": null,
+  "license": "CC0-1.0",
+  "home_page": null,
+  "download_filename": "staticdash-2025.31.tar.gz",
+  "download_time": "2025-09-09T14:50:51.756219",
+  "package_url": "https://pypi.org/project/staticdash/"
+}

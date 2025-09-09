@@ -1,0 +1,11 @@
+{
+  "name": "keystone-api",
+  "version": "0.7.1",
+  "summary": "A REST API for managing user resource allocations on HPC systems.",
+  "author": "Better HPC LLC",
+  "license": null,
+  "home_page": null,
+  "download_filename": "keystone_api-0.7.1.tar.gz",
+  "download_time": "2025-09-09T14:50:49.469442",
+  "package_url": "https://pypi.org/project/keystone-api/"
+}

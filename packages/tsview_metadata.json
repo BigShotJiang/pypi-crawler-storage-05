@@ -1,0 +1,11 @@
+{
+  "name": "tsview",
+  "version": "0.20.1",
+  "summary": "Plugin to `tshistory` which provides a `view` subcommand to visualize time series",
+  "author": "Pythonian",
+  "license": null,
+  "home_page": "https://hg.sr.ht/~pythonian/tsview",
+  "download_filename": "tsview-0.20.1-py3-none-any.whl",
+  "download_time": "2025-09-09T14:50:55.131566",
+  "package_url": "https://pypi.org/project/tsview/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyannote-pipeline",
+  "version": "4.0.0",
+  "summary": "Tunable pipelines",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyannote_pipeline-4.0.0.tar.gz",
+  "download_time": "2025-09-09T14:50:30.151594",
+  "package_url": "https://pypi.org/project/pyannote-pipeline/"
+}

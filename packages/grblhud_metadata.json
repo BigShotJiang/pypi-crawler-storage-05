@@ -1,0 +1,11 @@
+{
+  "name": "grblhud",
+  "version": "1.7.10",
+  "summary": "grblhub: a command line tool to handle grbl code.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "grblhud-1.7.10.tar.gz",
+  "download_time": "2025-09-09T14:50:34.769414",
+  "package_url": "https://pypi.org/project/grblhud/"
+}

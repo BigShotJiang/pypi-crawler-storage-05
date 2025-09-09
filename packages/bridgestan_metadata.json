@@ -1,0 +1,11 @@
+{
+  "name": "bridgestan",
+  "version": "2.7.0",
+  "summary": "Access the methods of a Stan model in Python.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "bridgestan-2.7.0-py3-none-any.whl",
+  "download_time": "2025-09-09T14:50:26.551726",
+  "package_url": "https://pypi.org/project/bridgestan/"
+}

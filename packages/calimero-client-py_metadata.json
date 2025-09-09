@@ -1,0 +1,11 @@
+{
+  "name": "calimero-client-py",
+  "version": "0.2.2",
+  "summary": "Python client SDK for Calimero Network",
+  "author": "Calimero Network",
+  "license": null,
+  "home_page": "https://github.com/calimero-network/calimero-client-py",
+  "download_filename": "calimero_client_py-0.2.2.tar.gz",
+  "download_time": "2025-09-09T14:50:46.632931",
+  "package_url": "https://pypi.org/project/calimero-client-py/"
+}

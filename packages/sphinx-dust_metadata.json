@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-dust",
+  "version": "1.2.5",
+  "summary": "Sphinx extension to produce warnings when a doc needs proofreading.",
+  "author": "Polyconseil",
+  "license": "BSD",
+  "home_page": "https://github.com/Polyconseil/sphinx-dust",
+  "download_filename": "sphinx_dust-1.2.5.tar.gz",
+  "download_time": "2025-09-09T14:50:52.913171",
+  "package_url": "https://pypi.org/project/sphinx-dust/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "openlayer",
-  "version": "0.2.0a91",
+  "version": "0.2.0a92",
   "summary": "The official Python library for the openlayer API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "openlayer-0.2.0a91.tar.gz",
-  "download_time": "2025-09-09T04:34:52.972603",
+  "download_filename": "openlayer-0.2.0a92.tar.gz",
+  "download_time": "2025-09-09T14:50:39.028159",
   "package_url": "https://pypi.org/project/openlayer/"
 }

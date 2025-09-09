@@ -1,0 +1,11 @@
+{
+  "name": "fastofreader",
+  "version": "0.1.0",
+  "summary": "Fast numerical operations implemented in Cython",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastofreader-0.1.0.tar.gz",
+  "download_time": "2025-09-09T14:50:29.125097",
+  "package_url": "https://pypi.org/project/fastofreader/"
+}
