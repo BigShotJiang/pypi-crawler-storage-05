@@ -1,0 +1,11 @@
+{
+  "name": "grid2demand",
+  "version": "1.0.6",
+  "summary": "A tool for generating zone-to-zone travel demand based on grid cells or TAZs using gravity model",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "grid2demand-1.0.6.tar.gz",
+  "download_time": "2025-09-09T03:42:31.868187",
+  "package_url": "https://pypi.org/project/grid2demand/"
+}

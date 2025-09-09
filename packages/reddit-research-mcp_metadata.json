@@ -1,0 +1,11 @@
+{
+  "name": "reddit-research-mcp",
+  "version": "0.1.1",
+  "summary": "A minimal Model Context Protocol server for Reddit content access",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "reddit_research_mcp-0.1.1.tar.gz",
+  "download_time": "2025-09-09T03:42:16.722031",
+  "package_url": "https://pypi.org/project/reddit-research-mcp/"
+}

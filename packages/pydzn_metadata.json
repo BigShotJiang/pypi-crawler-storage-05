@@ -1,0 +1,11 @@
+{
+  "name": "pydzn",
+  "version": "0.1.1",
+  "summary": "Tiny design-system utilities (Tailwind-like), composable HTML components, and a grid layout builder for Python/Jinja apps.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pydzn-0.1.1.tar.gz",
+  "download_time": "2025-09-09T03:42:27.210462",
+  "package_url": "https://pypi.org/project/pydzn/"
+}

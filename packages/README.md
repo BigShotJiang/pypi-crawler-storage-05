@@ -1,15 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-09T03:13:45.566363
-- **Total Packages**: 81
-- **Total Size**: 31.3 MB
+- **Download Time**: 2025-09-09T03:42:59.014497
+- **Total Packages**: 79
+- **Total Size**: 24.27 MB
 
 ## Packages List
+- odoo-addon-mrp-bom-current-stock
+- odoo-addon-mrp-lot-number-propagation
+- faster-app
+- odoo-addon-quality-control-oca
+- pjplan
+- GANDLF
+- arthemis-tts
+- wayback-machine-archiver
+- llama-index-tools-aws-bedrock-agentcore
+- cudensitymat-cu12
+- llama-index-retrievers-bm25
+- reddit-research-mcp
+- deep-tensor-py
+- fastapi-build
+- cim-graph
+- gbox-sdk
+- Jupyterchatzz
+- umami-analytics-py
+- zenx
+- karellen-llvm-toolchain-tools
+- pysubebm
+- bosa-core-binary
+- karellen-llvm-lldb
+- synapse-quantum-net
+- pydzn
+- synapse-qubit-flow
+- fastworkflow
+- syntaxmatrix
+- py-bragerone
+- ocr-stream
+- grid2demand
+- arthur-client
+- msgflux
+- odoo-addon-l10n-it-edi-extension
+- odoo-addon-l10n-it-edi-related-document
 - smellman-mbutil
 - PaddockTS
 - authentik-client
-- pysubebm
+- ez-constructs
 - iflow-mcp_mcp-server-baidu-digitalhuman
 - dev-nectarpy
 - palletdatagenerator
@@ -22,12 +57,9 @@
 - fwdi
 - dbgone
 - lark-util
-- Jupyterchatzz
-- zenx
 - init-service-auto
 - syTool
 - clickup-mcp-server
-- faster-app
 - maleo-database
 - maleo-middlewares
 - odoo-addon-helpdesk-mgmt
@@ -53,37 +85,3 @@
 - hockey-blast-common-lib
 - flow-compose
 - naif-eop-high-prec
-- agentcrew-ai
-- seliky
-- pygenieacs
-- emta
-- a1facts
-- coaiapy
-- mqtt-mcp
-- meridianalgo
-- lunaconf
-- ocr-stream
-- cobalt-sdk
-- cadence-py
-- GameSentenceMiner
-- odoo-addon-account-payment-return-import
-- zenml-nightly
-- odoo-addon-account-payment-term-extension
-- odoo-addon-account-voucher-killer
-- cadence-example-plugins
-- cadence-sdk
-- odoo-addons-oca-account-invoicing
-- google-genai
-- odoo-addon-account-invoice-production-lot
-- odoo-addon-account-asset-management
-- odoo-addon-account-netting
-- pyonir
-- onecite
-- pqsdk
-- odoo-addon-mis-template-financial-report
-- odoo-addon-account-tax-balance
-- yms-faster-rcnn
-- textmode
-- claude-mpm
-- kivy-sync
-- napistu

@@ -1,0 +1,11 @@
+{
+  "name": "synapse-quantum-net",
+  "version": "1.0.0",
+  "summary": "Distributed quantum computing and networking language - part of the Quantum Trinity",
+  "author": "Michael Benjamin Crowe",
+  "license": "Proprietary",
+  "home_page": "https://github.com/MichaelCrowe11/synapse-lang",
+  "download_filename": "synapse_quantum_net-1.0.0.tar.gz",
+  "download_time": "2025-09-09T03:42:26.045967",
+  "package_url": "https://pypi.org/project/synapse-quantum-net/"
+}

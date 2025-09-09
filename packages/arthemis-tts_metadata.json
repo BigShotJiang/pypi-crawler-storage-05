@@ -1,0 +1,11 @@
+{
+  "name": "arthemis-tts",
+  "version": "0.1.2",
+  "summary": "A simple transformer-based text-to-speech library",
+  "author": "Harish Santhnakakshmi Ganesan",
+  "license": null,
+  "home_page": "https://github.com/yourusername/arthemis-tts",
+  "download_filename": "arthemis_tts-0.1.2.tar.gz",
+  "download_time": "2025-09-09T03:42:13.115914",
+  "package_url": "https://pypi.org/project/arthemis-tts/"
+}

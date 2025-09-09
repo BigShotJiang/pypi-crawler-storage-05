@@ -1,0 +1,11 @@
+{
+  "name": "synapse-qubit-flow",
+  "version": "1.0.0",
+  "summary": "Quantum circuit design and algorithm execution language - part of the Quantum Trinity",
+  "author": "Michael Benjamin Crowe",
+  "license": "Proprietary",
+  "home_page": "https://github.com/MichaelCrowe11/synapse-lang",
+  "download_filename": "synapse_qubit_flow-1.0.0.tar.gz",
+  "download_time": "2025-09-09T03:42:27.790091",
+  "package_url": "https://pypi.org/project/synapse-qubit-flow/"
+}
