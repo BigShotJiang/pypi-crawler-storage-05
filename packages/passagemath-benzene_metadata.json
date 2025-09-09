@@ -1,11 +1,11 @@
 {
   "name": "passagemath-benzene",
-  "version": "10.6.17",
+  "version": "10.6.18",
   "summary": "passagemath: Generate fusene and benzenoid graphs with benzene",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_benzene-10.6.17.tar.gz",
-  "download_time": "2025-09-07T21:32:43.776184",
+  "download_filename": "passagemath_benzene-10.6.18.tar.gz",
+  "download_time": "2025-09-09T15:50:56.737501",
   "package_url": "https://pypi.org/project/passagemath-benzene/"
 }

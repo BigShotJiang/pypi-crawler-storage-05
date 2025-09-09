@@ -1,0 +1,11 @@
+{
+  "name": "command-runner",
+  "version": "1.7.5",
+  "summary": "Platform agnostic command and shell execution tool, also allows UAC/sudo privilege elevation",
+  "author": "NetInvent - Orsiris de Jong",
+  "license": "BSD",
+  "home_page": "https://github.com/netinvent/command_runner",
+  "download_filename": "command_runner-1.7.5.tar.gz",
+  "download_time": "2025-09-09T15:51:08.632055",
+  "package_url": "https://pypi.org/project/command-runner/"
+}

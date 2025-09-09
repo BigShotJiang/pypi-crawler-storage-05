@@ -1,0 +1,11 @@
+{
+  "name": "HATasmota",
+  "version": "0.10.1",
+  "summary": "Python module to help parse and construct Tasmota MQTT messages.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/emontnemery/hatasmota",
+  "download_filename": "hatasmota-0.10.1.tar.gz",
+  "download_time": "2025-09-09T15:51:19.220156",
+  "package_url": "https://pypi.org/project/HATasmota/"
+}

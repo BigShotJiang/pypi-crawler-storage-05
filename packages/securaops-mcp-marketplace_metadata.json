@@ -1,0 +1,11 @@
+{
+  "name": "securaops-mcp-marketplace",
+  "version": "0.1.0.post3",
+  "summary": "A marketplace for MCP (Model Context Protocol) connectors",
+  "author": "Nephthali Djabon Tchounda",
+  "license": null,
+  "home_page": "https://github.com/securacoder/mcp-marketplace/sdks",
+  "download_filename": "securaops_mcp_marketplace-0.1.0.post3-py3-none-any.whl",
+  "download_time": "2025-09-09T15:51:00.937575",
+  "package_url": "https://pypi.org/project/securaops-mcp-marketplace/"
+}
