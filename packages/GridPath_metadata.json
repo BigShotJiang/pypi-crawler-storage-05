@@ -1,0 +1,11 @@
+{
+  "name": "GridPath",
+  "version": "2025.7.0",
+  "summary": "A versatile simulation and optimization platform for power-system planning and operations.",
+  "author": null,
+  "license": "Apache v2",
+  "home_page": "https://www.gridpath.io",
+  "download_filename": "gridpath-2025.7.0.tar.gz",
+  "download_time": "2025-09-09T18:13:35.989435",
+  "package_url": "https://pypi.org/project/GridPath/"
+}

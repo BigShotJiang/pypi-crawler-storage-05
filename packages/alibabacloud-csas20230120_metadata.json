@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-csas20230120",
+  "version": "1.10.7",
+  "summary": "Alibaba Cloud csas (20230120) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_csas20230120-1.10.7.tar.gz",
+  "download_time": "2025-09-09T18:14:09.445845",
+  "package_url": "https://pypi.org/project/alibabacloud-csas20230120/"
+}

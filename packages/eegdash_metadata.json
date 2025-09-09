@@ -1,11 +1,11 @@
 {
   "name": "eegdash",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "EEG data for machine learning",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "eegdash-0.3.7.tar.gz",
-  "download_time": "2025-09-09T14:09:42.011153",
+  "download_filename": "eegdash-0.3.8.tar.gz",
+  "download_time": "2025-09-09T18:13:33.918248",
   "package_url": "https://pypi.org/project/eegdash/"
 }

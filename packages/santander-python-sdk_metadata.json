@@ -1,0 +1,11 @@
+{
+  "name": "santander-python-sdk",
+  "version": "0.3.2",
+  "summary": "Client não oficial da API do Santander em Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "santander_python_sdk-0.3.2.tar.gz",
+  "download_time": "2025-09-09T18:13:55.545223",
+  "package_url": "https://pypi.org/project/santander-python-sdk/"
+}

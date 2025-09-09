@@ -1,0 +1,11 @@
+{
+  "name": "kaxanuk.data-curator",
+  "version": "0.43.1",
+  "summary": "Tool for retrieving and combining financial and related data for informing security investments",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "kaxanuk_data_curator-0.43.1.tar.gz",
+  "download_time": "2025-09-09T18:14:14.576536",
+  "package_url": "https://pypi.org/project/kaxanuk.data-curator/"
+}
