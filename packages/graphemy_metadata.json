@@ -1,0 +1,11 @@
+{
+  "name": "graphemy",
+  "version": "1.1.2",
+  "summary": "A Python library for integrating SQLModel and Strawberry, providing a seamless GraphQL integration with FastAPI and advanced features for database interactions.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "graphemy-1.1.2.tar.gz",
+  "download_time": "2025-09-09T19:08:53.248597",
+  "package_url": "https://pypi.org/project/graphemy/"
+}

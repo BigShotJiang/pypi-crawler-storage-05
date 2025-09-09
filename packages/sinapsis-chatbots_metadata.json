@@ -1,11 +1,11 @@
 {
   "name": "sinapsis-chatbots",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "summary": "Mono repo with packages for text completion tasks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sinapsis_chatbots-0.5.3.tar.gz",
-  "download_time": "2025-09-08T15:48:37.044316",
+  "download_filename": "sinapsis_chatbots-0.5.4.tar.gz",
+  "download_time": "2025-09-09T19:08:54.278916",
   "package_url": "https://pypi.org/project/sinapsis-chatbots/"
 }

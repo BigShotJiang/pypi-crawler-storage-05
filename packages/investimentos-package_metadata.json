@@ -1,0 +1,11 @@
+{
+  "name": "investimentos-package",
+  "version": "1.0.0",
+  "summary": "Uma biblioteca para análise de investimentos",
+  "author": "Rodrigo  Raiche",
+  "license": "MIT",
+  "home_page": "https://github.com/tadrianonet/investimentos",
+  "download_filename": "investimentos_package-1.0.0.tar.gz",
+  "download_time": "2025-09-09T19:08:50.633942",
+  "package_url": "https://pypi.org/project/investimentos-package/"
+}

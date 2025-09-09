@@ -1,0 +1,11 @@
+{
+  "name": "electric-emission-cost",
+  "version": "0.0.5",
+  "summary": "Calculate electricity-related emissions and costs.",
+  "author": "WE3Lab",
+  "license": null,
+  "home_page": "https://github.com/we3lab/electric-emission-cost",
+  "download_filename": "electric_emission_cost-0.0.5.tar.gz",
+  "download_time": "2025-09-09T19:08:32.314310",
+  "package_url": "https://pypi.org/project/electric-emission-cost/"
+}

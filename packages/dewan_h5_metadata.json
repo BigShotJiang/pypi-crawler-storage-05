@@ -1,0 +1,11 @@
+{
+  "name": "dewan_h5",
+  "version": "1.2.5",
+  "summary": "Python package to load and parse H5 files in the Dewan Lab.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dewan_h5-1.2.5.tar.gz",
+  "download_time": "2025-09-09T19:08:55.350471",
+  "package_url": "https://pypi.org/project/dewan_h5/"
+}

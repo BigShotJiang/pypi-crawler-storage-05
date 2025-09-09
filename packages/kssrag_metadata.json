@@ -1,0 +1,11 @@
+{
+  "name": "kssrag",
+  "version": "0.1.0",
+  "summary": "A flexible Retrieval-Augmented Generation framework by Ksschkw",
+  "author": "Ksschkw",
+  "license": null,
+  "home_page": "https://github.com/Ksschkw/kssrag",
+  "download_filename": "kssrag-0.1.0.tar.gz",
+  "download_time": "2025-09-09T19:08:47.966828",
+  "package_url": "https://pypi.org/project/kssrag/"
+}

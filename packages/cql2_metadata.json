@@ -1,0 +1,11 @@
+{
+  "name": "cql2",
+  "version": "0.3.8",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/developmentseed/cql2-rs",
+  "download_filename": "cql2-0.3.8.tar.gz",
+  "download_time": "2025-09-09T19:08:48.530099",
+  "package_url": "https://pypi.org/project/cql2/"
+}
