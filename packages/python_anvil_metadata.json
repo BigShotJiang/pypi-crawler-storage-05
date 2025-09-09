@@ -1,0 +1,11 @@
+{
+  "name": "python_anvil",
+  "version": "5.1.2",
+  "summary": "Anvil API",
+  "author": "Anvil Foundry Inc.",
+  "license": "MIT",
+  "home_page": "https://www.useanvil.com/",
+  "download_filename": "python_anvil-5.1.2.tar.gz",
+  "download_time": "2025-09-09T19:33:09.994706",
+  "package_url": "https://pypi.org/project/python_anvil/"
+}

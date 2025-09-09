@@ -1,11 +1,11 @@
 {
   "name": "universal-calibration-protocol",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Pure python xcp protocol implementation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "universal_calibration_protocol-0.2.0.tar.gz",
-  "download_time": "2025-09-09T18:37:23.884909",
+  "download_filename": "universal_calibration_protocol-0.3.0.tar.gz",
+  "download_time": "2025-09-09T19:33:29.749989",
   "package_url": "https://pypi.org/project/universal-calibration-protocol/"
 }

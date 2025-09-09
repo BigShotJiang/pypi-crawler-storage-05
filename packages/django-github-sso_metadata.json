@@ -1,0 +1,11 @@
+{
+  "name": "django-github-sso",
+  "version": "5.0.0",
+  "summary": "Easily add GitHub Authentication to your Django Projects",
+  "author": "Chris Maillefaud",
+  "license": "MIT",
+  "home_page": "https://github.com/megalus/django-github-sso",
+  "download_filename": "django_github_sso-5.0.0.tar.gz",
+  "download_time": "2025-09-09T19:32:58.657394",
+  "package_url": "https://pypi.org/project/django-github-sso/"
+}

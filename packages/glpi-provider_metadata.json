@@ -1,11 +1,11 @@
 {
   "name": "glpi-provider",
-  "version": "0.1.10",
+  "version": "0.2.0",
   "summary": "GLPI API Abstraction Layer",
   "author": "Tatianno Alves",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "glpi_provider-0.1.10-py3-none-any.whl",
-  "download_time": "2025-09-09T18:37:02.098849",
+  "download_filename": "glpi_provider-0.2.0-py3-none-any.whl",
+  "download_time": "2025-09-09T19:33:05.856868",
   "package_url": "https://pypi.org/project/glpi-provider/"
 }

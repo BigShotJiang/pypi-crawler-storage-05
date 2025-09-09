@@ -1,0 +1,11 @@
+{
+  "name": "django-microsoft-sso",
+  "version": "6.0.0",
+  "summary": "Easily add Microsoft Authentication to your Django Projects",
+  "author": "Chris Maillefaud",
+  "license": "MIT",
+  "home_page": "https://github.com/megalus/django-microsoft-sso",
+  "download_filename": "django_microsoft_sso-6.0.0.tar.gz",
+  "download_time": "2025-09-09T19:32:51.461596",
+  "package_url": "https://pypi.org/project/django-microsoft-sso/"
+}
