@@ -1,11 +1,11 @@
 {
   "name": "DDS-All",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": null,
   "author": "JackyJia",
   "license": null,
   "home_page": null,
-  "download_filename": "dds_all-0.1.5.tar.gz",
-  "download_time": "2025-09-09T11:25:36.322827",
+  "download_filename": "dds_all-0.1.6.tar.gz",
+  "download_time": "2025-09-09T11:33:11.563703",
   "package_url": "https://pypi.org/project/DDS-All/"
 }
