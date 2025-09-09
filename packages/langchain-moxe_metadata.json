@@ -1,0 +1,11 @@
+{
+  "name": "langchain-moxe",
+  "version": "0.1.2",
+  "summary": "Integração da Moxe com LangChain para chat models, LLMs e embeddings.",
+  "author": "Fourlabs UN2",
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_moxe-0.1.2.tar.gz",
+  "download_time": "2025-09-09T14:09:20.637315",
+  "package_url": "https://pypi.org/project/langchain-moxe/"
+}

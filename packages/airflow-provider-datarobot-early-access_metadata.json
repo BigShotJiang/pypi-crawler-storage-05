@@ -1,0 +1,11 @@
+{
+  "name": "airflow-provider-datarobot-early-access",
+  "version": "1.0.2.2025.9.9",
+  "summary": "This client library is designed to integrate Airflow with the DataRobot API.",
+  "author": "datarobot",
+  "license": "DataRobot Tool and Utility Agreement",
+  "home_page": "https://datarobot.com",
+  "download_filename": "airflow_provider_datarobot_early_access-1.0.2.2025.9.9.tar.gz",
+  "download_time": "2025-09-09T14:09:08.699150",
+  "package_url": "https://pypi.org/project/airflow-provider-datarobot-early-access/"
+}

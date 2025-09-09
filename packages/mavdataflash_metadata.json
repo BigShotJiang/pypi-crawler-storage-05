@@ -1,0 +1,11 @@
+{
+  "name": "mavdataflash",
+  "version": "3.0.0",
+  "summary": "Read, analyze and visualize *.bin flight data logs recorded by ArduPilot",
+  "author": "General Aeronautics",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mavdataflash-3.0.0.tar.gz",
+  "download_time": "2025-09-09T14:09:44.302573",
+  "package_url": "https://pypi.org/project/mavdataflash/"
+}

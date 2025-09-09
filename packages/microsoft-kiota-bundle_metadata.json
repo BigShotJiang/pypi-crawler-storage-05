@@ -1,0 +1,11 @@
+{
+  "name": "microsoft-kiota-bundle",
+  "version": "1.9.7",
+  "summary": "Bundle package for kiota generated libraries in Python",
+  "author": "Microsoft",
+  "license": "MIT",
+  "home_page": "https://github.com/microsoft/kiota#readme",
+  "download_filename": "microsoft_kiota_bundle-1.9.7.tar.gz",
+  "download_time": "2025-09-09T14:09:35.671875",
+  "package_url": "https://pypi.org/project/microsoft-kiota-bundle/"
+}

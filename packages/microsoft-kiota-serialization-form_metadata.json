@@ -1,0 +1,11 @@
+{
+  "name": "microsoft-kiota-serialization-form",
+  "version": "1.9.7",
+  "summary": "Core abstractions for kiota generated libraries in Python",
+  "author": "Microsoft",
+  "license": "MIT",
+  "home_page": "https://github.com/microsoft/kiota#readme",
+  "download_filename": "microsoft_kiota_serialization_form-1.9.7.tar.gz",
+  "download_time": "2025-09-09T14:09:39.650680",
+  "package_url": "https://pypi.org/project/microsoft-kiota-serialization-form/"
+}
