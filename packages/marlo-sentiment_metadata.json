@@ -1,11 +1,11 @@
 {
   "name": "marlo-sentiment",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Python client for Marlo sentiment analysis API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "marlo_sentiment-1.0.3.tar.gz",
-  "download_time": "2025-09-09T11:25:35.293503",
+  "download_filename": "marlo_sentiment-1.0.4.tar.gz",
+  "download_time": "2025-09-09T16:13:23.833126",
   "package_url": "https://pypi.org/project/marlo-sentiment/"
 }

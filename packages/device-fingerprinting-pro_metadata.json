@@ -1,11 +1,11 @@
 {
   "name": "device-fingerprinting-pro",
-  "version": "1.1.1",
-  "summary": "Hardware-based device fingerprinting library with comprehensive security features and cross-platform support",
+  "version": "1.1.5",
+  "summary": "Device fingerprinting library with hardware identification and post-quantum cryptography",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "device_fingerprinting_pro-1.1.1.tar.gz",
-  "download_time": "2025-09-09T10:12:22.949657",
+  "download_filename": "device_fingerprinting_pro-1.1.5.tar.gz",
+  "download_time": "2025-09-09T16:12:57.014653",
   "package_url": "https://pypi.org/project/device-fingerprinting-pro/"
 }

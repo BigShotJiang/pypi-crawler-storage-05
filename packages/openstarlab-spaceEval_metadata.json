@@ -1,11 +1,11 @@
 {
   "name": "openstarlab-spaceEval",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "openstarlab space eval package",
   "author": null,
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "openstarlab_spaceeval-0.0.5.tar.gz",
-  "download_time": "2025-09-09T06:16:20.522579",
+  "download_filename": "openstarlab_spaceeval-0.0.6-py3-none-any.whl",
+  "download_time": "2025-09-09T16:12:51.894778",
   "package_url": "https://pypi.org/project/openstarlab-spaceEval/"
 }

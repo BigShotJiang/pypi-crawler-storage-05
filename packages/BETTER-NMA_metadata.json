@@ -1,11 +1,11 @@
 {
   "name": "BETTER-NMA",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "summary": "NMA: Dendrogram-based model analysis, white-box testing, and adversarial detection",
   "author": "BETTER_XAI",
   "license": null,
   "home_page": null,
-  "download_filename": "better_nma-1.0.2.tar.gz",
-  "download_time": "2025-09-08T16:11:25.509375",
+  "download_filename": "better_nma-1.0.5.tar.gz",
+  "download_time": "2025-09-09T16:13:10.490300",
   "package_url": "https://pypi.org/project/BETTER-NMA/"
 }

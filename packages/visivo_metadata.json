@@ -1,0 +1,11 @@
+{
+  "name": "visivo",
+  "version": "1.0.74",
+  "summary": "Visivo CLI for BI and visualizations as code",
+  "author": "Visivo People",
+  "license": null,
+  "home_page": null,
+  "download_filename": "visivo-1.0.74.tar.gz",
+  "download_time": "2025-09-09T16:13:36.820078",
+  "package_url": "https://pypi.org/project/visivo/"
+}

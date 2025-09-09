@@ -1,0 +1,11 @@
+{
+  "name": "tokenix-api-client",
+  "version": "0.2.2",
+  "summary": "Cliente Python para la API de Tokenix - Autenticación y comunicación HTTP completa",
+  "author": "Edwin Caicedo Venté",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tokenix_api_client-0.2.2.tar.gz",
+  "download_time": "2025-09-09T16:12:52.490874",
+  "package_url": "https://pypi.org/project/tokenix-api-client/"
+}

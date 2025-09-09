@@ -1,0 +1,11 @@
+{
+  "name": "amazon-braket-build-tools",
+  "version": "0.2.14",
+  "summary": "A set of build tools for Amazon Braket",
+  "author": "Amazon Web Services",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aws/amazon-braket-build-tools",
+  "download_filename": "amazon_braket_build_tools-0.2.14.tar.gz",
+  "download_time": "2025-09-09T16:13:07.057879",
+  "package_url": "https://pypi.org/project/amazon-braket-build-tools/"
+}
