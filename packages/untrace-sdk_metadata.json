@@ -1,0 +1,11 @@
+{
+  "name": "untrace-sdk",
+  "version": "0.1.0",
+  "summary": "LLM observability SDK for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "untrace_sdk-0.1.0.tar.gz",
+  "download_time": "2025-09-09T19:47:52.413586",
+  "package_url": "https://pypi.org/project/untrace-sdk/"
+}

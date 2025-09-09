@@ -1,0 +1,11 @@
+{
+  "name": "beancount-chase-bank",
+  "version": "0.2.15",
+  "summary": "Import Chase banking transactions into beancount format",
+  "author": "Michael Lynch",
+  "license": "MIT",
+  "home_page": "https://github.com/mtlynch/beancount-chase.git",
+  "download_filename": "beancount_chase_bank-0.2.15.tar.gz",
+  "download_time": "2025-09-09T19:47:36.211477",
+  "package_url": "https://pypi.org/project/beancount-chase-bank/"
+}
