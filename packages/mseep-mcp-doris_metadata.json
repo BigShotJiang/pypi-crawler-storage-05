@@ -1,0 +1,11 @@
+{
+  "name": "mseep-mcp-doris",
+  "version": "0.1.5",
+  "summary": "An MCP server for Apache Doris.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_mcp_doris-0.1.5.tar.gz",
+  "download_time": "2025-09-09T10:12:41.946398",
+  "package_url": "https://pypi.org/project/mseep-mcp-doris/"
+}

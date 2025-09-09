@@ -1,0 +1,11 @@
+{
+  "name": "mseep-youtube-translate-mcp",
+  "version": "0.1.4",
+  "summary": "YouTube Translate MCP server for accessing YouTube video transcripts and translations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_youtube_translate_mcp-0.1.4.tar.gz",
+  "download_time": "2025-09-09T10:12:44.497792",
+  "package_url": "https://pypi.org/project/mseep-youtube-translate-mcp/"
+}

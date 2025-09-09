@@ -1,0 +1,11 @@
+{
+  "name": "hibiz-any-llm",
+  "version": "0.0.10",
+  "summary": "A comprehensive Python wrapper for Large Language Models with database integration and usage tracking",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hibiz_any_llm-0.0.10.tar.gz",
+  "download_time": "2025-09-09T10:12:32.201740",
+  "package_url": "https://pypi.org/project/hibiz-any-llm/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mseep-spotify-mcp",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "MCP spotify project",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mseep_spotify_mcp-0.2.5.tar.gz",
-  "download_time": "2025-09-08T06:16:30.774600",
+  "download_filename": "mseep_spotify_mcp-0.2.6.tar.gz",
+  "download_time": "2025-09-09T10:12:12.177185",
   "package_url": "https://pypi.org/project/mseep-spotify-mcp/"
 }

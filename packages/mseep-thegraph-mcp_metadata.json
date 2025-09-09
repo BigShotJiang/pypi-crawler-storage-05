@@ -1,0 +1,11 @@
+{
+  "name": "mseep-thegraph-mcp",
+  "version": "0.1.4",
+  "summary": "An MCP server that powers AI agents with indexed blockchain data from The Graph.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_thegraph_mcp-0.1.4.tar.gz",
+  "download_time": "2025-09-09T10:12:32.711852",
+  "package_url": "https://pypi.org/project/mseep-thegraph-mcp/"
+}

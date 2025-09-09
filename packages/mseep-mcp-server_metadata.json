@@ -1,11 +1,11 @@
 {
   "name": "mseep-mcp-server",
-  "version": "0.1.5",
+  "version": "0.4.3",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mseep_mcp_server-0.1.5.tar.gz",
-  "download_time": "2025-09-08T10:11:57.972068",
+  "download_filename": "mseep_mcp_server-0.4.3.tar.gz",
+  "download_time": "2025-09-09T10:12:28.597681",
   "package_url": "https://pypi.org/project/mseep-mcp-server/"
 }

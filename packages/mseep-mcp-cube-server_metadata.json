@@ -1,0 +1,11 @@
+{
+  "name": "mseep-mcp-cube-server",
+  "version": "0.0.6",
+  "summary": "MCP server for interfacing with Cube.dev REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_mcp_cube_server-0.0.6.tar.gz",
+  "download_time": "2025-09-09T10:12:05.504141",
+  "package_url": "https://pypi.org/project/mseep-mcp-cube-server/"
+}

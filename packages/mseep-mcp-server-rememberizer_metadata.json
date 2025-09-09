@@ -1,0 +1,11 @@
+{
+  "name": "mseep-mcp-server-rememberizer",
+  "version": "0.1.10",
+  "summary": "A Model Context Protocol server for interacting with Rememberizer's document and knowledge management API. This server enables Large Language Models to search, retrieve, and manage documents and integrations through Rememberizer.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_mcp_server_rememberizer-0.1.10.tar.gz",
+  "download_time": "2025-09-09T10:12:16.261790",
+  "package_url": "https://pypi.org/project/mseep-mcp-server-rememberizer/"
+}

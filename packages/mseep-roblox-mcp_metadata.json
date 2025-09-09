@@ -1,0 +1,11 @@
+{
+  "name": "mseep-roblox-mcp",
+  "version": "0.1.1",
+  "summary": "Roblox Studio integration through the Model Context Protocol",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_roblox_mcp-0.1.1.tar.gz",
+  "download_time": "2025-09-09T10:12:23.461975",
+  "package_url": "https://pypi.org/project/mseep-roblox-mcp/"
+}

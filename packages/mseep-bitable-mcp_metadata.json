@@ -1,0 +1,11 @@
+{
+  "name": "mseep-bitable-mcp",
+  "version": "0.2.5",
+  "summary": "This MCP server provides access to Lark bitable through the Model Context Protocol.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_bitable_mcp-0.2.5.tar.gz",
+  "download_time": "2025-09-09T10:12:00.320404",
+  "package_url": "https://pypi.org/project/mseep-bitable-mcp/"
+}

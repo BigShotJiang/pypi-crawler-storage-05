@@ -1,11 +1,11 @@
 {
   "name": "mseep-shopify-py-mcp",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A MCP server project",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mseep_shopify_py_mcp-0.1.5.tar.gz",
-  "download_time": "2025-09-09T09:12:07.516366",
+  "download_filename": "mseep_shopify_py_mcp-0.1.6.tar.gz",
+  "download_time": "2025-09-09T10:12:13.200083",
   "package_url": "https://pypi.org/project/mseep-shopify-py-mcp/"
 }

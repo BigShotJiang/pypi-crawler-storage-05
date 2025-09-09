@@ -1,0 +1,11 @@
+{
+  "name": "mseep-jenkins-mcp",
+  "version": "0.1.5",
+  "summary": "MCP server for managing Jenkins operations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_jenkins_mcp-0.1.5.tar.gz",
+  "download_time": "2025-09-09T10:12:33.222284",
+  "package_url": "https://pypi.org/project/mseep-jenkins-mcp/"
+}

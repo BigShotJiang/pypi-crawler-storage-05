@@ -1,0 +1,11 @@
+{
+  "name": "dixa-api-client",
+  "version": "2.4.10",
+  "summary": "Python API Client for Dixa",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dixa_api_client-2.4.10.tar.gz",
+  "download_time": "2025-09-09T10:12:22.438629",
+  "package_url": "https://pypi.org/project/dixa-api-client/"
+}

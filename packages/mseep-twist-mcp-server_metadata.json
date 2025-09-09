@@ -1,0 +1,11 @@
+{
+  "name": "mseep-twist-mcp-server",
+  "version": "0.1.1",
+  "summary": "A Twist MCP server written in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_twist_mcp_server-0.1.1.tar.gz",
+  "download_time": "2025-09-09T10:12:18.845805",
+  "package_url": "https://pypi.org/project/mseep-twist-mcp-server/"
+}

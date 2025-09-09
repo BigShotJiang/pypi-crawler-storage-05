@@ -1,0 +1,11 @@
+{
+  "name": "mseep-claude-tools",
+  "version": "0.1.4",
+  "summary": "Multi-tool MCP integration for Claude",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_claude_tools-0.1.4.tar.gz",
+  "download_time": "2025-09-09T10:12:06.014111",
+  "package_url": "https://pypi.org/project/mseep-claude-tools/"
+}

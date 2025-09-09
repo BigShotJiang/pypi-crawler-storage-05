@@ -1,0 +1,11 @@
+{
+  "name": "mseep-k6-mcp-server",
+  "version": "0.1.4",
+  "summary": "Model context protocol server for k6 load testing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_k6_mcp_server-0.1.4.tar.gz",
+  "download_time": "2025-09-09T10:12:01.415627",
+  "package_url": "https://pypi.org/project/mseep-k6-mcp-server/"
+}

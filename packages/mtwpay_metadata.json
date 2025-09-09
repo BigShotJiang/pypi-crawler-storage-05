@@ -1,0 +1,11 @@
+{
+  "name": "mtwpay",
+  "version": "1.0.1",
+  "summary": "Python SDK for MyTonWallet Pay API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mtwpay-1.0.1.tar.gz",
+  "download_time": "2025-09-09T10:12:26.534800",
+  "package_url": "https://pypi.org/project/mtwpay/"
+}

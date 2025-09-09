@@ -1,0 +1,11 @@
+{
+  "name": "sql-impressao",
+  "version": "1.9.0",
+  "summary": "A SQL fingerprinter.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sql_impressao-1.9.0.tar.gz",
+  "download_time": "2025-09-09T10:12:35.779065",
+  "package_url": "https://pypi.org/project/sql-impressao/"
+}

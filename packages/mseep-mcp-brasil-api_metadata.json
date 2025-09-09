@@ -1,0 +1,11 @@
+{
+  "name": "mseep-mcp-brasil-api",
+  "version": "0.1.1",
+  "summary": "Servidor MCP (Model Context Protocol) para acesso a dados da Brasil API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_mcp_brasil_api-0.1.1.tar.gz",
+  "download_time": "2025-09-09T10:12:18.335569",
+  "package_url": "https://pypi.org/project/mseep-mcp-brasil-api/"
+}

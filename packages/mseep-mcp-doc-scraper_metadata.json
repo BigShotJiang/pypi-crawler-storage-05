@@ -1,0 +1,11 @@
+{
+  "name": "mseep-mcp-doc-scraper",
+  "version": "0.1.4",
+  "summary": "MCP server for scraping documentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_mcp_doc_scraper-0.1.4.tar.gz",
+  "download_time": "2025-09-09T10:12:42.967188",
+  "package_url": "https://pypi.org/project/mseep-mcp-doc-scraper/"
+}

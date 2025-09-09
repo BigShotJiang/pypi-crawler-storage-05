@@ -1,0 +1,11 @@
+{
+  "name": "mseep-mcp-finnhub",
+  "version": "0.1.4",
+  "summary": "An MCP server to connect with Finnhub financial API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_mcp_finnhub-0.1.4.tar.gz",
+  "download_time": "2025-09-09T10:12:02.434681",
+  "package_url": "https://pypi.org/project/mseep-mcp-finnhub/"
+}

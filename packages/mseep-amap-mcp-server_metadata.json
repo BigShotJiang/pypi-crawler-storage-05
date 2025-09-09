@@ -1,0 +1,11 @@
+{
+  "name": "mseep-amap-mcp-server",
+  "version": "0.1.10",
+  "summary": "Python版本高德地图MCP Server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_amap_mcp_server-0.1.10.tar.gz",
+  "download_time": "2025-09-09T10:12:20.898936",
+  "package_url": "https://pypi.org/project/mseep-amap-mcp-server/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mseep-cryptopanic-mcp-server",
+  "version": "0.1.4",
+  "summary": "Provide the latest cryptocurrency news for AI agents.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_cryptopanic_mcp_server-0.1.4.tar.gz",
+  "download_time": "2025-09-09T10:12:04.479785",
+  "package_url": "https://pypi.org/project/mseep-cryptopanic-mcp-server/"
+}

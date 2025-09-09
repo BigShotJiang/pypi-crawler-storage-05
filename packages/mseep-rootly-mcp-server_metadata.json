@@ -1,0 +1,11 @@
+{
+  "name": "mseep-rootly-mcp-server",
+  "version": "2.0.15",
+  "summary": "A Model Context Protocol server for Rootly APIs using OpenAPI spec",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_rootly_mcp_server-2.0.15.tar.gz",
+  "download_time": "2025-09-09T10:12:17.823985",
+  "package_url": "https://pypi.org/project/mseep-rootly-mcp-server/"
+}
