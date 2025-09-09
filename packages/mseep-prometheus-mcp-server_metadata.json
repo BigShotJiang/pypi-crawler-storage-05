@@ -1,11 +1,11 @@
 {
   "name": "mseep-prometheus-mcp-server",
-  "version": "1.2.7",
-  "summary": "MCP server for Prometheus integration",
+  "version": "1.2.8",
+  "summary": "Prometheus Model Context Protocol Server",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "mseep_prometheus_mcp_server-1.2.7.tar.gz",
-  "download_time": "2025-09-08T06:16:29.218514",
+  "download_filename": "mseep_prometheus_mcp_server-1.2.8.tar.gz",
+  "download_time": "2025-09-09T09:32:38.806120",
   "package_url": "https://pypi.org/project/mseep-prometheus-mcp-server/"
 }

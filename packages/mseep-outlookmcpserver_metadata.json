@@ -1,11 +1,11 @@
 {
   "name": "mseep-outlookmcpserver",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "An MCP Server for giving Claude control over Outlook on Mac",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mseep_outlookmcpserver-0.1.1.tar.gz",
-  "download_time": "2025-09-08T10:11:33.326281",
+  "download_filename": "mseep_outlookmcpserver-0.1.2.tar.gz",
+  "download_time": "2025-09-09T09:32:36.748331",
   "package_url": "https://pypi.org/project/mseep-outlookmcpserver/"
 }

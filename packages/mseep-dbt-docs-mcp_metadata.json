@@ -1,0 +1,11 @@
+{
+  "name": "mseep-dbt-docs-mcp",
+  "version": "1.0.0",
+  "summary": "Model Context Protocol (MCP) server for dbt docs",
+  "author": "mseep",
+  "license": null,
+  "home_page": "https://github.com/mseep",
+  "download_filename": "mseep_dbt_docs_mcp-1.0.0.tar.gz",
+  "download_time": "2025-09-09T09:32:24.720978",
+  "package_url": "https://pypi.org/project/mseep-dbt-docs-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mape",
+  "version": "0.1.1",
+  "summary": "Embedding Method for Structural Preservation via Pairwise Attractiveness",
+  "author": "Takeshi Matsuda",
+  "license": "MIT",
+  "home_page": "https://www.hannan-u.ac.jp/doctor/i_info-science/matsuda/n5fenj000002lis4.html",
+  "download_filename": "mape-0.1.1.tar.gz",
+  "download_time": "2025-09-09T09:32:15.404873",
+  "package_url": "https://pypi.org/project/mape/"
+}

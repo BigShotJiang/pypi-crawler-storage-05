@@ -1,0 +1,11 @@
+{
+  "name": "requests-ai-validator",
+  "version": "1.1.1",
+  "summary": "AI-powered validation wrapper for Python requests library",
+  "author": "Aleksei Koledachkin",
+  "license": "MIT",
+  "home_page": "https://github.com/manikosto/requests-ai-validator",
+  "download_filename": "requests_ai_validator-1.1.1.tar.gz",
+  "download_time": "2025-09-09T09:32:21.449758",
+  "package_url": "https://pypi.org/project/requests-ai-validator/"
+}

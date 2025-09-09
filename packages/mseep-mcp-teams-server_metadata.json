@@ -1,11 +1,11 @@
 {
   "name": "mseep-mcp-teams-server",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "An MCP server implementation for Microsoft Teams integration",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mseep_mcp_teams_server-1.0.6.tar.gz",
-  "download_time": "2025-09-09T05:11:34.534180",
+  "download_filename": "mseep_mcp_teams_server-1.0.7.tar.gz",
+  "download_time": "2025-09-09T09:31:59.446268",
   "package_url": "https://pypi.org/project/mseep-mcp-teams-server/"
 }

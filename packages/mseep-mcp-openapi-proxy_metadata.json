@@ -1,0 +1,11 @@
+{
+  "name": "mseep-mcp-openapi-proxy",
+  "version": "0.1.1",
+  "summary": "MCP server for exposing OpenAPI specifications as MCP tools.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_mcp_openapi_proxy-0.1.1.tar.gz",
+  "download_time": "2025-09-09T09:32:39.862172",
+  "package_url": "https://pypi.org/project/mseep-mcp-openapi-proxy/"
+}

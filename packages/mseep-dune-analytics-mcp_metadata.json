@@ -1,0 +1,11 @@
+{
+  "name": "mseep-dune-analytics-mcp",
+  "version": "0.1.1",
+  "summary": "A mcp server that bridges Dune Analytics data to AI agents.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_dune_analytics_mcp-0.1.1.tar.gz",
+  "download_time": "2025-09-09T09:32:14.894183",
+  "package_url": "https://pypi.org/project/mseep-dune-analytics-mcp/"
+}

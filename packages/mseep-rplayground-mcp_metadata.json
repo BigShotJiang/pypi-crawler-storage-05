@@ -1,0 +1,11 @@
+{
+  "name": "mseep-rplayground-mcp",
+  "version": "0.1.3",
+  "summary": "An MCP that lets the model transiently execute R code.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_rplayground_mcp-0.1.3.tar.gz",
+  "download_time": "2025-09-09T09:32:11.808050",
+  "package_url": "https://pypi.org/project/mseep-rplayground-mcp/"
+}

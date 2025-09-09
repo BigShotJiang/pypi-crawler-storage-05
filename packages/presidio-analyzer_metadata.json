@@ -1,0 +1,11 @@
+{
+  "name": "presidio-analyzer",
+  "version": "2.2.360",
+  "summary": "Presidio Analyzer package",
+  "author": "Presidio",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "presidio_analyzer-2.2.360-py3-none-any.whl",
+  "download_time": "2025-09-09T09:32:15.917263",
+  "package_url": "https://pypi.org/project/presidio-analyzer/"
+}
