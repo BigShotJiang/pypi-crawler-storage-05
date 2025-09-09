@@ -1,0 +1,11 @@
+{
+  "name": "FLiESANN",
+  "version": "1.6.1",
+  "summary": "Forest Light Environmental Simulator (FLiES) Radiative Transfer Model Artificial Neural Network (ANN) Implementation in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fliesann-1.6.1-py3-none-any.whl",
+  "download_time": "2025-09-09T23:47:59.010903",
+  "package_url": "https://pypi.org/project/FLiESANN/"
+}

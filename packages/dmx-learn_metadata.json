@@ -1,0 +1,11 @@
+{
+  "name": "dmx-learn",
+  "version": "1.0.0",
+  "summary": "A package for estimating heterogeneous probability density functions.",
+  "author": "Adam Walder",
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "dmx_learn-1.0.0.tar.gz",
+  "download_time": "2025-09-09T23:47:57.916844",
+  "package_url": "https://pypi.org/project/dmx-learn/"
+}
