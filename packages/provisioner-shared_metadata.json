@@ -1,0 +1,11 @@
+{
+  "name": "provisioner-shared",
+  "version": "0.1.25",
+  "summary": "Shared package used by the provisioner runtime and plugins",
+  "author": "Zachi Nachshon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "provisioner_shared-0.1.25-py3-none-any.whl",
+  "download_time": "2025-09-09T19:23:48.015048",
+  "package_url": "https://pypi.org/project/provisioner-shared/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "AppiumExtended",
+  "version": "0.17.176",
+  "summary": "An extension library for adding ease of use Appium-Python-Client",
+  "author": "molokov-klim",
+  "license": null,
+  "home_page": "https://github.com/molokov-klim/appium_extended",
+  "download_filename": "appiumextended-0.17.176.tar.gz",
+  "download_time": "2025-09-09T19:24:14.083309",
+  "package_url": "https://pypi.org/project/AppiumExtended/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-retail",
+  "version": "2.6.0",
+  "summary": "Google Cloud Retail API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-retail",
+  "download_filename": "google_cloud_retail-2.6.0.tar.gz",
+  "download_time": "2025-09-09T19:23:55.503835",
+  "package_url": "https://pypi.org/project/google-cloud-retail/"
+}

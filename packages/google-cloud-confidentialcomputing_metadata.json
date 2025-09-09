@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-confidentialcomputing",
+  "version": "0.5.0",
+  "summary": "Google Cloud Confidentialcomputing API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-confidentialcomputing",
+  "download_filename": "google_cloud_confidentialcomputing-0.5.0.tar.gz",
+  "download_time": "2025-09-09T19:23:56.667275",
+  "package_url": "https://pypi.org/project/google-cloud-confidentialcomputing/"
+}
