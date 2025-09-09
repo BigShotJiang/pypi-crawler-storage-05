@@ -1,0 +1,11 @@
+{
+  "name": "pyats.contrib",
+  "version": "25.8",
+  "summary": "Open source package for pyATS framework extensions.",
+  "author": "Cisco Systems Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://developer.cisco.com/pyats/",
+  "download_filename": "pyats.contrib-25.8-py3-none-any.whl",
+  "download_time": "2025-09-09T20:40:01.820331",
+  "package_url": "https://pypi.org/project/pyats.contrib/"
+}

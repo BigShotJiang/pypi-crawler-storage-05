@@ -1,0 +1,11 @@
+{
+  "name": "genie.libs.filetransferutils",
+  "version": "25.8",
+  "summary": "Genie libs FileTransferUtils: Genie FileTransferUtils Libraries",
+  "author": "Cisco Systems Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://developer.cisco.com/pyats",
+  "download_filename": "genie.libs.filetransferutils-25.8-py3-none-any.whl",
+  "download_time": "2025-09-09T20:40:12.889165",
+  "package_url": "https://pypi.org/project/genie.libs.filetransferutils/"
+}
