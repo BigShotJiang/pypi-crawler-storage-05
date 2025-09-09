@@ -1,0 +1,11 @@
+{
+  "name": "vscode-task-runner",
+  "version": "2.2.0",
+  "summary": "Task runner for VS Code tasks.json",
+  "author": "Nathan Vaughn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vscode_task_runner-2.2.0.tar.gz",
+  "download_time": "2025-09-09T23:09:48.355799",
+  "package_url": "https://pypi.org/project/vscode-task-runner/"
+}

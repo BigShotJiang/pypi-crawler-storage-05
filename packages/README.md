@@ -1,27 +1,68 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-09T22:52:26.359107
-- **Total Packages**: 81
-- **Total Size**: 15.21 MB
+- **Download Time**: 2025-09-09T23:10:27.351596
+- **Total Packages**: 75
+- **Total Size**: 33.95 MB
 
 ## Packages List
-- sportsball
+- lazyllt
+- pyevolutionapi
+- django-htmx
+- odoo-addon-gestion-editorial
+- dieopt
 - authentik-client
+- vscode-task-runner
+- athena-intelligence
+- flwr-nightly
+- autonomize-model-sdk
+- radboy
+- docker-diff
+- edgefirst-client
+- asgi-sqlalchemy
+- music-drummer
+- kfulltree
+- container-manager-mcp
+- confluence-content-parser
+- npcpy
+- mcp-feedback-hall
+- onnxruntime-genai
+- audio-transcriber
+- a1facts
+- kssrag
+- skypilot
+- tracapp
+- onnxruntime-genai-directml
+- dmasyncwrapper
+- omnata-plugin-runtime
+- memg-core
+- simplelinks
+- orger
+- odoo-addon-l10n-br-fiscal
+- MODISCI
+- redgtech-api
+- layoutlens
+- pylitterbot
+- wmill-pg
+- aidrin
+- ninja-kafka-sdk
+- wmill
+- windmill-api
+- LHCbDIRACCommon
+- terminator-py
+- upsonic
+- dart-tools
+- sportsball
 - chief-ai
 - nettracer3d
 - genesis-flow
 - meridianalgo
-- music-drummer
-- simplelinks
 - gitlab-api
-- radboy
 - parsing_tools
 - systems-manager
 - agave
 - rastereasy
 - django-okta-client
-- odoo-addon-gestion-editorial
 - calimero-client-py
 - sqlmesh
 - localstack-core
@@ -40,50 +81,3 @@
 - koppengeiger
 - claude-mpm
 - teloxi
-- aduib-rpc
-- assisted-service-client
-- chalkpy
-- mcp-agent
-- apache-airflow
-- apache-airflow-task-sdk
-- apache-airflow-core
-- trame-dataclass
-- pytesdaq
-- moosez
-- fastgps
-- forecasting-tools
-- truss
-- bfg-maputil
-- rangebar
-- futurehouse-client
-- phs-poly
-- actfast
-- qmcpy
-- kbkit
-- surfsci
-- plain
-- mesonet-alerts
-- witticism
-- assemblyline-core
-- dy-sql
-- assemblyline
-- assemblyline-v4-service
-- assemblyline-ui
-- assemblyline-service-server
-- assemblyline-service-client
-- ml4gw-buoy
-- statsig-python-core
-- entity-query-language
-- sapiopycommons
-- plain.worker
-- plain.observer
-- plain.models
-- plain.htmx
-- plain.admin
-- pCrunch
-- chaiverse
-- pycuda
-- chuk-mcp-server
-- firewall-test
-- authzed
-- pytest-api-cov

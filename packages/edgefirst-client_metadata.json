@@ -1,0 +1,11 @@
+{
+  "name": "edgefirst-client",
+  "version": "2.0.1",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": "https://edgefirst.ai",
+  "download_filename": "edgefirst_client-2.0.1-cp38-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-09-09T23:09:51.648044",
+  "package_url": "https://pypi.org/project/edgefirst-client/"
+}
