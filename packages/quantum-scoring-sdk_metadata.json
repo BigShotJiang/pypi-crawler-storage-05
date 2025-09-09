@@ -1,11 +1,11 @@
 {
   "name": "quantum-scoring-sdk",
-  "version": "0.1.0",
-  "summary": "Framework universal para scoring y optimización de negocios",
+  "version": "0.2.1",
+  "summary": "Quantum-native framework for business scoring and optimization",
   "author": "Jaime Alexander Jimenez Lozano",
   "license": null,
   "home_page": null,
-  "download_filename": "quantum-scoring-sdk-0.1.0.tar.gz",
-  "download_time": "2025-09-09T04:34:54.141612",
+  "download_filename": "quantum-scoring-sdk-0.2.1.tar.gz",
+  "download_time": "2025-09-09T13:52:50.608100",
   "package_url": "https://pypi.org/project/quantum-scoring-sdk/"
 }

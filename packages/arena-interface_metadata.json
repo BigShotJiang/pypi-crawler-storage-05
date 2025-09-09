@@ -1,0 +1,11 @@
+{
+  "name": "arena-interface",
+  "version": "3.0.0",
+  "summary": "Python interface to the Reiser lab ArenaController.",
+  "author": "Peter Polidoro",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/janelia-python/arena_interface_python",
+  "download_filename": "arena_interface-3.0.0.tar.gz",
+  "download_time": "2025-09-09T13:53:00.483559",
+  "package_url": "https://pypi.org/project/arena-interface/"
+}

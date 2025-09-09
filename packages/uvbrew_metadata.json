@@ -1,11 +1,11 @@
 {
   "name": "uvbrew",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "create homebrew formulae from a uv package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uvbrew-0.1.7.tar.gz",
-  "download_time": "2025-09-09T13:05:31.697015",
+  "download_filename": "uvbrew-0.1.8.tar.gz",
+  "download_time": "2025-09-09T13:52:49.532834",
   "package_url": "https://pypi.org/project/uvbrew/"
 }

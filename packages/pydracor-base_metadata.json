@@ -1,0 +1,11 @@
+{
+  "name": "pydracor-base",
+  "version": "1.0.0",
+  "summary": "DraCor API Wrapper",
+  "author": "OpenAPI Generator community, Henny Sluyter-Gäthje",
+  "license": "MIT",
+  "home_page": "https://github.com/dracor-org/pydracor-base",
+  "download_filename": "pydracor_base-1.0.0.tar.gz",
+  "download_time": "2025-09-09T13:52:41.000632",
+  "package_url": "https://pypi.org/project/pydracor-base/"
+}

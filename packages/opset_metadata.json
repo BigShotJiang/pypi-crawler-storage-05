@@ -1,0 +1,11 @@
+{
+  "name": "opset",
+  "version": "4.2.0",
+  "summary": "A library for simplifying the configuration of Python applications at all stages of deployment.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opset-4.2.0.tar.gz",
+  "download_time": "2025-09-09T13:52:56.727325",
+  "package_url": "https://pypi.org/project/opset/"
+}

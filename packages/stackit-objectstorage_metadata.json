@@ -1,0 +1,11 @@
+{
+  "name": "stackit-objectstorage",
+  "version": "1.2.0",
+  "summary": "STACKIT Object Storage API",
+  "author": "STACKIT Developer Tools",
+  "license": null,
+  "home_page": "https://github.com/stackitcloud/stackit-sdk-python",
+  "download_filename": "stackit_objectstorage-1.2.0.tar.gz",
+  "download_time": "2025-09-09T13:52:44.914097",
+  "package_url": "https://pypi.org/project/stackit-objectstorage/"
+}

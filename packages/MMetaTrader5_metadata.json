@@ -1,0 +1,11 @@
+{
+  "name": "MMetaTrader5",
+  "version": "0.0.1",
+  "summary": "Metatrader5 mock for Mac developers",
+  "author": "Javier Gonzalez Moya",
+  "license": "MIT",
+  "home_page": "https://github.com/jgonzmoya/m_metatrader_5",
+  "download_filename": "mmetatrader5-0.0.1.tar.gz",
+  "download_time": "2025-09-09T13:52:58.866694",
+  "package_url": "https://pypi.org/project/MMetaTrader5/"
+}

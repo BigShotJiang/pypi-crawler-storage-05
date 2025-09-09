@@ -1,11 +1,11 @@
 {
   "name": "pyrogram-xydevs",
-  "version": "2.0.107",
-  "summary": "My custom fork of Pyrogram with extra tweaks",
+  "version": "2.1.106",
+  "summary": "Fork of Pyrogram maintained by xydevs - Telegram MTProto API Client Library for Python",
   "author": null,
-  "license": "MIT",
+  "license": "LGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "pyrogram_xydevs-2.0.107.tar.gz",
-  "download_time": "2025-09-08T08:41:16.844783",
+  "download_filename": "pyrogram_xydevs-2.1.106.tar.gz",
+  "download_time": "2025-09-09T13:52:47.117901",
   "package_url": "https://pypi.org/project/pyrogram-xydevs/"
 }

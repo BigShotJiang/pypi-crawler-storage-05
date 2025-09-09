@@ -1,0 +1,11 @@
+{
+  "name": "bd-tools",
+  "version": "0.3.17",
+  "summary": "Collection of tools for recurring tasks",
+  "author": "Benoit Dehapiot",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "bd_tools-0.3.17.tar.gz",
+  "download_time": "2025-09-09T13:52:48.447642",
+  "package_url": "https://pypi.org/project/bd-tools/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "stock-analysis-toolkit",
-  "version": "1.0.11",
+  "version": "1.0.13",
   "summary": "A comprehensive toolkit for stock market analysis and reporting",
   "author": "Pranav Phalnikar",
   "license": "MIT",
   "home_page": "https://github.com/pranav87/stock_analysis",
-  "download_filename": "stock_analysis_toolkit-1.0.11.tar.gz",
-  "download_time": "2025-09-09T13:41:38.453910",
+  "download_filename": "stock_analysis_toolkit-1.0.13-py3-none-any.whl",
+  "download_time": "2025-09-09T13:52:46.048584",
   "package_url": "https://pypi.org/project/stock-analysis-toolkit/"
 }
