@@ -1,11 +1,11 @@
 {
   "name": "microsoft-agents-hosting-aiohttp",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Integration library for Microsoft Agents with aiohttp",
   "author": "Microsoft Corporation",
   "license": null,
   "home_page": null,
-  "download_filename": "microsoft_agents_hosting_aiohttp-0.3.0.tar.gz",
-  "download_time": "2025-09-09T09:12:24.051016",
+  "download_filename": "microsoft_agents_hosting_aiohttp-0.3.1.tar.gz",
+  "download_time": "2025-09-09T23:25:25.468674",
   "package_url": "https://pypi.org/project/microsoft-agents-hosting-aiohttp/"
 }

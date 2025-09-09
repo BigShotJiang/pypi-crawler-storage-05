@@ -1,11 +1,11 @@
 {
   "name": "PyPlotJuggling",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A Python client library for PlotJuggling JSON UDP API",
   "author": "KilianSen",
   "license": null,
   "home_page": null,
-  "download_filename": "pyplotjuggling-1.0.1.tar.gz",
-  "download_time": "2025-09-09T19:47:48.230908",
+  "download_filename": "pyplotjuggling-1.0.2.tar.gz",
+  "download_time": "2025-09-09T23:25:35.093417",
   "package_url": "https://pypi.org/project/PyPlotJuggling/"
 }

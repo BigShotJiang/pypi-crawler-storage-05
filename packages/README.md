@@ -1,17 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-09T23:10:27.351596
-- **Total Packages**: 75
-- **Total Size**: 33.95 MB
+- **Download Time**: 2025-09-09T23:25:59.669997
+- **Total Packages**: 74
+- **Total Size**: 6.57 MB
 
 ## Packages List
+- stock-analysis-toolkit
+- blendsql
+- coiled
+- authentik-client
+- kmap-algorithm-4var
+- honeybee-energy
+- nt2py
+- make-colors
+- isat-sibyl
+- novatrace
+- truss
+- tesseract-decoder
+- microsoft-agents-storage-cosmos
+- microsoft-agents-storage-blob
+- microsoft-agents-hosting-teams
+- microsoft-agents-hosting-core
+- systems-manager
+- microsoft-agents-hosting-aiohttp
+- microsoft-agents-copilotstudio-client
+- microsoft-agents-authentication-msal
+- microsoft-agents-activity
+- container-manager-mcp
+- shancx
+- odoo-addon-l10n-br-fiscal
+- remnawave
+- dciclient
+- audio-transcriber
+- Rangekeeper
+- ninja-kafka-sdk
+- arthur-client
+- langchain-trigger-server
+- PyPlotJuggling
+- openai-websearch-mcp
 - lazyllt
+- omnispindle
 - pyevolutionapi
 - django-htmx
 - odoo-addon-gestion-editorial
 - dieopt
-- authentik-client
 - vscode-task-runner
 - athena-intelligence
 - flwr-nightly
@@ -22,12 +55,10 @@
 - asgi-sqlalchemy
 - music-drummer
 - kfulltree
-- container-manager-mcp
 - confluence-content-parser
 - npcpy
 - mcp-feedback-hall
 - onnxruntime-genai
-- audio-transcriber
 - a1facts
 - kssrag
 - skypilot
@@ -38,46 +69,14 @@
 - memg-core
 - simplelinks
 - orger
-- odoo-addon-l10n-br-fiscal
 - MODISCI
 - redgtech-api
 - layoutlens
 - pylitterbot
 - wmill-pg
 - aidrin
-- ninja-kafka-sdk
 - wmill
 - windmill-api
 - LHCbDIRACCommon
 - terminator-py
 - upsonic
-- dart-tools
-- sportsball
-- chief-ai
-- nettracer3d
-- genesis-flow
-- meridianalgo
-- gitlab-api
-- parsing_tools
-- systems-manager
-- agave
-- rastereasy
-- django-okta-client
-- calimero-client-py
-- sqlmesh
-- localstack-core
-- postprocessing-seismo-lib
-- tdom
-- ai-audit-sdk
-- fused
-- pymammotion
-- ying
-- victor-openai-example
-- woffu-client
-- flake8-comprehensions
-- report-pdf-wrapper
-- novatrace
-- stock-analysis-toolkit
-- koppengeiger
-- claude-mpm
-- teloxi

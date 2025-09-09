@@ -1,0 +1,11 @@
+{
+  "name": "omnispindle",
+  "version": "1.0.0",
+  "summary": "API-first MCP Todo Server for AI agents with Auth0 integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "omnispindle-1.0.0.tar.gz",
+  "download_time": "2025-09-09T23:25:36.656459",
+  "package_url": "https://pypi.org/project/omnispindle/"
+}
