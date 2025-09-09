@@ -1,0 +1,11 @@
+{
+  "name": "miya-speechless",
+  "version": "0.0.28",
+  "summary": "Speechless repo for sales call analysis",
+  "author": "Michal Pleva (MIYA Consulting), Niek Mereu (MIYA Consulting)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "miya_speechless-0.0.28.tar.gz",
+  "download_time": "2025-09-09T14:32:13.221121",
+  "package_url": "https://pypi.org/project/miya-speechless/"
+}

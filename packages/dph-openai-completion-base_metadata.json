@@ -1,11 +1,11 @@
 {
   "name": "dph-openai-completion-base",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "summary": "Base building blocks for DP OpenAI completion flows (callbacks, API base, DB connector).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dph_openai_completion_base-0.1.15.tar.gz",
-  "download_time": "2025-09-09T14:09:09.938550",
+  "download_filename": "dph_openai_completion_base-0.1.16.tar.gz",
+  "download_time": "2025-09-09T14:31:42.077624",
   "package_url": "https://pypi.org/project/dph-openai-completion-base/"
 }

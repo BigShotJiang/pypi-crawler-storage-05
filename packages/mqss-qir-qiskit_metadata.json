@@ -1,0 +1,11 @@
+{
+  "name": "mqss-qir-qiskit",
+  "version": "0.1.0",
+  "summary": "Tool to convert QIR to a Qiskit QuantumCircuit object",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mqss_qir_qiskit-0.1.0.tar.gz",
+  "download_time": "2025-09-09T14:32:00.331852",
+  "package_url": "https://pypi.org/project/mqss-qir-qiskit/"
+}

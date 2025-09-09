@@ -1,0 +1,11 @@
+{
+  "name": "tshistory",
+  "version": "0.20.1",
+  "summary": "Timeseries store with version control",
+  "author": "Pythonian",
+  "license": null,
+  "home_page": "https://hg.sr.ht/~pythonian/tshistory",
+  "download_filename": "tshistory-0.20.1-py3-none-any.whl",
+  "download_time": "2025-09-09T14:32:07.966757",
+  "package_url": "https://pypi.org/project/tshistory/"
+}

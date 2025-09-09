@@ -1,0 +1,11 @@
+{
+  "name": "biotagging",
+  "version": "0.1.0",
+  "summary": "A robust Python package for BIO entity tagging with automatic sequence repair and validation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "biotagging-0.1.0.tar.gz",
+  "download_time": "2025-09-09T14:31:40.341084",
+  "package_url": "https://pypi.org/project/biotagging/"
+}

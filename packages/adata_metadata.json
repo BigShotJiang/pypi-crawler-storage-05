@@ -1,0 +1,11 @@
+{
+  "name": "adata",
+  "version": "2.9.4",
+  "summary": "A Data,A Stock,ETF,Bond,Quant,Stock Market,K Line",
+  "author": "1nchaos",
+  "license": "Apache License",
+  "home_page": "https://github.com/1nchaos/adata",
+  "download_filename": "adata-2.9.4.tar.gz",
+  "download_time": "2025-09-09T14:32:18.230556",
+  "package_url": "https://pypi.org/project/adata/"
+}

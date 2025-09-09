@@ -1,11 +1,11 @@
 {
   "name": "promptbin",
-  "version": "0.3.3",
+  "version": "0.4.0",
   "summary": "Easy-to-use MCP server for prompt management with web interface and secure sharing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "promptbin-0.3.3.tar.gz",
-  "download_time": "2025-09-08T13:03:50.595537",
+  "download_filename": "promptbin-0.4.0.tar.gz",
+  "download_time": "2025-09-09T14:31:51.691276",
   "package_url": "https://pypi.org/project/promptbin/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyupstool",
+  "version": "1.0.0",
+  "summary": "Python update & PyPI upload tool for Termux",
+  "author": "Trọng Phúc",
+  "license": null,
+  "home_page": "https://github.com/phuctrong1tuv/pyupstool",
+  "download_filename": "pyupstool-1.0.0.tar.gz",
+  "download_time": "2025-09-09T14:32:02.068278",
+  "package_url": "https://pypi.org/project/pyupstool/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cooper-epic-jungle",
+  "version": "2.0.1",
+  "summary": "An extension of the mipi package. Contains a repository of sql scripts and functions to build modular reports using them",
+  "author": "murphy-sean1",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cooper_epic_jungle-2.0.1.tar.gz",
+  "download_time": "2025-09-09T14:31:43.881175",
+  "package_url": "https://pypi.org/project/cooper-epic-jungle/"
+}

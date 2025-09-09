@@ -1,11 +1,11 @@
 {
   "name": "blockchain-payment-mcp",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "区块链货币支付MCP服务器",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "blockchain_payment_mcp-0.1.11.tar.gz",
-  "download_time": "2025-09-09T14:09:42.585619",
+  "download_filename": "blockchain_payment_mcp-0.1.12.tar.gz",
+  "download_time": "2025-09-09T14:31:59.740343",
   "package_url": "https://pypi.org/project/blockchain-payment-mcp/"
 }
