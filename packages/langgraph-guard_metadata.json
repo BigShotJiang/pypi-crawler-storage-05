@@ -1,11 +1,11 @@
 {
   "name": "langgraph-guard",
-  "version": "0.1.0",
-  "summary": "Langgraph Agent Guard integration with AISecure",
+  "version": "0.1.1",
+  "summary": "This package is required for integrating your Langchain based Agentic Application to Aryaka's AISecure Guard Service.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langgraph_guard-0.1.0.tar.gz",
-  "download_time": "2025-09-10T20:41:57.538053",
+  "download_filename": "langgraph_guard-0.1.1.tar.gz",
+  "download_time": "2025-09-10T23:26:18.444769",
   "package_url": "https://pypi.org/project/langgraph-guard/"
 }

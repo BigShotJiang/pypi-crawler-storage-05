@@ -1,11 +1,11 @@
 {
   "name": "google-genai",
-  "version": "1.35.0",
+  "version": "1.36.0",
   "summary": "GenAI Python SDK",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "google_genai-1.35.0.tar.gz",
-  "download_time": "2025-09-09T22:09:16.487107",
+  "download_filename": "google_genai-1.36.0.tar.gz",
+  "download_time": "2025-09-10T23:26:15.881845",
   "package_url": "https://pypi.org/project/google-genai/"
 }
