@@ -1,0 +1,11 @@
+{
+  "name": "idh",
+  "version": "0.1.0",
+  "summary": "API client for IDH",
+  "author": "Faceless Developer & BPCommunity",
+  "license": null,
+  "home_page": "https://t.me/FacelessDeveloper",
+  "download_filename": "idh-0.1.0.tar.gz",
+  "download_time": "2025-09-10T09:30:11.623776",
+  "package_url": "https://pypi.org/project/idh/"
+}

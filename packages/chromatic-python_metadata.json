@@ -1,0 +1,11 @@
+{
+  "name": "chromatic-python",
+  "version": "0.4.0",
+  "summary": "ANSI art image processing and colored terminal text",
+  "author": "crypt0lith",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chromatic_python-0.4.0.tar.gz",
+  "download_time": "2025-09-10T09:30:49.017896",
+  "package_url": "https://pypi.org/project/chromatic-python/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pysoltcp",
-  "version": "3.13.0",
+  "version": "3.13.2",
   "summary": "pysoltcp",
   "author": "Laurent Champagnac",
   "license": null,
   "home_page": "https://github.com/champax/pysoltcp",
-  "download_filename": "pysoltcp-3.13.0.tar.gz",
-  "download_time": "2025-09-10T06:43:35.978198",
+  "download_filename": "pysoltcp-3.13.2.tar.gz",
+  "download_time": "2025-09-10T09:30:22.906883",
   "package_url": "https://pypi.org/project/pysoltcp/"
 }

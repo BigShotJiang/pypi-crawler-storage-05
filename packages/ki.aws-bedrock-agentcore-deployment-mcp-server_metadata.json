@@ -1,11 +1,11 @@
 {
   "name": "ki.aws-bedrock-agentcore-deployment-mcp-server",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "MCP server for Bedrock AgentCore deployment automation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ki_aws_bedrock_agentcore_deployment_mcp_server-0.1.4.tar.gz",
-  "download_time": "2025-09-10T03:37:47.523684",
+  "download_filename": "ki_aws_bedrock_agentcore_deployment_mcp_server-0.1.5.tar.gz",
+  "download_time": "2025-09-10T09:30:28.622382",
   "package_url": "https://pypi.org/project/ki.aws-bedrock-agentcore-deployment-mcp-server/"
 }

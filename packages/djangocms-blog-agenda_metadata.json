@@ -1,0 +1,11 @@
+{
+  "name": "djangocms-blog-agenda",
+  "version": "0.13.1",
+  "summary": "Create an agenda on top of djangocms-blog!",
+  "author": "Corentin Bettiol, Adrien Delhorme",
+  "license": null,
+  "home_page": "https://gitlab.com/kapt/open-source/djangocms-blog-agenda",
+  "download_filename": "djangocms_blog_agenda-0.13.1.tar.gz",
+  "download_time": "2025-09-10T09:30:53.695321",
+  "package_url": "https://pypi.org/project/djangocms-blog-agenda/"
+}

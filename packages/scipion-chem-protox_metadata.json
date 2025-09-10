@@ -1,0 +1,11 @@
+{
+  "name": "scipion-chem-protox",
+  "version": "0.1",
+  "summary": "Scipion framework plugin for the use of Protox software tool",
+  "author": "Veronica Gamo",
+  "license": null,
+  "home_page": "https://github.com/scipion-chem/scipion-chem-protox",
+  "download_filename": "scipion_chem_protox-0.1.tar.gz",
+  "download_time": "2025-09-10T09:30:39.031845",
+  "package_url": "https://pypi.org/project/scipion-chem-protox/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pysolmysql",
-  "version": "3.13.0",
+  "version": "3.13.2",
   "summary": "pysolmysql",
   "author": "Laurent Champagnac",
   "license": null,
   "home_page": "https://github.com/champax/pysolmysql",
-  "download_filename": "pysolmysql-3.13.0.tar.gz",
-  "download_time": "2025-09-10T06:43:48.178275",
+  "download_filename": "pysolmysql-3.13.2.tar.gz",
+  "download_time": "2025-09-10T09:30:23.952419",
   "package_url": "https://pypi.org/project/pysolmysql/"
 }

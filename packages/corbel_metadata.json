@@ -1,11 +1,11 @@
 {
   "name": "corbel",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Lightweight Python library extending dataclasses with serialization, deserialization, validation, and mixins for comparison, hashing, and immutable updates.",
   "author": "Nathan Lucas",
   "license": "MIT",
   "home_page": "https://github.com/bnlucas/corbel",
-  "download_filename": "corbel-0.1.0.tar.gz",
-  "download_time": "2025-09-10T08:53:43.255988",
+  "download_filename": "corbel-0.1.2.tar.gz",
+  "download_time": "2025-09-10T09:30:50.587454",
   "package_url": "https://pypi.org/project/corbel/"
 }

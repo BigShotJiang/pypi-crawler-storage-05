@@ -1,0 +1,11 @@
+{
+  "name": "blitzdb5",
+  "version": "0.1.0.dev119",
+  "summary": "A document-oriented database written purely in Python.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "blitzdb5-0.1.0.dev119.tar.gz",
+  "download_time": "2025-09-10T09:30:15.539333",
+  "package_url": "https://pypi.org/project/blitzdb5/"
+}

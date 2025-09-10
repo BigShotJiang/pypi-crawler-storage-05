@@ -1,0 +1,11 @@
+{
+  "name": "lesscode-fastapi",
+  "version": "0.0.3",
+  "summary": "lesscode-fastapi 是基于FastAPI的web开发脚手架项目，该项目初衷为简化开发过程，让研发人员更加关注业务。",
+  "author": "Chao.yy",
+  "license": null,
+  "home_page": "https://lesscode-fastapi",
+  "download_filename": "lesscode_fastapi-0.0.3.tar.gz",
+  "download_time": "2025-09-10T09:30:39.550581",
+  "package_url": "https://pypi.org/project/lesscode-fastapi/"
+}

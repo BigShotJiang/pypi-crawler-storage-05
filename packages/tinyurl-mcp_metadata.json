@@ -1,0 +1,11 @@
+{
+  "name": "tinyurl-mcp",
+  "version": "1.0.1",
+  "summary": "MCP Server for tinyurl.com",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tinyurl_mcp-1.0.1.tar.gz",
+  "download_time": "2025-09-10T09:30:33.308033",
+  "package_url": "https://pypi.org/project/tinyurl-mcp/"
+}

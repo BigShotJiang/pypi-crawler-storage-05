@@ -1,0 +1,11 @@
+{
+  "name": "aek-img-trainer",
+  "version": "1.0.0",
+  "summary": "Image classification trainer using OpenCV and timm",
+  "author": "Alp Emre Karaahmet",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aek_img_trainer-1.0.0.tar.gz",
+  "download_time": "2025-09-10T09:30:35.385937",
+  "package_url": "https://pypi.org/project/aek-img-trainer/"
+}
