@@ -1,0 +1,11 @@
+{
+  "name": "tagdf",
+  "version": "0.1.0",
+  "summary": "Tools for annotating and labelling DataFrames and Python objects",
+  "author": "Idin",
+  "license": "MIT",
+  "home_page": "https://github.com/idin/tagdf",
+  "download_filename": "tagdf-0.1.0.tar.gz",
+  "download_time": "2025-09-10T00:48:54.696310",
+  "package_url": "https://pypi.org/project/tagdf/"
+}

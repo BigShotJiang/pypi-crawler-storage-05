@@ -1,11 +1,11 @@
 {
   "name": "rangebar",
-  "version": "0.2.1",
-  "summary": "Non-lookahead bias range bar construction from Binance aggTrades data",
+  "version": "0.4.0",
+  "summary": "Non-lookahead bias range bar construction with aligned JSON/Arrow formats for seamless integration",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/eonlabs/rangebar",
-  "download_filename": "rangebar-0.2.1.tar.gz",
-  "download_time": "2025-09-09T22:38:27.674747",
+  "download_filename": "rangebar-0.4.0.tar.gz",
+  "download_time": "2025-09-10T00:49:10.214505",
   "package_url": "https://pypi.org/project/rangebar/"
 }

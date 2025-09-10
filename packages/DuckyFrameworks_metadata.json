@@ -1,11 +1,11 @@
 {
   "name": "DuckyFrameworks",
-  "version": "0.1.11",
+  "version": "0.1.15",
   "summary": "La libreria oficial de Ducky (no Duckyngscript) para poder usar Frameworks de manera sencilla y hay mucho de donde escojer",
   "author": "José Pato",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "duckyframeworks-0.1.11.tar.gz",
-  "download_time": "2025-09-09T23:47:45.516231",
+  "download_filename": "duckyframeworks-0.1.15.tar.gz",
+  "download_time": "2025-09-10T00:49:03.627759",
   "package_url": "https://pypi.org/project/DuckyFrameworks/"
 }
