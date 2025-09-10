@@ -1,0 +1,11 @@
+{
+  "name": "gripql",
+  "version": "0.8.0",
+  "summary": "GRaph Integration Platform Client",
+  "author": "OHSU Computational Biology",
+  "license": "MIT",
+  "home_page": "https://github.com/bmeg/grip/gripql/python",
+  "download_filename": "gripql-0.8.0.tar.gz",
+  "download_time": "2025-09-10T17:48:45.754115",
+  "package_url": "https://pypi.org/project/gripql/"
+}

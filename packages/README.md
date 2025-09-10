@@ -1,11 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-10T17:38:25.715888
-- **Total Packages**: 85
-- **Total Size**: 5.21 MB
+- **Download Time**: 2025-09-10T17:49:08.121300
+- **Total Packages**: 90
+- **Total Size**: 17.41 MB
 
 ## Packages List
+- omserv
+- ommlds
+- omlish
+- ominfra
+- omextra
+- omdev
+- omdev-cli
+- omdev-cext
+- name-conflict-resolver
+- maleo-database
+- arcade-tdk
+- arcade-core
+- arcade-serve
+- arcade-ai
+- stackedup-helper-scripts
+- paradigm_garlic
+- databricks-agents
+- langchain-tool-server
+- pyosmeta
+- prisma-sdk
+- csc-cia-stne
+- python-v2ray
+- PyPFT
+- nautobot-device-onboarding
+- vfbquery
+- httplib2
+- urtext
+- btrfsutil
+- ddex-builder
+- alibabacloud-rdsai20250507
+- alibabacloud-gpdb20160503
+- open-xtract
+- alibabacloud-tag20180828
+- cyborgdb
+- alibabacloud-polardbx20200202
+- alibabacloud-eventbridge20200401
+- oarepo-requests
+- alibabacloud-cms20240330
+- alibabacloud-hbr20170908
+- radboy
+- eagle-tools
+- annofabapi
+- PySwitchbot
+- Cellist
+- pesapal_client
+- shooju-ts
+- ipulse-shared-data-eng-ftredge
+- ttconv
+- gripql
 - authentik-client
 - futurehouse-client
 - codex-python
@@ -15,7 +64,6 @@
 - socs
 - lite-slurm
 - baleapi
-- ddex-builder
 - spellbot
 - ddex-parser
 - odoo-addon-l10n-es-aeat-mod349
@@ -48,46 +96,3 @@
 - frost-sta-client
 - atomicshop
 - medscheduler
-- ry-tool
-- scc-firewall-manager-sdk
-- omserv
-- ommlds
-- omlish
-- ominfra
-- omextra
-- omdev
-- omdev-cli
-- omdev-cext
-- cross-domain-saliency-maps
-- chemotools
-- mini-imggen-numpy-lib
-- alibabacloud-quotas20200510
-- t-bug-catcher
-- csvai
-- synqly
-- mlsort
-- get-conn-by-id
-- bookalimo
-- yellowstone-fumarole-client
-- odoo-addon-l10n-br-mdfe
-- TCviewer
-- sage-agent-internal
-- pulumi-azure
-- mbb
-- gpframe
-- tp-shared
-- zero-harm-ai-detectors
-- trackio
-- rxfoundry.clients.swifty_api
-- rxfoundry.clients.swifty_oauth_api
-- deepdefend
-- drf-to-mkdoc
-- neemuds
-- datatailr
-- python3-commons
-- apolo-app-types
-- moose-lib
-- TradingLib
-- ewha-parking
-- pyosmeta
-- gradio-client

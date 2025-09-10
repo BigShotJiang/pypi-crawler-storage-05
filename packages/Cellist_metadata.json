@@ -1,0 +1,11 @@
+{
+  "name": "Cellist",
+  "version": "1.1.1",
+  "summary": "Cellist (Cell identification in high-resolution Spatial Transcriptomics) is a cell segmentation tool for high-resolution spatial transcriptomics. ",
+  "author": "Dongqing Sun",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/dongqingsun96/Cellist",
+  "download_filename": "cellist-1.1.1.tar.gz",
+  "download_time": "2025-09-10T17:48:43.188368",
+  "package_url": "https://pypi.org/project/Cellist/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "shooju-ts",
+  "version": "0.1.16",
+  "summary": "Shooju Time Series (SJTS) Serializer",
+  "author": "Shooju, LLC",
+  "license": "TBD",
+  "home_page": "http://shooju.com",
+  "download_filename": "shooju-ts-0.1.16.tar.gz",
+  "download_time": "2025-09-10T17:48:44.211024",
+  "package_url": "https://pypi.org/project/shooju-ts/"
+}

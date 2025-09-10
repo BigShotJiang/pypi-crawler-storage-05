@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-tag20180828",
+  "version": "1.1.1",
+  "summary": "Alibaba Cloud Tag (20180828) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_tag20180828-1.1.1.tar.gz",
+  "download_time": "2025-09-10T17:48:37.506185",
+  "package_url": "https://pypi.org/project/alibabacloud-tag20180828/"
+}
