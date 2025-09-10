@@ -1,16 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-10T04:13:29.968576
-- **Total Packages**: 76
-- **Total Size**: 20.18 MB
+- **Download Time**: 2025-09-10T04:33:28.558167
+- **Total Packages**: 68
+- **Total Size**: 11.62 MB
 
 ## Packages List
+- phidippus
+- cans-framework
+- getout-of-text-3
+- erlab
+- simplelinks
+- langchain-tool-server
+- svc-infra
+- abstract-ide
+- folder-classifier
+- metaprinter
+- arq-base-python
+- authentik-client
+- kubera
+- alter-ego-llm
+- osbot-utils
+- glchat-plugin
+- daggerml
+- faster-app
+- odoo-addon-stock-barcodes
+- cereja
+- flekspy
+- intake-esm-access
+- minecraft-datapack-language
+- sloprank
+- rich-notifier
+- trl
+- daggerml-cli
+- genomicshelper
+- cozeloop
 - clinicedc
 - ms-fabric-cli
 - causallm
 - ragflow-sdk
-- authentik-client
 - ollm
 - django-okta-client
 - futurehouse-client
@@ -22,16 +50,13 @@
 - shell-lib
 - npcpy
 - chromedriver-binary
-- minecraft-datapack-language
 - genitext
 - nvshmem4py-cu13
 - jquants-api-client
 - github-discussions
 - nvshmem4py-cu12
 - jaxtorch
-- cans-framework
 - figma-mcp-tools
-- folder-classifier
 - storage-layout-extractor
 - heimdall-py
 - pulumi-harness
@@ -44,41 +69,8 @@
 - django-cfg
 - pulumi-rancher2
 - logmerger
-- simplelinks
 - maleo-google
 - iflow-mcp_memory-system
 - krxpy
 - detection-dataset-annotator
 - odoo-addon-repair-service
-- gllm-agents-binary
-- h2ogpte
-- pyferris
-- maleo-database
-- odoo-addon-purchase-request
-- obdiag-mcp
-- rds-proxy-password-rotation
-- odoo-addon-purchase-stock-reception-status
-- odoo-addon-procurement-purchase-requisition-generation-dropshipping
-- maleo-middlewares
-- odoo-addons-oca-purchase-workflow
-- airmise
-- keras-nightly
-- mulch
-- meetcap
-- uv-to-pipfile
-- pulumi-auth0
-- neatlogs
-- pydantic-super-model
-- maleo-exceptions
-- ebs-initializer-mcp
-- weight-analyse
-- maleo-infra
-- gpframe
-- lumibot
-- gpusnatcher
-- lk-utils
-- ki.aws-bedrock-agentcore-deployment-mcp-server
-- maleo-logging
-- sealpy3
-- getout-of-text-3
-- embed-rerank

@@ -1,11 +1,11 @@
 {
   "name": "simplelinks",
-  "version": "3.0.3",
-  "summary": "A lightweight network connectivity solution with P2P direct connection support",
+  "version": "3.1.0",
+  "summary": "A lightweight network connectivity solution with intelligent P2P routing",
   "author": "SimpleLinks Team",
   "license": null,
   "home_page": "https://simplelinks.cn",
-  "download_filename": "simplelinks-3.0.3.tar.gz",
-  "download_time": "2025-09-10T03:50:14.497710",
+  "download_filename": "simplelinks-3.1.0.tar.gz",
+  "download_time": "2025-09-10T04:32:54.827547",
   "package_url": "https://pypi.org/project/simplelinks/"
 }

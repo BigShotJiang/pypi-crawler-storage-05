@@ -1,11 +1,11 @@
 {
   "name": "folder-classifier",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "summary": "Deploy folder classifier API to a Ray cluster",
   "author": "Crispin Almodovar",
   "license": null,
   "home_page": null,
-  "download_filename": "folder_classifier-0.4.4.tar.gz",
-  "download_time": "2025-09-10T04:13:03.283765",
+  "download_filename": "folder_classifier-0.4.5.tar.gz",
+  "download_time": "2025-09-10T04:32:56.951993",
   "package_url": "https://pypi.org/project/folder-classifier/"
 }

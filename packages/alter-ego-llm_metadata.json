@@ -1,0 +1,11 @@
+{
+  "name": "alter-ego-llm",
+  "version": "1.5.0",
+  "summary": "Library to run experiments with LLMs",
+  "author": "Max R. P. Grossmann",
+  "license": null,
+  "home_page": "https://ego.mg.sb",
+  "download_filename": "alter_ego_llm-1.5.0.tar.gz",
+  "download_time": "2025-09-10T04:32:59.596711",
+  "package_url": "https://pypi.org/project/alter-ego-llm/"
+}
