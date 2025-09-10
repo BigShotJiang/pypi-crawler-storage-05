@@ -1,0 +1,11 @@
+{
+  "name": "myskoda",
+  "version": "2.3.4",
+  "summary": "Library for interaction with the MySkoda APIs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "myskoda-2.3.4.tar.gz",
+  "download_time": "2025-09-10T20:31:29.328937",
+  "package_url": "https://pypi.org/project/myskoda/"
+}
