@@ -1,0 +1,11 @@
+{
+  "name": "python-geotiepoints",
+  "version": "1.8.0",
+  "summary": "Interpolation of geographic tiepoints in Python",
+  "author": "Adam Dybbroe, Martin Raspaud",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/pytroll/python-geotiepoints",
+  "download_filename": "python_geotiepoints-1.8.0.tar.gz",
+  "download_time": "2025-09-10T19:10:04.800517",
+  "package_url": "https://pypi.org/project/python-geotiepoints/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qtconsole",
+  "version": "5.7.0",
+  "summary": "Jupyter Qt console",
+  "author": "Jupyter Development Team",
+  "license": "BSD",
+  "home_page": "http://jupyter.org",
+  "download_filename": "qtconsole-5.7.0.tar.gz",
+  "download_time": "2025-09-10T19:10:13.686710",
+  "package_url": "https://pypi.org/project/qtconsole/"
+}

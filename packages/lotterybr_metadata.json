@@ -1,11 +1,11 @@
 {
   "name": "lotterybr",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A Python package to access and analyze Brazilian lottery data.",
   "author": "Fábio N. Demarqui",
   "license": "MIT",
   "home_page": "https://github.com/salvnetto/lotterybr-py",
-  "download_filename": "lotterybr-1.0.3.tar.gz",
-  "download_time": "2025-09-10T18:42:09.811768",
+  "download_filename": "lotterybr-1.0.4.tar.gz",
+  "download_time": "2025-09-10T19:09:58.330473",
   "package_url": "https://pypi.org/project/lotterybr/"
 }
