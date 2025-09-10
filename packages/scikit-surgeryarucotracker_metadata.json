@@ -1,0 +1,11 @@
+{
+  "name": "scikit-surgeryarucotracker",
+  "version": "1.1.0",
+  "summary": "scikit-surgeryarucotracker is a simple tracking interface using ARuCo markers",
+  "author": "Stephen Thompson",
+  "license": "BSD-3 license",
+  "home_page": "https://github.com/SciKit-Surgery/scikit-surgeryarucotracker",
+  "download_filename": "scikit_surgeryarucotracker-1.1.0.tar.gz",
+  "download_time": "2025-09-10T13:01:57.929609",
+  "package_url": "https://pypi.org/project/scikit-surgeryarucotracker/"
+}

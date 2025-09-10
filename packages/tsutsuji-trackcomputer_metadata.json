@@ -1,0 +1,11 @@
+{
+  "name": "tsutsuji-trackcomputer",
+  "version": "1.9.3",
+  "summary": "Track building helper for Bve trainsim 5/6",
+  "author": "Konawasabi",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/konawasabi/tsutsuji-trackcomputer/",
+  "download_filename": "tsutsuji_trackcomputer-1.9.3-py3-none-any.whl",
+  "download_time": "2025-09-10T13:02:28.265497",
+  "package_url": "https://pypi.org/project/tsutsuji-trackcomputer/"
+}

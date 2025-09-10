@@ -1,0 +1,11 @@
+{
+  "name": "sinophone-zh",
+  "version": "0.0.3",
+  "summary": "中华音码（SinoPhone）- 中文拼音语音模糊哈希编码算法",
+  "author": "johnless",
+  "license": "MIT",
+  "home_page": "https://github.com/Johnless31/SinoPhone",
+  "download_filename": "sinophone_zh-0.0.3.tar.gz",
+  "download_time": "2025-09-10T13:02:12.581222",
+  "package_url": "https://pypi.org/project/sinophone-zh/"
+}

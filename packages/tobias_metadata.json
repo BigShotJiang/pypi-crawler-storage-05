@@ -1,0 +1,11 @@
+{
+  "name": "tobias",
+  "version": "0.17.2",
+  "summary": "Transcription factor Occupancy prediction By Investigation of ATAC-seq Signal",
+  "author": "Mette Bentsen",
+  "license": "MIT",
+  "home_page": "https://github.com/loosolab/TOBIAS",
+  "download_filename": "tobias-0.17.2.tar.gz",
+  "download_time": "2025-09-10T13:02:01.743482",
+  "package_url": "https://pypi.org/project/tobias/"
+}

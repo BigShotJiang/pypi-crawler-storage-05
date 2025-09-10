@@ -1,0 +1,11 @@
+{
+  "name": "alb-target-group",
+  "version": "0.1.0",
+  "summary": "Reusable CDK construct to add ALB Target Group",
+  "author": "David Foley",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alb-target-group-0.1.0.tar.gz",
+  "download_time": "2025-09-10T13:02:27.684310",
+  "package_url": "https://pypi.org/project/alb-target-group/"
+}

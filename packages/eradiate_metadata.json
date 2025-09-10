@@ -1,0 +1,11 @@
+{
+  "name": "eradiate",
+  "version": "0.31.0",
+  "summary": "A radiative transfer model for the Earth observation community",
+  "author": "The Eradiate Team",
+  "license": "LGPLv3",
+  "home_page": null,
+  "download_filename": "eradiate-0.31.0.tar.gz",
+  "download_time": "2025-09-10T13:02:18.494368",
+  "package_url": "https://pypi.org/project/eradiate/"
+}

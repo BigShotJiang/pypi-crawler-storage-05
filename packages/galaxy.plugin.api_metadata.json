@@ -1,0 +1,11 @@
+{
+  "name": "galaxy.plugin.api",
+  "version": "0.70",
+  "summary": "GOG Galaxy Integrations Python API",
+  "author": "Galaxy team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "galaxy_plugin_api-0.70.tar.gz",
+  "download_time": "2025-09-10T13:02:16.217239",
+  "package_url": "https://pypi.org/project/galaxy.plugin.api/"
+}

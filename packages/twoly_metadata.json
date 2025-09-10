@@ -1,0 +1,11 @@
+{
+  "name": "twoly",
+  "version": "0.0.3",
+  "summary": "2ly python module providing helpers to quickly connect 2ly to your agents in Python.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "twoly-0.0.3.tar.gz",
+  "download_time": "2025-09-10T13:02:11.929712",
+  "package_url": "https://pypi.org/project/twoly/"
+}

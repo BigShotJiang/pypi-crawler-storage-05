@@ -1,11 +1,11 @@
 {
   "name": "tamar-file-hub-client",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "A Python SDK for gRPC-based file management system",
   "author": "Oscar Ou",
   "license": "MIT",
   "home_page": "https://github.com/Tamar-Edge-AI/file-hub-client",
-  "download_filename": "tamar_file_hub_client-0.1.7.tar.gz",
-  "download_time": "2025-09-09T11:25:57.584316",
+  "download_filename": "tamar_file_hub_client-0.1.8.tar.gz",
+  "download_time": "2025-09-10T13:02:17.309360",
   "package_url": "https://pypi.org/project/tamar-file-hub-client/"
 }
