@@ -1,0 +1,11 @@
+{
+  "name": "geoformat",
+  "version": "20250910",
+  "summary": "Geoformat is a 99 % python geospatial blacksmith",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "geoformat-20250910.tar.gz",
+  "download_time": "2025-09-10T08:14:29.866065",
+  "package_url": "https://pypi.org/project/geoformat/"
+}

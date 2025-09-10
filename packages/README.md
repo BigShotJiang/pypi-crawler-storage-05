@@ -1,17 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-10T07:49:05.476646
-- **Total Packages**: 78
-- **Total Size**: 42.08 MB
+- **Download Time**: 2025-09-10T08:15:17.809285
+- **Total Packages**: 81
+- **Total Size**: 24.43 MB
 
 ## Packages List
+- codemie-sdk-python
+- jacksung
+- geoformat
+- oasis-gui
+- spacefrontiers-clients
+- rc-tidevice3
+- vizlook
+- boring-semantic-layer
+- NL2SQLEvaluator
+- ebs-initializer-mcp
+- lybic
+- inventory-monitor
+- unstructured-ingest
+- openrelik-common
+- kbase-mcp-server
+- odoo-addon-mrp-production-serial-matrix
+- magnopy
+- xronai
+- twixtools
+- dwrappr
+- pactus-jsonrpc
+- pactus-grpc
+- weathora
+- osef
+- sphinx-notionbuilder
+- pybes3
+- minecraft-datapack-language
+- piper-sdk
+- movoid-robotframework-selenium
+- BabelDOC
+- simfill
+- authentik-client
+- django-gisserver
+- NanoRepeat
+- pb2
+- stock-analysis-toolkit
+- glaip-sdk
+- cache-dit
+- mbp
+- clustools
 - pytest-api-framework-alpha
 - infrastructure-manager-sync
 - streamlit-nightly
-- oasis-gui
 - obdiag-mcp
-- minecraft-datapack-language
 - neurograd
 - ewah
 - pybgcode-jneilliii
@@ -38,10 +76,8 @@
 - bosa-connectors-binary
 - json_tabulator
 - fyuneru
-- authentik-client
 - omnata-plugin-runtime
 - sicritfix
-- rc-tidevice3
 - jam.py-v7
 - pydra2app-xnat
 - criteria-pattern
@@ -51,36 +87,3 @@
 - sqlsaber
 - openstock
 - pyvirtualcam
-- umami-analytics-py
-- SurvivalEVAL
-- apify
-- aioampio
-- pytest-splunk-addon
-- ahqstore-cli
-- nucliadb-admin-assets
-- oups
-- sensirion-i2c-stc42
-- hcom
-- hepai
-- lgtm-ai
-- boring-semantic-layer
-- aws-syndicate
-- MetaRpcMT5
-- libdatachannel-py
-- tterp-cores
-- tp-generator
-- selenium-behave
-- golem-vm-provider
-- brixs
-- mbp
-- sora-sdk
-- onnxscript
-- py-surepetcare
-- sced-matcher
-- apify-client
-- csj-openapi-mcp
-- crawlee
-- pyrewardmachines
-- easyrip
-- mcpcap
-- moresso

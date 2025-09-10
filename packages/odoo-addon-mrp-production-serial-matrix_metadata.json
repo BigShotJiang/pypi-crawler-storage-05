@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mrp-production-serial-matrix",
+  "version": "17.0.1.2.0",
+  "summary": "MRP Production Serial Matrix",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/manufacture",
+  "download_filename": "odoo_addon_mrp_production_serial_matrix-17.0.1.2.0-py3-none-any.whl",
+  "download_time": "2025-09-10T08:14:37.848500",
+  "package_url": "https://pypi.org/project/odoo-addon-mrp-production-serial-matrix/"
+}
