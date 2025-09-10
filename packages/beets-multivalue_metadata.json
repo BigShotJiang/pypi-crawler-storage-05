@@ -1,0 +1,11 @@
+{
+  "name": "beets-multivalue",
+  "version": "0.2.0",
+  "summary": "A beet plugin to manage multi-value fields",
+  "author": "Eric Masseran",
+  "license": "MIT",
+  "home_page": "https://github.com/Morikko/beets-multivalue",
+  "download_filename": "beets_multivalue-0.2.0.tar.gz",
+  "download_time": "2025-09-10T06:43:42.047603",
+  "package_url": "https://pypi.org/project/beets-multivalue/"
+}

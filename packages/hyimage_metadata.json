@@ -1,11 +1,11 @@
 {
   "name": "hyimage",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "hyimage",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hyimage-0.0.1-py3-none-any.whl",
-  "download_time": "2025-09-10T06:16:11.561758",
+  "download_filename": "hyimage-0.0.2-py3-none-any.whl",
+  "download_time": "2025-09-10T06:44:12.502038",
   "package_url": "https://pypi.org/project/hyimage/"
 }

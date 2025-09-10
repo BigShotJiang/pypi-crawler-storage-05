@@ -1,0 +1,11 @@
+{
+  "name": "hbm-runtime",
+  "version": "0.1.0.post1",
+  "summary": "Python wrapper for D-Robotics libucp/libdnn libraries",
+  "author": "xiangshun.zhao et al.",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "hbm_runtime-0.1.0.post1-cp310-cp310-manylinux_2_34_aarch64.whl",
+  "download_time": "2025-09-10T06:43:49.266068",
+  "package_url": "https://pypi.org/project/hbm-runtime/"
+}

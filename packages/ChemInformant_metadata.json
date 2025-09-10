@@ -1,0 +1,11 @@
+{
+  "name": "ChemInformant",
+  "version": "2.4.2",
+  "summary": "A robust and high-throughput Python client for the PubChem API, designed for automated data retrieval and analysis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cheminformant-2.4.2.tar.gz",
+  "download_time": "2025-09-10T06:43:58.088191",
+  "package_url": "https://pypi.org/project/ChemInformant/"
+}

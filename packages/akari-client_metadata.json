@@ -1,0 +1,11 @@
+{
+  "name": "akari-client",
+  "version": "0.4.3",
+  "summary": "Akari Python package",
+  "author": "akari",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/AkariGroup/akari_software",
+  "download_filename": "akari-client-0.4.3.tar.gz",
+  "download_time": "2025-09-10T06:43:42.582047",
+  "package_url": "https://pypi.org/project/akari-client/"
+}

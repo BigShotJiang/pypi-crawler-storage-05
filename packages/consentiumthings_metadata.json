@@ -1,0 +1,11 @@
+{
+  "name": "consentiumthings",
+  "version": "1.0.1",
+  "summary": "Python lib for sending sensor data to Consentium IoT server.",
+  "author": "Consentium IoT",
+  "license": null,
+  "home_page": "https://github.com/ConsentiumIoT/consentiumthings-py",
+  "download_filename": "consentiumthings-1.0.1.tar.gz",
+  "download_time": "2025-09-10T06:43:59.726057",
+  "package_url": "https://pypi.org/project/consentiumthings/"
+}

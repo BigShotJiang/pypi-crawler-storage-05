@@ -1,0 +1,11 @@
+{
+  "name": "connectlife-cloud",
+  "version": "0.1.0",
+  "summary": "ConnectLife Cloud API client library for Home Assistant integrations",
+  "author": "ConnectLife LLC",
+  "license": "MIT",
+  "home_page": "https://github.com/Connectlife-LLC/connectlife-cloud",
+  "download_filename": "connectlife_cloud-0.1.0.tar.gz",
+  "download_time": "2025-09-10T06:43:59.175689",
+  "package_url": "https://pypi.org/project/connectlife-cloud/"
+}

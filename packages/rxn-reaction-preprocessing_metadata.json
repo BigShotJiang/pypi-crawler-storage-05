@@ -1,0 +1,11 @@
+{
+  "name": "rxn-reaction-preprocessing",
+  "version": "2.6.0",
+  "summary": "Reaction preprocessing tools",
+  "author": "IBM RXN team",
+  "license": "MIT",
+  "home_page": "https://github.com/rxn4chemistry/rxn-reaction-preprocessing",
+  "download_filename": "rxn_reaction_preprocessing-2.6.0.tar.gz",
+  "download_time": "2025-09-10T06:43:50.927859",
+  "package_url": "https://pypi.org/project/rxn-reaction-preprocessing/"
+}

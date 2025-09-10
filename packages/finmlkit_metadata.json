@@ -1,0 +1,11 @@
+{
+  "name": "finmlkit",
+  "version": "0.1.11",
+  "summary": "Financial ML toolkit",
+  "author": "Dániel Terbe",
+  "license": "MIT",
+  "home_page": "https://github.com/quantscious/finmlkit",
+  "download_filename": "finmlkit-0.1.11.tar.gz",
+  "download_time": "2025-09-10T06:44:01.378228",
+  "package_url": "https://pypi.org/project/finmlkit/"
+}

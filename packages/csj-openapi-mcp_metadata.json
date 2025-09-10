@@ -1,11 +1,11 @@
 {
   "name": "csj-openapi-mcp",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "Excel MCP Server for manipulating Excel files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "csj_openapi_mcp-0.1.11.tar.gz",
-  "download_time": "2025-09-10T04:13:08.020975",
+  "download_filename": "csj_openapi_mcp-0.1.12.tar.gz",
+  "download_time": "2025-09-10T06:44:06.428539",
   "package_url": "https://pypi.org/project/csj-openapi-mcp/"
 }
