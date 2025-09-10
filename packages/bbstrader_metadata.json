@@ -1,0 +1,11 @@
+{
+  "name": "bbstrader",
+  "version": "0.3.4",
+  "summary": "Simplified Investment & Trading Toolkit",
+  "author": "Bertin Balouki SIMYELI",
+  "license": "The MIT License (MIT)",
+  "home_page": "https://github.com/bbalouki/bbstrader",
+  "download_filename": "bbstrader-0.3.4.tar.gz",
+  "download_time": "2025-09-10T14:05:41.260561",
+  "package_url": "https://pypi.org/project/bbstrader/"
+}

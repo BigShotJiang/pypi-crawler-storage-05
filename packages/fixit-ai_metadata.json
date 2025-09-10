@@ -1,11 +1,11 @@
 {
   "name": "fixit-ai",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "summary": "AI-Powered API Testing Agent with Zero-Config Onboarding for OpenAPI-First Development",
   "author": "Ashish Prajapati, Gauri Baheti, Khushali Dukhande, Om Mohite",
   "license": null,
   "home_page": null,
-  "download_filename": "fixit_ai-0.0.1.tar.gz",
-  "download_time": "2025-09-09T21:26:19.120756",
+  "download_filename": "fixit_ai-1.0.0.tar.gz",
+  "download_time": "2025-09-10T14:05:41.844867",
   "package_url": "https://pypi.org/project/fixit-ai/"
 }

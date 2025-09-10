@@ -1,11 +1,11 @@
 {
   "name": "hbrowser",
-  "version": "0.9.5",
+  "version": "0.9.6",
   "summary": "A tool for browsing tasks on e-h/exh-websites.",
   "author": "Kuan-Lun Wang",
   "license": "GNU Affero General Public License v3",
   "home_page": null,
-  "download_filename": "hbrowser-0.9.5.tar.gz",
-  "download_time": "2025-09-08T23:37:24.178411",
+  "download_filename": "hbrowser-0.9.6.tar.gz",
+  "download_time": "2025-09-10T14:05:53.554308",
   "package_url": "https://pypi.org/project/hbrowser/"
 }

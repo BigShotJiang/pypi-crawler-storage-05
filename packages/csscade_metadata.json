@@ -1,11 +1,11 @@
 {
   "name": "csscade",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Intelligent CSS merging with conflict resolution and multiple strategies",
   "author": "sebieire",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "csscade-0.2.0.tar.gz",
-  "download_time": "2025-09-09T15:32:15.181206",
+  "download_filename": "csscade-0.3.0.tar.gz",
+  "download_time": "2025-09-10T14:05:28.870492",
   "package_url": "https://pypi.org/project/csscade/"
 }
