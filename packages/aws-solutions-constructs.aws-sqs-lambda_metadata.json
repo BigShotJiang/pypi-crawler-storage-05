@@ -5,7 +5,7 @@
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/awslabs/aws-solutions-constructs.git",
-  "download_filename": "aws_solutions_constructs_aws_sqs_lambda-2.92.2-py3-none-any.whl",
-  "download_time": "2025-09-10T20:47:40.497745",
+  "download_filename": "aws_solutions_constructs_aws_sqs_lambda-2.92.2.tar.gz",
+  "download_time": "2025-09-10T21:10:16.467746",
   "package_url": "https://pypi.org/project/aws-solutions-constructs.aws-sqs-lambda/"
 }

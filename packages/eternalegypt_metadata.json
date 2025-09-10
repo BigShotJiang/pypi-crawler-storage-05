@@ -1,0 +1,11 @@
+{
+  "name": "eternalegypt",
+  "version": "0.0.18",
+  "summary": "Netgear LTE modem API",
+  "author": "Anders Melchiorsen",
+  "license": "MIT",
+  "home_page": "https://github.com/amelchio/eternalegypt",
+  "download_filename": "eternalegypt-0.0.18.tar.gz",
+  "download_time": "2025-09-10T21:09:47.024184",
+  "package_url": "https://pypi.org/project/eternalegypt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "XRO",
+  "version": "1.0.0",
+  "summary": "The eXtended nonlinear Recharge Oscillator (XRO) model for ENSO and pantropical climate variability.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xro-1.0.0.tar.gz",
+  "download_time": "2025-09-10T21:09:46.491151",
+  "package_url": "https://pypi.org/project/XRO/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cross-domain-saliency-maps",
-  "version": "0.0.5",
-  "summary": "A pytorch/tensorflow library for generating Cross-Domain saliency maps.",
+  "version": "0.0.6",
+  "summary": "Pytorch/Tensorflow package for generating saliency maps for time-series models using Cross-Domain Integrated Gradients.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cross_domain_saliency_maps-0.0.5.tar.gz",
-  "download_time": "2025-09-10T17:28:00.145573",
+  "download_filename": "cross_domain_saliency_maps-0.0.6.tar.gz",
+  "download_time": "2025-09-10T21:09:44.881624",
   "package_url": "https://pypi.org/project/cross-domain-saliency-maps/"
 }

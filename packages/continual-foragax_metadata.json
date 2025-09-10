@@ -1,11 +1,11 @@
 {
   "name": "continual-foragax",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "A continual reinforcement learning benchmark",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "continual_foragax-0.4.0.tar.gz",
-  "download_time": "2025-09-09T19:32:49.919351",
+  "download_filename": "continual_foragax-0.4.1.tar.gz",
+  "download_time": "2025-09-10T21:09:45.397808",
   "package_url": "https://pypi.org/project/continual-foragax/"
 }

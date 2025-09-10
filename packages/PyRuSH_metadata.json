@@ -1,0 +1,11 @@
+{
+  "name": "PyRuSH",
+  "version": "1.0.11",
+  "summary": "PyRuSH is the python implementation of RuSH (Rule-based sentence Segmenter using Hashing), which is originally developed using Java. RuSH is an efficient, reliable, and easy adaptable rule-based sentence segmentation solution. It is specifically designed to handle the telegraphic written text in clinical note. It leverages a nested hash table to execute simultaneous rule processing, which reduces the impact of the rule-base growth on execution time and eliminates the effect of rule order on accuracy.",
+  "author": "Jianlin",
+  "license": null,
+  "home_page": "https://github.com/jianlins/PyRuSH",
+  "download_filename": "pyrush-1.0.11.tar.gz",
+  "download_time": "2025-09-10T21:10:09.971386",
+  "package_url": "https://pypi.org/project/PyRuSH/"
+}
