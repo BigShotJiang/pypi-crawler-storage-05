@@ -1,8 +1,13 @@
 {
-  "download_time": "2025-09-10T19:49:02.170177",
-  "total_packages_downloaded": 84,
-  "total_size_mb": 30.45,
+  "download_time": "2025-09-10T20:12:58.862960",
+  "total_packages_downloaded": 85,
+  "total_size_mb": 0.54,
   "packages": [
+    "cuti",
+    "Class163-NexT",
+    "reqman4",
+    "aioamazondevices",
+    "marearts-crystal",
     "catalyst-sdwan-lab",
     "spotpython",
     "nexusformat",
@@ -82,10 +87,6 @@
     "mypy-boto3-networkflowmonitor",
     "mypy-boto3-payment-cryptography",
     "types-boto3",
-    "types-boto3-lite",
-    "types-boto3-payment-cryptography",
-    "types-boto3-networkflowmonitor",
-    "ptssl",
-    "xraylabtool"
+    "types-boto3-lite"
   ]
 }
