@@ -1,11 +1,11 @@
 {
   "name": "geochemdb",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Manage a database of geochemical data with Python.",
   "author": "Adrian Tasistro-Hart",
   "license": "GPL-3.0-only",
   "home_page": "https://github.com/sarttiso/geochemdb",
-  "download_filename": "geochemdb-1.1.0.tar.gz",
-  "download_time": "2025-09-09T18:13:59.169659",
+  "download_filename": "geochemdb-1.1.1.tar.gz",
+  "download_time": "2025-09-10T19:48:32.077089",
   "package_url": "https://pypi.org/project/geochemdb/"
 }

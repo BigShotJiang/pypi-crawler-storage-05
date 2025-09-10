@@ -1,0 +1,11 @@
+{
+  "name": "hyperon",
+  "version": "0.2.7",
+  "summary": "Hyperon API in Python",
+  "author": null,
+  "license": "MIT License",
+  "home_page": "https://github.com/trueagi-io/hyperon-experimental",
+  "download_filename": "hyperon-0.2.7-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-09-10T19:48:14.734871",
+  "package_url": "https://pypi.org/project/hyperon/"
+}

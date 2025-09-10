@@ -1,11 +1,11 @@
 {
   "name": "aihpi",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "AI High Performance Infrastructure - Distributed job submission for SLURM clusters",
   "author": "Felix Boelter",
   "license": null,
   "home_page": "https://github.com/username/aihpi",
-  "download_filename": "aihpi-0.1.4.tar.gz",
-  "download_time": "2025-09-10T19:25:10.636796",
+  "download_filename": "aihpi-0.1.5.tar.gz",
+  "download_time": "2025-09-10T19:48:31.492645",
   "package_url": "https://pypi.org/project/aihpi/"
 }

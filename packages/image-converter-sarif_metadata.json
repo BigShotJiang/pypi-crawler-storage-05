@@ -1,0 +1,11 @@
+{
+  "name": "image-converter-sarif",
+  "version": "0.1.0",
+  "summary": "A simple Python package for converting image formats",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "image_converter_sarif-0.1.0.tar.gz",
+  "download_time": "2025-09-10T19:48:21.345441",
+  "package_url": "https://pypi.org/project/image-converter-sarif/"
+}
