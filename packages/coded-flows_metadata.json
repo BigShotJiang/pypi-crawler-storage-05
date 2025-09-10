@@ -1,11 +1,11 @@
 {
   "name": "coded-flows",
-  "version": "0.6.5",
+  "version": "0.7.0",
   "summary": "Various utilities for Coded Flows",
   "author": "COLOR CODED CODES",
   "license": null,
   "home_page": null,
-  "download_filename": "coded_flows-0.6.5.tar.gz",
-  "download_time": "2025-09-10T18:42:07.159818",
+  "download_filename": "coded_flows-0.7.0.tar.gz",
+  "download_time": "2025-09-10T22:30:26.427964",
   "package_url": "https://pypi.org/project/coded-flows/"
 }

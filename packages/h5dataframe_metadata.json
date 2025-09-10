@@ -1,0 +1,11 @@
+{
+  "name": "h5dataframe",
+  "version": "0.2.3",
+  "summary": "Drop-in replacement for pandas DataFrames that allows to store data on an hdf5 file and manipulate data directly from that hdf5 file without loading it in memory.",
+  "author": "Matteo Bouvier",
+  "license": null,
+  "home_page": null,
+  "download_filename": "h5dataframe-0.2.3.tar.gz",
+  "download_time": "2025-09-10T22:30:39.054701",
+  "package_url": "https://pypi.org/project/h5dataframe/"
+}
