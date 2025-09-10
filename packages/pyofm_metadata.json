@@ -1,0 +1,11 @@
+{
+  "name": "pyofm",
+  "version": "1.2.4",
+  "summary": "pyOFM: Python wrapper for OpenFOAM meshes",
+  "author": "MDO Lab",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/mdolab/pyofm",
+  "download_filename": "pyofm-1.2.4.tar.gz",
+  "download_time": "2025-09-10T19:33:50.536822",
+  "package_url": "https://pypi.org/project/pyofm/"
+}

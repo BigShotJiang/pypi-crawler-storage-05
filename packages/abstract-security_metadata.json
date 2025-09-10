@@ -1,0 +1,11 @@
+{
+  "name": "abstract-security",
+  "version": "0.64",
+  "summary": "The `abstract_security` module is a Python utility that provides functionality for managing environment variables and securely loading sensitive information from `.env` files. It is designed to simplify the process of accessing and managing environment variables within your Python applications.",
+  "author": "putkoff",
+  "license": "MIT",
+  "home_page": "https://github.com/AbstractEndeavors/abstract_security",
+  "download_filename": "abstract_security-0.64.tar.gz",
+  "download_time": "2025-09-10T19:33:54.622132",
+  "package_url": "https://pypi.org/project/abstract-security/"
+}

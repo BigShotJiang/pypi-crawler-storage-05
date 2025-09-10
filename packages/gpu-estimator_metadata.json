@@ -1,11 +1,11 @@
 {
   "name": "gpu-estimator",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A Python package for estimating GPU memory requirements and the number of GPUs needed for training machine learning models",
   "author": "Hemanth HM",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gpu_estimator-0.1.0.tar.gz",
-  "download_time": "2025-09-10T18:42:15.477476",
+  "download_filename": "gpu_estimator-0.1.2.tar.gz",
+  "download_time": "2025-09-10T19:33:38.906417",
   "package_url": "https://pypi.org/project/gpu-estimator/"
 }
