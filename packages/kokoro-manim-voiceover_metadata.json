@@ -1,11 +1,11 @@
 {
   "name": "kokoro-manim-voiceover",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Professional library for generating high-quality voiceovers in Manim animations using Kokoro-82M model",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kokoro_manim_voiceover-0.1.2.tar.gz",
-  "download_time": "2025-09-10T05:12:11.836643",
+  "download_filename": "kokoro_manim_voiceover-0.1.3.tar.gz",
+  "download_time": "2025-09-10T05:30:48.139815",
   "package_url": "https://pypi.org/project/kokoro-manim-voiceover/"
 }

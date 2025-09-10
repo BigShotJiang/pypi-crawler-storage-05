@@ -1,11 +1,11 @@
 {
   "name": "gunicorn-django-canonical-logs",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "summary": "Canonical log lines for Django applications using Gunicorn sync workers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gunicorn_django_canonical_logs-0.0.5.tar.gz",
-  "download_time": "2025-09-09T05:30:37.760375",
+  "download_filename": "gunicorn_django_canonical_logs-0.0.7.tar.gz",
+  "download_time": "2025-09-10T05:30:51.396407",
   "package_url": "https://pypi.org/project/gunicorn-django-canonical-logs/"
 }
