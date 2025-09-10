@@ -1,0 +1,11 @@
+{
+  "name": "generateweather",
+  "version": "1.0",
+  "summary": "A random weather generator",
+  "author": "holodosik",
+  "license": null,
+  "home_page": null,
+  "download_filename": "generateweather-1.0.tar.gz",
+  "download_time": "2025-09-10T15:48:21.751040",
+  "package_url": "https://pypi.org/project/generateweather/"
+}

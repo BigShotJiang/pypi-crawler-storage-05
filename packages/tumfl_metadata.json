@@ -1,0 +1,11 @@
+{
+  "name": "tumfl",
+  "version": "0.3.14",
+  "summary": "The Ultimate Minimizer For Lua: minimize your lua scripts",
+  "author": "Fabian Wunsch",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tumfl-0.3.14.tar.gz",
+  "download_time": "2025-09-10T15:48:27.548904",
+  "package_url": "https://pypi.org/project/tumfl/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pip-dep-extractor",
+  "version": "2025.9.101642",
+  "summary": "Extracts 10 valid Python package names from an LLM response using llmatch.",
+  "author": "Eugene Evstafev",
+  "license": "MIT",
+  "home_page": "https://github.com/chigwell/pip_dep_extractor",
+  "download_filename": "pip_dep_extractor-2025.9.101642.tar.gz",
+  "download_time": "2025-09-10T15:48:29.644251",
+  "package_url": "https://pypi.org/project/pip-dep-extractor/"
+}

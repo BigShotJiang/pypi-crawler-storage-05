@@ -1,0 +1,11 @@
+{
+  "name": "dcp",
+  "version": "3.4.0",
+  "summary": "A DCP SDK",
+  "author": "Distributive",
+  "license": "MIT",
+  "home_page": "https://github.com/Distributive-Network/bifrost2/",
+  "download_filename": "dcp-3.4.0.tar.gz",
+  "download_time": "2025-09-10T15:48:24.968897",
+  "package_url": "https://pypi.org/project/dcp/"
+}

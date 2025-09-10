@@ -1,11 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-10T15:41:57.898604
-- **Total Packages**: 82
-- **Total Size**: 23.9 MB
+- **Download Time**: 2025-09-10T15:49:06.817783
+- **Total Packages**: 92
+- **Total Size**: 13.77 MB
 
 ## Packages List
+- xync-schema
+- withpi
+- columnTypeDetector
+- ambr-py
+- mergeron
+- generateweather
+- dv-pipecat-ai
+- cross-db
+- python-terminusgps
+- trendify
+- dkist-inventory
+- dcp
+- sage-agent-internal
+- odoo-addon-l10n-br-currency-rate-update
+- pygeoglim
+- LogTranslate
+- tumfl
+- swh.datasets
+- iab-mapper
+- napari-segtree
+- pip-dep-extractor
+- comprehender
+- svc-infra
+- taolib
+- hhd
+- alita-sdk
 - rxfoundry.clients.swifty_api
 - rxfoundry.clients.swifty_oauth_api
 - memeticga
@@ -16,11 +42,9 @@
 - autocleaneeg-pipeline
 - sentry-arroyo
 - fab-clientlib
-- sl-pos2-api
 - toucan-connectors
 - epsilab
 - memcache
-- python-terminusgps
 - pythonanywhere
 - woffu-client
 - clinicedc-tests
@@ -38,7 +62,6 @@
 - dshellInterpreter
 - claimed
 - django-autogfk
-- trendify
 - ossdata
 - tree-sitter-snl
 - resolver-athena-client
@@ -75,16 +98,3 @@
 - ahqstore-cli
 - plone.indexer
 - plone.intelligenttext
-- mcp-ip2location
-- plone.keyring
-- autohpsearch
-- plone.memoize
-- Ryzenth
-- macaw-auth
-- plone.namedfile
-- plone.outputfilters
-- plone.portlets
-- lftools-uv
-- jupyter-coder-server
-- Legacy-TL-New
-- plone.registry
