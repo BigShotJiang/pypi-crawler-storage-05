@@ -1,0 +1,11 @@
+{
+  "name": "scikit-surgerybard",
+  "version": "1.2.0",
+  "summary": "scikit-surgerybard is a Basic Augmented Reality Demo (BARD)based on scikit-surgery (SNAPPY)",
+  "author": "Stephen Thompson",
+  "license": "BSD-3 license",
+  "home_page": "https://github.com/SciKit-Surgery/scikit-surgerybard",
+  "download_filename": "scikit_surgerybard-1.2.0.tar.gz",
+  "download_time": "2025-09-10T16:37:36.910022",
+  "package_url": "https://pypi.org/project/scikit-surgerybard/"
+}

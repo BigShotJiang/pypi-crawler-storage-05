@@ -1,0 +1,11 @@
+{
+  "name": "netconf-xml-builder",
+  "version": "0.1.0",
+  "summary": "Python library helping to create NETCONF XML messages",
+  "author": null,
+  "license": "MIT license",
+  "home_page": null,
+  "download_filename": "netconf_xml_builder-0.1.0.tar.gz",
+  "download_time": "2025-09-10T16:37:35.236181",
+  "package_url": "https://pypi.org/project/netconf-xml-builder/"
+}

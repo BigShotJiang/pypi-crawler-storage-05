@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-delphi",
+  "version": "0.1.0",
+  "summary": "Python bindings for tree-sitter parsers with Delphi-inspired architecture",
+  "author": "Your Name",
+  "license": "Proprietary",
+  "home_page": "https://github.com/adaptsai/delphi-tree-sitter",
+  "download_filename": "tree_sitter_delphi-0.1.0.tar.gz",
+  "download_time": "2025-09-10T16:37:40.195648",
+  "package_url": "https://pypi.org/project/tree-sitter-delphi/"
+}

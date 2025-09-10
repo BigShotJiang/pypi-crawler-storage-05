@@ -1,11 +1,11 @@
 {
   "name": "fastmarkdocs",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "A powerful library for enhancing FastAPI applications with rich markdown-based API documentation",
   "author": "Dan Vatca",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastmarkdocs-0.4.1.tar.gz",
-  "download_time": "2025-09-08T13:38:48.386917",
+  "download_filename": "fastmarkdocs-0.4.2.tar.gz",
+  "download_time": "2025-09-10T16:37:34.147236",
   "package_url": "https://pypi.org/project/fastmarkdocs/"
 }

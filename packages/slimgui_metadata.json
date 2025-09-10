@@ -1,0 +1,11 @@
+{
+  "name": "slimgui",
+  "version": "0.5.1",
+  "summary": "Python Dear ImGui bindings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "slimgui-0.5.1.tar.gz",
+  "download_time": "2025-09-10T16:37:37.476917",
+  "package_url": "https://pypi.org/project/slimgui/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "litgen",
+  "version": "0.21.0",
+  "summary": "litgen, aka \"Literate Generator\", an automatic python bindings generator for humans who like nice code and APIs, based on srcML (https://srcml.org)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "litgen-0.21.0-py3-none-any.whl",
+  "download_time": "2025-09-10T16:37:21.311226",
+  "package_url": "https://pypi.org/project/litgen/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "trollimage",
+  "version": "1.27.0",
+  "summary": "Pytroll imaging library",
+  "author": "Martin Raspaud",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/pytroll/trollimage",
+  "download_filename": "trollimage-1.27.0.tar.gz",
+  "download_time": "2025-09-10T16:37:23.710641",
+  "package_url": "https://pypi.org/project/trollimage/"
+}

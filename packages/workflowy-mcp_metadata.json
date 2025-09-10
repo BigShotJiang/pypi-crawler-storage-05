@@ -1,11 +1,11 @@
 {
   "name": "workflowy-mcp",
-  "version": "0.3.0",
+  "version": "0.3.3",
   "summary": "MCP server for WorkFlowy API integration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "workflowy_mcp-0.3.0.tar.gz",
-  "download_time": "2025-09-10T08:54:02.773949",
+  "download_filename": "workflowy_mcp-0.3.3.tar.gz",
+  "download_time": "2025-09-10T16:37:09.140009",
   "package_url": "https://pypi.org/project/workflowy-mcp/"
 }
