@@ -1,0 +1,11 @@
+{
+  "name": "climate-ref-celery",
+  "version": "0.6.6",
+  "summary": "Celery app for mananging tasks and workers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "climate_ref_celery-0.6.6.tar.gz",
+  "download_time": "2025-09-10T05:11:37.243563",
+  "package_url": "https://pypi.org/project/climate-ref-celery/"
+}

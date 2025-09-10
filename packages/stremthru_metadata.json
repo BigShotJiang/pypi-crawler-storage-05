@@ -1,0 +1,11 @@
+{
+  "name": "stremthru",
+  "version": "0.5.0",
+  "summary": "SDK for StremThru",
+  "author": "Munif Tanjim",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stremthru-0.5.0.tar.gz",
+  "download_time": "2025-09-10T05:11:41.542831",
+  "package_url": "https://pypi.org/project/stremthru/"
+}

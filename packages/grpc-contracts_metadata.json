@@ -1,0 +1,11 @@
+{
+  "name": "grpc-contracts",
+  "version": "0.1.0",
+  "summary": "Shared gRPC contracts for my microservices",
+  "author": "Grimjow",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "grpc_contracts-0.1.0.tar.gz",
+  "download_time": "2025-09-10T05:11:45.272003",
+  "package_url": "https://pypi.org/project/grpc-contracts/"
+}
