@@ -1,11 +1,11 @@
 {
   "name": "esql-parser",
-  "version": "9.0.4",
+  "version": "9.1.3",
   "summary": "Python parser for Elasticsearch ESQL",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "esql_parser-9.0.4.tar.gz",
-  "download_time": "2025-09-10T23:10:39.568273",
+  "download_filename": "esql_parser-9.1.3.tar.gz",
+  "download_time": "2025-09-10T23:48:07.653410",
   "package_url": "https://pypi.org/project/esql-parser/"
 }
