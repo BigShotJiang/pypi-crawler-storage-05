@@ -1,11 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-10T17:49:08.121300
-- **Total Packages**: 90
-- **Total Size**: 17.41 MB
+- **Download Time**: 2025-09-10T18:16:13.553689
+- **Total Packages**: 84
+- **Total Size**: 33.46 MB
 
 ## Packages List
+- ncm
+- genai-prices
+- torchsparsegradutils
+- streamlit-rockyroad-tools
+- tty-egpf-monitor
+- polarscope
+- prisma-sdk
+- rusty-runways
+- JiggleCoord
+- pyrex3
+- GNServer
+- KeyisBClient
+- music-drummer
+- pyobis
+- biblemate
+- anote-generate
+- craft-parts
+- fluidattacks-core
+- psqlmodule
+- softdata
+- arelle-release
+- amigo_sdk
+- odoo-addon-l10n-br-nfse-focus
+- methodaws
+- cheshirecat-python-sdk
+- cool-seq-tool
+- maleo-managers
+- easy-yfinance
+- yamlgator
+- pycti
+- maleo-google
 - omserv
 - ommlds
 - omlish
@@ -13,7 +44,28 @@
 - omextra
 - omdev
 - omdev-cli
+- mbb
 - omdev-cext
+- gtars
+- firewheel-repo-layer2
+- kxy-codew
+- authzed
+- ddex-builder
+- firewheel-repo-ntp
+- stopwords
+- authentik-client
+- firewheel-repo-dns
+- pycarol
+- gmdkit
+- hepai
+- firewheel-repo-vyos
+- scc-firewall-manager-sdk
+- cabin
+- django-spire
+- chime_logger
+- BabelDOC
+- mfd-testing
+- firewheel-repo-linux
 - name-conflict-resolver
 - maleo-database
 - arcade-tdk
@@ -25,7 +77,6 @@
 - databricks-agents
 - langchain-tool-server
 - pyosmeta
-- prisma-sdk
 - csc-cia-stne
 - python-v2ray
 - PyPFT
@@ -34,65 +85,8 @@
 - httplib2
 - urtext
 - btrfsutil
-- ddex-builder
 - alibabacloud-rdsai20250507
 - alibabacloud-gpdb20160503
 - open-xtract
 - alibabacloud-tag20180828
 - cyborgdb
-- alibabacloud-polardbx20200202
-- alibabacloud-eventbridge20200401
-- oarepo-requests
-- alibabacloud-cms20240330
-- alibabacloud-hbr20170908
-- radboy
-- eagle-tools
-- annofabapi
-- PySwitchbot
-- Cellist
-- pesapal_client
-- shooju-ts
-- ipulse-shared-data-eng-ftredge
-- ttconv
-- gripql
-- authentik-client
-- futurehouse-client
-- codex-python
-- catkin-pkg
-- zt-features-lib
-- GNServer
-- socs
-- lite-slurm
-- baleapi
-- spellbot
-- ddex-parser
-- odoo-addon-l10n-es-aeat-mod349
-- revng
-- fluxgraph
-- datasure
-- nrcan-etl-toolbox
-- sage-agent
-- enpt
-- dkinst
-- gable
-- huff
-- coredis
-- BETTER-NMA
-- t-office-365
-- imap-processing
-- hrap
-- aloha
-- stytch
-- put-back-iterator
-- primitives
-- git-lfs-advisor-cli
-- pyDAmonitor
-- ttnn-visualizer
-- molde
-- music-drummer
-- volue-insight-timeseries
-- ai-ebash
-- aioamazondevices
-- frost-sta-client
-- atomicshop
-- medscheduler

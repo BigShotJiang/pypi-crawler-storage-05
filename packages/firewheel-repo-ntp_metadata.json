@@ -1,0 +1,11 @@
+{
+  "name": "firewheel-repo-ntp",
+  "version": "3.0.0",
+  "summary": "This repository contains FIREWHEEL model components for enabling the Network Time Protocol (NTP) within an experiment.",
+  "author": null,
+  "license": "Apache License (2.0)",
+  "home_page": null,
+  "download_filename": "firewheel_repo_ntp-3.0.0.tar.gz",
+  "download_time": "2025-09-10T18:15:51.505830",
+  "package_url": "https://pypi.org/project/firewheel-repo-ntp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "streamlit-rockyroad-tools",
-  "version": "0.0.37",
+  "version": "0.0.39",
   "summary": "Streamlit RockyRoad Tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "streamlit_rockyroad_tools-0.0.37-py3-none-any.whl",
-  "download_time": "2025-09-10T16:37:17.510797",
+  "download_filename": "streamlit_rockyroad_tools-0.0.39-py3-none-any.whl",
+  "download_time": "2025-09-10T18:15:27.992636",
   "package_url": "https://pypi.org/project/streamlit-rockyroad-tools/"
 }

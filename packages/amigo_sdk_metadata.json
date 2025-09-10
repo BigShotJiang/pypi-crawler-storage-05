@@ -1,11 +1,11 @@
 {
   "name": "amigo_sdk",
-  "version": "0.22.0",
+  "version": "0.24.0",
   "summary": "Amigo AI Python SDK",
   "author": "Amigo AI",
   "license": null,
   "home_page": null,
-  "download_filename": "amigo_sdk-0.22.0.tar.gz",
-  "download_time": "2025-09-08T02:23:18.941709",
+  "download_filename": "amigo_sdk-0.24.0.tar.gz",
+  "download_time": "2025-09-10T18:15:38.348391",
   "package_url": "https://pypi.org/project/amigo_sdk/"
 }

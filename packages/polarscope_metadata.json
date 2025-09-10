@@ -1,11 +1,11 @@
 {
   "name": "polarscope",
-  "version": "1.4.2",
+  "version": "1.5.0",
   "summary": "🔬 Simple data inspection tools for Polars - basic X-ray analysis and utilities for DataFrames.",
   "author": "Anders & Co.",
   "license": null,
   "home_page": null,
-  "download_filename": "polarscope-1.4.2.tar.gz",
-  "download_time": "2025-09-09T08:15:37.164295",
+  "download_filename": "polarscope-1.5.0.tar.gz",
+  "download_time": "2025-09-10T18:15:29.100127",
   "package_url": "https://pypi.org/project/polarscope/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyobis",
+  "version": "1.6.1",
+  "summary": "Python client for OBIS",
+  "author": "pyOBIS Community",
+  "license": "MIT",
+  "home_page": "https://github.com/iobis/pyobis",
+  "download_filename": "pyobis-1.6.1.tar.gz",
+  "download_time": "2025-09-10T18:15:33.412155",
+  "package_url": "https://pypi.org/project/pyobis/"
+}

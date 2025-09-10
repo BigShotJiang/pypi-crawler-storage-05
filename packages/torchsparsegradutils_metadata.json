@@ -1,0 +1,11 @@
+{
+  "name": "torchsparsegradutils",
+  "version": "0.2.0",
+  "summary": "A collection of utility functions to work with PyTorch sparse tensors",
+  "author": "CAI4CAI research group",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cai4cai/torchsparsegradutils",
+  "download_filename": "torchsparsegradutils-0.2.0.tar.gz",
+  "download_time": "2025-09-10T18:15:26.919516",
+  "package_url": "https://pypi.org/project/torchsparsegradutils/"
+}
