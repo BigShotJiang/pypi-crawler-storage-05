@@ -1,0 +1,11 @@
+{
+  "name": "django-yhdiste",
+  "version": "0.3",
+  "summary": "Django-yhdistenäkymä",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_yhdiste-0.3.tar.gz",
+  "download_time": "2025-09-10T08:38:45.369618",
+  "package_url": "https://pypi.org/project/django-yhdiste/"
+}

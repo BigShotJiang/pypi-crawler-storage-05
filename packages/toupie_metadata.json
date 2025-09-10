@@ -1,0 +1,11 @@
+{
+  "name": "toupie",
+  "version": "0.1.0",
+  "summary": "A Tiny Python Kernel",
+  "author": "Sébastien Boisgérault",
+  "license": null,
+  "home_page": null,
+  "download_filename": "toupie-0.1.0.tar.gz",
+  "download_time": "2025-09-10T08:38:39.223208",
+  "package_url": "https://pypi.org/project/toupie/"
+}

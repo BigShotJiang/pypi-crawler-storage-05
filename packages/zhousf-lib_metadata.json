@@ -1,0 +1,11 @@
+{
+  "name": "zhousf-lib",
+  "version": "1.6.8.5.7",
+  "summary": "a python library of zhousf",
+  "author": "zhousf",
+  "license": "MIT",
+  "home_page": "https://github.com/MrZhousf/ZhousfLib",
+  "download_filename": "zhousf_lib-1.6.8.5.7.tar.gz",
+  "download_time": "2025-09-10T08:38:37.164429",
+  "package_url": "https://pypi.org/project/zhousf-lib/"
+}

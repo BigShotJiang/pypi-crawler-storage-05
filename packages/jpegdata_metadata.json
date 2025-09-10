@@ -1,11 +1,11 @@
 {
   "name": "jpegdata",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Streamlined JPEG image metadata parsing and updating.",
   "author": "Daniel Sissman",
   "license": null,
   "home_page": null,
-  "download_filename": "jpegdata-0.1.2.tar.gz",
-  "download_time": "2025-09-09T06:47:55.372293",
+  "download_filename": "jpegdata-0.1.3.tar.gz",
+  "download_time": "2025-09-10T08:38:28.825517",
   "package_url": "https://pypi.org/project/jpegdata/"
 }

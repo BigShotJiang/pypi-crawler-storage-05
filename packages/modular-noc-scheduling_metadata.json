@@ -1,0 +1,11 @@
+{
+  "name": "modular-noc-scheduling",
+  "version": "1.0.8",
+  "summary": "Shift Scheduling Algorithm using OR-Tools with Modular Constraints",
+  "author": "Innovation Team - Digital Transformation Directorate",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "modular_noc_scheduling-1.0.8-py3-none-any.whl",
+  "download_time": "2025-09-10T08:38:13.856359",
+  "package_url": "https://pypi.org/project/modular-noc-scheduling/"
+}

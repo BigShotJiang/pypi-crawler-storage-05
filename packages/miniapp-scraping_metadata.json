@@ -1,0 +1,11 @@
+{
+  "name": "miniapp-scraping",
+  "version": "1.4.0",
+  "summary": "Lightweight web scraping tool with email extraction",
+  "author": "TECHFUND Development Team",
+  "license": null,
+  "home_page": "https://github.com/TECHFUND/miniapp-scraping",
+  "download_filename": "miniapp_scraping-1.4.0.tar.gz",
+  "download_time": "2025-09-10T08:38:21.042318",
+  "package_url": "https://pypi.org/project/miniapp-scraping/"
+}

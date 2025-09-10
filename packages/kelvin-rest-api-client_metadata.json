@@ -1,0 +1,11 @@
+{
+  "name": "kelvin-rest-api-client",
+  "version": "2.3.0",
+  "summary": "Python library to interact with the UCS@school Kelvin REST API.",
+  "author": "Daniel Troeder",
+  "license": "GNU Affero General Public License v3",
+  "home_page": "https://github.com/univention/kelvin-rest-api-client",
+  "download_filename": "kelvin_rest_api_client-2.3.0.tar.gz",
+  "download_time": "2025-09-10T08:38:20.019690",
+  "package_url": "https://pypi.org/project/kelvin-rest-api-client/"
+}

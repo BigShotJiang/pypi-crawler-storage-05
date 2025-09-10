@@ -1,11 +1,11 @@
 {
   "name": "common-framework",
-  "version": "2025.9.1",
+  "version": "2025.9.9",
   "summary": "All-in-one framework for Django and Django REST Framework",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "common_framework-2025.9.1.tar.gz",
-  "download_time": "2025-09-08T13:04:10.353124",
+  "download_filename": "common_framework-2025.9.9.tar.gz",
+  "download_time": "2025-09-10T08:38:39.736939",
   "package_url": "https://pypi.org/project/common-framework/"
 }
