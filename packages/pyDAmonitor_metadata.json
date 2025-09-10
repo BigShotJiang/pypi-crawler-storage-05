@@ -1,0 +1,11 @@
+{
+  "name": "pyDAmonitor",
+  "version": "0.1.1",
+  "summary": "Safeguard invaluable DA investments by vigilantly monitoring DA performance",
+  "author": "Guoqing Ge, Junjun Hu, Aiden Pape, Ethan Wiese, Haidao Lin, Sijie Pan, Chunhua Zhou, Liaofan Lin, Terra Ladwig",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydamonitor-0.1.1.tar.gz",
+  "download_time": "2025-09-10T17:27:48.932093",
+  "package_url": "https://pypi.org/project/pyDAmonitor/"
+}

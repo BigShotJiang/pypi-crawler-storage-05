@@ -1,11 +1,11 @@
 {
   "name": "tp-shared",
-  "version": "0.2.401",
-  "summary": "Pydantic cхемы для всех проектов",
-  "author": null,
+  "version": "0.2.402",
+  "summary": null,
+  "author": "Developer",
   "license": null,
   "home_page": null,
-  "download_filename": "tp_shared-0.2.401.tar.gz",
-  "download_time": "2025-09-08T03:49:28.085733",
+  "download_filename": "tp_shared-0.2.402.tar.gz",
+  "download_time": "2025-09-10T17:28:10.352673",
   "package_url": "https://pypi.org/project/tp-shared/"
 }

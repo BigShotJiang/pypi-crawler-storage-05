@@ -1,0 +1,11 @@
+{
+  "name": "volue-insight-timeseries",
+  "version": "1.4.1",
+  "summary": "Volue Insight API python library",
+  "author": "Volue Insight",
+  "license": null,
+  "home_page": "https://www.volueinsight.com",
+  "download_filename": "volue_insight_timeseries-1.4.1.tar.gz",
+  "download_time": "2025-09-10T17:27:51.198153",
+  "package_url": "https://pypi.org/project/volue-insight-timeseries/"
+}

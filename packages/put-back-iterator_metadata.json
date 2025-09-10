@@ -1,0 +1,11 @@
+{
+  "name": "put-back-iterator",
+  "version": "0.1.0a1",
+  "summary": "A drop-in replacement for `iter(iterable)` that allows **putting items back** after consuming them. Ideal for parsing, lexing, and other scenarios requiring lookahead or backtracking.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "put_back_iterator-0.1.0a1.tar.gz",
+  "download_time": "2025-09-10T17:27:46.755131",
+  "package_url": "https://pypi.org/project/put-back-iterator/"
+}

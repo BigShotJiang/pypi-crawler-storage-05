@@ -1,0 +1,11 @@
+{
+  "name": "aloha",
+  "version": "2025.910.1726",
+  "summary": "Aloha - a versatile Python utility package for building services",
+  "author": "QPod",
+  "license": "Apache Software License",
+  "home_page": "https://github.com/QPod/aloha",
+  "download_filename": "aloha-2025.910.1726.tar.gz",
+  "download_time": "2025-09-10T17:27:44.543616",
+  "package_url": "https://pypi.org/project/aloha/"
+}

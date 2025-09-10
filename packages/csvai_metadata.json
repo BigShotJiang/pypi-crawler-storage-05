@@ -1,0 +1,11 @@
+{
+  "name": "csvai",
+  "version": "0.2.0",
+  "summary": "Enrich CSV or Excel rows using OpenAI models (text or image analysis).",
+  "author": "Zyxware Technologies, Vimal Joseph",
+  "license": null,
+  "home_page": null,
+  "download_filename": "csvai-0.2.0.tar.gz",
+  "download_time": "2025-09-10T17:28:02.972050",
+  "package_url": "https://pypi.org/project/csvai/"
+}
