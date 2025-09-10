@@ -1,11 +1,11 @@
 {
   "name": "simple-aws-redshift",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "Objective Oriented Python SDK for AWS Redshift",
   "author": "Sanhe Hu",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "simple_aws_redshift-0.4.2.tar.gz",
-  "download_time": "2025-09-10T20:31:24.165279",
+  "download_filename": "simple_aws_redshift-0.4.3.tar.gz",
+  "download_time": "2025-09-10T20:41:46.699415",
   "package_url": "https://pypi.org/project/simple-aws-redshift/"
 }

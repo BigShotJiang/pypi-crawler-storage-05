@@ -1,11 +1,11 @@
 {
   "name": "jupyter-uv-venv",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "One notebook is one venv, using uv to keep disk space",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jupyter_uv_venv-0.1.2.tar.gz",
-  "download_time": "2025-09-10T12:19:51.323505",
+  "download_filename": "jupyter_uv_venv-0.1.4.tar.gz",
+  "download_time": "2025-09-10T20:41:57.002799",
   "package_url": "https://pypi.org/project/jupyter-uv-venv/"
 }

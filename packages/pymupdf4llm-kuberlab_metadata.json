@@ -1,0 +1,11 @@
+{
+  "name": "pymupdf4llm-kuberlab",
+  "version": "0.0.27",
+  "summary": "PyMuPDF Utilities for LLM/RAG",
+  "author": "Artifex",
+  "license": "Dual Licensed - GNU AFFERO GPL 3.0 or Artifex Commercial License",
+  "home_page": "https://github.com/pymupdf/RAG",
+  "download_filename": "pymupdf4llm_kuberlab-0.0.27-py3-none-any.whl",
+  "download_time": "2025-09-10T20:41:58.075522",
+  "package_url": "https://pypi.org/project/pymupdf4llm-kuberlab/"
+}

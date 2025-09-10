@@ -1,0 +1,11 @@
+{
+  "name": "boostedprob",
+  "version": "0.1.0",
+  "summary": "Utilities to compute boosted probabilities and identify dominant tokens.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "boostedprob-0.1.0.tar.gz",
+  "download_time": "2025-09-10T20:41:54.855231",
+  "package_url": "https://pypi.org/project/boostedprob/"
+}
