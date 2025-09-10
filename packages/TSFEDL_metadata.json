@@ -1,0 +1,11 @@
+{
+  "name": "TSFEDL",
+  "version": "1.0.7.7",
+  "summary": "Time Series Spatio-Temporal Feature Extraction using Deep Learning",
+  "author": "Ignacio Aguilera Martos, Ángel Miguel García Vico, Julian Luengo, Francisco Herrera",
+  "license": null,
+  "home_page": "https://github.com/ari-dasci/S-TSFE-DL",
+  "download_filename": "TSFEDL-1.0.7.7.tar.gz",
+  "download_time": "2025-09-10T11:24:46.326169",
+  "package_url": "https://pypi.org/project/TSFEDL/"
+}

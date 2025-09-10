@@ -1,11 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-10T11:10:15.400552
-- **Total Packages**: 90
-- **Total Size**: 38.27 MB
+- **Download Time**: 2025-09-10T11:25:30.018682
+- **Total Packages**: 87
+- **Total Size**: 35.24 MB
 
 ## Packages List
+- superlinked-server
+- evol-aiq
+- sutrakit
+- bitbuffet
+- smathbyviraj
+- bitswan
+- plua
+- cli-ih
+- abs-integration-core
+- sparv-sbx-whisper-import
+- promptimus
+- cdktf-cdktf-provider-digitalocean
+- polars-genson
+- tb-nightly
+- TSFEDL
+- fyuneru
+- ut-eviq
+- sweatstack
+- mathmaker
+- pyquarks
+- tenetan
+- tensorcontainer
+- pydisper96
+- rastereasy
+- tencentcloud-sdk-python-vpc
+- tencentcloud-sdk-python-vdb
+- tencentcloud-sdk-python-trtc
 - tencentcloud-sdk-python-tione
 - tencentcloud-sdk-python-tcaplusdb
 - edri
@@ -17,7 +44,6 @@
 - tencentcloud-sdk-python-mongodb
 - tencentcloud-sdk-python-lke
 - tencentcloud-sdk-python-iotexplorer
-- tensorcontainer
 - tencentcloud-sdk-python-ioa
 - MetaRpcMT5
 - tencentcloud-sdk-python-gs
@@ -54,14 +80,12 @@
 - promptimus-phoenix-tracer
 - promptimus-chromadb-store
 - pyBIA
-- promptimus
 - my-aws-helpers
 - yangsuite
 - bycolors
 - bitquery-pb2-kafka-package
 - selenium-behave
 - cheeky-platform-shared
-- evol-aiq
 - farsi-python
 - maven-proxy
 - asanAI
@@ -69,30 +93,3 @@
 - UtilMeta
 - airbyte-source-slack
 - rebrandly-otel
-- fastapi-rtk
-- ccs-digitalmarketplace-apiclient
-- airia
-- pyFBS
-- bn-byneuron
-- tccli-intl-en
-- pyimg2ascii
-- spakky-core
-- pykingenie
-- databoost
-- pypackage-example
-- toml-decouple
-- django-cfg
-- nidx-binding
-- django-searchkit
-- nucliadb-utils
-- devapps
-- nucliadb-telemetry
-- nucliadb-sdk
-- rusmppyc
-- nucliadb-protos
-- nucliadb-models
-- nucliadb-dataset
-- nucliadb
-- nidx-protos
-- fwdi
-- revng
