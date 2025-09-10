@@ -1,0 +1,11 @@
+{
+  "name": "cluster-affinity",
+  "version": "0.7.3",
+  "summary": "A tool to calculate the cluster affinity distance between two trees",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cluster_affinity-0.7.3.tar.gz",
+  "download_time": "2025-09-10T17:10:11.518575",
+  "package_url": "https://pypi.org/project/cluster-affinity/"
+}

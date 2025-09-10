@@ -1,0 +1,11 @@
+{
+  "name": "cave-infra",
+  "version": "0.1.6",
+  "summary": "Automation toolkit for automated provisioning virtual infrastructure.",
+  "author": "sn0ja",
+  "license": null,
+  "home_page": "https://github.com/sn0ja/cave/",
+  "download_filename": "cave_infra-0.1.6.tar.gz",
+  "download_time": "2025-09-10T17:09:34.249114",
+  "package_url": "https://pypi.org/project/cave-infra/"
+}

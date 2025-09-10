@@ -1,0 +1,11 @@
+{
+  "name": "autograders",
+  "version": "0.1.1",
+  "summary": "A minimal autograders package",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "autograders-0.1.1.tar.gz",
+  "download_time": "2025-09-10T17:09:51.939259",
+  "package_url": "https://pypi.org/project/autograders/"
+}

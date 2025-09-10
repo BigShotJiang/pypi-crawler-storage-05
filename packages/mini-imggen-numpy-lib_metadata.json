@@ -1,0 +1,11 @@
+{
+  "name": "mini-imggen-numpy-lib",
+  "version": "0.1.1",
+  "summary": "A lightweight educational Python library for toy image & text generation using NumPy only.",
+  "author": "Léo",
+  "license": null,
+  "home_page": "https://github.com/Leo62-glitch/mini_imggen_numpy_lib",
+  "download_filename": "mini_imggen_numpy_lib-0.1.1.tar.gz",
+  "download_time": "2025-09-10T17:09:37.410321",
+  "package_url": "https://pypi.org/project/mini-imggen-numpy-lib/"
+}

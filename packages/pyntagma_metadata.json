@@ -1,11 +1,11 @@
 {
   "name": "pyntagma",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Pyntagma is a Python library for creating and managing complex data structures with ease. Its name is derived from the Greek word 'Syntagma', meaning 'composition', symbolizing that this package fits for semi-structured documents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyntagma-0.0.2-py3-none-any.whl",
-  "download_time": "2025-09-08T11:24:29.523579",
+  "download_filename": "pyntagma-0.0.3-py3-none-any.whl",
+  "download_time": "2025-09-10T17:09:38.966037",
   "package_url": "https://pypi.org/project/pyntagma/"
 }

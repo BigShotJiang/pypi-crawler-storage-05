@@ -1,11 +1,11 @@
 {
   "name": "apkshadow",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Android APK automation tool for bug bounty",
   "author": "ISMAILSHADOW",
   "license": null,
   "home_page": null,
-  "download_filename": "apkshadow-0.1.1.tar.gz",
-  "download_time": "2025-09-08T21:26:39.642663",
+  "download_filename": "apkshadow-0.1.2.tar.gz",
+  "download_time": "2025-09-10T17:09:53.993020",
   "package_url": "https://pypi.org/project/apkshadow/"
 }

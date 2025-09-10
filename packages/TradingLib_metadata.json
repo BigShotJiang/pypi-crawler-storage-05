@@ -1,0 +1,11 @@
+{
+  "name": "TradingLib",
+  "version": "0.0.1",
+  "summary": "Библиотека для биржевой торговли MOEX",
+  "author": "ryakub",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tradinglib-0.0.1.tar.gz",
+  "download_time": "2025-09-10T17:09:25.307825",
+  "package_url": "https://pypi.org/project/TradingLib/"
+}

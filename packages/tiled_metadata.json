@@ -1,0 +1,11 @@
+{
+  "name": "tiled",
+  "version": "0.1.0",
+  "summary": "Structured Scientific Data Access Service",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tiled-0.1.0.tar.gz",
+  "download_time": "2025-09-10T17:09:49.884700",
+  "package_url": "https://pypi.org/project/tiled/"
+}

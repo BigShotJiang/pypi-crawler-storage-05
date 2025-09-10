@@ -1,0 +1,11 @@
+{
+  "name": "deepopt",
+  "version": "0.2.6",
+  "summary": "Easy-to-use library for Bayesian optimization, with support for neural network surrogates.",
+  "author": "DeepOpt Dev Team",
+  "license": "MIT",
+  "home_page": "https://github.com/LLNL/deepopt",
+  "download_filename": "deepopt-0.2.6.tar.gz",
+  "download_time": "2025-09-10T17:10:13.062454",
+  "package_url": "https://pypi.org/project/deepopt/"
+}

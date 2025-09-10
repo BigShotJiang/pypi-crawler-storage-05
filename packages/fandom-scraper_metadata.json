@@ -1,11 +1,11 @@
 {
   "name": "fandom-scraper",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "summary": "A simple AI (span-marker) powered fandom scraper",
   "author": "AnthonyP57",
   "license": null,
   "home_page": null,
-  "download_filename": "fandom_scraper-0.6.3.tar.gz",
-  "download_time": "2025-09-10T14:05:29.448428",
+  "download_filename": "fandom_scraper-0.6.4.tar.gz",
+  "download_time": "2025-09-10T17:09:51.427260",
   "package_url": "https://pypi.org/project/fandom-scraper/"
 }

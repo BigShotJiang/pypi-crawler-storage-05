@@ -1,0 +1,11 @@
+{
+  "name": "graphframes-py",
+  "version": "0.9.3",
+  "summary": "GraphFrames: Graph Processing Framework for Apache Spark",
+  "author": "GraphFrames Contributors",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "graphframes_py-0.9.3.tar.gz",
+  "download_time": "2025-09-10T17:10:12.035360",
+  "package_url": "https://pypi.org/project/graphframes-py/"
+}
