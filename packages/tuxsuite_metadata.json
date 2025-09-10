@@ -1,0 +1,11 @@
+{
+  "name": "tuxsuite",
+  "version": "1.44.2",
+  "summary": "This is the tuxsuite module.",
+  "author": "Senthil Kumaran",
+  "license": null,
+  "home_page": "https://www.tuxsuite.com/",
+  "download_filename": "tuxsuite-1.44.2.tar.gz",
+  "download_time": "2025-09-10T12:19:56.690913",
+  "package_url": "https://pypi.org/project/tuxsuite/"
+}

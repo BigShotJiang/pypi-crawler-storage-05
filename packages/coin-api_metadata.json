@@ -1,0 +1,11 @@
+{
+  "name": "coin-api",
+  "version": "1.0.0",
+  "summary": "A Python package for getting cryptocurrency prices from CoinMarketCap",
+  "author": "faizan code",
+  "license": "MIT",
+  "home_page": "https://github.com/thetriquetradeveloper/Coin_API",
+  "download_filename": "coin_api-1.0.0-py3-none-any.whl",
+  "download_time": "2025-09-10T12:20:19.763147",
+  "package_url": "https://pypi.org/project/coin-api/"
+}

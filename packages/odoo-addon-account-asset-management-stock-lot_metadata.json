@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-asset-management-stock-lot",
+  "version": "17.0.1.0.0.2",
+  "summary": "Assets Management Stock Lot",
+  "author": "Akretion, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-financial-tools",
+  "download_filename": "odoo_addon_account_asset_management_stock_lot-17.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-09-10T12:20:09.745296",
+  "package_url": "https://pypi.org/project/odoo-addon-account-asset-management-stock-lot/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pip-name-generator",
-  "version": "2025.9.101132",
-  "summary": "pip_name_generator: minimal package with a single public function to generate setup.py content.",
+  "version": "2025.9.101312",
+  "summary": null,
   "author": "Eugene Evstafev",
   "license": "MIT",
   "home_page": "https://github.com/chigwell/pip_name_generator",
-  "download_filename": "pip_name_generator-2025.9.101132.tar.gz",
-  "download_time": "2025-09-10T10:33:24.404546",
+  "download_filename": "pip_name_generator-2025.9.101312.tar.gz",
+  "download_time": "2025-09-10T12:19:59.575744",
   "package_url": "https://pypi.org/project/pip-name-generator/"
 }

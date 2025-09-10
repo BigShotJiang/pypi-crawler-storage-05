@@ -1,0 +1,11 @@
+{
+  "name": "skip-django-pymess",
+  "version": "0.13.0",
+  "summary": "Pymess is a Django framework for sending messages",
+  "author": "Lubos Matl,Oskar Hollman",
+  "license": "LGPL",
+  "home_page": "https://github.com/skip-pay/django-pymess",
+  "download_filename": "skip_django_pymess-0.13.0.tar.gz",
+  "download_time": "2025-09-10T12:20:17.907014",
+  "package_url": "https://pypi.org/project/skip-django-pymess/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sparkautomapper",
+  "version": "3.0.5",
+  "summary": "AutoMapper for Spark",
+  "author": "Imran Qureshi",
+  "license": null,
+  "home_page": "https://github.com/imranq2/SparkAutoMapper",
+  "download_filename": "sparkautomapper-3.0.5.tar.gz",
+  "download_time": "2025-09-10T12:19:58.996433",
+  "package_url": "https://pypi.org/project/sparkautomapper/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "satellitetle",
+  "version": "0.17.1",
+  "summary": "Fetch satellite TLEs from various online sources",
+  "author": "Fabian P. Schmidt",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/librespacefoundation/python-satellitetle",
+  "download_filename": "satellitetle-0.17.1.tar.gz",
+  "download_time": "2025-09-10T12:19:53.667443",
+  "package_url": "https://pypi.org/project/satellitetle/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "this-is-message-tel",
+  "version": "0.4",
+  "summary": "A lightweight Python library for generating random User-Agent headers for anonymity and testing.",
+  "author": "Super",
+  "license": null,
+  "home_page": null,
+  "download_filename": "this_is_message_tel-0.4.tar.gz",
+  "download_time": "2025-09-10T12:20:23.073679",
+  "package_url": "https://pypi.org/project/this-is-message-tel/"
+}
