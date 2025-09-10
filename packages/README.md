@@ -1,15 +1,23 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-10T07:28:48.057311
-- **Total Packages**: 82
-- **Total Size**: 39.61 MB
+- **Download Time**: 2025-09-10T07:37:55.819838
+- **Total Packages**: 80
+- **Total Size**: 8.73 MB
 
 ## Packages List
-- ahqstore-cli
-- minecraft-datapack-language
-- llm-tools-client
+- sqlsaber
 - openstock
+- pyvirtualcam
+- aiko-monitor
+- umami-analytics-py
+- minecraft-datapack-language
+- SurvivalEVAL
+- apify
+- aioampio
+- pytest-splunk-addon
+- ahqstore-cli
+- llm-tools-client
 - nucliadb-admin-assets
 - oups
 - authentik-client
@@ -25,7 +33,6 @@
 - tp-generator
 - selenium-behave
 - golem-vm-provider
-- aiko-monitor
 - brixs
 - mbp
 - sora-sdk
@@ -79,12 +86,3 @@
 - cognite-toolkit
 - mojzet
 - faster-app
-- dlt
-- orq-ai-sdk
-- ParticleAnalyzer
-- cloudpss
-- e2enetworks
-- zai-sdk
-- BoschRpaMagicBox
-- yapfm
-- mineru

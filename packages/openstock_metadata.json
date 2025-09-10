@@ -1,11 +1,11 @@
 {
   "name": "openstock",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "一个股票行情工具包，可以用来获取股票历史k线数据",
   "author": "Tim",
   "license": null,
   "home_page": "https://github.com/geeeeeeeek/openstock",
-  "download_filename": "openstock-0.0.6.tar.gz",
-  "download_time": "2025-09-10T07:28:05.138175",
+  "download_filename": "openstock-0.0.7.tar.gz",
+  "download_time": "2025-09-10T07:37:09.708748",
   "package_url": "https://pypi.org/project/openstock/"
 }

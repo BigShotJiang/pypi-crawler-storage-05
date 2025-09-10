@@ -1,11 +1,11 @@
 {
   "name": "aiko-monitor",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiko_monitor-0.0.5.tar.gz",
-  "download_time": "2025-09-10T07:28:13.567123",
+  "download_filename": "aiko_monitor-0.0.7.tar.gz",
+  "download_time": "2025-09-10T07:37:11.591972",
   "package_url": "https://pypi.org/project/aiko-monitor/"
 }
