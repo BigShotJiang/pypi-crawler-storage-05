@@ -1,11 +1,11 @@
 {
   "name": "embed-rerank",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "Single Model Embedding & Reranker API with Apple Silicon acceleration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "embed_rerank-1.2.1.tar.gz",
-  "download_time": "2025-09-10T03:37:49.908501",
+  "download_filename": "embed_rerank-1.2.2.tar.gz",
+  "download_time": "2025-09-10T05:40:34.351908",
   "package_url": "https://pypi.org/project/embed-rerank/"
 }

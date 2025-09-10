@@ -1,11 +1,11 @@
 {
   "name": "code-quality-intelligence",
-  "version": "1.0.1",
+  "version": "1.5.0",
   "summary": "AI-powered code quality analysis tool with GitHub integration and interactive chatbot",
   "author": "Suvraadeep Das",
   "license": "MIT",
   "home_page": "https://github.com/suvraadeep/Code-Quality-Intelligence-Agent",
-  "download_filename": "code-quality-intelligence-1.0.1.tar.gz",
-  "download_time": "2025-09-10T04:48:16.817413",
+  "download_filename": "code_quality_intelligence-1.5.0.tar.gz",
+  "download_time": "2025-09-10T05:40:38.180957",
   "package_url": "https://pypi.org/project/code-quality-intelligence/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "almapiwrapper",
+  "version": "1.2.5",
+  "summary": "This python module is a tool to use Alma APIs. it manages the logs and the backup of the records.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "almapiwrapper-1.2.5.tar.gz",
+  "download_time": "2025-09-10T05:40:46.737977",
+  "package_url": "https://pypi.org/project/almapiwrapper/"
+}

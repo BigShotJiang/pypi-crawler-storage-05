@@ -1,11 +1,11 @@
 {
   "name": "storage-layout-extractor",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "summary": "Python bindings for storage-layout-extractor - EVM bytecode storage layout analysis",
   "author": null,
   "license": null,
   "home_page": "https://github.com/smlxlio/storage-layout-extractor",
-  "download_filename": "storage_layout_extractor-0.6.2.tar.gz",
-  "download_time": "2025-09-10T04:13:03.797658",
+  "download_filename": "storage_layout_extractor-0.6.3.tar.gz",
+  "download_time": "2025-09-10T05:40:38.724448",
   "package_url": "https://pypi.org/project/storage-layout-extractor/"
 }
