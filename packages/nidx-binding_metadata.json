@@ -1,0 +1,11 @@
+{
+  "name": "nidx-binding",
+  "version": "6.7.2.post501",
+  "summary": "Bindings for nidx (part of nucliadb)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nidx_binding-6.7.2.post501.tar.gz",
+  "download_time": "2025-09-10T10:33:26.352582",
+  "package_url": "https://pypi.org/project/nidx-binding/"
+}
