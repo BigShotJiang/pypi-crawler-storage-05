@@ -1,0 +1,11 @@
+{
+  "name": "pyavc",
+  "version": "1.0.21",
+  "summary": "A command line utility and library for converting DOCX and TXT files to Avid Script Files (.avc)",
+  "author": "Lawson Tanner",
+  "license": null,
+  "home_page": "https://github.com/lawson-tanner/pyavc",
+  "download_filename": "pyavc-1.0.21.tar.gz",
+  "download_time": "2025-09-10T06:55:01.419686",
+  "package_url": "https://pypi.org/project/pyavc/"
+}

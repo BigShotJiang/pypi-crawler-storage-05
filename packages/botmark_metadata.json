@@ -1,11 +1,11 @@
 {
   "name": "botmark",
-  "version": "1.1.15",
+  "version": "1.1.16",
   "summary": "BotMark – Define, run, and document LLM chatbots in plain Markdown. Framework for executable, portable, and LLM-agnostic chatbot workflows.",
   "author": "Frank Rettig",
   "license": "MIT",
   "home_page": "https://www.radiox-innovation.de/",
-  "download_filename": "botmark-1.1.15.tar.gz",
-  "download_time": "2025-09-10T05:31:03.375415",
+  "download_filename": "botmark-1.1.16.tar.gz",
+  "download_time": "2025-09-10T06:55:04.002894",
   "package_url": "https://pypi.org/project/botmark/"
 }

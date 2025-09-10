@@ -1,11 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-10T06:44:22.647580
-- **Total Packages**: 84
-- **Total Size**: 52.74 MB
+- **Download Time**: 2025-09-10T06:55:42.419794
+- **Total Packages**: 83
+- **Total Size**: 27.06 MB
 
 ## Packages List
+- ahqstore-cli
+- orq-ai-sdk
+- ParticleAnalyzer
+- cloudpss
+- e2enetworks
+- zai-sdk
+- BoschRpaMagicBox
+- yapfm
+- mineru
+- thoraxe
+- co-datascientist
+- ebs-initializer-mcp
+- minecraft-datapack-language
+- pyavc
+- intake-esm-access
+- streamingcommunity-unofficialapi
+- music-drummer
+- botmark
+- dph-services
+- simsi-transfer
+- glm-py
+- authentik-client
+- educhain
+- jacksung
+- qtit
+- athena-intelligence
 - faster-app
 - pysoltcp
 - gaff
@@ -20,9 +46,7 @@
 - beets-multivalue
 - akari-client
 - ssb-sgis
-- music-drummer
 - genesis4
-- jacksung
 - unitlab
 - deliciousbytes
 - ggsci
@@ -34,15 +58,12 @@
 - ai-ebash
 - chanjo2
 - rxn-reaction-preprocessing
-- ebs-initializer-mcp
 - easy-cherry
 - qubership-pipelines-common-library
-- authentik-client
 - logmcp
 - cmbot
 - bc-ecap-sdk
 - lite-slrum
-- ahqstore-cli
 - stkweight
 - pysolhttpclient
 - graphai-lib
@@ -54,7 +75,6 @@
 - nonebot-plugin-htmlrender
 - finmlkit
 - mcpcap
-- minecraft-datapack-language
 - zenith-trade-client
 - pyimg2ascii
 - solana-agent
@@ -69,24 +89,3 @@
 - chain_harvester
 - subtr-actor-py
 - AntiCAP
-- cdk8s-awscdk-resolver
-- datasure
-- hyimage
-- pytheia
-- pysolcache
-- safer-yaml
-- pozalabs-compose
-- JPTTypeE
-- fastofreader
-- colorstreak
-- tetrascience-streamlit-ui
-- image-gen-mcp
-- zeit.deploynotify
-- persidict
-- pyg-nightly
-- arize-phoenix-otel
-- xbuild
-- pysolmeters
-- KihonAi
-- bear-utils
-- Appium-Python-Client

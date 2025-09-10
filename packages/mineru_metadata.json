@@ -1,11 +1,11 @@
 {
   "name": "mineru",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "summary": "A practical tool for converting PDF to Markdown",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "mineru-2.2.1-py3-none-any.whl",
-  "download_time": "2025-09-08T03:26:21.691785",
+  "download_filename": "mineru-2.2.2-py3-none-any.whl",
+  "download_time": "2025-09-10T06:54:57.266053",
   "package_url": "https://pypi.org/project/mineru/"
 }

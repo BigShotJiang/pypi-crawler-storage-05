@@ -1,0 +1,11 @@
+{
+  "name": "ParticleAnalyzer",
+  "version": "1.2.1",
+  "summary": "SEM Image Analysis Tool",
+  "author": "Kirill Rybakov",
+  "license": null,
+  "home_page": "https://github.com/rybakov-ks/ParticleAnalyzer",
+  "download_filename": "particleanalyzer-1.2.1.tar.gz",
+  "download_time": "2025-09-10T06:54:52.862634",
+  "package_url": "https://pypi.org/project/ParticleAnalyzer/"
+}

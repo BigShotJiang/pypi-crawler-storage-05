@@ -1,0 +1,11 @@
+{
+  "name": "thoraxe",
+  "version": "0.8.2",
+  "summary": "Disentangle homology relationships between exons.",
+  "author": "Diego Javier Zea, Hugues Richard & Elodie Laine",
+  "license": "MIT license",
+  "home_page": "https://github.com/PhyloSofS-Team/thoraxe",
+  "download_filename": "thoraxe-0.8.2.tar.gz",
+  "download_time": "2025-09-10T06:54:57.906191",
+  "package_url": "https://pypi.org/project/thoraxe/"
+}

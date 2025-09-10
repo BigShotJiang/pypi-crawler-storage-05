@@ -1,0 +1,11 @@
+{
+  "name": "simsi-transfer",
+  "version": "0.8.0",
+  "summary": "Software-assisted reduction of missing values in phosphoproteomics and proteomics isobaric labeling data using MS2 spectrum clustering",
+  "author": "Firas Hamood",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/kusterlab/SIMSI-Transfer",
+  "download_filename": "simsi_transfer-0.8.0.tar.gz",
+  "download_time": "2025-09-10T06:55:05.852660",
+  "package_url": "https://pypi.org/project/simsi-transfer/"
+}
