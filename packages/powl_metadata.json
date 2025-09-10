@@ -1,0 +1,11 @@
+{
+  "name": "powl",
+  "version": "2.0.5",
+  "summary": "POWL Miner: Process Mining with the Partially Ordered Workflow Language",
+  "author": "Humam Kourani",
+  "license": "AGPL-3.0 license",
+  "home_page": "https://github.com/humam-kourani/powl",
+  "download_filename": "powl-2.0.5.tar.gz",
+  "download_time": "2025-09-10T11:53:31.894190",
+  "package_url": "https://pypi.org/project/powl/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "figma-mcp-tools",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "summary": "A Model Context Protocol (MCP) server for Figma integration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "figma_mcp_tools-1.0.12.tar.gz",
-  "download_time": "2025-09-10T11:33:51.677296",
+  "download_filename": "figma_mcp_tools-1.0.13.tar.gz",
+  "download_time": "2025-09-10T11:53:39.386298",
   "package_url": "https://pypi.org/project/figma-mcp-tools/"
 }

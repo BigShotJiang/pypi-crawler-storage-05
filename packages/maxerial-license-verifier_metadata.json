@@ -1,0 +1,11 @@
+{
+  "name": "maxerial-license-verifier",
+  "version": "0.2.0",
+  "summary": "Client library to verify maXerial licenses via a local activation server and check licensed features.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "maxerial_license_verifier-0.2.0.tar.gz",
+  "download_time": "2025-09-10T11:53:35.164070",
+  "package_url": "https://pypi.org/project/maxerial-license-verifier/"
+}

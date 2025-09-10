@@ -1,11 +1,11 @@
 {
   "name": "ebs-initializer-mcp",
-  "version": "0.7.9",
+  "version": "0.7.10",
   "summary": "MCP server for AWS EBS volume initialization",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ebs_initializer_mcp-0.7.9.tar.gz",
-  "download_time": "2025-09-10T08:14:34.443932",
+  "download_filename": "ebs_initializer_mcp-0.7.10.tar.gz",
+  "download_time": "2025-09-10T11:53:20.643755",
   "package_url": "https://pypi.org/project/ebs-initializer-mcp/"
 }

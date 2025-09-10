@@ -1,0 +1,11 @@
+{
+  "name": "pypeeringmanager",
+  "version": "1.1.2",
+  "summary": "Peering-Manager API client library",
+  "author": "vista",
+  "license": "Apache2",
+  "home_page": "https://github.com/vista-/pypeeringmanager",
+  "download_filename": "pypeeringmanager-1.1.2.tar.gz",
+  "download_time": "2025-09-10T11:53:41.433499",
+  "package_url": "https://pypi.org/project/pypeeringmanager/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "c2puml",
+  "version": "2025.9.9",
+  "summary": "Convert C/C++ code to PlantUML diagrams with advanced filtering and transformation capabilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "c2puml-2025.9.9.tar.gz",
+  "download_time": "2025-09-10T11:53:37.211772",
+  "package_url": "https://pypi.org/project/c2puml/"
+}
