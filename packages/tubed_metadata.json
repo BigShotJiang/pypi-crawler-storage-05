@@ -1,0 +1,11 @@
+{
+  "name": "tubed",
+  "version": "0.2.0",
+  "summary": "Youtube downloader",
+  "author": "Mousa Zeid Baker",
+  "license": "MIT",
+  "home_page": "https://github.com/MousaZeidBaker/tubed",
+  "download_filename": "tubed-0.2.0.tar.gz",
+  "download_time": "2025-09-10T21:26:39.467993",
+  "package_url": "https://pypi.org/project/tubed/"
+}

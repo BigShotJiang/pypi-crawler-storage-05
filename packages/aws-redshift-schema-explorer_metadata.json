@@ -1,0 +1,11 @@
+{
+  "name": "aws-redshift-schema-explorer",
+  "version": "0.1.1",
+  "summary": "A Python library for extracting AWS Redshift schema metadata as structured dataclasses, designed for AI text-to-SQL applications.",
+  "author": "Sanhe Hu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aws_redshift_schema_explorer-0.1.1.tar.gz",
+  "download_time": "2025-09-10T21:26:58.908048",
+  "package_url": "https://pypi.org/project/aws-redshift-schema-explorer/"
+}

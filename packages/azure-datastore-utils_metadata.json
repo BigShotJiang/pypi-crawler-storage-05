@@ -1,0 +1,11 @@
+{
+  "name": "azure-datastore-utils",
+  "version": "0.2.4",
+  "summary": "A collection of helper/wrapper utilities to interact with certain Azure data stores",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azure_datastore_utils-0.2.4.tar.gz",
+  "download_time": "2025-09-10T21:26:44.477297",
+  "package_url": "https://pypi.org/project/azure-datastore-utils/"
+}
