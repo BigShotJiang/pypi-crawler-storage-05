@@ -1,0 +1,11 @@
+{
+  "name": "mcp-registry-cli",
+  "version": "0.2.3",
+  "summary": "CLI tool to navigate and manage MCP registry servers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_registry_cli-0.2.3.tar.gz",
+  "download_time": "2025-09-10T14:32:10.023046",
+  "package_url": "https://pypi.org/project/mcp-registry-cli/"
+}

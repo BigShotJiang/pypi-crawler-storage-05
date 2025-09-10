@@ -1,0 +1,11 @@
+{
+  "name": "kx-publish-pypi",
+  "version": "1.0.0",
+  "summary": "A friendly CLI tool to check and publish Python packages to TestPyPI/PyPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kx_publish_pypi-1.0.0.tar.gz",
+  "download_time": "2025-09-10T14:32:04.361980",
+  "package_url": "https://pypi.org/project/kx-publish-pypi/"
+}

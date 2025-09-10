@@ -1,0 +1,11 @@
+{
+  "name": "swARM-at",
+  "version": "0.0.4",
+  "summary": "Une bibliothèque pour la communication avec des modules LoRa via des commandes AT.",
+  "author": "Joffrey Herard",
+  "license": null,
+  "home_page": "https://gitlab.com/Apocalypzer/swarm_at",
+  "download_filename": "swarm_at-0.0.4.tar.gz",
+  "download_time": "2025-09-10T14:32:11.057228",
+  "package_url": "https://pypi.org/project/swARM-at/"
+}

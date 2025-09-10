@@ -1,11 +1,11 @@
 {
   "name": "django-autogfk",
-  "version": "0.3.1",
+  "version": "0.4.1",
   "summary": "AutoGenericForeignKey: Admin-friendly GenericForeignKey with Select2 autocomplete for Django.",
   "author": "Sandro Salles",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_autogfk-0.3.1.tar.gz",
-  "download_time": "2025-09-09T21:34:04.058907",
+  "download_filename": "django_autogfk-0.4.1.tar.gz",
+  "download_time": "2025-09-10T14:31:36.504086",
   "package_url": "https://pypi.org/project/django-autogfk/"
 }

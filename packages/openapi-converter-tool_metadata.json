@@ -1,11 +1,11 @@
 {
   "name": "openapi-converter-tool",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "独立的 OpenAPI 3.0.1 到项目 API 格式转换工具",
   "author": "OpenAPI Converter Team",
   "license": null,
   "home_page": "https://github.com/openapi-converter/openapi-converter",
-  "download_filename": "openapi_converter_tool-0.1.0.tar.gz",
-  "download_time": "2025-09-10T13:02:25.364275",
+  "download_filename": "openapi_converter_tool-0.1.2.tar.gz",
+  "download_time": "2025-09-10T14:32:07.434346",
   "package_url": "https://pypi.org/project/openapi-converter-tool/"
 }
