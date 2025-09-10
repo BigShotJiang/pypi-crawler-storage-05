@@ -1,0 +1,11 @@
+{
+  "name": "helix-py",
+  "version": "0.2.29",
+  "summary": "HelixDB Python SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "helix_py-0.2.29.tar.gz",
+  "download_time": "2025-09-10T22:48:56.350450",
+  "package_url": "https://pypi.org/project/helix-py/"
+}
