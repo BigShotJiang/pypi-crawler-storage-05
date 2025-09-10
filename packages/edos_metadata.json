@@ -1,11 +1,11 @@
 {
   "name": "edos",
-  "version": "1.9.1",
+  "version": "1.10.0",
   "summary": "Internal tool for managing docker swarm cluster and DO services",
   "author": "Štěpán Binko",
   "license": null,
   "home_page": null,
-  "download_filename": "edos-1.9.1.tar.gz",
-  "download_time": "2025-09-10T12:20:09.113225",
+  "download_filename": "edos-1.10.0.tar.gz",
+  "download_time": "2025-09-10T13:29:03.053077",
   "package_url": "https://pypi.org/project/edos/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "inators",
+  "version": "2.1.1",
+  "summary": "inators: utilities for inators",
+  "author": "Renata Hodovan, Akos Kiss",
+  "license": null,
+  "home_page": "https://github.com/renatahodovan/inators",
+  "download_filename": "inators-2.1.1.tar.gz",
+  "download_time": "2025-09-10T13:29:19.928418",
+  "package_url": "https://pypi.org/project/inators/"
+}

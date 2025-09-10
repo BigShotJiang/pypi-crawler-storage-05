@@ -1,0 +1,11 @@
+{
+  "name": "seeq-spy",
+  "version": "197.15",
+  "summary": "Easy-to-use Python interface for Seeq",
+  "author": "Seeq Corporation",
+  "license": null,
+  "home_page": "https://www.seeq.com",
+  "download_filename": "seeq_spy-197.15.tar.gz",
+  "download_time": "2025-09-10T13:28:35.524853",
+  "package_url": "https://pypi.org/project/seeq-spy/"
+}

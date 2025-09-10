@@ -1,0 +1,11 @@
+{
+  "name": "ALT-event-system",
+  "version": "0.1.0",
+  "summary": "A lightweight publish-subscribe event system for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alt_event_system-0.1.0.tar.gz",
+  "download_time": "2025-09-10T13:28:33.598284",
+  "package_url": "https://pypi.org/project/ALT-event-system/"
+}

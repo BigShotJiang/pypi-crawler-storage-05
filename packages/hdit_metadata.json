@@ -1,0 +1,11 @@
+{
+  "name": "hdit",
+  "version": "0.0.1b6",
+  "summary": "The Hourglass Diffusion Transformer (HDiT) is an image generative model that exhibits linear scaling with pixel count, supporting training at high-resolution directly in pixel-space.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hdit-0.0.1b6.tar.gz",
+  "download_time": "2025-09-10T13:28:30.128498",
+  "package_url": "https://pypi.org/project/hdit/"
+}

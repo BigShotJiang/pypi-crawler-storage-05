@@ -1,11 +1,11 @@
 {
   "name": "Updatepythonaistv",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Library auto update & upload Python packages on Termux",
   "author": "Trọng Phúc",
   "license": null,
   "home_page": "https://github.com/phuctrong1tuv/Updatepythonaistv",
-  "download_filename": "updatepythonaistv-1.0.2.tar.gz",
-  "download_time": "2025-09-09T14:50:37.925776",
+  "download_filename": "updatepythonaistv-1.0.3.tar.gz",
+  "download_time": "2025-09-10T13:28:32.444414",
   "package_url": "https://pypi.org/project/Updatepythonaistv/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "neptune-fetcher",
+  "version": "0.21.0",
+  "summary": "Neptune Fetcher (DEPRECATED - use neptune-query instead)",
+  "author": "neptune.ai",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "neptune_fetcher-0.21.0.tar.gz",
+  "download_time": "2025-09-10T13:28:36.669608",
+  "package_url": "https://pypi.org/project/neptune-fetcher/"
+}

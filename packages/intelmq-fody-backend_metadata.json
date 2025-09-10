@@ -1,0 +1,11 @@
+{
+  "name": "intelmq-fody-backend",
+  "version": "0.11.1",
+  "summary": "A backend to serve intelmq-cb-mailgen data for the webapp fody. ",
+  "author": "Intevation GmbH",
+  "license": "AGPLv3",
+  "home_page": "https://github.com/Intevation/intelmq-fody-backend",
+  "download_filename": "intelmq_fody_backend-0.11.1.tar.gz",
+  "download_time": "2025-09-10T13:28:49.330512",
+  "package_url": "https://pypi.org/project/intelmq-fody-backend/"
+}
