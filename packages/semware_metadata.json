@@ -1,0 +1,11 @@
+{
+  "name": "semware",
+  "version": "0.1.0",
+  "summary": "Semantic search API server using vector databases and ML embeddings",
+  "author": "SemWare Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "semware-0.1.0.tar.gz",
+  "download_time": "2025-09-10T03:38:21.107427",
+  "package_url": "https://pypi.org/project/semware/"
+}

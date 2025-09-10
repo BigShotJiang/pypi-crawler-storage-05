@@ -1,0 +1,11 @@
+{
+  "name": "starrocks",
+  "version": "1.2.3",
+  "summary": "Python SQLAlchemy Dialect for StarRocks",
+  "author": "StarRocks Team",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/StarRocks/starrocks",
+  "download_filename": "starrocks-1.2.3.tar.gz",
+  "download_time": "2025-09-10T03:38:15.404802",
+  "package_url": "https://pypi.org/project/starrocks/"
+}

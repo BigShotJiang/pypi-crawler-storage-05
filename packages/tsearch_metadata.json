@@ -1,0 +1,11 @@
+{
+  "name": "tsearch",
+  "version": "1.0.14",
+  "summary": "Package for uploads folder",
+  "author": "xakuyaya",
+  "license": null,
+  "home_page": "https://github.com/yourusername/uploads-parent",
+  "download_filename": "tsearch-1.0.14.tar.gz",
+  "download_time": "2025-09-10T03:38:14.550309",
+  "package_url": "https://pypi.org/project/tsearch/"
+}
