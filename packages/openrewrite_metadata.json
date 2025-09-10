@@ -1,0 +1,11 @@
+{
+  "name": "openrewrite",
+  "version": "1.42.0",
+  "summary": "OpenRewrite is a mass automated refactoring engine.",
+  "author": null,
+  "license": "Moderne, Inc. Commercial License",
+  "home_page": null,
+  "download_filename": "openrewrite-1.42.0.tar.gz",
+  "download_time": "2025-09-10T10:48:11.615864",
+  "package_url": "https://pypi.org/project/openrewrite/"
+}
