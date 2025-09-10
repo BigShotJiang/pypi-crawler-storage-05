@@ -1,0 +1,11 @@
+{
+  "name": "orthanc-api-client",
+  "version": "0.19.0",
+  "summary": "Python Orthanc REST API client",
+  "author": "Orthanc Team",
+  "license": null,
+  "home_page": "https://github.com/orthanc-team/python-orthanc-api-client",
+  "download_filename": "orthanc_api_client-0.19.0.tar.gz",
+  "download_time": "2025-09-10T09:47:54.686039",
+  "package_url": "https://pypi.org/project/orthanc-api-client/"
+}

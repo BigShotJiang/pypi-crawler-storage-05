@@ -1,11 +1,11 @@
 {
   "name": "casbin-async-django-orm-adapter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Async Django ORM adapter for PyCasbin",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "casbin_async_django_orm_adapter-1.0.0.tar.gz",
-  "download_time": "2025-09-09T15:12:46.969440",
+  "download_filename": "casbin_async_django_orm_adapter-1.1.0.tar.gz",
+  "download_time": "2025-09-10T09:47:35.803057",
   "package_url": "https://pypi.org/project/casbin-async-django-orm-adapter/"
 }

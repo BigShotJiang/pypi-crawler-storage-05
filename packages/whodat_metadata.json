@@ -1,11 +1,11 @@
 {
   "name": "whodat",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Whodat",
   "author": "Team Statistikktjenester",
   "license": null,
   "home_page": null,
-  "download_filename": "whodat-0.0.5.tar.gz",
-  "download_time": "2025-09-10T09:30:30.700140",
+  "download_filename": "whodat-0.0.6.tar.gz",
+  "download_time": "2025-09-10T09:47:51.045810",
   "package_url": "https://pypi.org/project/whodat/"
 }
