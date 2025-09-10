@@ -1,0 +1,11 @@
+{
+  "name": "cppref",
+  "version": "0.1.0",
+  "summary": "Refer to the cppreference with this cli!",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cppref-0.1.0.tar.gz",
+  "download_time": "2025-09-10T13:42:52.367943",
+  "package_url": "https://pypi.org/project/cppref/"
+}

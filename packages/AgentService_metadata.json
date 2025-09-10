@@ -1,11 +1,11 @@
 {
   "name": "AgentService",
-  "version": "0.0.55",
+  "version": "0.0.57",
   "summary": "AgentService",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentservice-0.0.55.tar.gz",
-  "download_time": "2025-09-10T11:53:16.927633",
+  "download_filename": "agentservice-0.0.57.tar.gz",
+  "download_time": "2025-09-10T13:42:41.437699",
   "package_url": "https://pypi.org/project/AgentService/"
 }

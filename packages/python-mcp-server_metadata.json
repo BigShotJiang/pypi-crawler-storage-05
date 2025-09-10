@@ -1,11 +1,11 @@
 {
   "name": "python-mcp-server",
-  "version": "0.6.2",
+  "version": "1.0.1",
   "summary": "A world-class Python interpreter MCP server with session management, health monitoring, and FastMCP middleware",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "python_mcp_server-0.6.2.tar.gz",
-  "download_time": "2025-09-09T06:48:29.151300",
+  "download_filename": "python_mcp_server-1.0.1.tar.gz",
+  "download_time": "2025-09-10T13:42:45.062857",
   "package_url": "https://pypi.org/project/python-mcp-server/"
 }

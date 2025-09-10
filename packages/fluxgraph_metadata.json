@@ -1,11 +1,11 @@
 {
   "name": "fluxgraph",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A lightweight Python framework for building, orchestrating, and deploying Agentic AI systems (MVP).",
   "author": "ihtesham-jahangir",
   "license": null,
   "home_page": "https://github.com/ihtesham-jahangir/fluxgraph",
-  "download_filename": "fluxgraph-0.0.1.tar.gz",
-  "download_time": "2025-09-08T06:16:15.094883",
+  "download_filename": "fluxgraph-0.0.2.tar.gz",
+  "download_time": "2025-09-10T13:42:58.069691",
   "package_url": "https://pypi.org/project/fluxgraph/"
 }
