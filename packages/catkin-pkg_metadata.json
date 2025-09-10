@@ -1,0 +1,11 @@
+{
+  "name": "catkin-pkg",
+  "version": "1.1.0",
+  "summary": "catkin package library",
+  "author": "Dirk Thomas",
+  "license": "BSD",
+  "home_page": "http://wiki.ros.org/catkin_pkg",
+  "download_filename": "catkin_pkg-1.1.0.tar.gz",
+  "download_time": "2025-09-10T17:37:41.958896",
+  "package_url": "https://pypi.org/project/catkin-pkg/"
+}

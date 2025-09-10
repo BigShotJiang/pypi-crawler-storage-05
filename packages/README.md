@@ -1,19 +1,41 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-10T17:28:32.138602
-- **Total Packages**: 86
-- **Total Size**: 30.48 MB
+- **Download Time**: 2025-09-10T17:38:25.715888
+- **Total Packages**: 85
+- **Total Size**: 5.21 MB
 
 ## Packages List
+- authentik-client
+- futurehouse-client
+- codex-python
+- catkin-pkg
+- zt-features-lib
+- GNServer
+- socs
+- lite-slurm
+- baleapi
+- ddex-builder
+- spellbot
+- ddex-parser
+- odoo-addon-l10n-es-aeat-mod349
+- revng
+- fluxgraph
+- datasure
+- nrcan-etl-toolbox
+- sage-agent
+- enpt
+- dkinst
+- gable
+- huff
+- coredis
+- BETTER-NMA
 - t-office-365
 - imap-processing
 - hrap
 - aloha
-- agentrl-worker
 - stytch
 - put-back-iterator
-- authentik-client
 - primitives
 - git-lfs-advisor-cli
 - pyDAmonitor
@@ -69,26 +91,3 @@
 - ewha-parking
 - pyosmeta
 - gradio-client
-- foreva-ai
-- acryl-datahub
-- opendapi
-- django-autogfk
-- acryl-datahub-actions
-- acryl-datahub-dagster-plugin
-- nbtest-lab-extension
-- deseasion-backend
-- acryl-datahub-gx-plugin
-- prefect-datahub
-- cave-infra
-- acryl-datahub-airflow-plugin
-- sil-machine
-- tavily-python
-- starhtml
-- github-contrib-view
-- pyntagma
-- markpub-themes
-- osbad
-- singbox2proxy
-- fluidattacks-tracks
-- idapro
-- sqlmesh

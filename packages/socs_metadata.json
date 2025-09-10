@@ -1,0 +1,11 @@
+{
+  "name": "socs",
+  "version": "0.5.6",
+  "summary": "Simons Observatory Control System",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "socs-0.5.6.tar.gz",
+  "download_time": "2025-09-10T17:37:43.577136",
+  "package_url": "https://pypi.org/project/socs/"
+}

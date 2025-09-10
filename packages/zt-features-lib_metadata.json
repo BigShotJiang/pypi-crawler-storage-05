@@ -1,0 +1,11 @@
+{
+  "name": "zt-features-lib",
+  "version": "0.1.4",
+  "summary": "A Python library with FastAPI endpoints, ready for PyPI.",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zt_features_lib-0.1.4.tar.gz",
+  "download_time": "2025-09-10T17:37:42.471709",
+  "package_url": "https://pypi.org/project/zt-features-lib/"
+}
