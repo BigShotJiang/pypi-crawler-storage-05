@@ -1,0 +1,11 @@
+{
+  "name": "tollingvision-scsinfo",
+  "version": "2.6.2",
+  "summary": "Python client for Tolling Vision",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tollingvision_scsinfo-2.6.2.tar.gz",
+  "download_time": "2025-09-10T10:11:44.213181",
+  "package_url": "https://pypi.org/project/tollingvision-scsinfo/"
+}

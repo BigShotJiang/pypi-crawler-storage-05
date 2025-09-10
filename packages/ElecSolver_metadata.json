@@ -1,11 +1,11 @@
 {
   "name": "ElecSolver",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "summary": "Formalizes electric systems as linear problems for temporal and frequency-domain studies.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "elecsolver-1.0.1-py3-none-any.whl",
-  "download_time": "2025-09-09T14:31:56.183284",
+  "download_filename": "elecsolver-1.0.4-py3-none-any.whl",
+  "download_time": "2025-09-10T10:11:50.793914",
   "package_url": "https://pypi.org/project/ElecSolver/"
 }

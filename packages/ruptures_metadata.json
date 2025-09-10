@@ -5,7 +5,7 @@
   "author": "Charles Truong, Laurent Oudre, Nicolas Vayatis",
   "license": "BSD-2-Clause",
   "home_page": "https://github.com/deepcharles/ruptures/",
-  "download_filename": "ruptures-1.1.10-cp310-cp310-macosx_10_9_x86_64.whl",
-  "download_time": "2025-09-10T09:47:34.719558",
+  "download_filename": "ruptures-1.1.10.tar.gz",
+  "download_time": "2025-09-10T10:12:04.523845",
   "package_url": "https://pypi.org/project/ruptures/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "openstef",
-  "version": "3.4.80",
+  "version": "3.4.83",
   "summary": "Open short term energy forecaster",
   "author": "Alliander N.V",
   "license": "MPL-2.0",
   "home_page": "https://github.com/OpenSTEF/openstef",
-  "download_filename": "openstef-3.4.80.tar.gz",
-  "download_time": "2025-09-10T09:41:18.023776",
+  "download_filename": "openstef-3.4.83.tar.gz",
+  "download_time": "2025-09-10T10:11:51.376544",
   "package_url": "https://pypi.org/project/openstef/"
 }

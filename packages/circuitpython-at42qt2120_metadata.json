@@ -1,0 +1,11 @@
+{
+  "name": "circuitpython-at42qt2120",
+  "version": "1.1.0",
+  "summary": "A CircuitPython module for the AT42QT2120 capacitive touch sensor IC, (mostly) compatible with Adafruit's MPR121 library.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "circuitpython_at42qt2120-1.1.0.tar.gz",
+  "download_time": "2025-09-10T10:11:28.875409",
+  "package_url": "https://pypi.org/project/circuitpython-at42qt2120/"
+}

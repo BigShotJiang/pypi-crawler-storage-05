@@ -1,0 +1,11 @@
+{
+  "name": "mongoz",
+  "version": "0.12.0",
+  "summary": "ODM with pydantic made it simple",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mongoz-0.12.0.tar.gz",
+  "download_time": "2025-09-10T10:11:49.639896",
+  "package_url": "https://pypi.org/project/mongoz/"
+}
