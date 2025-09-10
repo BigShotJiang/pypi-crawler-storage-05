@@ -1,11 +1,11 @@
 {
   "name": "janito",
-  "version": "3.12.0",
+  "version": "3.12.1",
   "summary": "A new Python package called janito.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "janito-3.12.0.tar.gz",
-  "download_time": "2025-09-10T15:30:49.599382",
+  "download_filename": "janito-3.12.1.tar.gz",
+  "download_time": "2025-09-10T15:41:33.287225",
   "package_url": "https://pypi.org/project/janito/"
 }

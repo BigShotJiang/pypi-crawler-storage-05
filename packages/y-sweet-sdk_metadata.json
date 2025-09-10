@@ -1,0 +1,11 @@
+{
+  "name": "y-sweet-sdk",
+  "version": "0.9.0",
+  "summary": "Python bindings for the Y-Sweet server",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "y_sweet_sdk-0.9.0.tar.gz",
+  "download_time": "2025-09-10T15:41:24.839438",
+  "package_url": "https://pypi.org/project/y-sweet-sdk/"
+}

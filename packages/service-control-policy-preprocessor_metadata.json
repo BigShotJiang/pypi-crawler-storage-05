@@ -1,0 +1,11 @@
+{
+  "name": "service-control-policy-preprocessor",
+  "version": "0.0.2",
+  "summary": "Preprocesses SCPs.",
+  "author": "matluttr",
+  "license": "MIT-0",
+  "home_page": "https://github.com/aws-samples/service-control-policy-preprocessor",
+  "download_filename": "service_control_policy_preprocessor-0.0.2.tar.gz",
+  "download_time": "2025-09-10T15:41:26.573111",
+  "package_url": "https://pypi.org/project/service-control-policy-preprocessor/"
+}

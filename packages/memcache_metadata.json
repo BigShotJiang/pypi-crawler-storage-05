@@ -1,0 +1,11 @@
+{
+  "name": "memcache",
+  "version": "0.14.0",
+  "summary": "Memcached client for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "memcache-0.14.0.tar.gz",
+  "download_time": "2025-09-10T15:41:17.840570",
+  "package_url": "https://pypi.org/project/memcache/"
+}

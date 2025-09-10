@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-snl",
+  "version": "0.1.2",
+  "summary": "tree-sitter grammar for the EPICS Sequencer's SNL files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tree_sitter_snl-0.1.2.tar.gz",
+  "download_time": "2025-09-10T15:41:30.341548",
+  "package_url": "https://pypi.org/project/tree-sitter-snl/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "claimed",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "The CLAIMED framework includes a library of reusable operators, a CLI and the CLAIMED Component Compiler (C3).",
   "author": "The CLAIMED authors",
   "license": null,
   "home_page": "https://github.com/claimed-framework/component-library",
-  "download_filename": "claimed-0.2.0.tar.gz",
-  "download_time": "2025-09-10T15:30:53.939583",
+  "download_filename": "claimed-0.2.1.tar.gz",
+  "download_time": "2025-09-10T15:41:27.731840",
   "package_url": "https://pypi.org/project/claimed/"
 }
