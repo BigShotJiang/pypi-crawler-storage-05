@@ -1,11 +1,11 @@
 {
   "name": "nexaai",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "Python bindings for NexaSDK C-lib backend",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nexaai-1.0.8-cp310-cp310-macosx_13_0_x86_64.whl",
-  "download_time": "2025-09-10T03:38:18.706518",
+  "download_filename": "nexaai-1.0.9-cp310-cp310-macosx_13_0_x86_64.whl",
+  "download_time": "2025-09-10T04:48:10.562845",
   "package_url": "https://pypi.org/project/nexaai/"
 }
