@@ -1,11 +1,11 @@
 {
   "name": "pysolmeters",
-  "version": "3.13.2",
+  "version": "3.13.3",
   "summary": "pysolmeters",
   "author": "Laurent Champagnac",
   "license": null,
   "home_page": "https://github.com/champax/pysolmeters",
-  "download_filename": "pysolmeters-3.13.2.tar.gz",
-  "download_time": "2025-09-10T09:30:26.549618",
+  "download_filename": "pysolmeters-3.13.3.tar.gz",
+  "download_time": "2025-09-10T09:41:14.740891",
   "package_url": "https://pypi.org/project/pysolmeters/"
 }

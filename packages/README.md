@@ -1,11 +1,32 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-10T09:30:56.752655
-- **Total Packages**: 88
-- **Total Size**: 37.09 MB
+- **Download Time**: 2025-09-10T09:41:57.061411
+- **Total Packages**: 79
+- **Total Size**: 2.45 MB
 
 ## Packages List
+- pysolmysql
+- pysolhttpclient
+- pysoldaemon
+- pysolcache
+- pysolmeters
+- pysolbase
+- amsterdam-schema-tools
+- crawler-user-agents
+- jaxmod
+- finder-enrichment-db-client
+- openstef
+- finder-enrichment-db-contracts
+- acex
+- word-document-comment-extractor-mcp
+- REMIND-PyPSA-coupling
+- gj-unitrad
+- leap-model-parser
+- codemie-mcp-datasources
+- codemie-mcp-assistants
+- coralsnake
+- criteria-pattern
 - policyengine-uk
 - ai-ebash
 - unipka
@@ -22,7 +43,6 @@
 - authentik-client
 - mcp-server-coding
 - blend2d-py
-- acex
 - neurograd
 - maleo-google
 - io4it
@@ -31,15 +51,7 @@
 - bn-byneuron
 - nextere-oauth
 - pysoltcp
-- coralsnake
-- pysolmysql
-- pysolhttpclient
-- pysoldaemon
 - maleo-middlewares
-- pysolcache
-- pysolmeters
-- pysolbase
-- gemini-bridge
 - huez
 - ki.aws-bedrock-agentcore-deployment-mcp-server
 - maleo-database
@@ -73,24 +85,3 @@
 - maleo-schemas
 - kerex
 - h2ogpte
-- simtoolsz
-- atomict
-- manage-json
-- sports2d
-- smspdudecoder
-- zalando-kubectl
-- chromatic-python
-- vyomcloudbridge
-- wheel-getter
-- corbel
-- intentkit
-- bozupy
-- idfm-qualite-de-service-calculateur
-- poetrycurrenttime
-- zylib-test
-- djangocms-blog-agenda
-- smol-html
-- microsoft-agents-storage-cosmos
-- microsoft-agents-storage-blob
-- microsoft-agents-hosting-teams
-- microsoft-agents-hosting-core
