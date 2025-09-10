@@ -1,11 +1,11 @@
 {
   "name": "x-make-graphviz-x",
-  "version": "10.1.0",
+  "version": "11.0.0",
   "summary": "Graphviz diagram builder.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "x_make_graphviz_x-10.1.0.tar.gz",
-  "download_time": "2025-09-10T14:50:20.277571",
+  "download_filename": "x_make_graphviz_x-11.0.0.tar.gz",
+  "download_time": "2025-09-10T18:53:52.528398",
   "package_url": "https://pypi.org/project/x-make-graphviz-x/"
 }

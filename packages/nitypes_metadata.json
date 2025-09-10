@@ -1,0 +1,11 @@
+{
+  "name": "nitypes",
+  "version": "0.1.0.dev10",
+  "summary": "Data types for NI Python APIs",
+  "author": "NI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nitypes-0.1.0.dev10.tar.gz",
+  "download_time": "2025-09-10T18:53:36.189697",
+  "package_url": "https://pypi.org/project/nitypes/"
+}
