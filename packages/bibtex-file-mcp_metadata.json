@@ -1,0 +1,11 @@
+{
+  "name": "bibtex-file-mcp",
+  "version": "1.0.1",
+  "summary": "BibTeX MCP Server for manipulating BibTeX entries",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bibtex_file_mcp-1.0.1.tar.gz",
+  "download_time": "2025-09-10T07:28:26.767437",
+  "package_url": "https://pypi.org/project/bibtex-file-mcp/"
+}

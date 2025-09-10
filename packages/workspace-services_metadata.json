@@ -1,11 +1,11 @@
 {
   "name": "workspace-services",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "summary": "Workspace Services",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "workspace_services-0.0.10.tar.gz",
-  "download_time": "2025-09-08T07:28:16.302855",
+  "download_filename": "workspace_services-0.0.11.tar.gz",
+  "download_time": "2025-09-10T07:28:30.922641",
   "package_url": "https://pypi.org/project/workspace-services/"
 }

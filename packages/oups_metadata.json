@@ -1,0 +1,11 @@
+{
+  "name": "oups",
+  "version": "2025.9.5",
+  "summary": "Out-of-core pipelines over ordered data: StatefulLoop, stateful ops, and ordered Parquet Store.",
+  "author": "pierrot",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "oups-2025.9.5.tar.gz",
+  "download_time": "2025-09-10T07:28:06.202219",
+  "package_url": "https://pypi.org/project/oups/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "creopyson",
+  "version": "0.7.8",
+  "summary": "Python library for Creoson",
+  "author": "Benjamin C.",
+  "license": "MIT license",
+  "home_page": "https://github.com/Zepmanbc/creopyson",
+  "download_filename": "creopyson-0.7.8.tar.gz",
+  "download_time": "2025-09-10T07:28:38.779294",
+  "package_url": "https://pypi.org/project/creopyson/"
+}

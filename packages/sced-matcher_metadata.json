@@ -1,11 +1,11 @@
 {
   "name": "sced-matcher",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A tool for matching K-12 course names and descriptions to standardized NCES SCED codes",
   "author": "Leoson Hoay",
   "license": "MPL-2.0",
   "home_page": null,
-  "download_filename": "sced_matcher-0.1.1.tar.gz",
-  "download_time": "2025-09-09T10:12:33.732027",
+  "download_filename": "sced_matcher-0.1.2.tar.gz",
+  "download_time": "2025-09-10T07:28:16.797314",
   "package_url": "https://pypi.org/project/sced-matcher/"
 }

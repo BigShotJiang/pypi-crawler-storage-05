@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-energy-communities-mass-mailing",
+  "version": "16.0.0.1.4",
+  "summary": "Use mass_mailing on a energy communities setup",
+  "author": "Som Comunitats",
+  "license": "AGPL-3",
+  "home_page": "https://git.coopdevs.org/coopdevs/comunitats-energetiques/odoo-ce",
+  "download_filename": "odoo_addon_energy_communities_mass_mailing-16.0.0.1.4.tar.gz",
+  "download_time": "2025-09-10T07:28:23.604429",
+  "package_url": "https://pypi.org/project/odoo-addon-energy-communities-mass-mailing/"
+}
