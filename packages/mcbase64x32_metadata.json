@@ -1,0 +1,11 @@
+{
+  "name": "mcbase64x32",
+  "version": "1.0.0",
+  "summary": "A high-performance Base64x32 implementation specialized for maximizing data storage in Minecraft books using numpy vectorized operations.",
+  "author": "ThorTuwy, victordlp8",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcbase64x32-1.0.0.tar.gz",
+  "download_time": "2025-09-10T18:42:10.835670",
+  "package_url": "https://pypi.org/project/mcbase64x32/"
+}

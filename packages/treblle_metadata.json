@@ -1,0 +1,11 @@
+{
+  "name": "treblle",
+  "version": "2.0.6",
+  "summary": "Treblle SDK for Django - Production-ready API monitoring and intelligence platform",
+  "author": "Treblle",
+  "license": null,
+  "home_page": "https://github.com/Treblle/treblle-python",
+  "download_filename": "treblle-2.0.6.tar.gz",
+  "download_time": "2025-09-10T18:42:20.591397",
+  "package_url": "https://pypi.org/project/treblle/"
+}

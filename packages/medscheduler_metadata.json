@@ -1,11 +1,11 @@
 {
   "name": "medscheduler",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Synthetic outpatient scheduling dataset generator (slots, patients, appointments).",
   "author": "Carolina González Galtier",
   "license": null,
   "home_page": null,
-  "download_filename": "medscheduler-0.1.5.tar.gz",
-  "download_time": "2025-09-10T17:27:53.975059",
+  "download_filename": "medscheduler-0.1.6.tar.gz",
+  "download_time": "2025-09-10T18:42:32.419895",
   "package_url": "https://pypi.org/project/medscheduler/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "aind-qcportal-schema",
+  "version": "0.6.4",
+  "summary": "Generated from aind-library-template",
+  "author": "Allen Institute for Neural Dynamics",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aind_qcportal_schema-0.6.4.tar.gz",
+  "download_time": "2025-09-10T18:42:20.080154",
+  "package_url": "https://pypi.org/project/aind-qcportal-schema/"
+}
