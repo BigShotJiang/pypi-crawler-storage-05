@@ -1,0 +1,11 @@
+{
+  "name": "types-scrapy",
+  "version": "0.1.0",
+  "summary": "Typing stubs for Scrapy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_scrapy-0.1.0.tar.gz",
+  "download_time": "2025-09-10T19:25:33.132445",
+  "package_url": "https://pypi.org/project/types-scrapy/"
+}

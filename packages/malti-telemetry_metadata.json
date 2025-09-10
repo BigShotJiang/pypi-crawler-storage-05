@@ -1,0 +1,11 @@
+{
+  "name": "malti-telemetry",
+  "version": "1.0.0",
+  "summary": "A Python library for collecting and sending telemetry data to Malti server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "malti_telemetry-1.0.0.tar.gz",
+  "download_time": "2025-09-10T19:25:11.204687",
+  "package_url": "https://pypi.org/project/malti-telemetry/"
+}

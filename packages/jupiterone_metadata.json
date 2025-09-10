@@ -1,0 +1,11 @@
+{
+  "name": "jupiterone",
+  "version": "1.6.1",
+  "summary": "A Python client for the JupiterOne API",
+  "author": "JupiterOne",
+  "license": "MIT License",
+  "home_page": "https://github.com/JupiterOne/jupiterone-api-client-python",
+  "download_filename": "jupiterone-1.6.1.tar.gz",
+  "download_time": "2025-09-10T19:25:30.295508",
+  "package_url": "https://pypi.org/project/jupiterone/"
+}

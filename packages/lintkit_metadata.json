@@ -1,11 +1,11 @@
 {
   "name": "lintkit",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Build your own linter in minutes - from Python code to config files (YAML, JSON, TOML)",
   "author": "open-nudge",
   "license": null,
   "home_page": null,
-  "download_filename": "lintkit-0.2.0.tar.gz",
-  "download_time": "2025-09-10T19:09:47.775594",
+  "download_filename": "lintkit-0.2.1.tar.gz",
+  "download_time": "2025-09-10T19:25:36.539692",
   "package_url": "https://pypi.org/project/lintkit/"
 }

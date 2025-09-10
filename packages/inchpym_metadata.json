@@ -1,11 +1,11 @@
 {
   "name": "inchpym",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "summary": "Librería de Python para manejo de archivos y DataFrames de Daniel Ochoa",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "inchpym-0.1.18.tar.gz",
-  "download_time": "2025-09-09T21:47:45.856842",
+  "download_filename": "inchpym-0.1.19.tar.gz",
+  "download_time": "2025-09-10T19:25:15.294508",
   "package_url": "https://pypi.org/project/inchpym/"
 }

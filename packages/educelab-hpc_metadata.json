@@ -1,0 +1,11 @@
+{
+  "name": "educelab-hpc",
+  "version": "0.2.1",
+  "summary": "A Python module providing helper functions for working in HPC environments",
+  "author": "Seth Parker",
+  "license": null,
+  "home_page": "https://gitlab.com/educelab/educelab-hpc",
+  "download_filename": "educelab_hpc-0.2.1.tar.gz",
+  "download_time": "2025-09-10T19:25:37.108566",
+  "package_url": "https://pypi.org/project/educelab-hpc/"
+}

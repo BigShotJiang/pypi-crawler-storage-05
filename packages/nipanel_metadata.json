@@ -1,0 +1,11 @@
+{
+  "name": "nipanel",
+  "version": "0.1.0.dev1",
+  "summary": "NI Panel client for Python",
+  "author": "NI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nipanel-0.1.0.dev1.tar.gz",
+  "download_time": "2025-09-10T19:25:18.139538",
+  "package_url": "https://pypi.org/project/nipanel/"
+}
