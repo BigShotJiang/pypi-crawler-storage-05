@@ -1,0 +1,11 @@
+{
+  "name": "squyrrel",
+  "version": "0.4.8",
+  "summary": "Python library for scanning and lazy importing of classes, modules and packages. Including sql parser, builder and an Orm.",
+  "author": "Lothar Spiegel",
+  "license": null,
+  "home_page": "https://github.com/LotharSpiegel/squyrrel",
+  "download_filename": "squyrrel-0.4.8.tar.gz",
+  "download_time": "2025-09-10T21:56:10.704306",
+  "package_url": "https://pypi.org/project/squyrrel/"
+}

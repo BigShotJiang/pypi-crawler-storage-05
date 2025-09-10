@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-shopinvader-fastapi-auth-partner",
+  "version": "16.0.1.0.0.5",
+  "summary": "Provide Partner and Anonymous Partner authentication to FastAPI routes.",
+  "author": "Akretion",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/shopinvader/odoo-shopinvader",
+  "download_filename": "odoo_addon_shopinvader_fastapi_auth_partner-16.0.1.0.0.5-py3-none-any.whl",
+  "download_time": "2025-09-10T21:56:34.849556",
+  "package_url": "https://pypi.org/project/odoo-addon-shopinvader-fastapi-auth-partner/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "uv-build",
-  "version": "0.8.16",
+  "version": "0.8.17",
   "summary": "The uv build backend",
   "author": null,
   "license": null,
   "home_page": "https://pypi.org/project/uv/",
-  "download_filename": "uv_build-0.8.16.tar.gz",
-  "download_time": "2025-09-10T03:03:23.555036",
+  "download_filename": "uv_build-0.8.17.tar.gz",
+  "download_time": "2025-09-10T21:55:55.796651",
   "package_url": "https://pypi.org/project/uv-build/"
 }
