@@ -1,11 +1,11 @@
 {
   "name": "etraxx-playground",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Just a simple Playground File for playing around :-D",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "etraxx_playground-0.3.1.tar.gz",
-  "download_time": "2025-09-10T05:40:31.051414",
+  "download_filename": "etraxx_playground-0.3.2-py3-none-any.whl",
+  "download_time": "2025-09-10T05:48:00.969150",
   "package_url": "https://pypi.org/project/etraxx-playground/"
 }
