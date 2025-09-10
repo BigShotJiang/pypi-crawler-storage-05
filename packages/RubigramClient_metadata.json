@@ -1,0 +1,11 @@
+{
+  "name": "RubigramClient",
+  "version": "1.6.7",
+  "summary": "A simple and flexible Python library for building advanced Rubika bots with powerful message handling, inline buttons, and custom filters.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rubigramclient-1.6.7.tar.gz",
+  "download_time": "2025-09-10T20:48:30.476767",
+  "package_url": "https://pypi.org/project/RubigramClient/"
+}

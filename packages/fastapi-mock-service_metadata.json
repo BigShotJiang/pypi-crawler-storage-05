@@ -1,11 +1,11 @@
 {
   "name": "fastapi-mock-service",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Professional FastAPI mock service library with load testing infrastructure and Prometheus metrics",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastapi_mock_service-1.0.3.tar.gz",
-  "download_time": "2025-09-10T20:41:39.659607",
+  "download_filename": "fastapi_mock_service-1.0.4.tar.gz",
+  "download_time": "2025-09-10T20:48:26.126099",
   "package_url": "https://pypi.org/project/fastapi-mock-service/"
 }

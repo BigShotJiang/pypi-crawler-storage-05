@@ -1,0 +1,11 @@
+{
+  "name": "aws-solutions-constructs.aws-eventbridge-kinesis-firehose-s3",
+  "version": "2.92.2",
+  "summary": "CDK Constructs for Amazon CloudWatch Events Rule to Amazon Kinesis Firehose to Amazon S3 integration.",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/awslabs/aws-solutions-constructs.git",
+  "download_filename": "aws_solutions_constructs_aws_eventbridge_kinesis_firehose_s3-2.92.2-py3-none-any.whl",
+  "download_time": "2025-09-10T20:48:13.327611",
+  "package_url": "https://pypi.org/project/aws-solutions-constructs.aws-eventbridge-kinesis-firehose-s3/"
+}
