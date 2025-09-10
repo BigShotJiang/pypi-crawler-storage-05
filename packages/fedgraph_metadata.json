@@ -1,0 +1,11 @@
+{
+  "name": "fedgraph",
+  "version": "0.2.5",
+  "summary": "Federated Graph Learning",
+  "author": "Yuhang Yao",
+  "license": null,
+  "home_page": "https://github.com/FedGraph/fedgraph",
+  "download_filename": "fedgraph-0.2.5.tar.gz",
+  "download_time": "2025-09-10T23:10:47.017853",
+  "package_url": "https://pypi.org/project/fedgraph/"
+}

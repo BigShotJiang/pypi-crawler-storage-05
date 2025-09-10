@@ -1,11 +1,11 @@
 {
   "name": "batch-perceptron",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A batch perceptron implementation using numpy and scikit-learn",
   "author": "ABDULLAH AL MAMUN",
   "license": null,
   "home_page": null,
-  "download_filename": "batch_perceptron-0.1.2.tar.gz",
-  "download_time": "2025-09-10T22:48:58.601766",
+  "download_filename": "batch_perceptron-0.1.3.tar.gz",
+  "download_time": "2025-09-10T23:10:34.228099",
   "package_url": "https://pypi.org/project/batch-perceptron/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "trainingsample",
+  "version": "0.1.0",
+  "summary": "High-performance Rust reimplementation of GIL-blocking video/image operations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "trainingsample-0.1.0.tar.gz",
+  "download_time": "2025-09-10T23:10:48.077337",
+  "package_url": "https://pypi.org/project/trainingsample/"
+}

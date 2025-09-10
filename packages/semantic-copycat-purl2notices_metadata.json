@@ -1,11 +1,11 @@
 {
   "name": "semantic-copycat-purl2notices",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "summary": "Generate legal notices (attribution to authors and copyrights) for software packages",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "semantic_copycat_purl2notices-1.1.4.tar.gz",
-  "download_time": "2025-09-10T22:30:44.686184",
+  "download_filename": "semantic_copycat_purl2notices-1.1.5.tar.gz",
+  "download_time": "2025-09-10T23:10:39.048341",
   "package_url": "https://pypi.org/project/semantic-copycat-purl2notices/"
 }

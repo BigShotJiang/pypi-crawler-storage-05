@@ -1,0 +1,11 @@
+{
+  "name": "UltraDict-wheels",
+  "version": "0.0.6",
+  "summary": "Sychronized, streaming dictionary that uses shared memory as a backend",
+  "author": "Ronny Rentner",
+  "license": null,
+  "home_page": "https://github.com/ronny-rentner/UltraDict",
+  "download_filename": "ultradict_wheels-0.0.6-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-09-10T23:10:45.973202",
+  "package_url": "https://pypi.org/project/UltraDict-wheels/"
+}

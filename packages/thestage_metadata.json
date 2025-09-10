@@ -1,11 +1,11 @@
 {
   "name": "thestage",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "summary": null,
   "author": "TheStage AI team",
   "license": null,
   "home_page": null,
-  "download_filename": "thestage-0.6.4.tar.gz",
-  "download_time": "2025-09-09T00:46:21.688757",
+  "download_filename": "thestage-0.6.5.tar.gz",
+  "download_time": "2025-09-10T23:10:54.855551",
   "package_url": "https://pypi.org/project/thestage/"
 }

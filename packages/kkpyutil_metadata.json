@@ -1,0 +1,11 @@
+{
+  "name": "kkpyutil",
+  "version": "1.46.3",
+  "summary": "Building blocks for sysadmin and DevOps",
+  "author": "Beinan Li",
+  "license": "MIT",
+  "home_page": "https://github.com/kakyoism/kkpyutil/",
+  "download_filename": "kkpyutil-1.46.3.tar.gz",
+  "download_time": "2025-09-10T23:10:49.640492",
+  "package_url": "https://pypi.org/project/kkpyutil/"
+}
