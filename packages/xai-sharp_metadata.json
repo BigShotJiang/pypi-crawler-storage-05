@@ -1,0 +1,11 @@
+{
+  "name": "xai-sharp",
+  "version": "0.1.1",
+  "summary": "Implementation of the ShaRP framework.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/DataResponsibly/sharp",
+  "download_filename": "xai_sharp-0.1.1.tar.gz",
+  "download_time": "2025-09-10T11:33:59.944854",
+  "package_url": "https://pypi.org/project/xai-sharp/"
+}

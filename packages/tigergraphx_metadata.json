@@ -1,0 +1,11 @@
+{
+  "name": "tigergraphx",
+  "version": "0.2.15",
+  "summary": "TigerGraphX is a high-level Python library offering a unified, Python-native interface for graph databases, advanced analytics, and GraphRAG workflows. Combining the simplicity of NetworkX with the advanced capabilities of TigerGraph, including tgCloud, it empowers Python developers to harness the power of graphs without the need to learn query languages like Cypher or GSQL.",
+  "author": "Xuanlei Lin",
+  "license": "MIT",
+  "home_page": "https://github.com/tigergraph/tigergraphx",
+  "download_filename": "tigergraphx-0.2.15.tar.gz",
+  "download_time": "2025-09-10T11:33:48.569602",
+  "package_url": "https://pypi.org/project/tigergraphx/"
+}

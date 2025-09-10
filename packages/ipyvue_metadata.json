@@ -1,0 +1,11 @@
+{
+  "name": "ipyvue",
+  "version": "1.11.3",
+  "summary": "Jupyter widgets base for Vue libraries",
+  "author": "Mario Buikhuizen, Maarten Breddels",
+  "license": "MIT",
+  "home_page": "https://github.com/widgetti/ipyvue",
+  "download_filename": "ipyvue-1.11.3.tar.gz",
+  "download_time": "2025-09-10T11:34:01.502218",
+  "package_url": "https://pypi.org/project/ipyvue/"
+}

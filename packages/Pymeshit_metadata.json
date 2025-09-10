@@ -1,0 +1,11 @@
+{
+  "name": "Pymeshit",
+  "version": "0.2.5",
+  "summary": "Complete mesh generation and manipulation package with GUI",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "pymeshit-0.2.5.tar.gz",
+  "download_time": "2025-09-10T11:33:36.268445",
+  "package_url": "https://pypi.org/project/Pymeshit/"
+}
