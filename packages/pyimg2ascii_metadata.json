@@ -1,11 +1,11 @@
 {
   "name": "pyimg2ascii",
-  "version": "0.2",
+  "version": "0.5",
   "summary": "Convert images to ASCII art",
-  "author": "D.Abhiram",
+  "author": "Devulapalli Abhiram",
   "license": null,
   "home_page": "https://github.com/abhirammdh/pyimg2ascii",
-  "download_filename": "pyimg2ascii-0.2.tar.gz",
-  "download_time": "2025-09-10T07:28:38.259571",
+  "download_filename": "pyimg2ascii-0.5.tar.gz",
+  "download_time": "2025-09-10T11:10:01.754782",
   "package_url": "https://pypi.org/project/pyimg2ascii/"
 }

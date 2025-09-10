@@ -1,0 +1,11 @@
+{
+  "name": "pyBIA",
+  "version": "1.51",
+  "summary": "Machine learning-based framework for Lyalpha Blob Detection",
+  "author": "Daniel Godines",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/Professor-G/pyBIA",
+  "download_filename": "pybia-1.51.tar.gz",
+  "download_time": "2025-09-10T11:09:47.217802",
+  "package_url": "https://pypi.org/project/pyBIA/"
+}

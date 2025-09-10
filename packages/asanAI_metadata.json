@@ -1,11 +1,11 @@
 {
   "name": "asanAI",
-  "version": "286",
+  "version": "288",
   "summary": "Tools to help with the scripts created by asanAI",
   "author": "Norman Koch",
   "license": null,
   "home_page": "https://asanai.scads.ai/",
-  "download_filename": "asanai-286.tar.gz",
-  "download_time": "2025-09-10T09:30:12.146642",
+  "download_filename": "asanai-288.tar.gz",
+  "download_time": "2025-09-10T11:09:54.755361",
   "package_url": "https://pypi.org/project/asanAI/"
 }

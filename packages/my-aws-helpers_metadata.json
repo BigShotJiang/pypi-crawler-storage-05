@@ -1,11 +1,11 @@
 {
   "name": "my-aws-helpers",
-  "version": "4.7.0",
+  "version": "4.8.0",
   "summary": "AWS Helpers",
   "author": "Jarrod McCarthy",
   "license": null,
   "home_page": "https://github.com/JarrodMccarthy/aws_helpers.git",
-  "download_filename": "my_aws_helpers-4.7.0.tar.gz",
-  "download_time": "2025-09-10T10:48:07.005052",
+  "download_filename": "my_aws_helpers-4.8.0.tar.gz",
+  "download_time": "2025-09-10T11:09:48.892690",
   "package_url": "https://pypi.org/project/my-aws-helpers/"
 }

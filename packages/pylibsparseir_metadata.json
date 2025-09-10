@@ -1,0 +1,11 @@
+{
+  "name": "pylibsparseir",
+  "version": "0.1.0",
+  "summary": "Python bindings for the libsparseir library, providing efficient sparse intermediate representation for many-body physics calculations",
+  "author": "SpM-lab",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylibsparseir-0.1.0-cp310-cp310-macosx_13_0_x86_64.whl",
+  "download_time": "2025-09-10T11:09:41.344118",
+  "package_url": "https://pypi.org/project/pylibsparseir/"
+}

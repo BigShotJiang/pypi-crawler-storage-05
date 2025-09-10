@@ -1,11 +1,11 @@
 {
   "name": "checkpoint-engine",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "checkpoint-engine is a lightweight, decoupling and efficient weight update middleware",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "checkpoint_engine-0.1.0-py3-none-any.whl",
-  "download_time": "2025-09-10T10:47:59.284422",
+  "download_filename": "checkpoint_engine-0.1.1-py3-none-any.whl",
+  "download_time": "2025-09-10T11:09:43.668935",
   "package_url": "https://pypi.org/project/checkpoint-engine/"
 }

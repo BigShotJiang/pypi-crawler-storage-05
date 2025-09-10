@@ -1,11 +1,11 @@
 {
   "name": "tencentcloud-sdk-python-ioa",
-  "version": "3.0.1457",
+  "version": "3.0.1458",
   "summary": "Tencent Cloud Ioa SDK for Python",
   "author": "Tencent Cloud",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
-  "download_filename": "tencentcloud-sdk-python-ioa-3.0.1457.tar.gz",
-  "download_time": "2025-09-07T21:08:02.173173",
+  "download_filename": "tencentcloud-sdk-python-ioa-3.0.1458.tar.gz",
+  "download_time": "2025-09-10T11:09:26.611296",
   "package_url": "https://pypi.org/project/tencentcloud-sdk-python-ioa/"
 }

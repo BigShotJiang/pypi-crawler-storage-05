@@ -1,0 +1,11 @@
+{
+  "name": "promptimus-chromadb-store",
+  "version": "0.1.0",
+  "summary": "A plugin with chromadb vector store for promptimus.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "promptimus_chromadb_store-0.1.0.tar.gz",
+  "download_time": "2025-09-10T11:09:46.637775",
+  "package_url": "https://pypi.org/project/promptimus-chromadb-store/"
+}

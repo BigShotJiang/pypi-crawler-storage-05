@@ -1,11 +1,11 @@
 {
   "name": "bn-byneuron",
-  "version": "0.0.36",
+  "version": "0.0.38",
   "summary": "API for byneuron backend",
   "author": "jovi",
   "license": null,
   "home_page": "https://gitlab.com/bynubian/bynode/python_packages/byneuron",
-  "download_filename": "bn_byneuron-0.0.36.tar.gz",
-  "download_time": "2025-09-10T09:47:45.623527",
+  "download_filename": "bn_byneuron-0.0.38.tar.gz",
+  "download_time": "2025-09-10T11:09:59.995826",
   "package_url": "https://pypi.org/project/bn-byneuron/"
 }

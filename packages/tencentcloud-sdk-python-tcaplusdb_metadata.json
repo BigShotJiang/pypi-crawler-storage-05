@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-tcaplusdb",
+  "version": "3.0.1458",
+  "summary": "Tencent Cloud Tcaplusdb SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud-sdk-python-tcaplusdb-3.0.1458.tar.gz",
+  "download_time": "2025-09-10T11:09:20.008009",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-tcaplusdb/"
+}
