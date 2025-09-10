@@ -1,0 +1,11 @@
+{
+  "name": "bytedance-mcp-tool-python-sdk",
+  "version": "0.0.1",
+  "summary": "This is a reserved placeholder package to mitigate dependency confusion risks.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://code.byted.org/infra/bytedance_mcp_tool_python_sdk",
+  "download_filename": "bytedance_mcp_tool_python_sdk-0.0.1.tar.gz",
+  "download_time": "2025-09-10T02:11:52.682652",
+  "package_url": "https://pypi.org/project/bytedance-mcp-tool-python-sdk/"
+}

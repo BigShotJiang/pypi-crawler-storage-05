@@ -1,0 +1,11 @@
+{
+  "name": "kan-o-nas",
+  "version": "0.1.0",
+  "summary": "Evolutionary full NAS for fair comparison of CNN and KAN architectures (KAN'o'NAS).",
+  "author": "Vladimir Latypov, Alexander Hvatov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kan_o_nas-0.1.0.tar.gz",
+  "download_time": "2025-09-10T02:11:54.224535",
+  "package_url": "https://pypi.org/project/kan-o-nas/"
+}

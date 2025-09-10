@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-validation-decorator",
+  "version": "0.1.5",
+  "summary": "Some practical pydantic validation decorators that support manual invocation.",
+  "author": "insistence <3055204202@qq.com>",
+  "license": "MIT",
+  "home_page": "https://github.com/insistence/pydantic-validation-decorator",
+  "download_filename": "pydantic_validation_decorator-0.1.5.tar.gz",
+  "download_time": "2025-09-10T02:11:30.114677",
+  "package_url": "https://pypi.org/project/pydantic-validation-decorator/"
+}

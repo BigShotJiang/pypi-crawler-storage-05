@@ -1,0 +1,11 @@
+{
+  "name": "flowrl",
+  "version": "0.1.1",
+  "summary": "A library desgined for flow-based RL algorithms",
+  "author": "typoverflow",
+  "license": "MIT",
+  "home_page": "https://github.com/typoverflow/flow-rl",
+  "download_filename": "flowrl-0.1.1.tar.gz",
+  "download_time": "2025-09-10T02:11:41.069938",
+  "package_url": "https://pypi.org/project/flowrl/"
+}

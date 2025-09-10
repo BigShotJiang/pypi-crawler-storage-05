@@ -1,11 +1,11 @@
 {
   "name": "pytbox",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "A collection of Python integrations and utilities (Feishu, Dida365, VictoriaMetrics, ...)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytbox-0.1.8.tar.gz",
-  "download_time": "2025-09-08T17:38:44.443888",
+  "download_filename": "pytbox-0.1.9.tar.gz",
+  "download_time": "2025-09-10T02:11:38.492081",
   "package_url": "https://pypi.org/project/pytbox/"
 }

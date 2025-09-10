@@ -1,0 +1,11 @@
+{
+  "name": "kracknet",
+  "version": "0.4.7",
+  "summary": "KrackNet Client",
+  "author": "Hans Roh",
+  "license": "MIT",
+  "home_page": "https://kracknet.com",
+  "download_filename": "kracknet-0.4.7-py3-none-any.whl",
+  "download_time": "2025-09-10T02:11:28.556404",
+  "package_url": "https://pypi.org/project/kracknet/"
+}

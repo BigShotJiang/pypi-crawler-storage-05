@@ -1,0 +1,11 @@
+{
+  "name": "spaceone-api",
+  "version": "2.0.435",
+  "summary": "Coreforet API Protobuf",
+  "author": "MEGAZONE Cloud Corp.",
+  "license": "Apache Software License",
+  "home_page": "https://cloudforet.io/",
+  "download_filename": "spaceone_api-2.0.435.tar.gz",
+  "download_time": "2025-09-10T02:11:43.666205",
+  "package_url": "https://pypi.org/project/spaceone-api/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "behave-web-api",
-  "version": "2.2.1",
+  "version": "2.3.0",
   "summary": "Provides testing for JSON APIs with Behave",
   "author": "Jeferson Daniel",
   "license": "MIT",
   "home_page": "https://github.com/jefersondaniel/behave-web-api",
-  "download_filename": "behave_web_api-2.2.1.tar.gz",
-  "download_time": "2025-09-09T20:30:33.665356",
+  "download_filename": "behave_web_api-2.3.0.tar.gz",
+  "download_time": "2025-09-10T02:11:18.083151",
   "package_url": "https://pypi.org/project/behave-web-api/"
 }
