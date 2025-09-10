@@ -1,13 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-10T03:50:56.922811
-- **Total Packages**: 82
-- **Total Size**: 8.95 MB
+- **Download Time**: 2025-09-10T04:13:29.968576
+- **Total Packages**: 76
+- **Total Size**: 20.18 MB
 
 ## Packages List
-- pulumi-rancher2
+- clinicedc
+- ms-fabric-cli
+- causallm
+- ragflow-sdk
+- authentik-client
+- ollm
+- django-okta-client
+- futurehouse-client
+- pulumi-xyz
+- pulumi-provider-boilerplate
+- tirex-mirror
+- vantage-cli
+- gcpds-cv-pykit
+- shell-lib
+- npcpy
+- chromedriver-binary
+- minecraft-datapack-language
+- genitext
+- nvshmem4py-cu13
+- jquants-api-client
+- github-discussions
+- nvshmem4py-cu12
+- jaxtorch
+- cans-framework
+- figma-mcp-tools
+- folder-classifier
+- storage-layout-extractor
+- heimdall-py
 - pulumi-harness
+- systems-manager
+- neurodatahub-cli
+- docker-diff
+- pipeline-eds
+- csj-openapi-mcp
+- doomarena-promptceptor
+- django-cfg
+- pulumi-rancher2
 - logmerger
 - simplelinks
 - maleo-google
@@ -15,7 +50,6 @@
 - krxpy
 - detection-dataset-annotator
 - odoo-addon-repair-service
-- docker-diff
 - gllm-agents-binary
 - h2ogpte
 - pyferris
@@ -26,9 +60,7 @@
 - odoo-addon-purchase-stock-reception-status
 - odoo-addon-procurement-purchase-requisition-generation-dropshipping
 - maleo-middlewares
-- authentik-client
 - odoo-addons-oca-purchase-workflow
-- npcpy
 - airmise
 - keras-nightly
 - mulch
@@ -45,46 +77,8 @@
 - lumibot
 - gpusnatcher
 - lk-utils
-- csj-openapi-mcp
 - ki.aws-bedrock-agentcore-deployment-mcp-server
 - maleo-logging
 - sealpy3
 - getout-of-text-3
 - embed-rerank
-- sparkden
-- nonebot-plugin-resolver2
-- odoo-addon-product-state
-- zenml-nightly
-- richcolorlog
-- odoo-addon-product-assortment
-- container-manager-mcp
-- netron
-- shell-lib
-- quool
-- bosa-core-binary
-- xconn
-- odoo-addon-payroll-contract-advantages
-- odoo-addon-partner-stage
-- progressdb
-- browser-ui
-- provide-foundation
-- aduib-rpc
-- pyvoteview
-- ddex-builder
-- odoo-addon-openupgrade-scripts
-- jupyterlab-amphi
-- odoo-addon-account-period-lock-date-multi-company
-- pylitex
-- datachain
-- l0-python
-- yica-yirage
-- GANDLF
-- mcp-server-qdrant-pro
-- odoo-addon-mrp-lot-number-propagation
-- oh-my-batch
-- cpybuild
-- wyoming-openai
-- tsearch
-- starrocks
-- fastbackup
-- sphinxcontrib-plot
