@@ -1,0 +1,11 @@
+{
+  "name": "ethereum-rpc-fingerprinter",
+  "version": "1.0.0",
+  "summary": "A comprehensive tool for fingerprinting Ethereum RPC endpoints",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/ethereum-rpc-fingerprinter",
+  "download_filename": "ethereum_rpc_fingerprinter-1.0.0.tar.gz",
+  "download_time": "2025-09-10T22:13:45.427583",
+  "package_url": "https://pypi.org/project/ethereum-rpc-fingerprinter/"
+}

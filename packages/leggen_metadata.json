@@ -1,11 +1,11 @@
 {
   "name": "leggen",
-  "version": "2025.9.3",
+  "version": "2025.9.4",
   "summary": "An Open Banking CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "leggen-2025.9.3.tar.gz",
-  "download_time": "2025-09-10T00:48:39.611586",
+  "download_filename": "leggen-2025.9.4.tar.gz",
+  "download_time": "2025-09-10T22:13:56.785824",
   "package_url": "https://pypi.org/project/leggen/"
 }

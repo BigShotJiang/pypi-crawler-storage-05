@@ -1,11 +1,11 @@
 {
   "name": "bitvavo-api-upgraded",
-  "version": "4.3.1",
+  "version": "4.4.0",
   "summary": "A unit-tested fork of the Bitvavo API",
   "author": "Bitvavo BV (original code), NostraDavid",
   "license": "ISC License",
   "home_page": null,
-  "download_filename": "bitvavo_api_upgraded-4.3.1.tar.gz",
-  "download_time": "2025-09-10T19:48:12.352750",
+  "download_filename": "bitvavo_api_upgraded-4.4.0.tar.gz",
+  "download_time": "2025-09-10T22:13:28.562036",
   "package_url": "https://pypi.org/project/bitvavo-api-upgraded/"
 }

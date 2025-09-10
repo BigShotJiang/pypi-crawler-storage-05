@@ -1,0 +1,11 @@
+{
+  "name": "spotifi",
+  "version": "0.1.1",
+  "summary": "A python package that is spotifi",
+  "author": "fswair",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spotifi-0.1.1.tar.gz",
+  "download_time": "2025-09-10T22:13:36.620825",
+  "package_url": "https://pypi.org/project/spotifi/"
+}
