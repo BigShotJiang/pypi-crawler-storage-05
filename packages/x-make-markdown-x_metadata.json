@@ -1,11 +1,11 @@
 {
   "name": "x-make-markdown-x",
-  "version": "10.0.5",
+  "version": "10.1.0",
   "summary": "Makes markdown.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "x_make_markdown_x-10.0.5.tar.gz",
-  "download_time": "2025-09-09T02:19:25.043597",
+  "download_filename": "x_make_markdown_x-10.1.0.tar.gz",
+  "download_time": "2025-09-10T14:50:19.170750",
   "package_url": "https://pypi.org/project/x-make-markdown-x/"
 }

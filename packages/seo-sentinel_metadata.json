@@ -1,0 +1,11 @@
+{
+  "name": "seo-sentinel",
+  "version": "1.0.2",
+  "summary": "SEO Sentinel is a comprehensive automated SEO auditing tool that crawls websites, detects SEO issues, and generates detailed HTML reports for website optimization.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "seo_sentinel-1.0.2.tar.gz",
+  "download_time": "2025-09-10T14:49:52.346424",
+  "package_url": "https://pypi.org/project/seo-sentinel/"
+}

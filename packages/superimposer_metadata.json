@@ -1,0 +1,11 @@
+{
+  "name": "superimposer",
+  "version": "0.1.3",
+  "summary": "Superimpose presentation records onto PDF slides",
+  "author": "Jon Gjengset",
+  "license": null,
+  "home_page": null,
+  "download_filename": "superimposer-0.1.3.tar.gz",
+  "download_time": "2025-09-10T14:49:40.817603",
+  "package_url": "https://pypi.org/project/superimposer/"
+}

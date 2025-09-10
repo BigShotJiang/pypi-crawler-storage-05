@@ -1,11 +1,11 @@
 {
   "name": "farasapy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Python Wrapper for the well Farasa toolkit",
-  "author": "MagedSaeed",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/MagedSaeed/farasapy",
-  "download_filename": "farasapy-0.1.0.tar.gz",
-  "download_time": "2025-09-10T14:05:06.285788",
+  "home_page": null,
+  "download_filename": "farasapy-0.1.1.tar.gz",
+  "download_time": "2025-09-10T14:49:40.266547",
   "package_url": "https://pypi.org/project/farasapy/"
 }

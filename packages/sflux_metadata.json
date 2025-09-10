@@ -1,0 +1,11 @@
+{
+  "name": "sflux",
+  "version": "0.0.35",
+  "summary": "A simple python interface for InfluxDB2.0",
+  "author": "perrytec",
+  "license": null,
+  "home_page": "https://github.com/perrytec/sflux.git",
+  "download_filename": "sflux-0.0.35.tar.gz",
+  "download_time": "2025-09-10T14:49:53.407011",
+  "package_url": "https://pypi.org/project/sflux/"
+}

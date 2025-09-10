@@ -1,0 +1,11 @@
+{
+  "name": "instana",
+  "version": "3.8.2",
+  "summary": "Python Distributed Tracing & Metrics Sensor for Instana.",
+  "author": "Instana Team Python Tracer Engineers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "instana-3.8.2.tar.gz",
+  "download_time": "2025-09-10T14:50:08.011741",
+  "package_url": "https://pypi.org/project/instana/"
+}

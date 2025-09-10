@@ -1,0 +1,11 @@
+{
+  "name": "compose-to-render",
+  "version": "0.1.0",
+  "summary": "Bridge the gap between local development and production. Intelligently convert docker-compose.yml to production-ready render.yaml Blueprints.",
+  "author": "Khoa ngominhkhoa2006@gmail.com",
+  "license": "MIT",
+  "home_page": "https://github.com/minhkhoango/compose-to-render",
+  "download_filename": "compose_to_render-0.1.0.tar.gz",
+  "download_time": "2025-09-10T14:50:02.564939",
+  "package_url": "https://pypi.org/project/compose-to-render/"
+}
