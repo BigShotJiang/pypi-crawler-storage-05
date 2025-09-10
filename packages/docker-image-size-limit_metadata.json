@@ -1,0 +1,11 @@
+{
+  "name": "docker-image-size-limit",
+  "version": "2.2.0",
+  "summary": null,
+  "author": "Nikita Sobolev",
+  "license": "MIT",
+  "home_page": "https://github.com/wemake-services/docker-image-size-limit",
+  "download_filename": "docker_image_size_limit-2.2.0.tar.gz",
+  "download_time": "2025-09-10T06:16:27.775251",
+  "package_url": "https://pypi.org/project/docker-image-size-limit/"
+}

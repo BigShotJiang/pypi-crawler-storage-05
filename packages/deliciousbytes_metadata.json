@@ -1,0 +1,11 @@
+{
+  "name": "deliciousbytes",
+  "version": "1.1.0",
+  "summary": "Streamlined binary data type encoding and decoding for Python.",
+  "author": "Daniel Sissman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "deliciousbytes-1.1.0.tar.gz",
+  "download_time": "2025-09-10T06:16:23.584299",
+  "package_url": "https://pypi.org/project/deliciousbytes/"
+}

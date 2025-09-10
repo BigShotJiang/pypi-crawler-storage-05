@@ -1,11 +1,11 @@
 {
   "name": "pysolbase",
-  "version": "3.13.0",
+  "version": "3.13.1",
   "summary": "pysolbase",
   "author": "Laurent Champagnac",
   "license": null,
   "home_page": "https://github.com/champax/pysolbase",
-  "download_filename": "pysolbase-3.13.0.tar.gz",
-  "download_time": "2025-09-10T05:40:44.000946",
+  "download_filename": "pysolbase-3.13.1.tar.gz",
+  "download_time": "2025-09-10T06:16:20.461808",
   "package_url": "https://pypi.org/project/pysolbase/"
 }

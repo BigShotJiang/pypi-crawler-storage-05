@@ -1,0 +1,11 @@
+{
+  "name": "custom-veomni",
+  "version": "0.0.4",
+  "summary": "VeOmni: Scaling any Modality Model Training to any Accelerators with PyTorch native Training Framework",
+  "author": "Bytedance - Seed - MLSys",
+  "license": null,
+  "home_page": "https://github.com/ByteDance-Seed/VeOmni",
+  "download_filename": "custom_veomni-0.0.4.tar.gz",
+  "download_time": "2025-09-10T06:16:21.500950",
+  "package_url": "https://pypi.org/project/custom-veomni/"
+}

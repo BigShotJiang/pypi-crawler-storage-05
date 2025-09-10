@@ -1,11 +1,11 @@
 {
   "name": "dconfusion",
-  "version": "0.0.1",
-  "summary": "A package for working with confusion matrices",
+  "version": "0.0.2",
+  "summary": "A package for working with confusion matrices. It can pretty print a confusion matrix, its frequencies and various other metrics.",
   "author": "Surya Gundavarapu",
   "license": null,
   "home_page": "https://github.com/sgundava/dconfusion",
-  "download_filename": "dconfusion-0.0.1.tar.gz",
-  "download_time": "2025-09-10T05:47:52.674046",
+  "download_filename": "dconfusion-0.0.2.tar.gz",
+  "download_time": "2025-09-10T06:16:25.697054",
   "package_url": "https://pypi.org/project/dconfusion/"
 }

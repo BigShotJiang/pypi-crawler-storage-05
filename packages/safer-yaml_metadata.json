@@ -1,0 +1,11 @@
+{
+  "name": "safer-yaml",
+  "version": "0.1.1",
+  "summary": "Yaml 1.2 support for Python with a nicer api",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "safer_yaml-0.1.1.tar.gz",
+  "download_time": "2025-09-10T06:16:05.751104",
+  "package_url": "https://pypi.org/project/safer-yaml/"
+}
