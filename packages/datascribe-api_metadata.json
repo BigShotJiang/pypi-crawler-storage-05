@@ -1,0 +1,11 @@
+{
+  "name": "datascribe-api",
+  "version": "1.0.0",
+  "summary": "A Python client for the Datascribe API",
+  "author": "Doguhan Sariturk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datascribe_api-1.0.0.tar.gz",
+  "download_time": "2025-09-10T07:48:45.240855",
+  "package_url": "https://pypi.org/project/datascribe-api/"
+}

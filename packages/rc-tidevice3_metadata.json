@@ -1,0 +1,11 @@
+{
+  "name": "rc-tidevice3",
+  "version": "0.1.1",
+  "summary": "forked from codeskyblue/tidevice3, wrapper for pymobiledevice3 for easy use with iphone device",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rc_tidevice3-0.1.1.tar.gz",
+  "download_time": "2025-09-10T07:48:40.976640",
+  "package_url": "https://pypi.org/project/rc-tidevice3/"
+}
