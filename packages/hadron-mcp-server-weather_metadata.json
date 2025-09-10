@@ -1,0 +1,11 @@
+{
+  "name": "hadron-mcp-server-weather",
+  "version": "0.1.1",
+  "summary": "实现类weather功能的MCP⼯具",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hadron_mcp_server_weather-0.1.1.tar.gz",
+  "download_time": "2025-09-10T03:02:44.766698",
+  "package_url": "https://pypi.org/project/hadron-mcp-server-weather/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "metamachine",
+  "version": "0.1.0",
+  "summary": "A simulation framework for modular robots",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "metamachine-0.1.0.tar.gz",
+  "download_time": "2025-09-10T03:02:55.674926",
+  "package_url": "https://pypi.org/project/metamachine/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyromb",
+  "version": "0.3.0",
+  "summary": "Runoff Model Builder (Pyromb) is a package used for building RORB, WBNM, and URBS control files from catchment diagrams built from ESRI shapefiles. Its primary use is in the QGIS plugins 'Runoff Model Builder', though can be used as a standalone Python library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyromb-0.3.0.tar.gz",
+  "download_time": "2025-09-10T03:03:02.963333",
+  "package_url": "https://pypi.org/project/pyromb/"
+}

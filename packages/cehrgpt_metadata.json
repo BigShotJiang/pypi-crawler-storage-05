@@ -1,11 +1,11 @@
 {
   "name": "cehrgpt",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "CEHR-GPT: Generating Electronic Health Records with Chronological Patient Timelines",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "cehrgpt-0.1.4.tar.gz",
-  "download_time": "2025-09-09T20:30:49.342874",
+  "download_filename": "cehrgpt-0.1.5.tar.gz",
+  "download_time": "2025-09-10T03:02:43.741843",
   "package_url": "https://pypi.org/project/cehrgpt/"
 }

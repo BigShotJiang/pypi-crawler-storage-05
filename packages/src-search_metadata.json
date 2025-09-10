@@ -1,0 +1,11 @@
+{
+  "name": "src-search",
+  "version": "0.1.1",
+  "summary": "A tkinter GUI application for searching through source code and documentation",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "src_search-0.1.1.tar.gz",
+  "download_time": "2025-09-10T03:02:50.454755",
+  "package_url": "https://pypi.org/project/src-search/"
+}

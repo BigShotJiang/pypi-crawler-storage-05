@@ -1,11 +1,11 @@
 {
   "name": "zen-rule",
-  "version": "0.15.0",
+  "version": "0.15.1",
   "summary": "zen-engine enrichment for custom node spec and cache ZenDecision objects for performance",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zen_rule-0.15.0.tar.gz",
-  "download_time": "2025-09-09T04:13:07.118108",
+  "download_filename": "zen_rule-0.15.1.tar.gz",
+  "download_time": "2025-09-10T03:02:58.768158",
   "package_url": "https://pypi.org/project/zen-rule/"
 }

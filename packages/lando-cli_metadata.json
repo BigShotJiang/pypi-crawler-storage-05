@@ -1,11 +1,11 @@
 {
   "name": "lando-cli",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Lando Headless API Client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lando_cli-0.2.0.tar.gz",
-  "download_time": "2025-09-08T02:23:23.069712",
+  "download_filename": "lando_cli-0.3.0.tar.gz",
+  "download_time": "2025-09-10T03:03:17.900256",
   "package_url": "https://pypi.org/project/lando-cli/"
 }

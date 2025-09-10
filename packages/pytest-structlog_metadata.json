@@ -1,0 +1,11 @@
+{
+  "name": "pytest-structlog",
+  "version": "1.2",
+  "summary": "Structured logging assertions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_structlog-1.2.tar.gz",
+  "download_time": "2025-09-10T03:03:20.456782",
+  "package_url": "https://pypi.org/project/pytest-structlog/"
+}
