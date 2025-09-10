@@ -1,0 +1,11 @@
+{
+  "name": "cmem-plugin-loopwf",
+  "version": "0.8.0",
+  "summary": "Loop over the output of a task and start a sub-workflow for each entity.",
+  "author": "eccenca GmbH",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/eccenca/cmem-plugin-loopwf",
+  "download_filename": "cmem_plugin_loopwf-0.8.0.tar.gz",
+  "download_time": "2025-09-10T08:53:46.473191",
+  "package_url": "https://pypi.org/project/cmem-plugin-loopwf/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "precice-profiling",
+  "version": "2.0.4",
+  "summary": "A tool for post-processing and analyzing preCICE profiling data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "precice_profiling-2.0.4.tar.gz",
+  "download_time": "2025-09-10T08:53:59.466336",
+  "package_url": "https://pypi.org/project/precice-profiling/"
+}

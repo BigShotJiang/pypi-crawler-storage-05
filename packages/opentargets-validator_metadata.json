@@ -1,0 +1,11 @@
+{
+  "name": "opentargets-validator",
+  "version": "1.0.1",
+  "summary": "Schema validation for evidence submitted to Open Targets",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "opentargets_validator-1.0.1.tar.gz",
+  "download_time": "2025-09-10T08:53:36.993169",
+  "package_url": "https://pypi.org/project/opentargets-validator/"
+}

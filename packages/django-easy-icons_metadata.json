@@ -1,11 +1,11 @@
 {
   "name": "django-easy-icons",
-  "version": "1.1.1",
+  "version": "0.2.4",
   "summary": "Easy, flexible icons for Django",
   "author": "Sam",
   "license": "MIT",
   "home_page": "https://github.com/SamuelJennings/django-easy-icons",
-  "download_filename": "django_easy_icons-1.1.1.tar.gz",
-  "download_time": "2025-09-10T08:38:08.676798",
+  "download_filename": "django_easy_icons-0.2.4.tar.gz",
+  "download_time": "2025-09-10T08:53:35.460894",
   "package_url": "https://pypi.org/project/django-easy-icons/"
 }

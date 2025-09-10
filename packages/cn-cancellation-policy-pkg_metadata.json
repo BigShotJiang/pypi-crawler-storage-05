@@ -1,0 +1,11 @@
+{
+  "name": "cn-cancellation-policy-pkg",
+  "version": "0.3.8",
+  "summary": "A library for parsing cancellation policies",
+  "author": "Khalil Raza",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cn_cancellation_policy_pkg-0.3.8.tar.gz",
+  "download_time": "2025-09-10T08:53:29.721466",
+  "package_url": "https://pypi.org/project/cn-cancellation-policy-pkg/"
+}

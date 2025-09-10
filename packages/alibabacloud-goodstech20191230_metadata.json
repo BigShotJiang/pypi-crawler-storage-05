@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-goodstech20191230",
+  "version": "2.0.2",
+  "summary": "Alibaba Cloud goodstech (20191230) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_goodstech20191230-2.0.2.tar.gz",
+  "download_time": "2025-09-10T08:53:45.892455",
+  "package_url": "https://pypi.org/project/alibabacloud-goodstech20191230/"
+}

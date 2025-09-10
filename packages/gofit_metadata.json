@@ -1,0 +1,11 @@
+{
+  "name": "gofit",
+  "version": "1.0.0",
+  "summary": "GOFit: Global Optimization for Fitting problems",
+  "author": "Jaroslav Fowkes",
+  "license": "New BSD",
+  "home_page": "https://github.com/ralna/gofit",
+  "download_filename": "gofit-1.0.0.tar.gz",
+  "download_time": "2025-09-10T08:53:57.384440",
+  "package_url": "https://pypi.org/project/gofit/"
+}
