@@ -1,0 +1,11 @@
+{
+  "name": "daxa",
+  "version": "0.3.3",
+  "summary": "Democratising Astronomy X-ray Archives (DAXA) is an easy-to-use Python module which enables the simple processing and reduction of archives of X-ray telescope observations.",
+  "author": "David J Turner",
+  "license": "BSD 3",
+  "home_page": "https://github.com/DavidT3/DAXA",
+  "download_filename": "daxa-0.3.3.tar.gz",
+  "download_time": "2025-09-10T15:11:38.932762",
+  "package_url": "https://pypi.org/project/daxa/"
+}

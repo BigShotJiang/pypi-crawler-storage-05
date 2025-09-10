@@ -1,0 +1,11 @@
+{
+  "name": "PINNICLE",
+  "version": "1.0.2",
+  "summary": "A Python library for solving ice sheet modeling problems using Physics Informed Neural Networks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pinnicle-1.0.2-py3-none-any.whl",
+  "download_time": "2025-09-10T15:11:51.718879",
+  "package_url": "https://pypi.org/project/PINNICLE/"
+}

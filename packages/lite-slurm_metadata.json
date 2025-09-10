@@ -1,0 +1,11 @@
+{
+  "name": "lite-slurm",
+  "version": "1.0.0",
+  "summary": "A tmux-based task scheduling and monitoring tool",
+  "author": "zheng",
+  "license": "MIT",
+  "home_page": "https://github.com/zz9tf/slurm-like-task-manager",
+  "download_filename": "lite_slurm-1.0.0.tar.gz",
+  "download_time": "2025-09-10T15:11:34.406590",
+  "package_url": "https://pypi.org/project/lite-slurm/"
+}

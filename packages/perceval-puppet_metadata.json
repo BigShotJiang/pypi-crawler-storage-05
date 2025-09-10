@@ -1,0 +1,11 @@
+{
+  "name": "perceval-puppet",
+  "version": "1.0.19",
+  "summary": "Bundle of Perceval backends for Puppet, Inc. ecosystem.",
+  "author": "GrimoireLab Developers",
+  "license": "GPL-3.0+",
+  "home_page": "https://chaoss.github.io/grimoirelab/",
+  "download_filename": "perceval_puppet-1.0.19.tar.gz",
+  "download_time": "2025-09-10T15:11:51.185102",
+  "package_url": "https://pypi.org/project/perceval-puppet/"
+}

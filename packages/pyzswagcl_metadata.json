@@ -1,11 +1,11 @@
 {
   "name": "pyzswagcl",
-  "version": "1.9.1",
+  "version": "1.10.0",
   "summary": "Python bindings for the zswag client library.",
   "author": "Navigation Data Standard e.V.",
   "license": null,
   "home_page": "https://github.com/ndsev/zswag",
-  "download_filename": "pyzswagcl-1.9.1-cp310-cp310-macosx_10_15_x86_64.whl",
-  "download_time": "2025-09-09T12:20:42.568229",
+  "download_filename": "pyzswagcl-1.10.0-cp310-cp310-macosx_10_15_x86_64.whl",
+  "download_time": "2025-09-10T15:11:58.914633",
   "package_url": "https://pypi.org/project/pyzswagcl/"
 }

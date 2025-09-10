@@ -1,11 +1,11 @@
 {
   "name": "passagemath-plantri",
-  "version": "10.6.18",
+  "version": "10.6.19",
   "summary": "passagemath: Generating planar graphs with plantri and fullgen",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_plantri-10.6.18.tar.gz",
-  "download_time": "2025-09-09T16:13:32.452848",
+  "download_filename": "passagemath_plantri-10.6.19.tar.gz",
+  "download_time": "2025-09-10T15:11:41.157802",
   "package_url": "https://pypi.org/project/passagemath-plantri/"
 }

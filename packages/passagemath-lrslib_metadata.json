@@ -1,11 +1,11 @@
 {
   "name": "passagemath-lrslib",
-  "version": "10.6.17",
+  "version": "10.6.19",
   "summary": "passagemath: Reverse search for vertex enumeration and convex hulls with lrslib",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_lrslib-10.6.17.tar.gz",
-  "download_time": "2025-09-07T21:32:08.256584",
+  "download_filename": "passagemath_lrslib-10.6.19.tar.gz",
+  "download_time": "2025-09-10T15:11:57.215767",
   "package_url": "https://pypi.org/project/passagemath-lrslib/"
 }

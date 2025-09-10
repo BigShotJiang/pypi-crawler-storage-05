@@ -1,0 +1,11 @@
+{
+  "name": "langchain-teradata",
+  "version": "20.0.0.0",
+  "summary": "Teradata package for langchain",
+  "author": "Teradata Corporation",
+  "license": "Teradata License Agreement",
+  "home_page": "https://teradata.com",
+  "download_filename": "langchain_teradata-20.0.0.0-py3-none-any.whl",
+  "download_time": "2025-09-10T15:11:21.860068",
+  "package_url": "https://pypi.org/project/langchain-teradata/"
+}
