@@ -1,0 +1,11 @@
+{
+  "name": "obdiag-mcp",
+  "version": "0.0.2",
+  "summary": "OBDiag MCP Server - Model Context Protocol server for OceanBase Diagnostic Tool",
+  "author": "OceanBase",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/oceanbase/mcp-oceanbase",
+  "download_filename": "obdiag_mcp-0.0.2.tar.gz",
+  "download_time": "2025-09-10T03:50:20.843467",
+  "package_url": "https://pypi.org/project/obdiag-mcp/"
+}

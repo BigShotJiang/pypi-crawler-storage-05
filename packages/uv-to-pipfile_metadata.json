@@ -1,0 +1,11 @@
+{
+  "name": "uv-to-pipfile",
+  "version": "0.0.6",
+  "summary": "A tool to convert uv.lock files to Pipfile.lock.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uv_to_pipfile-0.0.6.tar.gz",
+  "download_time": "2025-09-10T03:50:27.162255",
+  "package_url": "https://pypi.org/project/uv-to-pipfile/"
+}

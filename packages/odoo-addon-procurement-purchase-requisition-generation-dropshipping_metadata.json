@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-procurement-purchase-requisition-generation-dropshipping",
+  "version": "17.0.1.0.0.4",
+  "summary": "Procurement purchase requisition dropshipping",
+  "author": "Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/purchase-workflow",
+  "download_filename": "odoo_addon_procurement_purchase_requisition_generation_dropshipping-17.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-09-10T03:50:22.401709",
+  "package_url": "https://pypi.org/project/odoo-addon-procurement-purchase-requisition-generation-dropshipping/"
+}

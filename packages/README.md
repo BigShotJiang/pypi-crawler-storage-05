@@ -1,11 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-10T03:38:35.613568
-- **Total Packages**: 80
-- **Total Size**: 41.14 MB
+- **Download Time**: 2025-09-10T03:50:56.922811
+- **Total Packages**: 82
+- **Total Size**: 8.95 MB
 
 ## Packages List
+- pulumi-rancher2
+- pulumi-harness
+- logmerger
+- simplelinks
+- maleo-google
+- iflow-mcp_memory-system
+- krxpy
+- detection-dataset-annotator
+- odoo-addon-repair-service
+- docker-diff
+- gllm-agents-binary
+- h2ogpte
+- pyferris
+- maleo-database
+- odoo-addon-purchase-request
+- obdiag-mcp
+- rds-proxy-password-rotation
+- odoo-addon-purchase-stock-reception-status
+- odoo-addon-procurement-purchase-requisition-generation-dropshipping
+- maleo-middlewares
+- authentik-client
+- odoo-addons-oca-purchase-workflow
+- npcpy
+- airmise
+- keras-nightly
+- mulch
+- meetcap
+- uv-to-pipfile
+- pulumi-auth0
+- neatlogs
+- pydantic-super-model
+- maleo-exceptions
 - ebs-initializer-mcp
 - weight-analyse
 - maleo-infra
@@ -19,7 +51,6 @@
 - sealpy3
 - getout-of-text-3
 - embed-rerank
-- pulumi-auth0
 - sparkden
 - nonebot-plugin-resolver2
 - odoo-addon-product-state
@@ -28,7 +59,6 @@
 - odoo-addon-product-assortment
 - container-manager-mcp
 - netron
-- authentik-client
 - shell-lib
 - quool
 - bosa-core-binary
@@ -45,7 +75,6 @@
 - jupyterlab-amphi
 - odoo-addon-account-period-lock-date-multi-company
 - pylitex
-- npcpy
 - datachain
 - l0-python
 - yica-yirage
@@ -59,30 +88,3 @@
 - starrocks
 - fastbackup
 - sphinxcontrib-plot
-- maleo-exceptions
-- nexaai
-- odoo-addon-mail-tracking
-- railtracks-cli
-- railtracks
-- semware
-- moose-lib
-- mcp-mesh
-- detection-dataset-annotator
-- noshot
-- odoo-addon-l10n-es-verifactu-oca
-- gcpds-cv-pykit
-- pyonir
-- maleo-schemas
-- clinicedc
-- lazylabel-gui
-- mulch
-- classroom-pilot
-- notebook-intelligence
-- rompy-schism
-- cehrgpt
-- dynamic-learning-model
-- bdd-trace
-- odoo-addon-l10n-it-edi-extension
-- odoo-addon-l10n-it-edi-related-document
-- odoo-addon-l10n-it-vat-registries
-- mcpcap
