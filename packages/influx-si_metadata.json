@@ -1,0 +1,11 @@
+{
+  "name": "influx-si",
+  "version": "7.4.0",
+  "summary": "Metabolic flux and concentration estimation based on stable isotope labeling",
+  "author": "Serguei Sokol",
+  "license": "GNU General Public License v2 or later (GPLv2+)",
+  "home_page": "https://github.com/sgsokol/influx/",
+  "download_filename": "influx_si-7.4.0.tar.gz",
+  "download_time": "2025-09-10T16:13:41.612877",
+  "package_url": "https://pypi.org/project/influx-si/"
+}

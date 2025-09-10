@@ -1,0 +1,11 @@
+{
+  "name": "kiarina-lib-redis",
+  "version": "1.0.0",
+  "summary": "Redis client library for kiarina namespace",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kiarina_lib_redis-1.0.0.tar.gz",
+  "download_time": "2025-09-10T16:13:56.517990",
+  "package_url": "https://pypi.org/project/kiarina-lib-redis/"
+}

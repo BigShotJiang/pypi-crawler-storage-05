@@ -1,0 +1,11 @@
+{
+  "name": "hardcore-restore",
+  "version": "0.0.1",
+  "summary": "Restore death in a minecraft hardcore world. Should work on all platforms with java edition, but wasn't tested.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hardcore_restore-0.0.1.tar.gz",
+  "download_time": "2025-09-10T16:13:48.578751",
+  "package_url": "https://pypi.org/project/hardcore-restore/"
+}

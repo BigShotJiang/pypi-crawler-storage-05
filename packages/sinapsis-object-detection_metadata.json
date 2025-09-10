@@ -1,0 +1,11 @@
+{
+  "name": "sinapsis-object-detection",
+  "version": "0.3.11",
+  "summary": "Mono repo with packages for inference and training with object detection models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sinapsis_object_detection-0.3.11.tar.gz",
+  "download_time": "2025-09-10T16:13:44.288896",
+  "package_url": "https://pypi.org/project/sinapsis-object-detection/"
+}

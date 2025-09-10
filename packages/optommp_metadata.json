@@ -1,0 +1,11 @@
+{
+  "name": "optommp",
+  "version": "0.6",
+  "summary": "Python toolkit for Opto 22 memory-mapped devices",
+  "author": "Opto 22",
+  "license": "mit",
+  "home_page": "http://github.com/optodeveloper/optommp",
+  "download_filename": "optommp-0.6.tar.gz",
+  "download_time": "2025-09-10T16:13:35.912349",
+  "package_url": "https://pypi.org/project/optommp/"
+}

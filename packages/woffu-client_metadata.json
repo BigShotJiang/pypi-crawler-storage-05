@@ -1,11 +1,11 @@
 {
   "name": "woffu-client",
-  "version": "0.0.1a2",
+  "version": "0.0.1a3",
   "summary": "Woffu API client with access to several endpoints.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "woffu_client-0.0.1a2.tar.gz",
-  "download_time": "2025-09-10T15:41:19.523314",
+  "download_filename": "woffu_client-0.0.1a3.tar.gz",
+  "download_time": "2025-09-10T16:13:37.573197",
   "package_url": "https://pypi.org/project/woffu-client/"
 }

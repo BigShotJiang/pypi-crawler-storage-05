@@ -1,0 +1,11 @@
+{
+  "name": "tresto-ai",
+  "version": "0.3.1",
+  "summary": "AI-powered E2E testing CLI inspired by Playwright codegen",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tresto_ai-0.3.1-py3-none-any.whl",
+  "download_time": "2025-09-10T16:13:28.446873",
+  "package_url": "https://pypi.org/project/tresto-ai/"
+}

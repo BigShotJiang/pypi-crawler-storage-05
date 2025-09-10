@@ -1,0 +1,11 @@
+{
+  "name": "licensespring-hardware-id-generator",
+  "version": "1.3.0",
+  "summary": "LicenseSpring hardware ID generator",
+  "author": null,
+  "license": "LicenseSpring Hardware ID Generator License Agreement (LHIGLA)",
+  "home_page": null,
+  "download_filename": "licensespring_hardware_id_generator-1.3.0-cp310-cp310-macosx_10_12_universal2.whl",
+  "download_time": "2025-09-10T16:13:27.314472",
+  "package_url": "https://pypi.org/project/licensespring-hardware-id-generator/"
+}
