@@ -1,0 +1,11 @@
+{
+  "name": "classic-operations",
+  "version": "0.3.4",
+  "summary": "Provides primitives for transactional application logic",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "classic_operations-0.3.4.tar.gz",
+  "download_time": "2025-09-11T13:25:12.000340",
+  "package_url": "https://pypi.org/project/classic-operations/"
+}

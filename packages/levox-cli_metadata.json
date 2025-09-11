@@ -1,11 +1,11 @@
 {
   "name": "levox-cli",
-  "version": "1.0.0",
-  "summary": "Production-grade PII/GDPR detection CLI with multi-level analysis",
+  "version": "1.0.2",
+  "summary": "AI-powered PII/GDPR detection CLI tool. Free for now, paid plans coming soon. Visit levoxserver.vercel.app for details.",
   "author": "Levox Team",
   "license": null,
   "home_page": "https://github.com/levox/levox",
-  "download_filename": "levox_cli-1.0.0.tar.gz",
-  "download_time": "2025-09-11T13:01:05.999587",
+  "download_filename": "levox_cli-1.0.2.tar.gz",
+  "download_time": "2025-09-11T13:25:48.873607",
   "package_url": "https://pypi.org/project/levox-cli/"
 }

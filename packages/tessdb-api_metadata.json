@@ -1,11 +1,11 @@
 {
   "name": "tessdb-api",
-  "version": "0.4.4",
+  "version": "0.4.7",
   "summary": "TESS API functions and dataclasses",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tessdb_api-0.4.4.tar.gz",
-  "download_time": "2025-09-08T21:26:49.255231",
+  "download_filename": "tessdb_api-0.4.7.tar.gz",
+  "download_time": "2025-09-11T13:25:23.357583",
   "package_url": "https://pypi.org/project/tessdb-api/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "autoblocksai",
-  "version": "0.0.134",
+  "version": "0.0.136",
   "summary": "Python client for Autoblocks",
   "author": "Autoblocks Engineering",
   "license": "MIT",
   "home_page": "https://github.com/autoblocksai/python-sdk",
-  "download_filename": "autoblocksai-0.0.134.tar.gz",
-  "download_time": "2025-09-10T21:55:53.553945",
+  "download_filename": "autoblocksai-0.0.136.tar.gz",
+  "download_time": "2025-09-11T13:25:22.782340",
   "package_url": "https://pypi.org/project/autoblocksai/"
 }
