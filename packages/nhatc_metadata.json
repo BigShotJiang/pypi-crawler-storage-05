@@ -1,0 +1,11 @@
+{
+  "name": "nhatc",
+  "version": "0.1.2",
+  "summary": "Library for running non-hierarchical multi-disciplinary optimization",
+  "author": "Julian Martinsson Bonde",
+  "license": "MIT",
+  "home_page": "https://github.com/johnmartins/nhatc",
+  "download_filename": "nhatc-0.1.2.tar.gz",
+  "download_time": "2025-09-11T11:24:54.477491",
+  "package_url": "https://pypi.org/project/nhatc/"
+}

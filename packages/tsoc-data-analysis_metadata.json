@@ -1,0 +1,11 @@
+{
+  "name": "tsoc-data-analysis",
+  "version": "1.2.0",
+  "summary": "A comprehensive Python tool for analyzing TSOC power system operational data from Excel files",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tsoc_data_analysis-1.2.0.tar.gz",
+  "download_time": "2025-09-11T11:24:33.791385",
+  "package_url": "https://pypi.org/project/tsoc-data-analysis/"
+}

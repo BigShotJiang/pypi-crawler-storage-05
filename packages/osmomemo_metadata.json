@@ -1,0 +1,11 @@
+{
+  "name": "osmomemo",
+  "version": "1.1.2",
+  "summary": "Python omemo package",
+  "author": "osmiumnet",
+  "license": null,
+  "home_page": null,
+  "download_filename": "osmomemo-1.1.2.tar.gz",
+  "download_time": "2025-09-11T11:24:36.377001",
+  "package_url": "https://pypi.org/project/osmomemo/"
+}

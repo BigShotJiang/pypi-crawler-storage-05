@@ -1,11 +1,11 @@
 {
   "name": "encfilex",
-  "version": "3.0.0",
-  "summary": "EncFilex v3 - layered file encryption (Base64 -> AES-256-GCM -> XChaCha20-Poly1305)",
+  "version": "1.1",
+  "summary": "EncFilex v1.1 () - layered file encryption (Base64 -> AES-256-GCM -> XChaCha20-Poly1305)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "encfilex-3.0.0.tar.gz",
-  "download_time": "2025-09-11T11:09:28.485610",
+  "download_filename": "encfilex-1.1.tar.gz",
+  "download_time": "2025-09-11T11:24:42.023506",
   "package_url": "https://pypi.org/project/encfilex/"
 }

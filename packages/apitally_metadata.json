@@ -1,0 +1,11 @@
+{
+  "name": "apitally",
+  "version": "0.21.1",
+  "summary": "Simple API monitoring & analytics for REST APIs built with FastAPI, Flask, Django, Starlette, Litestar and BlackSheep.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "apitally-0.21.1.tar.gz",
+  "download_time": "2025-09-11T11:24:52.430823",
+  "package_url": "https://pypi.org/project/apitally/"
+}

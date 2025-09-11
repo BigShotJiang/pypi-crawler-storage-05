@@ -1,27 +1,70 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-11T11:10:06.024230
+- **Download Time**: 2025-09-11T11:25:16.362448
 - **Total Packages**: 86
-- **Total Size**: 35.97 MB
+- **Total Size**: 28.5 MB
 
 ## Packages List
+- lftools-uv
+- microhhpy
+- D4CMPP
+- piopiy-ai
+- cruise-toolkit
+- smsaero-api
+- tsoc-data-analysis
+- llmatch-messages
+- authentik-client
+- tinybird
+- langchain-llm7
+- osmomemo
+- oc-dms-mirror
+- maleo-metadata
+- intentkit
+- cheshirecat-python-sdk
+- imas-mcp
+- nef-pipelines
+- mindgard
+- pycomex
+- myAwesomeAndWonderfulPackageJhs
+- encfilex
+- wmill-pg
+- biblemate
+- wmill
+- MeUtils
+- windmill-api
+- webgpu
+- ngsolve-webgpu
+- qwak-core
+- jupyterlab-unicore-shell
+- xpander-sdk
+- lnhistoryclient
+- policyengine-us
+- llm_common
+- tb-nightly
+- airweave-sdk
+- arthur-client
+- pasta-eln
+- apitally
+- codemie-tools
+- cdxcore
+- coordinated-workers
+- nhatc
+- disposable-email-domains
+- streamshatter
 - aer-gel-annotate
 - aiida-chemshell
 - migration-lint
 - dibber
 - django-scrapyd-manager
 - tiny-migrations
-- authentik-client
 - adnus
-- intentkit
 - allianceauth-discord-multiverse
 - ComicGUISpider
 - pkbrokers
 - sphinx-click
 - qalita_core
 - payla-utils
-- encfilex
 - dsf
 - psann
 - ryxpress
@@ -42,7 +85,6 @@
 - woffu-client
 - electricalsystemcalculator
 - sqlai
-- cdxcore
 - cocup
 - mle-kit-mcp
 - nucliadb-admin-assets
@@ -50,45 +92,3 @@
 - nt25
 - koba
 - mcp-server-booking
-- intuned-runtime
-- greenideas
-- autisticstuff
-- odoo-addon-account-global-discount
-- trustgraph-vertexai
-- trustgraph-ocr
-- llm-workers
-- trustgraph-mcp
-- trustgraph-flow
-- trustgraph-embeddings-hf
-- trustgraph-cli
-- trustgraph-bedrock
-- trustgraph-base
-- trustgraph
-- jyinit
-- inventory-monitor
-- cnaas-yaml-cli
-- diresa-torch
-- pytest-google-cloud-storage
-- okdata-cli
-- telemetrix-lite
-- retab
-- fwdi
-- facextool
-- aima-toolkit
-- p1255
-- onesecondtrader
-- torchrecurrent
-- kaq-quant-common
-- flotorch
-- konduktor-nightly
-- odoo-addon-web-pivot-computed-measure
-- odoo-addon-web-systray-button-init-action
-- pyarchernet
-- climatrix
-- wagtail-3display
-- x-4357-make-github-visitor-x
-- x-4357-make-pip-updates-x
-- x-4357-make-github-clones-x
-- x-4357-make-pypi-x
-- stigg-api-client-v2
-- x-4357-make-persistent-env-var-x
