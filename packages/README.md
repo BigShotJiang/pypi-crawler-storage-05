@@ -1,23 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-11T23:11:48.889043
-- **Total Packages**: 82
-- **Total Size**: 25.33 MB
+- **Download Time**: 2025-09-11T23:27:26.070341
+- **Total Packages**: 78
+- **Total Size**: 14.36 MB
 
 ## Packages List
+- galaxy-py-proc
+- pulumi
+- lusid-sdk
+- GameSentenceMiner
+- authentik-client
+- konduktor-nightly
+- galaxy-py-cmd
+- django-ragamuffin
+- credtools
+- ninja-kafka-sdk
+- xl-engine
+- burla
+- neurograd
+- fwdi
+- arpakitlib
+- sportsball
+- galaxy-py-app
+- hbrowser
+- workbench
+- zha
+- bandu
+- sqlmesh
+- kicad-symbol-tool
+- pevx
+- termtap
 - ecoscape-utilities
 - sglang
 - ECOv002-calval-tables
 - tritonparse
 - galaxy-py-comm
 - satviz
-- fwdi
-- authentik-client
 - tty-egpf-monitor
-- galaxy-py-cmd
 - mknodes
-- kicad-symbol-tool
 - appmesh
 - segmentation-skeleton-metrics
 - flwr-nightly
@@ -27,9 +48,7 @@
 - pathling
 - chuk-virtual-shell
 - autumn-py
-- sportsball
 - opensearch-protobufs
-- arpakitlib
 - aparavi-dtc-sdk
 - galaxy-py-report
 - milieux
@@ -40,7 +59,6 @@
 - mypy
 - azure-core
 - nuql
-- ninja-kafka-sdk
 - sibi-dst
 - galaxy-py-net
 - mediaComp
@@ -66,25 +84,3 @@
 - postprocessing-seismo-lib
 - databricks-vectorsearch
 - aind-dynamic-foraging-data-utils
-- sqlmesh
-- fprime-tools
-- neurograd
-- collinear
-- superquantx
-- niti
-- django-ragamuffin
-- figpack
-- nextmv
-- aws-lambda-artifact-builder
-- chromadb
-- chalkpy
-- neon-skill-weather
-- phidget22
-- edgartools
-- aioprogress
-- ethereum-rpc-fingerprinter
-- blockchyp
-- bench-sdk
-- devsecops-engine-tools
-- sparclclient
-- lookup-license
