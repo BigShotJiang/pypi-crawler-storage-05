@@ -1,11 +1,11 @@
 {
   "name": "pyrbd",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Package for creating simple reliability block diagrams (RBDs) using LaTeX and TikZ.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyrbd-0.3.1.tar.gz",
-  "download_time": "2025-09-09T20:11:33.938000",
+  "download_filename": "pyrbd-0.3.2.tar.gz",
+  "download_time": "2025-09-11T20:30:11.811500",
   "package_url": "https://pypi.org/project/pyrbd/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tutor-contrib-owly",
-  "version": "19.1.0",
+  "version": "19.1.1",
   "summary": "Bring the power of AI to Open edX with Owly!",
   "author": "Andres Gonzalez",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "tutor_contrib_owly-19.1.0-py3-none-any.whl",
-  "download_time": "2025-09-08T19:33:11.796066",
+  "download_filename": "tutor_contrib_owly-19.1.1.tar.gz",
+  "download_time": "2025-09-11T20:29:49.521006",
   "package_url": "https://pypi.org/project/tutor-contrib-owly/"
 }

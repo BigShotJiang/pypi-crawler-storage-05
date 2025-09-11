@@ -1,0 +1,11 @@
+{
+  "name": "switchlang",
+  "version": "0.1.1",
+  "summary": "Adds switch blocks to the Python language.",
+  "author": "Michael Kennedy",
+  "license": "MIT",
+  "home_page": "https://github.com/mikeckennedy/python-switch",
+  "download_filename": "switchlang-0.1.1.tar.gz",
+  "download_time": "2025-09-11T20:30:01.779863",
+  "package_url": "https://pypi.org/project/switchlang/"
+}

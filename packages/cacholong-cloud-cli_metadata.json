@@ -1,11 +1,11 @@
 {
   "name": "cacholong-cloud-cli",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "Cacholong CLI, manage cloud environments at Cacholong!",
   "author": "Matthijs Möhlmann",
   "license": null,
   "home_page": null,
-  "download_filename": "cacholong_cloud_cli-0.3.1.tar.gz",
-  "download_time": "2025-09-11T19:24:13.453806",
+  "download_filename": "cacholong_cloud_cli-0.3.3.tar.gz",
+  "download_time": "2025-09-11T20:30:03.887103",
   "package_url": "https://pypi.org/project/cacholong-cloud-cli/"
 }

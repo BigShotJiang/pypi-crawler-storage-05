@@ -1,0 +1,11 @@
+{
+  "name": "wpat",
+  "version": "2.1",
+  "summary": "WPAT (WordPress Professional Audit Tool) es una herramienta de auditoría de seguridad para WordPress que detecta vulnerabilidades comunes y expone riesgos de manera eficiente.",
+  "author": "Santitub",
+  "license": "GPLv3",
+  "home_page": "https://github.com/Santitub/WPAT",
+  "download_filename": "wpat-2.1.tar.gz",
+  "download_time": "2025-09-11T20:29:39.978682",
+  "package_url": "https://pypi.org/project/wpat/"
+}
