@@ -1,0 +1,11 @@
+{
+  "name": "PythonAPIClientBase",
+  "version": "0.0.16",
+  "summary": "Base classes for APIClients",
+  "author": "Robert Metcalf",
+  "license": "MIT",
+  "home_page": "https://github.com/rmetcalf9/PythonAPIClientBase",
+  "download_filename": "pythonapiclientbase-0.0.16.tar.gz",
+  "download_time": "2025-09-11T16:50:23.653114",
+  "package_url": "https://pypi.org/project/PythonAPIClientBase/"
+}

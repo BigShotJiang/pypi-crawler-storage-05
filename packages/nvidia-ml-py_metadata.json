@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-ml-py",
+  "version": "13.580.82",
+  "summary": "Python Bindings for the NVIDIA Management Library",
+  "author": "NVIDIA Corporation",
+  "license": "BSD",
+  "home_page": "https://forums.developer.nvidia.com",
+  "download_filename": "nvidia_ml_py-13.580.82.tar.gz",
+  "download_time": "2025-09-11T16:50:24.199667",
+  "package_url": "https://pypi.org/project/nvidia-ml-py/"
+}

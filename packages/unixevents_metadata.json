@@ -1,11 +1,11 @@
 {
   "name": "unixevents",
-  "version": "0.0.1",
-  "summary": "A small example package",
+  "version": "0.0.2",
+  "summary": "Unixevents is a lightweight inter-process communication (IPC) library available in both JavaScript (Node.js) and Python. It enables real-time, event-driven communication across processes or applications — regardless of the language they are written in.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "unixevents-0.0.1.tar.gz",
-  "download_time": "2025-09-11T14:13:13.033301",
+  "download_filename": "unixevents-0.0.2.tar.gz",
+  "download_time": "2025-09-11T16:50:37.915666",
   "package_url": "https://pypi.org/project/unixevents/"
 }

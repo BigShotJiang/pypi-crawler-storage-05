@@ -1,0 +1,11 @@
+{
+  "name": "leme",
+  "version": "1.0.4",
+  "summary": "CLI for automatic DevOps environment configuration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "leme-1.0.4.tar.gz",
+  "download_time": "2025-09-11T16:50:20.362874",
+  "package_url": "https://pypi.org/project/leme/"
+}

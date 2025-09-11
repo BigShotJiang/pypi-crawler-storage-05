@@ -1,0 +1,11 @@
+{
+  "name": "mydb2",
+  "version": "0.1.0",
+  "summary": "mydb2, slackbot for db2 developers",
+  "author": "Stefan Patroi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mydb2-0.1.0.tar.gz",
+  "download_time": "2025-09-11T16:50:25.281870",
+  "package_url": "https://pypi.org/project/mydb2/"
+}
