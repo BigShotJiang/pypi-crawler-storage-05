@@ -1,11 +1,11 @@
 {
   "name": "simple-carla",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "summary": "An easy-to-use, object-oriented interface to the carla plugin host.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "simple_carla-2.3.0.tar.gz",
-  "download_time": "2025-09-11T07:29:35.901707",
+  "download_filename": "simple_carla-2.3.1.tar.gz",
+  "download_time": "2025-09-11T07:37:31.189343",
   "package_url": "https://pypi.org/project/simple-carla/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "finter-agent",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Quantitative research platform CLI with specialized agents for various research types",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "finter_agent-0.1.0.tar.gz",
-  "download_time": "2025-09-11T04:34:58.267991",
+  "download_filename": "finter_agent-0.1.1.tar.gz",
+  "download_time": "2025-09-11T07:37:44.522877",
   "package_url": "https://pypi.org/project/finter-agent/"
 }

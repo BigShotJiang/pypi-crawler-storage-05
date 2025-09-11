@@ -1,11 +1,11 @@
 {
   "name": "stackit-stackitmarketplace",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "summary": "STACKIT Marketplace API",
   "author": "STACKIT Developer Tools",
   "license": null,
   "home_page": "https://github.com/stackitcloud/stackit-sdk-python",
-  "download_filename": "stackit_stackitmarketplace-1.8.0.tar.gz",
-  "download_time": "2025-09-08T14:50:51.790165",
+  "download_filename": "stackit_stackitmarketplace-1.9.0.tar.gz",
+  "download_time": "2025-09-11T07:37:37.117512",
   "package_url": "https://pypi.org/project/stackit-stackitmarketplace/"
 }

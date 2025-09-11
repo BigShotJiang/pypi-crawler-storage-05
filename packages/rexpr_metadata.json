@@ -1,0 +1,11 @@
+{
+  "name": "rexpr",
+  "version": "1.0.0",
+  "summary": "Get the source code string of an expression and optionally evalute it.",
+  "author": "JoniKauf",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rexpr-1.0.0.tar.gz",
+  "download_time": "2025-09-11T07:37:42.361338",
+  "package_url": "https://pypi.org/project/rexpr/"
+}

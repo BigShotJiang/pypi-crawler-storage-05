@@ -1,11 +1,11 @@
 {
   "name": "imxInsights",
-  "version": "0.2.2a5",
+  "version": "0.2.2a6",
   "summary": "python imx insights module to get information from imx files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "imxinsights-0.2.2a5.tar.gz",
-  "download_time": "2025-09-08T15:10:28.584997",
+  "download_filename": "imxinsights-0.2.2a6-py3-none-any.whl",
+  "download_time": "2025-09-11T07:37:30.661285",
   "package_url": "https://pypi.org/project/imxInsights/"
 }

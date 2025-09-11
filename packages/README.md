@@ -1,17 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-11T07:29:52.562491
-- **Total Packages**: 67
-- **Total Size**: 12.01 MB
+- **Download Time**: 2025-09-11T07:38:09.189623
+- **Total Packages**: 72
+- **Total Size**: 19.67 MB
 
 ## Packages List
+- imxInsights
+- simple-carla
+- territories-dashboard-lib
+- legit-api-client
+- aws-sherlock
+- authentik-client
+- funpush
+- strot
+- core-system-grpc
+- qdrant-loader
+- stackit-stackitmarketplace
+- stackit-cdn
+- qdrant-loader-mcp-server
+- venvmngr
+- qdrant-loader-core
+- facets-module-mcp
+- cellpose-plus
+- pyZlBus2
+- ZlBusApi
+- dockvirt
+- rexpr
+- neurograd
+- pulumi-oci
 - unrealon
 - finter-agent
 - pharia-telemetry
 - smartutils-py
 - fraiseql
-- authentik-client
 - fyuneru
 - cartographer3d-plugin
 - ipgs
@@ -20,7 +42,6 @@
 - crewplus
 - gdsfactoryplus
 - ketacli
-- neurograd
 - fancymaps
 - sautech
 - nucliadb-admin-assets
@@ -38,11 +59,9 @@
 - hadron-mcp-sse
 - pymobiledevice3
 - arkindex-base-worker
-- core-system-grpc
 - mcp-mysql-server-licai-czg-202509111517-9baa6c-202509111516-735609-20250911-e5ceb8
 - local-connect
 - cirq-web
-- simple-carla
 - cirq
 - cirq-google
 - cirq-core
@@ -59,17 +78,3 @@
 - mapvu
 - fractal-server
 - secspp
-- excepting
-- alibabacloud-anytrans20250707
-- pulumi-okta
-- jupyterlab-a11y-checker
-- HowdenPipeline
-- streamlit-nightly
-- tf-models-nightly
-- pulumi-cloudflare
-- openobd
-- pydra-tasks-fsl
-- ibm-aigov-facts-client
-- ratatui-py
-- localstack-core
-- pulumi-vault
