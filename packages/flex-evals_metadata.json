@@ -1,11 +1,11 @@
 {
   "name": "flex-evals",
-  "version": "0.3.4",
+  "version": "0.3.6",
   "summary": "A flexible evaluation framework for testing and validating AI systems, LLMs, and APIs with structured checks and async support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flex_evals-0.3.4.tar.gz",
-  "download_time": "2025-09-10T21:56:02.978381",
+  "download_filename": "flex_evals-0.3.6.tar.gz",
+  "download_time": "2025-09-11T03:09:54.279015",
   "package_url": "https://pypi.org/project/flex-evals/"
 }

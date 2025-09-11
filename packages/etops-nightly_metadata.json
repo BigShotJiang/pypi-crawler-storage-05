@@ -1,0 +1,11 @@
+{
+  "name": "etops-nightly",
+  "version": "25.7.0.post1",
+  "summary": "Einsum tree operations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "etops_nightly-25.7.0.post1-cp310-cp310-macosx_14_0_arm64.whl",
+  "download_time": "2025-09-11T03:09:49.521494",
+  "package_url": "https://pypi.org/project/etops-nightly/"
+}

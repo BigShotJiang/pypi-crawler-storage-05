@@ -1,0 +1,11 @@
+{
+  "name": "wolfapix",
+  "version": "0.1.0",
+  "summary": "Python async port of wolf.js",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wolfapix-0.1.0.tar.gz",
+  "download_time": "2025-09-11T03:10:11.265104",
+  "package_url": "https://pypi.org/project/wolfapix/"
+}

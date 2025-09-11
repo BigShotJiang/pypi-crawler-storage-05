@@ -1,11 +1,11 @@
 {
   "name": "x-4357-make-pypi-x",
-  "version": "0.0.0",
+  "version": "0.2.0",
   "summary": "Makes PyPI packages.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "x_4357_make_pypi_x-0.0.0.tar.gz",
-  "download_time": "2025-09-11T02:16:01.071725",
+  "download_filename": "x_4357_make_pypi_x-0.2.0.tar.gz",
+  "download_time": "2025-09-11T03:09:42.866693",
   "package_url": "https://pypi.org/project/x-4357-make-pypi-x/"
 }

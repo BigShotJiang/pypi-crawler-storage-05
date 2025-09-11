@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-invoice-constraint-chronology",
+  "version": "18.0.1.0.1.1",
+  "summary": "Account Invoice Constraint Chronology",
+  "author": "Odoo Community Association (OCA), ACSONE SA/NV, CorporateHub",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-financial-tools",
+  "download_filename": "odoo_addon_account_invoice_constraint_chronology-18.0.1.0.1.1-py3-none-any.whl",
+  "download_time": "2025-09-11T03:10:01.430798",
+  "package_url": "https://pypi.org/project/odoo-addon-account-invoice-constraint-chronology/"
+}
