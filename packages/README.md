@@ -1,19 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-11T23:27:26.070341
-- **Total Packages**: 78
-- **Total Size**: 14.36 MB
+- **Download Time**: 2025-09-11T23:35:18.035639
+- **Total Packages**: 76
+- **Total Size**: 0.63 MB
 
 ## Packages List
-- galaxy-py-proc
-- pulumi
-- lusid-sdk
-- GameSentenceMiner
-- authentik-client
-- konduktor-nightly
-- galaxy-py-cmd
-- django-ragamuffin
 - credtools
 - ninja-kafka-sdk
 - xl-engine
@@ -31,13 +23,16 @@
 - kicad-symbol-tool
 - pevx
 - termtap
+- galaxy-py-proc
 - ecoscape-utilities
 - sglang
 - ECOv002-calval-tables
 - tritonparse
 - galaxy-py-comm
 - satviz
+- authentik-client
 - tty-egpf-monitor
+- galaxy-py-cmd
 - mknodes
 - appmesh
 - segmentation-skeleton-metrics
@@ -84,3 +79,6 @@
 - postprocessing-seismo-lib
 - databricks-vectorsearch
 - aind-dynamic-foraging-data-utils
+- fprime-tools
+- collinear
+- superquantx

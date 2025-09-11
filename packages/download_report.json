@@ -1,16 +1,8 @@
 {
-  "download_time": "2025-09-11T23:27:26.070341",
-  "total_packages_downloaded": 78,
-  "total_size_mb": 14.36,
+  "download_time": "2025-09-11T23:35:18.035639",
+  "total_packages_downloaded": 76,
+  "total_size_mb": 0.63,
   "packages": [
-    "galaxy-py-proc",
-    "pulumi",
-    "lusid-sdk",
-    "GameSentenceMiner",
-    "authentik-client",
-    "konduktor-nightly",
-    "galaxy-py-cmd",
-    "django-ragamuffin",
     "credtools",
     "ninja-kafka-sdk",
     "xl-engine",
@@ -28,13 +20,16 @@
     "kicad-symbol-tool",
     "pevx",
     "termtap",
+    "galaxy-py-proc",
     "ecoscape-utilities",
     "sglang",
     "ECOv002-calval-tables",
     "tritonparse",
     "galaxy-py-comm",
     "satviz",
+    "authentik-client",
     "tty-egpf-monitor",
+    "galaxy-py-cmd",
     "mknodes",
     "appmesh",
     "segmentation-skeleton-metrics",
@@ -80,6 +75,9 @@
     "nsidc-metgenc",
     "postprocessing-seismo-lib",
     "databricks-vectorsearch",
-    "aind-dynamic-foraging-data-utils"
+    "aind-dynamic-foraging-data-utils",
+    "fprime-tools",
+    "collinear",
+    "superquantx"
   ]
 }
