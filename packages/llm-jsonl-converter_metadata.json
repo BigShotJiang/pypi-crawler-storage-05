@@ -1,0 +1,11 @@
+{
+  "name": "llm-jsonl-converter",
+  "version": "2025.9.111434",
+  "summary": "A Python package for converting unstructured text into JSONL format using LLMs.",
+  "author": "Eugene Evstafev",
+  "license": "MIT",
+  "home_page": "https://github.com/chigwell/llm_jsonl_converter",
+  "download_filename": "llm_jsonl_converter-2025.9.111434.tar.gz",
+  "download_time": "2025-09-11T13:48:59.230298",
+  "package_url": "https://pypi.org/project/llm-jsonl-converter/"
+}

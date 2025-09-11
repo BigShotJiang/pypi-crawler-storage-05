@@ -1,11 +1,11 @@
 {
   "name": "yeref",
-  "version": "0.28.61",
+  "version": "0.28.62",
   "summary": "desc-f",
   "author": "john smith",
   "license": null,
   "home_page": null,
-  "download_filename": "yeref-0.28.61.tar.gz",
-  "download_time": "2025-09-11T11:09:35.356218",
+  "download_filename": "yeref-0.28.62.tar.gz",
+  "download_time": "2025-09-11T13:49:06.690632",
   "package_url": "https://pypi.org/project/yeref/"
 }

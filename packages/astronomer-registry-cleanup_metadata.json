@@ -1,0 +1,11 @@
+{
+  "name": "astronomer-registry-cleanup",
+  "version": "0.1.2",
+  "summary": "A command-line tool for managing Docker registry cleanup operations in Astronomer environments",
+  "author": null,
+  "license": "All Rights Reserved\n        \n        Copyright (c) 2021 Astronomer, LLC\n        \n        Created by Astronomer, LLC\n        \n        THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n        FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE\n        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\n        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\n        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\n        THE SOFTWARE.",
+  "home_page": null,
+  "download_filename": "astronomer_registry_cleanup-0.1.2.tar.gz",
+  "download_time": "2025-09-11T13:49:11.495091",
+  "package_url": "https://pypi.org/project/astronomer-registry-cleanup/"
+}

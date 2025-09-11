@@ -1,0 +1,11 @@
+{
+  "name": "arcade-clickup",
+  "version": "1.0.3",
+  "summary": "Arcade.dev LLM tools for interacting with ClickUp",
+  "author": null,
+  "license": "Proprietary - Arcade Software License Agreement v1.0",
+  "home_page": null,
+  "download_filename": "arcade_clickup-1.0.3-py3-none-any.whl",
+  "download_time": "2025-09-11T13:48:37.497362",
+  "package_url": "https://pypi.org/project/arcade-clickup/"
+}

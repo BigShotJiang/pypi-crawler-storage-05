@@ -1,0 +1,11 @@
+{
+  "name": "mcp-salesforce",
+  "version": "0.1.3",
+  "summary": "MCP server for Salesforce",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_salesforce-0.1.3.tar.gz",
+  "download_time": "2025-09-11T13:48:56.632965",
+  "package_url": "https://pypi.org/project/mcp-salesforce/"
+}

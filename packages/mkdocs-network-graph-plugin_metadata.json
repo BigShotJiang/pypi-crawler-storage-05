@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-network-graph-plugin",
+  "version": "1.0.1",
+  "summary": "A MkDocs plugin to generate an interactive graph of your documentation.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mkdocs_network_graph_plugin-1.0.1-py3-none-any.whl",
+  "download_time": "2025-09-11T13:48:58.190349",
+  "package_url": "https://pypi.org/project/mkdocs-network-graph-plugin/"
+}
