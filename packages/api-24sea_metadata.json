@@ -1,0 +1,11 @@
+{
+  "name": "api-24sea",
+  "version": "2.1.2",
+  "summary": "Facilitate the users' interaction with the 24SEA API (https://api/24sea/eu) by providing pandas interfaces to the API endpoints.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "api_24sea-2.1.2.tar.gz",
+  "download_time": "2025-09-11T23:48:34.750952",
+  "package_url": "https://pypi.org/project/api-24sea/"
+}

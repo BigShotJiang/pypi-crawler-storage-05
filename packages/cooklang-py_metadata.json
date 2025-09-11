@@ -1,0 +1,11 @@
+{
+  "name": "cooklang-py",
+  "version": "0.3.2",
+  "summary": "Python Parser for Cooklang",
+  "author": "Dan Shernicoff",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cooklang_py-0.3.2.tar.gz",
+  "download_time": "2025-09-11T23:48:35.799456",
+  "package_url": "https://pypi.org/project/cooklang-py/"
+}
