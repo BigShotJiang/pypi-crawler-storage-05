@@ -1,0 +1,11 @@
+{
+  "name": "python-vcon",
+  "version": "0.6.0",
+  "summary": "vCon conversational data container manipulation package",
+  "author": "Dan Petrie",
+  "license": "MIT",
+  "home_page": "http://github.com/py-vcon/py-vcon",
+  "download_filename": "python_vcon-0.6.0.tar.gz",
+  "download_time": "2025-09-11T20:38:54.434953",
+  "package_url": "https://pypi.org/project/python-vcon/"
+}

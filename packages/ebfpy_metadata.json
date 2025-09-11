@@ -1,0 +1,11 @@
+{
+  "name": "ebfpy",
+  "version": "0.0.40",
+  "summary": "a module to read and write .ebf files (efficient and easy to use binary format) for python 2 and 3 ",
+  "author": "Sanjib Sharma",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ebfpy-0.0.40.tar.gz",
+  "download_time": "2025-09-11T20:38:46.595966",
+  "package_url": "https://pypi.org/project/ebfpy/"
+}

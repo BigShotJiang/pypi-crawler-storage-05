@@ -1,27 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-11T20:30:23.303717
-- **Total Packages**: 89
-- **Total Size**: 35.01 MB
+- **Download Time**: 2025-09-11T20:39:39.213966
+- **Total Packages**: 88
+- **Total Size**: 10.84 MB
 
 ## Packages List
+- ebfpy
+- postprocessing-seismo-lib
+- rasters
+- nominal-api-protos
+- nominal-api
+- authentik-client
+- dr-web-engine
+- profiler-runit
+- moose-lib
+- arranges
+- jupyter-server-mcp
+- nanodjango
+- python-vcon
+- bioio-nd2
+- justllms
+- PropertyBackendApiClient
+- snowflake-ml-python
+- standardbots
+- skyblock-repo
+- rcsb.workflow
+- netimport
+- fts-tool
+- chess-tournament
+- oneroll
+- promptix
 - gustavo-pacote-processamento-imagens
 - fastgps
 - klaviyo-mcp-server
 - m4rkw-tracing
 - qmcpy
-- nominal-api-protos
-- nominal-api
 - chaiverse
 - wpat
-- jupyter-server-mcp
 - clinicedc
-- authentik-client
 - pwpy-db
 - NL2SQLEvaluator
 - pyaurorax
-- skyblock-repo
 - langchain-prompty
 - ai-ebash
 - scrapeer
@@ -31,7 +51,6 @@
 - clinicedc-tests
 - arpakitlib
 - oldaplib
-- postprocessing-seismo-lib
 - tutor-contrib-owly
 - pco-calendar
 - c2cgeoportal-admin
@@ -61,7 +80,6 @@
 - cacholong-cloud-cli
 - ansys-turbogrid-api
 - ni.measurementlink.sessionmanagement.v1.client
-- PropertyBackendApiClient
 - pyglobcmp
 - langchain-nomic
 - wx-logs
@@ -76,22 +94,3 @@
 - pyrbd
 - assemblyline-service-client
 - bbot
-- google-ngrams
-- pkn
-- b10-transfer
-- py2dag
-- quivr
-- sciform
-- zerottmm
-- safentic
-- nens-meta
-- x6c1
-- xulbux
-- atlas-schema
-- neurograd
-- water-column-sonar-resampling
-- canfar
-- nba_api
-- mcp-ui
-- fused
-- ai-lls-lib

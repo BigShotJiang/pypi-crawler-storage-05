@@ -1,0 +1,11 @@
+{
+  "name": "netimport",
+  "version": "0.0.6",
+  "summary": "NetImport: Python Project Architecture Analyzer via Import Graphs",
+  "author": "Beilak Aliev",
+  "license": "MIT",
+  "home_page": "https://github.com/beilak/netimport",
+  "download_filename": "netimport-0.0.6.tar.gz",
+  "download_time": "2025-09-11T20:38:59.291238",
+  "package_url": "https://pypi.org/project/netimport/"
+}
