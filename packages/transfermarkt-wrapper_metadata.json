@@ -1,0 +1,11 @@
+{
+  "name": "transfermarkt-wrapper",
+  "version": "0.0.7",
+  "summary": "Python API wrapper for Transfermarkt undocumented API",
+  "author": "tommhe14",
+  "license": "MIT",
+  "home_page": "https://github.com/tommhe14/transfermarkt-wrapper",
+  "download_filename": "transfermarkt_wrapper-0.0.7.tar.gz",
+  "download_time": "2025-09-11T20:48:54.430957",
+  "package_url": "https://pypi.org/project/transfermarkt-wrapper/"
+}

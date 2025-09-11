@@ -1,0 +1,11 @@
+{
+  "name": "jarvis-ha-plugin",
+  "version": "0.1.0",
+  "summary": "This is a plugin that manages the interactions with Homeassistant.",
+  "author": "Samuel Lewis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jarvis_ha_plugin-0.1.0.tar.gz",
+  "download_time": "2025-09-11T20:48:45.827877",
+  "package_url": "https://pypi.org/project/jarvis-ha-plugin/"
+}

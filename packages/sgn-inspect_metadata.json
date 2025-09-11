@@ -1,0 +1,11 @@
+{
+  "name": "sgn-inspect",
+  "version": "0.1.0",
+  "summary": "Discover and inspect SGN elements and plugins",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sgn_inspect-0.1.0.tar.gz",
+  "download_time": "2025-09-11T20:49:01.741163",
+  "package_url": "https://pypi.org/project/sgn-inspect/"
+}

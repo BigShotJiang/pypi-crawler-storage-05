@@ -1,11 +1,11 @@
 {
   "name": "pytopspeed-modernized",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "Modernized pytopspeed library for converting TopSpeed database files to SQLite",
   "author": "Greg Easley",
   "license": "MIT",
   "home_page": "https://github.com/gregeasley/pytopspeed_modernized",
-  "download_filename": "pytopspeed_modernized-1.1.1.tar.gz",
-  "download_time": "2025-09-11T19:09:30.012403",
+  "download_filename": "pytopspeed_modernized-1.1.2.tar.gz",
+  "download_time": "2025-09-11T20:48:44.266348",
   "package_url": "https://pypi.org/project/pytopspeed-modernized/"
 }

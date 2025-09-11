@@ -1,11 +1,11 @@
 {
   "name": "ECOv003-L3T-L4T-JET",
-  "version": "1.7.4",
+  "version": "1.8.0",
   "summary": "ECOSTRESS Collection 3 JPL Evapotranspiration (JET) Product Generating Executable (PGE)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ecov003_l3t_l4t_jet-1.7.4.tar.gz",
-  "download_time": "2025-09-08T20:47:54.316607",
+  "download_filename": "ecov003_l3t_l4t_jet-1.8.0.tar.gz",
+  "download_time": "2025-09-11T20:48:44.788073",
   "package_url": "https://pypi.org/project/ECOv003-L3T-L4T-JET/"
 }
