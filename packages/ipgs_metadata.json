@@ -1,0 +1,11 @@
+{
+  "name": "ipgs",
+  "version": "0.1.0",
+  "summary": "Interactive Progress Bar for Jupyter Notebooks with Visual Flair",
+  "author": "Abolfazl",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ipgs-0.1.0.tar.gz",
+  "download_time": "2025-09-11T03:41:27.905133",
+  "package_url": "https://pypi.org/project/ipgs/"
+}

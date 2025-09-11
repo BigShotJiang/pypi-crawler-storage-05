@@ -1,0 +1,11 @@
+{
+  "name": "pyarmor.cli.core.linux",
+  "version": "7.6.8",
+  "summary": "Provide pre-built extension modules `pytransform3` and `pyarmor_runtime` for Pyarmor",
+  "author": "Jondy Zhao",
+  "license": "Free To Use But Restricted",
+  "home_page": "https://github.com/dashingsoft/pyarmor",
+  "download_filename": "pyarmor_cli_core_linux-7.6.8-cp310-none-any.whl",
+  "download_time": "2025-09-11T03:41:40.108502",
+  "package_url": "https://pypi.org/project/pyarmor.cli.core.linux/"
+}
