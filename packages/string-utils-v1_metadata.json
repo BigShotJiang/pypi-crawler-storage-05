@@ -1,11 +1,11 @@
 {
   "name": "string-utils-v1",
-  "version": "1.1.0",
-  "summary": "A simple Python package for string utility functions koro sob gulai",
+  "version": "1.2.0",
+  "summary": "A simple Python package for string utility functions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "string_utils_v1-1.1.0.tar.gz",
-  "download_time": "2025-09-11T04:14:49.172029",
+  "download_filename": "string_utils_v1-1.2.0.tar.gz",
+  "download_time": "2025-09-11T04:34:54.570970",
   "package_url": "https://pypi.org/project/string-utils-v1/"
 }

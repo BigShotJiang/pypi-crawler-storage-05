@@ -1,11 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-11T04:15:24.702874
-- **Total Packages**: 65
-- **Total Size**: 6.42 MB
+- **Download Time**: 2025-09-11T04:35:24.912413
+- **Total Packages**: 68
+- **Total Size**: 35.54 MB
 
 ## Packages List
+- minecraft-datapack-language
+- model-mp-io
+- drok-xyt01
+- model-mp-core
+- weather-decoder
+- ncmi-idc-extract-interfaces
+- svc-infra
+- openbb-akshare
+- mpremote
+- tomwer
+- gekim
+- simple-math-v1
+- pdf-tools-v1
+- authentik-client
+- string-utils-v1
+- paas-charm
+- langchain-trigger-server
+- trainy-policy-nightly
+- yz-rpa-utils
+- MeUtils
+- pyghidra-mcp
+- finter-agent
+- code-puppy
+- flavorpack
+- dropblock-cli
+- XRO
+- rxfoundry.clients.swifty_api
+- rxfoundry.clients.swifty_oauth_api
+- robhan-cdk-lib.aws-aps
+- ahqstore-cli
+- robhan-cdk-lib.aws-grafana
+- vendor-grab
+- qti2latex
+- robhan-cdk-lib.utils
+- threepio-test-runner
+- decentral-service
 - mcp-server-tester
 - paddleformers
 - os-normalizer
@@ -13,11 +49,6 @@
 - pulumi-provider-boilerplate
 - pydartsnut
 - superb-ai-onprem
-- authentik-client
-- dropblock-cli
-- simple-math-v1
-- pdf-tools-v1
-- string-utils-v1
 - BoschRpaMagicBox
 - pulumi-databricks
 - vectorvein
@@ -26,48 +57,20 @@
 - mcpcn-split-screen-mcp
 - nxva
 - pulumi-xyz
-- ahqstore-cli
 - chromedriver-binary
 - quarktorch
 - robotframework-schemathesislibrary
 - nebula-client
 - pulumi-digitalocean
-- code-puppy
 - semantic-copycat-purl2notices
 - dash-gantt
 - ipgs
 - pkscreener
 - trilium-py
 - mdp-core
-- decentral-service
 - py-lerchs-grossmann
 - pythonbpf
 - microtrax
 - pulumi-harness
 - janaf
 - abacustest
-- qti2latex
-- ausikor-common
-- pulumi-linode
-- drok-xyt01
-- funpush
-- MaxCleanerDB
-- containers-sugar
-- lbrlabs-pulumi-tailscalebastion
-- dycw-pre-commit-hooks
-- simple-tracker-redis
-- x-4357-make-github-visitor-x
-- x-4357-make-pip-updates-x
-- x-4357-make-github-clones-x
-- x-4357-make-pypi-x
-- x-4357-make-persistent-env-var-x
-- py-encase
-- x-4357-make-markdown-x
-- x-4357-make-yahw-x
-- x-4357-make-graphviz-x
-- x-4357-make-mermaid-x
-- x-4357-make-py-mod-sideload-x
-- pipen
-- sequins-inventory-tool
-- cdktf-cdktf-provider-databricks
-- bcmd

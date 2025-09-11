@@ -1,0 +1,11 @@
+{
+  "name": "pyghidra-mcp",
+  "version": "0.1.9",
+  "summary": "Python Command-Line Ghidra MCP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyghidra_mcp-0.1.9.tar.gz",
+  "download_time": "2025-09-11T04:34:57.750011",
+  "package_url": "https://pypi.org/project/pyghidra-mcp/"
+}

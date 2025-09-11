@@ -1,11 +1,11 @@
 {
   "name": "dropblock-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A cross-platform CLI tool to ignore files and folders in Dropbox",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dropblock_cli-1.0.1.tar.gz",
-  "download_time": "2025-09-11T04:14:47.342299",
+  "download_filename": "dropblock_cli-1.0.2.tar.gz",
+  "download_time": "2025-09-11T04:34:59.864054",
   "package_url": "https://pypi.org/project/dropblock-cli/"
 }
