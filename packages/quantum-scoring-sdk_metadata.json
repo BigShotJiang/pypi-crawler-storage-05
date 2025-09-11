@@ -1,11 +1,11 @@
 {
   "name": "quantum-scoring-sdk",
-  "version": "0.3.0",
-  "summary": "Quantum-native framework with IBM Quantum hardware support",
+  "version": "0.3.2",
+  "summary": "Quantum-native framework with IBM Quantum hardware support and enterprise license control",
   "author": "Jaime Alexander Jimenez Lozano",
   "license": null,
   "home_page": null,
-  "download_filename": "quantum-scoring-sdk-0.3.0.tar.gz",
-  "download_time": "2025-09-09T19:24:00.292869",
+  "download_filename": "quantum-scoring-sdk-0.3.2.tar.gz",
+  "download_time": "2025-09-11T18:37:51.442772",
   "package_url": "https://pypi.org/project/quantum-scoring-sdk/"
 }

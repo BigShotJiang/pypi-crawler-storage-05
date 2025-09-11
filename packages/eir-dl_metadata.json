@@ -1,0 +1,11 @@
+{
+  "name": "eir-dl",
+  "version": "0.22.0",
+  "summary": "Deep learning framework for genomics and multi-modal data",
+  "author": "Arnór Ingi Sigurðsson",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "eir_dl-0.22.0-py3-none-any.whl",
+  "download_time": "2025-09-11T18:37:25.138195",
+  "package_url": "https://pypi.org/project/eir-dl/"
+}

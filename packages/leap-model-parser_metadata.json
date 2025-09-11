@@ -1,11 +1,11 @@
 {
   "name": "leap-model-parser",
-  "version": "0.1.215",
+  "version": "0.1.218",
   "summary": null,
   "author": "idan",
   "license": "MIT",
   "home_page": "https://github.com/tensorleap/leap-model-parser",
-  "download_filename": "leap_model_parser-0.1.215.tar.gz",
-  "download_time": "2025-09-09T08:40:12.189635",
+  "download_filename": "leap_model_parser-0.1.218.tar.gz",
+  "download_time": "2025-09-11T18:37:31.770019",
   "package_url": "https://pypi.org/project/leap-model-parser/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-clickhouse20230522",
+  "version": "1.1.1",
+  "summary": "Alibaba Cloud ClickHouse (20230522) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_clickhouse20230522-1.1.1.tar.gz",
+  "download_time": "2025-09-11T18:37:20.119894",
+  "package_url": "https://pypi.org/project/alibabacloud-clickhouse20230522/"
+}
