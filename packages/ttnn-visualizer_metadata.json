@@ -1,11 +1,11 @@
 {
   "name": "ttnn-visualizer",
-  "version": "0.52.0",
+  "version": "0.52.1",
   "summary": "TT-NN Visualizer",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ttnn_visualizer-0.52.0-py3-none-any.whl",
-  "download_time": "2025-09-10T17:27:49.515302",
+  "download_filename": "ttnn_visualizer-0.52.1-py3-none-any.whl",
+  "download_time": "2025-09-11T19:34:47.409309",
   "package_url": "https://pypi.org/project/ttnn-visualizer/"
 }

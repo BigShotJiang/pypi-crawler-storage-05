@@ -1,11 +1,11 @@
 {
   "name": "webp3",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "summary": "Music player web app",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "webp3-1.2.1.tar.gz",
-  "download_time": "2025-09-08T19:08:15.877803",
+  "download_filename": "webp3-1.3.0.tar.gz",
+  "download_time": "2025-09-11T19:34:46.815451",
   "package_url": "https://pypi.org/project/webp3/"
 }

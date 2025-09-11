@@ -1,0 +1,11 @@
+{
+  "name": "claude-setup",
+  "version": "1.0.0",
+  "summary": "Intelligent scaffolding system for Claude Code configurations - Generate optimal .claude setups for any project",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_setup-1.0.0.tar.gz",
+  "download_time": "2025-09-11T19:34:36.438562",
+  "package_url": "https://pypi.org/project/claude-setup/"
+}

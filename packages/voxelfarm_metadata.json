@@ -1,11 +1,11 @@
 {
   "name": "voxelfarm",
-  "version": "0.0.235",
+  "version": "0.0.236",
   "summary": "Voxel Farm Python Lambdas",
   "author": "Voxel Farm",
   "license": null,
   "home_page": "https://www.voxelfarm.com/help/PythonCookbook.html",
-  "download_filename": "voxelfarm-0.0.235.tar.gz",
-  "download_time": "2025-09-11T19:09:55.679985",
+  "download_filename": "voxelfarm-0.0.236.tar.gz",
+  "download_time": "2025-09-11T19:34:40.485247",
   "package_url": "https://pypi.org/project/voxelfarm/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ig-volatus",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Python package for interacting with Volatus framework applications",
-  "author": "Derrick Bommarito",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ig_volatus-0.1.0.tar.gz",
-  "download_time": "2025-09-08T21:26:52.138441",
+  "download_filename": "ig_volatus-0.2.0.tar.gz",
+  "download_time": "2025-09-11T19:34:41.641208",
   "package_url": "https://pypi.org/project/ig-volatus/"
 }

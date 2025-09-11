@@ -1,0 +1,11 @@
+{
+  "name": "quietaudit-sdk",
+  "version": "0.1.1",
+  "summary": "Immutable audit trails for AI decisions",
+  "author": "QuietStack",
+  "license": "MIT",
+  "home_page": "https://github.com/quietstack/quietaudit-sdk",
+  "download_filename": "quietaudit_sdk-0.1.1.tar.gz",
+  "download_time": "2025-09-11T19:34:52.583891",
+  "package_url": "https://pypi.org/project/quietaudit-sdk/"
+}
