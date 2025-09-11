@@ -1,0 +1,11 @@
+{
+  "name": "cartes-dictee",
+  "version": "0.1.0",
+  "summary": "Génère des cartes de dictée imprimables à partir de fichiers CSV",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cartes_dictee-0.1.0.tar.gz",
+  "download_time": "2025-09-11T14:32:07.879990",
+  "package_url": "https://pypi.org/project/cartes-dictee/"
+}

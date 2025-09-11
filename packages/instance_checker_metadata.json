@@ -1,11 +1,11 @@
 {
   "name": "instance_checker",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "A utility module to track and limit the number of running application instances by checking processes and lock files.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "instance_checker-0.4.0.tar.gz",
-  "download_time": "2025-09-11T13:49:16.212181",
+  "download_filename": "instance_checker-0.4.1.tar.gz",
+  "download_time": "2025-09-11T14:32:10.635155",
   "package_url": "https://pypi.org/project/instance_checker/"
 }

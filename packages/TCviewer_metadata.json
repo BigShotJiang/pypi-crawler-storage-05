@@ -1,11 +1,11 @@
 {
   "name": "TCviewer",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Molecular and Surface drawing program.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "TCviewer-0.1.6.tar.gz",
-  "download_time": "2025-09-11T13:49:15.169458",
+  "download_filename": "TCviewer-0.1.7.tar.gz",
+  "download_time": "2025-09-11T14:32:03.758131",
   "package_url": "https://pypi.org/project/TCviewer/"
 }

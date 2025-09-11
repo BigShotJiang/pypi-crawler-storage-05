@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_keyprovider_vaulttransit",
+  "version": "0.9.0.dev4",
+  "summary": "Swarmauri Vault Transit Key Provider",
+  "author": "Jacob Stewart",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "swarmauri_keyprovider_vaulttransit-0.9.0.dev4.tar.gz",
+  "download_time": "2025-09-11T14:32:07.362241",
+  "package_url": "https://pypi.org/project/swarmauri_keyprovider_vaulttransit/"
+}
