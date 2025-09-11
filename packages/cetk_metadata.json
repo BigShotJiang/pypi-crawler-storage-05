@@ -1,0 +1,11 @@
+{
+  "name": "cetk",
+  "version": "0.0.7.dev0",
+  "summary": "CLAIRs Emission ToolKit cetk",
+  "author": "Christian Asker, Mattias Jakobsson, David Segersson, Eef van Dongen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cetk-0.0.7.dev0.tar.gz",
+  "download_time": "2025-09-11T12:20:09.044589",
+  "package_url": "https://pypi.org/project/cetk/"
+}

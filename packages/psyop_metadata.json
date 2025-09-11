@@ -1,0 +1,11 @@
+{
+  "name": "psyop",
+  "version": "0.1.0a5",
+  "summary": "Parameter Space Yield Optimizer",
+  "author": "Robert Turnbull",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/rbturnbull/psyop/",
+  "download_filename": "psyop-0.1.0a5.tar.gz",
+  "download_time": "2025-09-11T12:20:12.660245",
+  "package_url": "https://pypi.org/project/psyop/"
+}
