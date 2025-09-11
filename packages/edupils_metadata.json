@@ -1,0 +1,11 @@
+{
+  "name": "edupils",
+  "version": "0.1.29",
+  "summary": "A collection of educational tools for Python",
+  "author": "Georges Spyrides",
+  "license": "MIT",
+  "home_page": "https://github.com/georgesms/edupils",
+  "download_filename": "edupils-0.1.29.tar.gz",
+  "download_time": "2025-09-11T00:47:08.785137",
+  "package_url": "https://pypi.org/project/edupils/"
+}
