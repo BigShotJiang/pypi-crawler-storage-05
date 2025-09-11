@@ -1,0 +1,11 @@
+{
+  "name": "basic-open-agent-tools",
+  "version": "0.9.1",
+  "summary": "An open foundational toolkit providing essential components for building AI agents with minimal dependencies for local (non-HTTP/API) actions.",
+  "author": "Open Agent Tools",
+  "license": null,
+  "home_page": "https://github.com/open-agent-tools/basic-open-agent-tools",
+  "download_filename": "basic_open_agent_tools-0.9.1.tar.gz",
+  "download_time": "2025-09-11T17:48:39.985657",
+  "package_url": "https://pypi.org/project/basic-open-agent-tools/"
+}

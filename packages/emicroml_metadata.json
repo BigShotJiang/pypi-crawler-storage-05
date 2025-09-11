@@ -1,11 +1,11 @@
 {
   "name": "emicroml",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A Python library for training machine learning models for applications in electron microscopy.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "emicroml-0.0.1.tar.gz",
-  "download_time": "2025-09-09T05:30:18.778377",
+  "download_filename": "emicroml-0.0.2.tar.gz",
+  "download_time": "2025-09-11T17:48:33.209270",
   "package_url": "https://pypi.org/project/emicroml/"
 }

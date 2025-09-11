@@ -1,25 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-11T17:36:25.934491
-- **Total Packages**: 90
-- **Total Size**: 10.17 MB
+- **Download Time**: 2025-09-11T17:49:11.997646
+- **Total Packages**: 82
+- **Total Size**: 9.54 MB
 
 ## Packages List
+- alxhttp
+- any-agent
+- scc-firewall-manager-sdk
+- quantconnect-stubs
+- codecam
+- falconcore-agent
+- pyspark-transform-registry
+- signnow-mcp-server
+- moose-lib
+- datasurface
+- parametrix
+- emicroml
+- smooth-py
+- py3toolset
+- vunnel
+- trinity-agent-monitoring
+- zenable-mcp
+- PropertyBackendApiClient
+- pydantic-graph
+- pydantic-evals
+- pydantic-ai-slim
+- pydantic-ai-examples
+- pydantic-ai
+- clai
+- basic-open-agent-tools
+- dana
+- acryl-datahub-cloud
+- orbax-checkpoint
+- mcp
+- mini-control-arena
+- athena-intelligence
+- innocuous
+- codegen
+- odoo-addon-account-spread-cost-revenue
+- yta-editor
+- disnake
+- transformerlab-inference
+- ai-ebash
+- data-retrieval-monitor
+- cat-merge
+- vijil
+- authentik-client
 - WUADS
 - snaptrade-python-sdk
-- ai-ebash
 - chalkpy
 - readgrid
 - Avalara
 - pulumi-provider-boilerplate
 - sqlspec
-- py3toolset
 - music-drummer
 - testit-api-client
 - pyodide-mkdocs-theme
 - classifierPratik
-- pyspark-transform-registry
 - hybrid-groups
 - rust-pyfunc
 - py-adaptive
@@ -37,7 +76,6 @@
 - flowcept
 - tobiko-cloud-api-client
 - py-encase
-- authentik-client
 - tobiko-cloud-pydantic
 - latitude-sdk
 - peaq-sdk
@@ -50,49 +88,3 @@
 - rxfoundry.clients.swifty_oauth_api
 - rxfoundry.clients.swifty_api
 - everysk-lib
-- mig-dx-api
-- promptimus-chromadb-store
-- promptimus
-- sqlmesh
-- nbforager
-- LightGeometry
-- odoo14-addon-ssi-consulting
-- base-api-utils
-- atomicshop
-- ainb
-- lab2mod267128850
-- structural-starterkit
-- cyst-core
-- aegis-game
-- smooth-py
-- uipath-langchain
-- LinguAligner
-- NL2SQLEvaluator
-- metabot
-- dagster-cloud-examples
-- dagster-cloud
-- dagster-deltalake
-- ccxt
-- dagster-dbt
-- dagster-pandas
-- dagster-duckdb-pyspark
-- dagster-celery-k8s
-- dagster-datahub
-- dagster-aws
-- dagster-prometheus
-- dagster-shared
-- dagster-ssh
-- dagster-ge
-- dagster-slack
-- dagster-openai
-- dagster-spark
-- dagster-powerbi
-- dagster-pagerduty
-- dagster-mlflow
-- dagster-embedded-elt
-- hassette
-- dagster-k8s
-- dagster-fivetran
-- dagster-deltalake-pandas
-- dagster-airlift
-- passagemath-topcom
