@@ -1,11 +1,11 @@
 {
   "name": "smsaero-api",
-  "version": "3.0.1",
+  "version": "3.1.0",
   "summary": "Python client for working with SMS Aero API.",
   "author": "SMS Aero",
   "license": "MIT",
   "home_page": "https://github.com/smsaero/smsaero_python/",
-  "download_filename": "smsaero_api-3.0.1.tar.gz",
-  "download_time": "2025-09-11T10:33:35.042281",
+  "download_filename": "smsaero_api-3.1.0.tar.gz",
+  "download_time": "2025-09-11T10:48:53.769415",
   "package_url": "https://pypi.org/project/smsaero-api/"
 }

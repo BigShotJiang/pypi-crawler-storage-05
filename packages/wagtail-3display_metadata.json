@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-3display",
+  "version": "1.0.2",
+  "summary": "A tool to display different 3D GLB models in Wagtail CMS",
+  "author": "Nigel",
+  "license": "GPL-2.0-only",
+  "home_page": "https://github.com/Nigel2392/wagtail_3display",
+  "download_filename": "wagtail_3display-1.0.2.tar.gz",
+  "download_time": "2025-09-11T10:48:42.348343",
+  "package_url": "https://pypi.org/project/wagtail-3display/"
+}

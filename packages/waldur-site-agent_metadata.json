@@ -1,0 +1,11 @@
+{
+  "name": "waldur-site-agent",
+  "version": "0.7.1",
+  "summary": "Agent for integrating service provider's site with Waldur Mastermind.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "waldur_site_agent-0.7.1.tar.gz",
+  "download_time": "2025-09-11T10:48:59.064420",
+  "package_url": "https://pypi.org/project/waldur-site-agent/"
+}

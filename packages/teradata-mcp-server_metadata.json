@@ -1,0 +1,11 @@
+{
+  "name": "teradata-mcp-server",
+  "version": "0.1.4",
+  "summary": "Model Context Protocol (MCP) server for Teradata, Community edition",
+  "author": "Teradata",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "teradata_mcp_server-0.1.4.tar.gz",
+  "download_time": "2025-09-11T10:48:41.769779",
+  "package_url": "https://pypi.org/project/teradata-mcp-server/"
+}

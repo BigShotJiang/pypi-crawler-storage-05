@@ -1,0 +1,11 @@
+{
+  "name": "table-file-parser",
+  "version": "0.1.5",
+  "summary": "load table files and parse them into parquet or pyarrow  format",
+  "author": "qrhan",
+  "license": null,
+  "home_page": "https://github.com/yourusername/my_package",
+  "download_filename": "table_file_parser-0.1.5-py3-none-any.whl",
+  "download_time": "2025-09-11T10:49:06.794240",
+  "package_url": "https://pypi.org/project/table-file-parser/"
+}

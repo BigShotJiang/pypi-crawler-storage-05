@@ -1,0 +1,11 @@
+{
+  "name": "torchmd-net-cpu",
+  "version": "2.4.12",
+  "summary": "TorchMD-NET provides state-of-the-art neural networks potentials for biomolecular systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "torchmd_net_cpu-2.4.12-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-09-11T10:48:50.835665",
+  "package_url": "https://pypi.org/project/torchmd-net-cpu/"
+}
