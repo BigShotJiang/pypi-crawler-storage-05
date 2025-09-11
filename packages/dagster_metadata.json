@@ -1,0 +1,11 @@
+{
+  "name": "dagster",
+  "version": "1.11.10",
+  "summary": "Dagster is an orchestration platform for the development, production, and observation of data assets.",
+  "author": "Dagster Labs",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "dagster-1.11.10.tar.gz",
+  "download_time": "2025-09-11T17:10:15.285058",
+  "package_url": "https://pypi.org/project/dagster/"
+}
