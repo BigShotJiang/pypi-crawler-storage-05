@@ -1,0 +1,11 @@
+{
+  "name": "mcp-mysql-server-licai-czg-202509111517-9baa6c-202509111516-735609-20250911-e5ceb8",
+  "version": "1.0.0",
+  "summary": "A MySQL MCP Server for cross-database queries with Chinese field mapping",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/mcp-mysql-server",
+  "download_filename": "mcp-mysql-server-licai-czg-202509111517-9baa6c-202509111516-735609-20250911-e5ceb8-1.0.0.tar.gz",
+  "download_time": "2025-09-11T07:29:34.357561",
+  "package_url": "https://pypi.org/project/mcp-mysql-server-licai-czg-202509111517-9baa6c-202509111516-735609-20250911-e5ceb8/"
+}

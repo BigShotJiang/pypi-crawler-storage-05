@@ -1,0 +1,11 @@
+{
+  "name": "secspp",
+  "version": "0.1.2",
+  "summary": "SECS++ Rubik's Cube Solver using phased and looped solving logic",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "secspp-0.1.2.tar.gz",
+  "download_time": "2025-09-11T07:29:44.511373",
+  "package_url": "https://pypi.org/project/secspp/"
+}

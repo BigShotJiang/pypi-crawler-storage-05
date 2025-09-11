@@ -1,0 +1,11 @@
+{
+  "name": "siem-hkm-ai-smartcore",
+  "version": "0.1.6",
+  "summary": "A Python library for intelligent building management with BACnet/OPC UA communication and HVAC optimization",
+  "author": "lanzco's team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "siem_hkm_ai_smartcore-0.1.6.tar.gz",
+  "download_time": "2025-09-11T07:29:26.314241",
+  "package_url": "https://pypi.org/project/siem-hkm-ai-smartcore/"
+}

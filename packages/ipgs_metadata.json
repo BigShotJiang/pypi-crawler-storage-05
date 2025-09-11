@@ -1,11 +1,11 @@
 {
   "name": "ipgs",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "summary": "Interactive ANIMATED progress bar for Jupyter notebook projects",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ipgs-1.1.0.tar.gz",
-  "download_time": "2025-09-11T06:47:30.254549",
+  "download_filename": "ipgs-1.1.2.tar.gz",
+  "download_time": "2025-09-11T07:29:20.843534",
   "package_url": "https://pypi.org/project/ipgs/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hadron-mcp-sse",
+  "version": "0.1.2",
+  "summary": "输⼊OpenWeather-API-KEY，获取天⽓信息",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hadron_mcp_sse-0.1.2.tar.gz",
+  "download_time": "2025-09-11T07:29:32.263036",
+  "package_url": "https://pypi.org/project/hadron-mcp-sse/"
+}

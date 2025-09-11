@@ -1,11 +1,11 @@
 {
   "name": "pymobiledevice3",
-  "version": "4.25.0",
+  "version": "4.25.1",
   "summary": "Pure python3 implementation for working with iDevices (iPhone, etc...)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pymobiledevice3-4.25.0-py3-none-any.whl",
-  "download_time": "2025-09-10T21:26:35.593527",
+  "download_filename": "pymobiledevice3-4.25.1-py3-none-any.whl",
+  "download_time": "2025-09-11T07:29:32.782616",
   "package_url": "https://pypi.org/project/pymobiledevice3/"
 }

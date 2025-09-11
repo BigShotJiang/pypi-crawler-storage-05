@@ -1,11 +1,11 @@
 {
   "name": "localstack",
-  "version": "4.7.0",
+  "version": "4.8.0",
   "summary": "LocalStack - A fully functional local Cloud stack",
   "author": "LocalStack Contributors",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/localstack/localstack",
-  "download_filename": "localstack-4.7.0.tar.gz",
-  "download_time": "2025-09-10T07:48:33.965023",
+  "download_filename": "localstack-4.8.0.tar.gz",
+  "download_time": "2025-09-11T07:29:30.726657",
   "package_url": "https://pypi.org/project/localstack/"
 }
