@@ -1,11 +1,11 @@
 {
   "name": "structural-starterkit",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "summary": "A module to designed to perform package installations, and verification of install,",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "structural_starterkit-0.4.4.tar.gz",
-  "download_time": "2025-09-10T22:13:43.562905",
+  "download_filename": "structural_starterkit-0.4.5.tar.gz",
+  "download_time": "2025-09-11T17:28:34.057324",
   "package_url": "https://pypi.org/project/structural-starterkit/"
 }

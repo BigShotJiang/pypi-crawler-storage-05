@@ -1,0 +1,11 @@
+{
+  "name": "pylate-rs-mkl",
+  "version": "1.0.4",
+  "summary": "Rust and WebAssembly library for late interaction models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylate_rs_mkl-1.0.4-cp310-cp310-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-09-11T17:28:14.433899",
+  "package_url": "https://pypi.org/project/pylate-rs-mkl/"
+}

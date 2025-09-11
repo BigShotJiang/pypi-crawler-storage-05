@@ -1,11 +1,11 @@
 {
   "name": "1joepie-prank",
-  "version": "0.2.0",
-  "summary": "Joepie's prank tools: safe fake hacker GUIs, terminals and effects",
+  "version": "0.4.0",
+  "summary": "Joepie's prank tools: safe fake hacker GUIs, terminals and effects (more realistic)",
   "author": "Noah",
   "license": null,
   "home_page": null,
-  "download_filename": "1joepie_prank-0.2.0.tar.gz",
-  "download_time": "2025-09-10T16:36:59.846232",
+  "download_filename": "1joepie_prank-0.4.0.tar.gz",
+  "download_time": "2025-09-11T17:28:23.970058",
   "package_url": "https://pypi.org/project/1joepie-prank/"
 }
