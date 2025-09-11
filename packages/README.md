@@ -1,12 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-11T21:26:28.478163
-- **Total Packages**: 85
-- **Total Size**: 20.87 MB
+- **Download Time**: 2025-09-11T21:35:15.710617
+- **Total Packages**: 86
+- **Total Size**: 20.55 MB
 
 ## Packages List
+- hla-compass
+- bbot
+- mle-kit-mcp
+- golem-vm-provider
+- request-vm-on-golem
+- firefly
+- bezierv
+- devsecops-engine-tools
+- pygrestqlambda
+- PyGSP
+- sun-angles
+- tty-egpf-monitor
+- biblemate
+- minecraft-datapack-language
+- fluidattacks-core
+- anc
 - simple-console-menu
+- plone.formwidget.recurrence
+- pinionai
+- plone.tiles
+- plone.theme
+- plone.portlet.static
+- postprocessing-seismo-lib
+- plone.portlet.collection
+- torchwrench
+- lusid-sdk
+- plone.formwidget.namedfile
 - pr-validation
 - plone.testing
 - moose-lib
@@ -22,9 +48,7 @@
 - plone.app.contentrules
 - lammps-structgen
 - ddtrace
-- tty-egpf-monitor
 - momento-wire-types
-- devsecops-engine-tools
 - plone.app.contenttypes
 - matlab-simulink-mcp
 - ECOv003-L2T-STARS
@@ -68,26 +92,3 @@
 - eir-dl
 - statsig-python-core
 - plone.app.uuid
-- xl-engine
-- ipulse-shared-core-ftredge
-- cellosaurus-mcp
-- iagitbetter
-- aiobmsble
-- bear-tools
-- Products.CMFPlacefulWorkflow
-- thorpy
-- plone.volto
-- terminator-py
-- django-htmx
-- plone.app.versioningbehavior
-- plone.app.viewletmanager
-- ganzua
-- plone.app.vocabularies
-- getserving
-- plone.app.z3cform
-- formatting-library
-- plone.autoform
-- cmdfuncs
-- sumologiccse
-- plone.base
-- pkg-15903

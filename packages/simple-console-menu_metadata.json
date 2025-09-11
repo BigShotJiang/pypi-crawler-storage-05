@@ -1,11 +1,11 @@
 {
   "name": "simple-console-menu",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "A simple console menu",
   "author": "mikeee",
   "license": null,
   "home_page": "https://github.com/mikeee1/simple-console-menu",
-  "download_filename": "simple_console_menu-1.0.2.tar.gz",
-  "download_time": "2025-09-11T21:25:42.290012",
+  "download_filename": "simple_console_menu-1.0.3.tar.gz",
+  "download_time": "2025-09-11T21:34:32.378092",
   "package_url": "https://pypi.org/project/simple-console-menu/"
 }

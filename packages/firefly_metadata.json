@@ -1,0 +1,11 @@
+{
+  "name": "firefly",
+  "version": "3.4.0",
+  "summary": "A browser-based particle visualization platform",
+  "author": "Alex Gurvich, Aaron Geller",
+  "license": null,
+  "home_page": "https://firefly.rcs.northwestern.edu/",
+  "download_filename": "firefly-3.4.0.tar.gz",
+  "download_time": "2025-09-11T21:34:23.854284",
+  "package_url": "https://pypi.org/project/firefly/"
+}

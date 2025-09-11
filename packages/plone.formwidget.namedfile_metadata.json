@@ -1,0 +1,11 @@
+{
+  "name": "plone.formwidget.namedfile",
+  "version": "3.1.2",
+  "summary": "Image widget for z3c.form and Plone",
+  "author": "Martin Aspeli",
+  "license": "GPL",
+  "home_page": "https://pypi.org/project/plone.formwidget.namedfile",
+  "download_filename": "plone_formwidget_namedfile-3.1.2.tar.gz",
+  "download_time": "2025-09-11T21:34:39.545840",
+  "package_url": "https://pypi.org/project/plone.formwidget.namedfile/"
+}

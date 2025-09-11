@@ -1,0 +1,11 @@
+{
+  "name": "plone.theme",
+  "version": "4.0.4",
+  "summary": "Tools for managing themes in CMF and Plone sites",
+  "author": "Plone Foundation",
+  "license": "GPL version 2",
+  "home_page": "https://pypi.org/project/plone.theme",
+  "download_filename": "plone_theme-4.0.4.tar.gz",
+  "download_time": "2025-09-11T21:34:35.553363",
+  "package_url": "https://pypi.org/project/plone.theme/"
+}
