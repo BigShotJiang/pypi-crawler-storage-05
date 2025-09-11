@@ -1,0 +1,11 @@
+{
+  "name": "ubuntu-cloud-image-changelog",
+  "version": "0.15.7",
+  "summary": "Helpful utility to generate package changelog between two cloud images",
+  "author": "Philip Roche",
+  "license": "GNU General Public License v3",
+  "home_page": "https://github.com/CanonicalLtd/ubuntu-cloud-image-changelog",
+  "download_filename": "ubuntu-cloud-image-changelog-0.15.7.tar.gz",
+  "download_time": "2025-09-11T15:38:38.253618",
+  "package_url": "https://pypi.org/project/ubuntu-cloud-image-changelog/"
+}

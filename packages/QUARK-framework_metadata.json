@@ -1,0 +1,11 @@
+{
+  "name": "QUARK-framework",
+  "version": "0.4.4",
+  "summary": "Framework for Quantum Computing Application Benchmarking",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quark_framework-0.4.4.tar.gz",
+  "download_time": "2025-09-11T15:38:39.900372",
+  "package_url": "https://pypi.org/project/QUARK-framework/"
+}

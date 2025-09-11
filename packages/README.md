@@ -1,11 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-11T15:29:55.683917
-- **Total Packages**: 88
-- **Total Size**: 53.52 MB
+- **Download Time**: 2025-09-11T15:39:20.996233
+- **Total Packages**: 87
+- **Total Size**: 33.51 MB
 
 ## Packages List
+- agent-redis-framework
+- robotframework-openapitools
+- pulumi-aws
+- anosys-logger-4-openai-agents
+- csc-cia-stne
+- authentik-client
+- subprocess-logger
+- biased
+- mini-imggen-numpy-lib
+- pgamit
+- ai-marketplace-monitor
+- surfalize
+- ubuntu-cloud-image-changelog
+- psann
+- foamlib
+- QUARK-framework
+- zampie_utils
+- zlang
+- tabdpt
+- collective.html2blocks
+- giskard-hub
+- peptide-forest
+- uproxier
+- ds-caselaw-utils
+- mapminer
+- vlconf
+- HowdenPipeline
+- pyzxing
+- hcs-cli
+- hcs-core
+- wandelbots-api-client
+- pydiverse-common
+- dev-agents
+- svc-infra
+- synapse
+- unrealon
+- chromashift
+- swiftest
 - pytest-google-cloud-storage
 - qanswer_sdk
 - dotchatbot
@@ -14,7 +52,6 @@
 - daytona_sdk
 - daytona
 - macen
-- authentik-client
 - xdsl
 - jaxmod
 - specpulse
@@ -26,7 +63,6 @@
 - pychilaslasers
 - wotpy2
 - pymodaq_gui
-- unrealon
 - openfl-nightly
 - tabpfn
 - pytest-mock-resources
@@ -38,13 +74,10 @@
 - pandas-video-methods
 - control-arena
 - wcp-library
-- zampie_utils
 - daytona_api_client_async
 - dict-traverser
 - daytona_api_client
 - xync-client
-- mapminer
-- mini-imggen-numpy-lib
 - daytona_daemon_api_client
 - daytona_daemon_api_client_async
 - fputils-python
@@ -60,37 +93,3 @@
 - dbt-switch
 - gllm-agents-binary
 - ncatbot
-- ethyca-fides
-- launch-cert-tool
-- mmar-mapi
-- cycode
-- levox-cli
-- data-science-document-ai
-- leafmap
-- docnote
-- coveo-stew
-- unifyai
-- profiler-runit
-- hepai
-- fepydas
-- easy_whitelist
-- aigraphcodescan
-- compas-viewer
-- open-edison
-- sage-agent
-- hyperquant
-- a1facts
-- superlinked-server
-- mkdocs-network-graph-plugin
-- simplipy
-- tree-sitter-streamdevice-proto
-- criteria-pattern
-- convert-poetry2uv
-- aws-cdk.cloud-assembly-schema
-- langchain-code
-- svc-infra
-- tenetan
-- webex-bot
-- asf
-- trustgraph-vertexai
-- trustgraph-ocr

@@ -1,0 +1,11 @@
+{
+  "name": "hcs-core",
+  "version": "0.1.296",
+  "summary": "Horizon Cloud Service CLI module.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hcs_core-0.1.296.tar.gz",
+  "download_time": "2025-09-11T15:38:48.898007",
+  "package_url": "https://pypi.org/project/hcs-core/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "agent-redis-framework",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "A clean, elegant Python library for Redis-based multi-task scheduling with SortedSets and Streams.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_redis_framework-1.1.0.tar.gz",
-  "download_time": "2025-09-11T11:09:34.285969",
+  "download_filename": "agent_redis_framework-1.1.1.tar.gz",
+  "download_time": "2025-09-11T15:38:28.405689",
   "package_url": "https://pypi.org/project/agent-redis-framework/"
 }
