@@ -1,11 +1,11 @@
 {
   "name": "pythonbpf",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Reduced Python frontend for eBPF",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pythonbpf-0.1.0.tar.gz",
-  "download_time": "2025-09-09T09:12:09.650277",
+  "download_filename": "pythonbpf-0.1.1.tar.gz",
+  "download_time": "2025-09-11T04:15:05.110181",
   "package_url": "https://pypi.org/project/pythonbpf/"
 }
