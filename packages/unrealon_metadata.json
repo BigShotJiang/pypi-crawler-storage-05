@@ -1,11 +1,11 @@
 {
   "name": "unrealon",
-  "version": "2.0.18",
+  "version": "2.0.27",
   "summary": "Enterprise-grade web scraping platform with AI-powered automation and real-time orchestration capabilities",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "unrealon-2.0.18.tar.gz",
-  "download_time": "2025-09-11T16:13:17.537983",
+  "download_filename": "unrealon-2.0.27.tar.gz",
+  "download_time": "2025-09-11T16:35:36.806414",
   "package_url": "https://pypi.org/project/unrealon/"
 }

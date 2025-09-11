@@ -1,11 +1,11 @@
 {
   "name": "olimp",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Framework for Image Precompensation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "olimp-1.0.4.tar.gz",
-  "download_time": "2025-09-11T15:48:31.176561",
+  "download_filename": "olimp-1.0.5.tar.gz",
+  "download_time": "2025-09-11T16:35:57.755965",
   "package_url": "https://pypi.org/project/olimp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "langchain-llm7",
-  "version": "2025.9.111220",
+  "version": "2025.9.111718",
   "summary": "A LangChain wrapper for LLM7 API",
   "author": "Eugene Evstafev",
   "license": "Apache-2.0",
   "home_page": "https://github.com/chigwell/langchain_llm7",
-  "download_filename": "langchain_llm7-2025.9.111220.tar.gz",
-  "download_time": "2025-09-11T11:24:35.866820",
+  "download_filename": "langchain_llm7-2025.9.111718.tar.gz",
+  "download_time": "2025-09-11T16:36:13.581125",
   "package_url": "https://pypi.org/project/langchain-llm7/"
 }

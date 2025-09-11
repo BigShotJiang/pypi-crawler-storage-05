@@ -1,0 +1,11 @@
+{
+  "name": "rbyte",
+  "version": "0.30.1",
+  "summary": "Multimodal PyTorch dataset library",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rbyte-0.30.1.tar.gz",
+  "download_time": "2025-09-11T16:36:16.201564",
+  "package_url": "https://pypi.org/project/rbyte/"
+}

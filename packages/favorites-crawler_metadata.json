@@ -1,0 +1,11 @@
+{
+  "name": "favorites-crawler",
+  "version": "1.0.1",
+  "summary": "Crawl your personal favorite images, photo albums, comics from website. Support pixiv, yande.re for now.",
+  "author": "RyouMon",
+  "license": null,
+  "home_page": "https://github.com/RyouMon/FavoritesCrawler",
+  "download_filename": "favorites_crawler-1.0.1.tar.gz",
+  "download_time": "2025-09-11T16:35:55.653653",
+  "package_url": "https://pypi.org/project/favorites-crawler/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "symjoy",
-  "version": "1.0",
+  "version": "1.0.2",
   "summary": "The unicode_symbols package is designed to simplify the use of Unicode characters in Python projects. Whether you need emojis for chat applications, symbols for documentation, mathematical symbols for calculations, currency symbols for finance apps, or miscellaneous icons for fun, this package has you covered.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "symjoy-1.0.tar.gz",
-  "download_time": "2025-09-11T16:13:20.194967",
+  "download_filename": "symjoy-1.0.2.tar.gz",
+  "download_time": "2025-09-11T16:35:38.373603",
   "package_url": "https://pypi.org/project/symjoy/"
 }

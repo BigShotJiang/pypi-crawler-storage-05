@@ -1,11 +1,11 @@
 {
   "name": "gemini-starter-agent",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A CLI tool to bootstrap Gemini agents with OpenAI Agent SDK using UV.",
   "author": "Marjan Ahmed",
   "license": null,
   "home_page": null,
-  "download_filename": "gemini_starter_agent-0.1.0-py3-none-any.whl",
-  "download_time": "2025-09-11T14:13:08.599767",
+  "download_filename": "gemini_starter_agent-0.1.1.tar.gz",
+  "download_time": "2025-09-11T16:36:10.441788",
   "package_url": "https://pypi.org/project/gemini-starter-agent/"
 }

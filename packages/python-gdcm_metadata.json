@@ -1,0 +1,11 @@
+{
+  "name": "python-gdcm",
+  "version": "3.2.1",
+  "summary": "Grassroots DICOM runtime libraries",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_gdcm-3.2.1.tar.gz",
+  "download_time": "2025-09-11T16:35:58.824591",
+  "package_url": "https://pypi.org/project/python-gdcm/"
+}

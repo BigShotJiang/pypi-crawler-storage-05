@@ -1,11 +1,11 @@
 {
   "name": "b10-transfer",
-  "version": "0.3.9",
+  "version": "0.3.10",
   "summary": "Distributed PyTorch file transfer for Baseten - Environment-aware, lock-free file transfer management",
   "author": "Shounak Ray",
   "license": "MIT",
   "home_page": "https://docs.baseten.co/development/model/b10-transfer",
-  "download_filename": "b10_transfer-0.3.9.tar.gz",
-  "download_time": "2025-09-11T05:12:06.113593",
+  "download_filename": "b10_transfer-0.3.10.tar.gz",
+  "download_time": "2025-09-11T16:35:47.278794",
   "package_url": "https://pypi.org/project/b10-transfer/"
 }
