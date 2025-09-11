@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-pcap",
+  "version": "0.2.1",
+  "summary": "Sphinx support for displaying pcap files",
+  "author": "Wilhelm Putz, CANCOM Austria AG",
+  "license": null,
+  "home_page": "https://github.com/jinjamator/sphinx_pcap",
+  "download_filename": "sphinx_pcap-0.2.1-py3-none-any.whl",
+  "download_time": "2025-09-11T07:11:41.867625",
+  "package_url": "https://pypi.org/project/sphinx-pcap/"
+}

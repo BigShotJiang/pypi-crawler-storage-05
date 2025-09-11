@@ -1,11 +1,11 @@
 {
   "name": "vectorvein",
-  "version": "0.3.27",
+  "version": "0.3.28",
   "summary": "VectorVein Python SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vectorvein-0.3.27.tar.gz",
-  "download_time": "2025-09-11T04:14:51.084944",
+  "download_filename": "vectorvein-0.3.28.tar.gz",
+  "download_time": "2025-09-11T07:11:58.831384",
   "package_url": "https://pypi.org/project/vectorvein/"
 }

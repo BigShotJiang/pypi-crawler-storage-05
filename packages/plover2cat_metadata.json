@@ -1,0 +1,11 @@
+{
+  "name": "plover2cat",
+  "version": "3.1.1",
+  "summary": "A CAT software for Plover",
+  "author": "plants",
+  "license": "MIT",
+  "home_page": "https://github.com/greenwyrt/plover2CAT/",
+  "download_filename": "plover2cat-3.1.1.tar.gz",
+  "download_time": "2025-09-11T07:11:36.560149",
+  "package_url": "https://pypi.org/project/plover2cat/"
+}

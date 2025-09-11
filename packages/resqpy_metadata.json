@@ -1,0 +1,11 @@
+{
+  "name": "resqpy",
+  "version": "5.1.12",
+  "summary": "Python API for working with RESQML models",
+  "author": "BP",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "resqpy-5.1.12.tar.gz",
+  "download_time": "2025-09-11T07:11:45.540428",
+  "package_url": "https://pypi.org/project/resqpy/"
+}

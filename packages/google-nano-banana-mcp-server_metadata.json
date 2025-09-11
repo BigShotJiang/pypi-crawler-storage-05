@@ -1,0 +1,11 @@
+{
+  "name": "google-nano-banana-mcp-server",
+  "version": "1.0.0",
+  "summary": "一个使用 Gemini 2.5 Flash Image 模型的图片生成和编辑 MCP 服务器",
+  "author": "AI Assistant",
+  "license": null,
+  "home_page": "https://github.com/example/nano-banana-mcp-server",
+  "download_filename": "google_nano_banana_mcp_server-1.0.0.tar.gz",
+  "download_time": "2025-09-11T07:11:54.143384",
+  "package_url": "https://pypi.org/project/google-nano-banana-mcp-server/"
+}

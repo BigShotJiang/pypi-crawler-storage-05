@@ -1,11 +1,11 @@
 {
   "name": "snakemake-storage-plugin-s3",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "summary": "A Snakemake storage plugin for S3 API storage (AWS S3, MinIO, etc.)",
   "author": "Johannes Koester",
   "license": "MIT",
   "home_page": "https://github.com/snakemake/snakemake-storage-plugin-s3",
-  "download_filename": "snakemake_storage_plugin_s3-0.3.5.tar.gz",
-  "download_time": "2025-09-09T20:30:56.105172",
+  "download_filename": "snakemake_storage_plugin_s3-0.3.6.tar.gz",
+  "download_time": "2025-09-11T07:12:06.131173",
   "package_url": "https://pypi.org/project/snakemake-storage-plugin-s3/"
 }

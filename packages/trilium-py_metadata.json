@@ -1,11 +1,11 @@
 {
   "name": "trilium-py",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": "Python client for ETAPI of Trilium Note. With some extra features powered by Python :)",
   "author": "Nriver",
   "license": null,
   "home_page": "https://github.com/nriver/trilium-py",
-  "download_filename": "trilium_py-1.2.4-py3-none-any.whl",
-  "download_time": "2025-09-11T04:15:02.733930",
+  "download_filename": "trilium_py-1.2.5-py3-none-any.whl",
+  "download_time": "2025-09-11T07:12:07.691407",
   "package_url": "https://pypi.org/project/trilium-py/"
 }

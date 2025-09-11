@@ -1,11 +1,11 @@
 {
   "name": "cogents-tools",
-  "version": "0.1.5.1",
+  "version": "0.1.5.2",
   "summary": "Supportive tools for Cogents, towards a cognitive agentic system",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cogents_tools-0.1.5.1.tar.gz",
-  "download_time": "2025-09-09T15:32:04.832749",
+  "download_filename": "cogents_tools-0.1.5.2.tar.gz",
+  "download_time": "2025-09-11T07:12:00.395116",
   "package_url": "https://pypi.org/project/cogents-tools/"
 }
