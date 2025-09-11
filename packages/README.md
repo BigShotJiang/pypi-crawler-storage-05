@@ -1,11 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-11T22:31:14.328117
-- **Total Packages**: 91
-- **Total Size**: 36.24 MB
+- **Download Time**: 2025-09-11T22:40:28.562661
+- **Total Packages**: 87
+- **Total Size**: 6.24 MB
 
 ## Packages List
+- postprocessing-seismo-lib
+- collinear
+- aind-dynamic-foraging-data-utils
+- authentik-client
+- superquantx
+- niti
+- django-ragamuffin
+- figpack
+- nextmv
+- aws-lambda-artifact-builder
+- chromadb
+- chalkpy
+- neon-skill-weather
+- phidget22
+- edgartools
+- aioprogress
+- ethereum-rpc-fingerprinter
+- blockchyp
 - bench-sdk
 - devsecops-engine-tools
 - sparclclient
@@ -18,7 +36,6 @@
 - shiny
 - python-fasthtml
 - ephios
-- authentik-client
 - gentrig
 - writer-sdk
 - good-common
@@ -28,7 +45,6 @@
 - gmail-cli
 - evo-schemas
 - alxhttp
-- postprocessing-seismo-lib
 - arpakitlib
 - jaxace
 - ddx-python
@@ -76,24 +92,4 @@
 - swarmauri_tool_githubloader
 - meltanolabs-target-postgres
 - swarmauri_certs_ocspverify
-- ethereum-rpc-fingerprinter
 - wmill-pg
-- wmill
-- windmill-api
-- scc-firewall-manager-sdk
-- gdcmd
-- foundry-platform-sdk
-- getserving
-- specpulse
-- earthdata-varinfo
-- swarmauri_certs_acme
-- renx
-- claude-mpm
-- crawl4ai-mcp-sse-stdio
-- swarmauri_certs_cfssl
-- graph-games-proto
-- swarmauri_mre_crypto_ecdh_es_kw
-- swarmauri_signing_hmac
-- swarmauri_mre_crypto_shamir
-- conananas
-- specifyx
