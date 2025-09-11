@@ -1,11 +1,11 @@
 {
   "name": "lsyiot-qweather-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "和风天气开发服务Python接口（https://dev.qweather.com）",
   "author": "fhp",
   "license": null,
   "home_page": "https://github.com/9kl/lsyiot_qweather_sdk",
-  "download_filename": "lsyiot_qweather_sdk-1.0.0.tar.gz",
-  "download_time": "2025-09-11T09:12:56.954947",
+  "download_filename": "lsyiot_qweather_sdk-1.0.1.tar.gz",
+  "download_time": "2025-09-11T10:33:39.065443",
   "package_url": "https://pypi.org/project/lsyiot-qweather-sdk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "bw-essentials-core",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "Reusable utilities for S3, email, Data Loch, Microsoft Teams Notifications and more.",
   "author": "InvestorAI",
   "license": null,
   "home_page": null,
-  "download_filename": "bw_essentials_core-0.1.10.tar.gz",
-  "download_time": "2025-09-10T10:11:52.534636",
+  "download_filename": "bw_essentials_core-0.1.11.tar.gz",
+  "download_time": "2025-09-11T10:33:15.632347",
   "package_url": "https://pypi.org/project/bw-essentials-core/"
 }

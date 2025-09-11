@@ -1,11 +1,11 @@
 {
   "name": "moresso",
-  "version": "0.3.5",
-  "summary": "Reusable JWT RS256 validator with header-based decorator for AWS Lambda and Python apps",
+  "version": "0.5.0",
+  "summary": "A lightweight and extensible Single Sign-On (SSO) authentication library for Python.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "moresso-0.3.5.tar.gz",
-  "download_time": "2025-09-11T05:31:38.603357",
+  "download_filename": "moresso-0.5.0.tar.gz",
+  "download_time": "2025-09-11T10:33:40.225157",
   "package_url": "https://pypi.org/project/moresso/"
 }

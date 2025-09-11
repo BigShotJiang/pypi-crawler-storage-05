@@ -1,0 +1,11 @@
+{
+  "name": "mmar-flame",
+  "version": "1.0.0",
+  "summary": "Flexible LLM-Assisted Moderation Engine: https://arxiv.org/abs/2502.09175",
+  "author": "Ilia Kopanichuk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mmar_flame-1.0.0.tar.gz",
+  "download_time": "2025-09-11T10:33:29.787033",
+  "package_url": "https://pypi.org/project/mmar-flame/"
+}

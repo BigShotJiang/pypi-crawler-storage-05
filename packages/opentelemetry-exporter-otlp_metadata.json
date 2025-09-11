@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-exporter-otlp",
+  "version": "1.36.0",
+  "summary": "OpenTelemetry Collector Exporters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_exporter_otlp-1.36.0.tar.gz",
+  "download_time": "2025-09-11T10:33:24.128200",
+  "package_url": "https://pypi.org/project/opentelemetry-exporter-otlp/"
+}

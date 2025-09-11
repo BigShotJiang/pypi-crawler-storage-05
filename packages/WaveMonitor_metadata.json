@@ -1,11 +1,11 @@
 {
   "name": "WaveMonitor",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "A simple GUI for monitoring waveforms.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wavemonitor-0.1.1.tar.gz",
-  "download_time": "2025-09-11T08:53:36.650199",
+  "download_filename": "wavemonitor-0.2.0.tar.gz",
+  "download_time": "2025-09-11T10:33:28.569957",
   "package_url": "https://pypi.org/project/WaveMonitor/"
 }
