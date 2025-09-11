@@ -1,0 +1,11 @@
+{
+  "name": "swh.loader.core",
+  "version": "5.23.1",
+  "summary": "Software Heritage core and package loaders",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "swh_loader_core-5.23.1.tar.gz",
+  "download_time": "2025-09-11T14:13:36.832205",
+  "package_url": "https://pypi.org/project/swh.loader.core/"
+}

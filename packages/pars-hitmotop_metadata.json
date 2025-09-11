@@ -1,11 +1,11 @@
 {
   "name": "pars-hitmotop",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": null,
   "author": "JoyHubN",
   "license": null,
   "home_page": "https://github.com/JoyHubN/pars_hitmos",
-  "download_filename": "pars_hitmotop-1.0.2.tar.gz",
-  "download_time": "2025-09-11T10:11:49.644520",
+  "download_filename": "pars_hitmotop-1.0.3.tar.gz",
+  "download_time": "2025-09-11T14:13:14.091273",
   "package_url": "https://pypi.org/project/pars-hitmotop/"
 }

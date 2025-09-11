@@ -1,0 +1,11 @@
+{
+  "name": "auth0-api-python",
+  "version": "1.0.0b5",
+  "summary": "SDK for verifying access tokens and securing APIs with Auth0, using Authlib.",
+  "author": "Auth0",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "auth0_api_python-1.0.0b5.tar.gz",
+  "download_time": "2025-09-11T14:13:26.135276",
+  "package_url": "https://pypi.org/project/auth0-api-python/"
+}
