@@ -1,11 +1,11 @@
 {
   "name": "scm-kit",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scm_kit-0.0.3.tar.gz",
-  "download_time": "2025-09-10T06:16:32.995694",
+  "download_filename": "scm_kit-0.0.4.tar.gz",
+  "download_time": "2025-09-11T05:42:14.861624",
   "package_url": "https://pypi.org/project/scm-kit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "adora",
+  "version": "0.1.2",
+  "summary": "A simple command-line tool",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adora-0.1.2.tar.gz",
+  "download_time": "2025-09-11T05:42:00.395817",
+  "package_url": "https://pypi.org/project/adora/"
+}
