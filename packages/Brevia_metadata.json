@@ -1,0 +1,11 @@
+{
+  "name": "Brevia",
+  "version": "0.15.1",
+  "summary": "Extensible API and framework to build your Retrieval Augmented Generation (RAG) and Information Extraction (IE) applications with LLMs",
+  "author": "Niki Corradetti",
+  "license": null,
+  "home_page": "https://github.com/brevia-ai/brevia",
+  "download_filename": "brevia-0.15.1.tar.gz",
+  "download_time": "2025-09-11T09:31:28.143226",
+  "package_url": "https://pypi.org/project/Brevia/"
+}

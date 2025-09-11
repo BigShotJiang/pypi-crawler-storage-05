@@ -1,0 +1,11 @@
+{
+  "name": "simple-nl2sql",
+  "version": "0.4.0",
+  "summary": "A simple implementation of NL2SQL.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_nl2sql-0.4.0.tar.gz",
+  "download_time": "2025-09-11T09:31:47.107370",
+  "package_url": "https://pypi.org/project/simple-nl2sql/"
+}

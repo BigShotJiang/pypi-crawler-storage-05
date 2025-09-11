@@ -1,11 +1,11 @@
 {
   "name": "rusty-req",
-  "version": "0.3.81",
+  "version": "0.3.83",
   "summary": "⚡ High-performance async HTTP client in Rust with Python bindings for blazing-fast batch requests.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rusty_req-0.3.81-cp37-abi3-macosx_10_12_x86_64.whl",
-  "download_time": "2025-09-11T08:53:11.740507",
+  "download_filename": "rusty_req-0.3.83-cp37-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2025-09-11T09:31:42.065733",
   "package_url": "https://pypi.org/project/rusty-req/"
 }

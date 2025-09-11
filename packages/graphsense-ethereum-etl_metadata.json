@@ -1,0 +1,11 @@
+{
+  "name": "graphsense-ethereum-etl",
+  "version": "2.4.6",
+  "summary": "Tools for exporting Ethereum blockchain data to CSV or JSON",
+  "author": "Iknaio Cryptoasset Analytics GmbH",
+  "license": null,
+  "home_page": "https://github.com/graphsense/ethereum-etl",
+  "download_filename": "graphsense_ethereum_etl-2.4.6.tar.gz",
+  "download_time": "2025-09-11T09:31:34.330607",
+  "package_url": "https://pypi.org/project/graphsense-ethereum-etl/"
+}

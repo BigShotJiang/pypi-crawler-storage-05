@@ -1,11 +1,11 @@
 {
   "name": "ogcore",
-  "version": "0.14.9",
+  "version": "0.14.10",
   "summary": "A general equilibrium overlapping generations model for fiscal policy analysis",
   "author": "Jason DeBacker and Richard W. Evans",
   "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
   "home_page": "https://github.com/PSLmodels/OG-Core/",
-  "download_filename": "ogcore-0.14.9.tar.gz",
-  "download_time": "2025-09-11T03:10:16.771987",
+  "download_filename": "ogcore-0.14.10.tar.gz",
+  "download_time": "2025-09-11T09:31:24.614212",
   "package_url": "https://pypi.org/project/ogcore/"
 }

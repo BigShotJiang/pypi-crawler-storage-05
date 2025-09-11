@@ -1,0 +1,11 @@
+{
+  "name": "checkthat-ai",
+  "version": "0.1.0",
+  "summary": "A Python SDK for the CheckThat AI platform's unified LLM API with fact-checking and claim normalization capabilities.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "checkthat_ai-0.1.0.tar.gz",
+  "download_time": "2025-09-11T09:31:25.704383",
+  "package_url": "https://pypi.org/project/checkthat-ai/"
+}

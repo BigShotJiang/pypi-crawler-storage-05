@@ -1,0 +1,11 @@
+{
+  "name": "backend.ai-install",
+  "version": "25.13.4",
+  "summary": "Backend.AI Installer",
+  "author": "Lablup Inc. and contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/lablup/backend.ai",
+  "download_filename": "backend_ai_install-25.13.4.tar.gz",
+  "download_time": "2025-09-11T09:31:10.122673",
+  "package_url": "https://pypi.org/project/backend.ai-install/"
+}

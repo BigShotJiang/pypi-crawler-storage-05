@@ -1,11 +1,11 @@
 {
   "name": "walnutpi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A module to import all walnutpi libs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "walnutpi-1.0.1.tar.gz",
-  "download_time": "2025-09-11T03:41:36.824786",
+  "download_filename": "walnutpi-1.0.2.tar.gz",
+  "download_time": "2025-09-11T09:31:34.984490",
   "package_url": "https://pypi.org/project/walnutpi/"
 }

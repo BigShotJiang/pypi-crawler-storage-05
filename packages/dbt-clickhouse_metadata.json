@@ -1,0 +1,11 @@
+{
+  "name": "dbt-clickhouse",
+  "version": "1.9.3",
+  "summary": "The Clickhouse plugin for dbt (data build tool)",
+  "author": "ClickHouse Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/ClickHouse/dbt-clickhouse",
+  "download_filename": "dbt_clickhouse-1.9.3.tar.gz",
+  "download_time": "2025-09-11T09:31:23.554471",
+  "package_url": "https://pypi.org/project/dbt-clickhouse/"
+}
