@@ -1,0 +1,11 @@
+{
+  "name": "contextkit",
+  "version": "0.0.10",
+  "summary": "Reusable contexts for LLMs",
+  "author": "Isaac Flath",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/AnswerDotAI/contextkit",
+  "download_filename": "contextkit-0.0.10.tar.gz",
+  "download_time": "2025-09-11T23:11:23.202558",
+  "package_url": "https://pypi.org/project/contextkit/"
+}

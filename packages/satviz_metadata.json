@@ -1,11 +1,11 @@
 {
   "name": "satviz",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "SatSimJS widget for Jupyter and Marimo (Cesium-based)",
-  "author": "SSC AI",
+  "author": "Alex Cabello",
   "license": null,
   "home_page": null,
-  "download_filename": "satviz-0.1.0.tar.gz",
-  "download_time": "2025-09-11T03:09:39.772252",
+  "download_filename": "satviz-0.2.0.tar.gz",
+  "download_time": "2025-09-11T23:11:04.466083",
   "package_url": "https://pypi.org/project/satviz/"
 }
