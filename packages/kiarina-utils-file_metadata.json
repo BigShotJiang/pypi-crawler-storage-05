@@ -1,11 +1,11 @@
 {
   "name": "kiarina-utils-file",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "summary": "Comprehensive Python library for file I/O operations with automatic encoding detection, MIME type detection, and support for various file formats",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kiarina_utils_file-1.0.1.tar.gz",
-  "download_time": "2025-09-11T08:53:01.112095",
+  "download_filename": "kiarina_utils_file-1.1.1.tar.gz",
+  "download_time": "2025-09-11T18:14:24.689577",
   "package_url": "https://pypi.org/project/kiarina-utils-file/"
 }

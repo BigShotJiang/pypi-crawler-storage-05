@@ -1,0 +1,11 @@
+{
+  "name": "pyaro-readers",
+  "version": "0.1.5",
+  "summary": "implementations of pyaerocom reading plugings using pyaro as interface",
+  "author": "MET Norway",
+  "license": null,
+  "home_page": "https://github.com/metno/pyaro-readers",
+  "download_filename": "pyaro_readers-0.1.5.tar.gz",
+  "download_time": "2025-09-11T18:14:23.643172",
+  "package_url": "https://pypi.org/project/pyaro-readers/"
+}
