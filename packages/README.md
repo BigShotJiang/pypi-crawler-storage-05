@@ -1,11 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-11T06:18:02.865615
-- **Total Packages**: 80
-- **Total Size**: 11.09 MB
+- **Download Time**: 2025-09-11T06:48:20.504347
+- **Total Packages**: 83
+- **Total Size**: 20.25 MB
 
 ## Packages List
+- ipgs
+- marearts-anpr
+- gate-api
+- diglife
+- model-mp-io
+- pulumi-minio
+- dana
+- model-mp-core
+- aloha
+- cursus
+- microplate
+- pulumi-aws-native
+- vyomcloudbridge
+- pulumi-mailgun
+- cdk8s-awscdk-resolver
+- pulumi-linode
+- pya2ldb
+- idf-ci
 - llm-azure-ai-foundry
 - pulumi-kong
 - attoworld
@@ -39,7 +57,6 @@
 - mlog-util
 - pulumi-fastly
 - bindiffscript
-- ipgs
 - wujihandpy
 - pulumi-f5bigip
 - pulumi-datadog
@@ -64,7 +81,6 @@
 - fabricks
 - pulumi-dbtcloud
 - safari-sdk
-- codeaira-python
 - scm203lab267100370
 - world
 - utf-queue-client
@@ -73,16 +89,3 @@
 - pulumi-aws-apigateway
 - pharia-telemetry
 - pulumi-consul
-- kami-client
-- moose-lib
-- pulumi-confluentcloud
-- orionis
-- codeflash
-- langevaluate
-- adora
-- huez
-- ai-ebash
-- ggsci
-- concord-sc
-- gpframe
-- pulumi-azuread
