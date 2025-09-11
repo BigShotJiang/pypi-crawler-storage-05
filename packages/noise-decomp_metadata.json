@@ -1,0 +1,11 @@
+{
+  "name": "noise-decomp",
+  "version": "0.1.2",
+  "summary": "Tiny dual-reporter intrinsic/extrinsic noise decomposition",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "noise_decomp-0.1.2.tar.gz",
+  "download_time": "2025-09-11T09:12:29.354143",
+  "package_url": "https://pypi.org/project/noise-decomp/"
+}

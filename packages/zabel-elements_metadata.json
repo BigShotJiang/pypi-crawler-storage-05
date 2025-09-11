@@ -1,0 +1,11 @@
+{
+  "name": "zabel-elements",
+  "version": "1.35.0",
+  "summary": "The Zabel default clients and images",
+  "author": "Martin Lafaix",
+  "license": "Eclipse Public License 2.0",
+  "home_page": "https://github.com/engie-group/zabel",
+  "download_filename": "zabel_elements-1.35.0-py3-none-any.whl",
+  "download_time": "2025-09-11T09:12:38.230373",
+  "package_url": "https://pypi.org/project/zabel-elements/"
+}

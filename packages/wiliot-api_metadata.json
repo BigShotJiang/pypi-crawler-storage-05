@@ -1,0 +1,11 @@
+{
+  "name": "wiliot-api",
+  "version": "4.10.14",
+  "summary": "A library for interacting with Wiliot's private Cloud API",
+  "author": "Wiliot",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wiliot_api-4.10.14.tar.gz",
+  "download_time": "2025-09-11T09:12:16.603758",
+  "package_url": "https://pypi.org/project/wiliot-api/"
+}
