@@ -1,11 +1,11 @@
 {
   "name": "iron-toolbox",
-  "version": "1.2",
+  "version": "1.3",
   "summary": "Functions to be used by Iron Data Analytics Team",
   "author": "Luciano Siqueira",
   "license": "MIT",
   "home_page": "https://github.com/IronTrainers/iron_data_toolbox",
-  "download_filename": "iron_toolbox-1.2.tar.gz",
-  "download_time": "2025-09-10T12:20:23.653062",
+  "download_filename": "iron_toolbox-1.3.tar.gz",
+  "download_time": "2025-09-11T19:09:47.323832",
   "package_url": "https://pypi.org/project/iron-toolbox/"
 }

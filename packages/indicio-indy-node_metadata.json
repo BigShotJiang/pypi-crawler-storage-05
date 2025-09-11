@@ -1,11 +1,11 @@
 {
   "name": "indicio-indy-node",
-  "version": "1.13.2.dev1757371019",
+  "version": "1.13.2.dev1757616290",
   "summary": "Indy node",
   "author": "Hyperledger",
   "license": "Apache 2.0",
   "home_page": "https://github.com/Indicio-tech/indy-node",
-  "download_filename": "indicio-indy-node-1.13.2.dev1757371019.tar.gz",
-  "download_time": "2025-09-08T23:11:09.272310",
+  "download_filename": "indicio-indy-node-1.13.2.dev1757616290.tar.gz",
+  "download_time": "2025-09-11T19:09:47.845764",
   "package_url": "https://pypi.org/project/indicio-indy-node/"
 }

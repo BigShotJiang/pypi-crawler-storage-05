@@ -1,0 +1,11 @@
+{
+  "name": "ECOv003-granules",
+  "version": "1.7.0",
+  "summary": "ECOSTRESS Collection 3 Data Product Granule Encapsulation Classes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ecov003_granules-1.7.0.tar.gz",
+  "download_time": "2025-09-11T19:09:42.064382",
+  "package_url": "https://pypi.org/project/ECOv003-granules/"
+}

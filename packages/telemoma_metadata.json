@@ -1,0 +1,11 @@
+{
+  "name": "telemoma",
+  "version": "0.3.0",
+  "summary": "A modular and versatile teleoperation system for mobile manipulation",
+  "author": "Shivin Dass",
+  "license": null,
+  "home_page": "https://github.com/UT-Austin-RobIn/telemoma",
+  "download_filename": "telemoma-0.3.0.tar.gz",
+  "download_time": "2025-09-11T19:09:30.537064",
+  "package_url": "https://pypi.org/project/telemoma/"
+}
