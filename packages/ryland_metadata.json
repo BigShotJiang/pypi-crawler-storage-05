@@ -1,11 +1,11 @@
 {
   "name": "ryland",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "A simple static site generation library",
   "author": "James Tauber",
   "license": null,
   "home_page": null,
-  "download_filename": "ryland-0.8.0.tar.gz",
-  "download_time": "2025-09-09T20:11:55.776452",
+  "download_filename": "ryland-0.9.0.tar.gz",
+  "download_time": "2025-09-11T21:48:33.838567",
   "package_url": "https://pypi.org/project/ryland/"
 }

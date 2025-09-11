@@ -1,11 +1,11 @@
 {
   "name": "modelswrkpi",
-  "version": "9.0.1",
+  "version": "9.0.3",
   "summary": null,
   "author": "Kelly Kapowski",
   "license": null,
   "home_page": null,
-  "download_filename": "modelswrkpi-9.0.1.tar.gz",
-  "download_time": "2025-09-11T03:09:51.361769",
+  "download_filename": "modelswrkpi-9.0.3.tar.gz",
+  "download_time": "2025-09-11T21:48:33.319746",
   "package_url": "https://pypi.org/project/modelswrkpi/"
 }

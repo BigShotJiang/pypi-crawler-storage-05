@@ -1,11 +1,11 @@
 {
   "name": "matlab-simulink-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "An MCP server for allowing LLMs to interact with MATLAB and Simulink",
   "author": "Rohail",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "matlab_simulink_mcp-0.1.1.tar.gz",
-  "download_time": "2025-09-11T21:25:53.512722",
+  "download_filename": "matlab_simulink_mcp-0.1.2.tar.gz",
+  "download_time": "2025-09-11T21:48:32.748425",
   "package_url": "https://pypi.org/project/matlab-simulink-mcp/"
 }

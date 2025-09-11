@@ -1,11 +1,11 @@
 {
   "name": "golem-vm-provider",
-  "version": "0.1.60",
+  "version": "0.1.61",
   "summary": "VM on Golem Provider Node - Run your own provider node to offer VMs on the Golem Network",
   "author": "Phillip Jensen",
   "license": null,
   "home_page": "https://github.com/cryptobench/vm-on-golem",
-  "download_filename": "golem_vm_provider-0.1.60.tar.gz",
-  "download_time": "2025-09-11T20:29:56.901253",
+  "download_filename": "golem_vm_provider-0.1.61.tar.gz",
+  "download_time": "2025-09-11T21:48:50.261151",
   "package_url": "https://pypi.org/project/golem-vm-provider/"
 }

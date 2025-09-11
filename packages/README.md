@@ -1,14 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-11T21:35:15.710617
-- **Total Packages**: 86
-- **Total Size**: 20.55 MB
+- **Download Time**: 2025-09-11T21:49:12.621016
+- **Total Packages**: 82
+- **Total Size**: 26.77 MB
 
 ## Packages List
-- hla-compass
-- bbot
+- acryl-datahub-cloud
+- postprocessing-seismo-lib
+- torustrateinterface
+- funcdesc
+- pyrox-client
 - mle-kit-mcp
+- fal
+- sqlmesh
+- abstra
+- matlab-simulink-mcp
+- modelswrkpi
+- ryland
+- hla-compass
+- drawly
+- pyrauli
+- pandas-plots
+- copick
+- arpakitlib
+- yt-dlp-host-api
+- getserving
+- satori-ci
+- plone.app.layout
+- rdt
+- tobiko-cloud-helpers
+- protobuf
+- tobiko-cloud-pydantic
+- cognee
+- tobiko-cloud-api-client
+- energy-reports-pkg
+- mrx-runway
+- universal-mcp-agents
+- fp-cate
+- singer-sdk
+- daylight-evapotranspiration
+- authentik-client
+- thds.atacama
+- thds.mops
+- thds.humenc
+- thds.core
+- thds.adls
+- runwayml
+- bbot
 - golem-vm-provider
 - request-vm-on-golem
 - firefly
@@ -28,7 +67,6 @@
 - plone.tiles
 - plone.theme
 - plone.portlet.static
-- postprocessing-seismo-lib
 - plone.portlet.collection
 - torchwrench
 - lusid-sdk
@@ -36,10 +74,8 @@
 - pr-validation
 - plone.testing
 - moose-lib
-- authentik-client
 - ngeodesic
 - llmling-agent
-- sqlmesh
 - plone.app.content
 - maps4fs
 - marearts-crystal
@@ -50,45 +86,5 @@
 - ddtrace
 - momento-wire-types
 - plone.app.contenttypes
-- matlab-simulink-mcp
 - ECOv003-L2T-STARS
 - plone.app.customerize
-- nfl-data-loader
-- asteroid-odyssey
-- plone.app.dexterity
-- annealing-ab
-- SnowSignal
-- plone.app.discussion
-- z007
-- plone.app.event
-- athena-intelligence
-- daylight-evapotranspiration
-- plone.app.i18n
-- elongation-simulator
-- show-me-your-vibe
-- energy-reports-pkg
-- plone.app.intid
-- valkey-glide-sync
-- plone.app.iterate
-- fullcontrol
-- plone.app.lockingbehavior
-- bitwarden_workflow_linter
-- plone.app.portlets
-- alertswrkpi
-- plone.app.querystring
-- anatools
-- plone.app.redirector
-- engforge
-- vivi-analytics-library
-- omnara
-- rasters
-- plone.app.registry
-- edc-csf
-- plone.app.relationfield
-- plone.app.textfield
-- sqlglot
-- mig-dx-api
-- plone.app.users
-- eir-dl
-- statsig-python-core
-- plone.app.uuid

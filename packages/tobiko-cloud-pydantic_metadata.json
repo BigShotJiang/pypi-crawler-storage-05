@@ -1,11 +1,11 @@
 {
   "name": "tobiko-cloud-pydantic",
-  "version": "202537.13.0",
+  "version": "202537.14.0",
   "summary": null,
   "author": "TobikoData Inc.",
   "license": null,
   "home_page": null,
-  "download_filename": "tobiko_cloud_pydantic-202537.13.0.tar.gz",
-  "download_time": "2025-09-11T20:12:34.882868",
+  "download_filename": "tobiko_cloud_pydantic-202537.14.0.tar.gz",
+  "download_time": "2025-09-11T21:48:41.298426",
   "package_url": "https://pypi.org/project/tobiko-cloud-pydantic/"
 }
