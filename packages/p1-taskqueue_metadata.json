@@ -1,0 +1,11 @@
+{
+  "name": "p1-taskqueue",
+  "version": "0.1.4",
+  "summary": "A Task Queue Wrapper for Dekoruma Backend",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "p1_taskqueue-0.1.4.tar.gz",
+  "download_time": "2025-09-11T05:31:50.322673",
+  "package_url": "https://pypi.org/project/p1-taskqueue/"
+}

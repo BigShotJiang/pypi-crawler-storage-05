@@ -1,11 +1,11 @@
 {
   "name": "maleo-metadata",
-  "version": "0.2.61",
+  "version": "0.2.62",
   "summary": "MaleoMetadata service package",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_metadata-0.2.61.tar.gz",
-  "download_time": "2025-09-11T03:41:36.299227",
+  "download_filename": "maleo_metadata-0.2.62.tar.gz",
+  "download_time": "2025-09-11T05:31:40.655894",
   "package_url": "https://pypi.org/project/maleo-metadata/"
 }

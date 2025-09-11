@@ -1,0 +1,11 @@
+{
+  "name": "BenMillerScripts",
+  "version": "0.1.9",
+  "summary": "Modules for Running Python scripts by Ben Miller in DigitalMicrograph",
+  "author": "Ben Miller",
+  "license": "MIT",
+  "home_page": "https://www.gatan.com/resources/python-scripts",
+  "download_filename": "benmillerscripts-0.1.9.tar.gz",
+  "download_time": "2025-09-11T05:31:56.976864",
+  "package_url": "https://pypi.org/project/BenMillerScripts/"
+}

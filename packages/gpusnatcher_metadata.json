@@ -1,11 +1,11 @@
 {
   "name": "gpusnatcher",
-  "version": "1.6.0",
+  "version": "1.8.0",
   "summary": "A tool to find and snatch free GPUs on a shared server.",
   "author": "Wilmer Wang",
   "license": null,
   "home_page": null,
-  "download_filename": "gpusnatcher-1.6.0.tar.gz",
-  "download_time": "2025-09-10T03:50:32.388185",
+  "download_filename": "gpusnatcher-1.8.0.tar.gz",
+  "download_time": "2025-09-11T05:31:56.445280",
   "package_url": "https://pypi.org/project/gpusnatcher/"
 }
