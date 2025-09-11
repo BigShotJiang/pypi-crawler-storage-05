@@ -1,0 +1,11 @@
+{
+  "name": "qti2latex",
+  "version": "0.1.0",
+  "summary": "Convert QTI (Canvas) to LaTeX exam. Designed to work with text2qti, but should also work with quiz files exported from Canvas.",
+  "author": "breed",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qti2latex-0.1.0.tar.gz",
+  "download_time": "2025-09-11T03:53:24.730284",
+  "package_url": "https://pypi.org/project/qti2latex/"
+}

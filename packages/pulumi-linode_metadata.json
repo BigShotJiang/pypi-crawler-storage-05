@@ -1,11 +1,11 @@
 {
   "name": "pulumi-linode",
-  "version": "5.2.0",
+  "version": "5.3.0",
   "summary": "A Pulumi package for creating and managing linode cloud resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pulumi_linode-5.2.0.tar.gz",
-  "download_time": "2025-09-11T03:41:04.647867",
+  "download_filename": "pulumi_linode-5.3.0.tar.gz",
+  "download_time": "2025-09-11T03:53:27.371415",
   "package_url": "https://pypi.org/project/pulumi-linode/"
 }

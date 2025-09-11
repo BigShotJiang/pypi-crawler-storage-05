@@ -1,11 +1,11 @@
 {
   "name": "x-4357-make-graphviz-x",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "Graphviz diagram builder.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "x_4357_make_graphviz_x-0.5.0.tar.gz",
-  "download_time": "2025-09-11T03:41:05.181207",
+  "download_filename": "x_4357_make_graphviz_x-0.6.0.tar.gz",
+  "download_time": "2025-09-11T03:53:38.801469",
   "package_url": "https://pypi.org/project/x-4357-make-graphviz-x/"
 }
