@@ -1,0 +1,11 @@
+{
+  "name": "dtlpy",
+  "version": "1.114.17",
+  "summary": "SDK and CLI for Dataloop platform",
+  "author": "Dataloop Team",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/dataloop-ai/dtlpy",
+  "download_filename": "dtlpy-1.114.17-py3-none-any.whl",
+  "download_time": "2025-09-11T08:16:15.866763",
+  "package_url": "https://pypi.org/project/dtlpy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fastapi-mock-service",
-  "version": "1.0.4",
-  "summary": "Professional FastAPI mock service library with load testing infrastructure and Prometheus metrics",
-  "author": null,
+  "version": "1.0.5",
+  "summary": "Professional mock service library with load testing infrastructure for FastAPI",
+  "author": "Denis Sviridov",
   "license": "MIT",
-  "home_page": null,
-  "download_filename": "fastapi_mock_service-1.0.4.tar.gz",
-  "download_time": "2025-09-10T20:48:26.126099",
+  "home_page": "https://github.com/username/fastapi-mock-service",
+  "download_filename": "fastapi_mock_service-1.0.5.tar.gz",
+  "download_time": "2025-09-11T08:16:30.259662",
   "package_url": "https://pypi.org/project/fastapi-mock-service/"
 }

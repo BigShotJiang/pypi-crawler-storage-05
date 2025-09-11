@@ -1,0 +1,11 @@
+{
+  "name": "scchainserver-6-4",
+  "version": "3",
+  "summary": "Application d'administration en ligne de commande et package de développement Python pour SCENARIchain-server 6.4",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scchainserver_6_4-3.tar.gz",
+  "download_time": "2025-09-11T08:16:28.629702",
+  "package_url": "https://pypi.org/project/scchainserver-6-4/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "easydock",
+  "version": "1.1.0",
+  "summary": "EasyDock Python module to facilitate molecular docking",
+  "author": "Pavel Polishchuk, Guzel Minibaeva, Aleksandra Ivanova",
+  "license": null,
+  "home_page": "https://github.com/ci-lab-cz/easydock",
+  "download_filename": "easydock-1.1.0.tar.gz",
+  "download_time": "2025-09-11T08:16:34.054111",
+  "package_url": "https://pypi.org/project/easydock/"
+}

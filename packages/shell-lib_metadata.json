@@ -1,11 +1,11 @@
 {
   "name": "shell-lib",
-  "version": "0.31",
+  "version": "0.33",
   "summary": "A simple Python utility to simplify the writing of Shell-like scripts.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "shell_lib-0.31.tar.gz",
-  "download_time": "2025-09-10T06:16:34.631780",
+  "download_filename": "shell_lib-0.33.tar.gz",
+  "download_time": "2025-09-11T08:16:20.484426",
   "package_url": "https://pypi.org/project/shell-lib/"
 }

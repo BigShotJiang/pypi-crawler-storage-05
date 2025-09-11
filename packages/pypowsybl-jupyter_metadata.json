@@ -1,11 +1,11 @@
 {
   "name": "pypowsybl-jupyter",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Widgets for pypowsybl in Jupyter notebooks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypowsybl_jupyter-1.2.0-py3-none-any.whl",
-  "download_time": "2025-09-10T14:49:49.067126",
+  "download_filename": "pypowsybl_jupyter-1.2.1-py3-none-any.whl",
+  "download_time": "2025-09-11T08:16:40.657539",
   "package_url": "https://pypi.org/project/pypowsybl-jupyter/"
 }

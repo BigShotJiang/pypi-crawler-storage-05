@@ -1,11 +1,11 @@
 {
   "name": "plato-sdk",
-  "version": "1.0.70",
+  "version": "1.0.72",
   "summary": "Plato SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plato_sdk-1.0.70-py3-none-any.whl",
-  "download_time": "2025-09-09T05:11:36.124847",
+  "download_filename": "plato_sdk-1.0.72-py3-none-any.whl",
+  "download_time": "2025-09-11T08:16:16.444004",
   "package_url": "https://pypi.org/project/plato-sdk/"
 }
