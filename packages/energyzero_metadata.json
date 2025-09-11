@@ -1,0 +1,11 @@
+{
+  "name": "energyzero",
+  "version": "3.0.0",
+  "summary": "Asynchronous Python client providing energy/gas prices from EnergyZero",
+  "author": "Klaas Schoute",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "energyzero-3.0.0.tar.gz",
+  "download_time": "2025-09-11T09:40:46.600346",
+  "package_url": "https://pypi.org/project/energyzero/"
+}

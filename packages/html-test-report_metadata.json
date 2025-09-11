@@ -1,0 +1,11 @@
+{
+  "name": "html-test-report",
+  "version": "1.1.4",
+  "summary": "Python unittest runner with html report.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/adelplanque/html-test-report",
+  "download_filename": "html_test_report-1.1.4.tar.gz",
+  "download_time": "2025-09-11T09:40:57.902927",
+  "package_url": "https://pypi.org/project/html-test-report/"
+}
