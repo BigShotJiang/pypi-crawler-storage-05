@@ -1,11 +1,11 @@
 {
   "name": "LogPSplinePSD",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "summary": "LogPsplines in JAX",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "logpsplinepsd-0.0.12.tar.gz",
-  "download_time": "2025-09-10T05:11:32.756314",
+  "download_filename": "logpsplinepsd-0.0.13-py3-none-any.whl",
+  "download_time": "2025-09-11T04:49:32.538857",
   "package_url": "https://pypi.org/project/LogPSplinePSD/"
 }

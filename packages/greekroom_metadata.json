@@ -1,0 +1,11 @@
+{
+  "name": "greekroom",
+  "version": "0.0.20",
+  "summary": "The Greek Room will be a suite of tools supporting Biblical natural language processing.",
+  "author": "Ulf Hermjakob",
+  "license": null,
+  "home_page": null,
+  "download_filename": "greekroom-0.0.20.tar.gz",
+  "download_time": "2025-09-11T04:49:42.061389",
+  "package_url": "https://pypi.org/project/greekroom/"
+}

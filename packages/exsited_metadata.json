@@ -1,11 +1,11 @@
 {
   "name": "exsited",
-  "version": "1.0.31",
+  "version": "1.0.32",
   "summary": "Exsited SDK",
   "author": "Ashiq Rahman",
   "license": null,
   "home_page": "https://github.com/exsited/exsited-python",
-  "download_filename": "exsited-1.0.31.tar.gz",
-  "download_time": "2025-09-10T07:28:37.740832",
+  "download_filename": "exsited-1.0.32.tar.gz",
+  "download_time": "2025-09-11T04:49:33.122734",
   "package_url": "https://pypi.org/project/exsited/"
 }

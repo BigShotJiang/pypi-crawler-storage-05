@@ -1,0 +1,11 @@
+{
+  "name": "payos",
+  "version": "1.0.0",
+  "summary": "payOS Python SDK",
+  "author": "payOS Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "payos-1.0.0.tar.gz",
+  "download_time": "2025-09-11T04:49:41.496473",
+  "package_url": "https://pypi.org/project/payos/"
+}

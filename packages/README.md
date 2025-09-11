@@ -1,26 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-11T04:35:24.912413
-- **Total Packages**: 68
-- **Total Size**: 35.54 MB
+- **Download Time**: 2025-09-11T04:50:14.923391
+- **Total Packages**: 75
+- **Total Size**: 25.11 MB
 
 ## Packages List
+- svc-infra
+- pevx
+- LogPSplinePSD
+- exsited
+- accusleepy
+- valkyt
+- boldsign
+- iamdata
 - minecraft-datapack-language
+- PyFilesDownloader
+- threepio-test-runner
+- flagged-csv
+- pydra-tasks-freesurfer
+- ncmi-idc-extract-interfaces
+- crawlo
+- tinyagent-py
+- payos
+- greekroom
+- datamule
+- authentik-client
+- juno-agent
+- doc2dict
+- rb-commons
+- pydra-tasks-mrtrix3
+- superb-ai-onprem
+- decentral-service
+- image-gen-mcp
+- dbt-starrocks
+- opencv-mcp-server
+- lindera-python
 - model-mp-io
 - drok-xyt01
 - model-mp-core
 - weather-decoder
-- ncmi-idc-extract-interfaces
-- svc-infra
 - openbb-akshare
 - mpremote
 - tomwer
 - gekim
-- simple-math-v1
-- pdf-tools-v1
-- authentik-client
-- string-utils-v1
 - paas-charm
 - langchain-trigger-server
 - trainy-policy-nightly
@@ -40,15 +63,12 @@
 - vendor-grab
 - qti2latex
 - robhan-cdk-lib.utils
-- threepio-test-runner
-- decentral-service
 - mcp-server-tester
 - paddleformers
 - os-normalizer
 - promptix
 - pulumi-provider-boilerplate
 - pydartsnut
-- superb-ai-onprem
 - BoschRpaMagicBox
 - pulumi-databricks
 - vectorvein
@@ -61,16 +81,3 @@
 - quarktorch
 - robotframework-schemathesislibrary
 - nebula-client
-- pulumi-digitalocean
-- semantic-copycat-purl2notices
-- dash-gantt
-- ipgs
-- pkscreener
-- trilium-py
-- mdp-core
-- py-lerchs-grossmann
-- pythonbpf
-- microtrax
-- pulumi-harness
-- janaf
-- abacustest

@@ -1,0 +1,11 @@
+{
+  "name": "PyFilesDownloader",
+  "version": "1.0.9",
+  "summary": "一个下载文件的Python库",
+  "author": "赤鸢仙人",
+  "license": null,
+  "home_page": "https://gitee.com/chiyaun/PyFilesDownloader",
+  "download_filename": "pyfilesdownloader-1.0.9.tar.gz",
+  "download_time": "2025-09-11T04:49:37.272829",
+  "package_url": "https://pypi.org/project/PyFilesDownloader/"
+}

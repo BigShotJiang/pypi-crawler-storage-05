@@ -1,11 +1,11 @@
 {
   "name": "ncmi-idc-extract-interfaces",
-  "version": "1.2.1",
-  "summary": "NCMI IDC Extract Interfaces. Used in the warehouse extract API, and (soon) the warehouse-extract python client.",
+  "version": "1.2.2",
+  "summary": null,
   "author": "Petridis, Ross (NCMI, Hobart)",
   "license": null,
   "home_page": null,
-  "download_filename": "ncmi_idc_extract_interfaces-1.2.1.tar.gz",
-  "download_time": "2025-09-11T04:34:49.846029",
+  "download_filename": "ncmi_idc_extract_interfaces-1.2.2.tar.gz",
+  "download_time": "2025-09-11T04:49:39.808249",
   "package_url": "https://pypi.org/project/ncmi-idc-extract-interfaces/"
 }
