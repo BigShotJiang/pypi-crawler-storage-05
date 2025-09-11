@@ -1,0 +1,11 @@
+{
+  "name": "tosa-adapter-model-explorer",
+  "version": "0.0.1",
+  "summary": "Adapter for ai-edge-model-explorer to support TOSA files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tosa_adapter_model_explorer-0.0.1.tar.gz",
+  "download_time": "2025-09-11T13:01:19.857001",
+  "package_url": "https://pypi.org/project/tosa-adapter-model-explorer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hybra",
+  "version": "2025.9.4",
+  "summary": "A module for trainable encoder/decoder filterbanks with auditory bias.",
+  "author": "Daniel Haider and Felix Perfler",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hybra-2025.9.4.tar.gz",
+  "download_time": "2025-09-11T13:01:20.397078",
+  "package_url": "https://pypi.org/project/hybra/"
+}

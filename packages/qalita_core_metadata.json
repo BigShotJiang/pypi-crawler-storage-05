@@ -1,11 +1,11 @@
 {
   "name": "qalita_core",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "summary": "QALITA Platform Core lib for common function used in pack",
   "author": "QALITA SAS",
   "license": null,
   "home_page": null,
-  "download_filename": "qalita_core-1.2.3.tar.gz",
-  "download_time": "2025-09-11T12:20:15.749340",
+  "download_filename": "qalita_core-1.2.4.tar.gz",
+  "download_time": "2025-09-11T13:01:00.683885",
   "package_url": "https://pypi.org/project/qalita_core/"
 }
