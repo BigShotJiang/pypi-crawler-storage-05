@@ -1,15 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-11T15:39:20.996233
-- **Total Packages**: 87
-- **Total Size**: 33.51 MB
+- **Download Time**: 2025-09-11T15:49:14.655930
+- **Total Packages**: 86
+- **Total Size**: 17.9 MB
 
 ## Packages List
+- laser-mind-client
+- tenxagent
+- aisuite4cn
+- olimp
+- svc-infra
+- linkmerce
+- neutronapi
+- ml-management
+- piec
+- bbconf
+- pybites-search
+- autowsgr
+- cuery
+- pypft
+- acme-mgmtserver
+- yaiv
+- digit-bin-index
+- mapminer
+- nfl-data-loader
+- pangea-boto3
+- anosys-logger-4-openai-agents
+- adnus
+- TCviewer
+- bomiot
+- objspct
+- jupyterlab-unicore-shell
+- tpbla-thermal
+- pyhelpers-435
+- PVNet
+- fdq
+- fepydas
+- hyptorch
+- anosys-logger-4-openai
 - agent-redis-framework
 - robotframework-openapitools
 - pulumi-aws
-- anosys-logger-4-openai-agents
 - csc-cia-stne
 - authentik-client
 - subprocess-logger
@@ -30,7 +62,6 @@
 - peptide-forest
 - uproxier
 - ds-caselaw-utils
-- mapminer
 - vlconf
 - HowdenPipeline
 - pyzxing
@@ -39,7 +70,6 @@
 - wandelbots-api-client
 - pydiverse-common
 - dev-agents
-- svc-infra
 - synapse
 - unrealon
 - chromashift
@@ -60,36 +90,5 @@
 - agent-sandbox
 - tentris
 - django_utility_suite
-- pychilaslasers
 - wotpy2
 - pymodaq_gui
-- openfl-nightly
-- tabpfn
-- pytest-mock-resources
-- dbt-fabric-samdebruyn
-- jymkit
-- tracdap-ext-openai
-- tracdap-ext-http
-- arklex
-- pandas-video-methods
-- control-arena
-- wcp-library
-- daytona_api_client_async
-- dict-traverser
-- daytona_api_client
-- xync-client
-- daytona_daemon_api_client
-- daytona_daemon_api_client_async
-- fputils-python
-- python-workers-runtime-types
-- flexget
-- cowayaio
-- fauthy-python-sdk
-- sqlmesh
-- CTADIRAC
-- odigos-opentelemetry-python
-- mircat-v2
-- pyray-tompy
-- dbt-switch
-- gllm-agents-binary
-- ncatbot
