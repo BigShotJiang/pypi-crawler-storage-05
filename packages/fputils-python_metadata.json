@@ -1,0 +1,11 @@
+{
+  "name": "fputils-python",
+  "version": "0.0.7",
+  "summary": "Utility classes for functional programming in Python",
+  "author": "Jason McKinney",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fputils_python-0.0.7.tar.gz",
+  "download_time": "2025-09-11T15:29:26.659049",
+  "package_url": "https://pypi.org/project/fputils-python/"
+}

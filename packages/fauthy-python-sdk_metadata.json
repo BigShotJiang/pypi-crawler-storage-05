@@ -1,0 +1,11 @@
+{
+  "name": "fauthy-python-sdk",
+  "version": "0.2.2",
+  "summary": "SDK to consume Fauthy API from a FastAPI application.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fauthy_python_sdk-0.2.2.tar.gz",
+  "download_time": "2025-09-11T15:29:29.036955",
+  "package_url": "https://pypi.org/project/fauthy-python-sdk/"
+}

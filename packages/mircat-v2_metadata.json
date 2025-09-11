@@ -1,11 +1,11 @@
 {
   "name": "mircat-v2",
-  "version": "0.5.5",
+  "version": "0.6.0",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mircat_v2-0.5.5.tar.gz",
-  "download_time": "2025-09-09T14:50:28.604074",
+  "download_filename": "mircat_v2-0.6.0.tar.gz",
+  "download_time": "2025-09-11T15:29:31.527719",
   "package_url": "https://pypi.org/project/mircat-v2/"
 }

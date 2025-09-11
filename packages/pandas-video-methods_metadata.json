@@ -1,0 +1,11 @@
+{
+  "name": "pandas-video-methods",
+  "version": "0.0.1",
+  "summary": "Video methods for pandas dataframes using TorchCodec",
+  "author": "Quentin Lhoest",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pandas_video_methods-0.0.1.tar.gz",
+  "download_time": "2025-09-11T15:29:19.680900",
+  "package_url": "https://pypi.org/project/pandas-video-methods/"
+}
