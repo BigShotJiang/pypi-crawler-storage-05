@@ -1,0 +1,11 @@
+{
+  "name": "tetrascience-cli",
+  "version": "1.5.0",
+  "summary": "Tetrascience CLI",
+  "author": "tetrascience",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tetrascience_cli-1.5.0.tar.gz",
+  "download_time": "2025-09-11T15:08:59.977773",
+  "package_url": "https://pypi.org/project/tetrascience-cli/"
+}

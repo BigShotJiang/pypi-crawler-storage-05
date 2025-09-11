@@ -1,11 +1,11 @@
 {
   "name": "alita-mcp",
-  "version": "0.1.22",
+  "version": "0.1.23",
   "summary": "ELITEA MCP Client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alita_mcp-0.1.22.tar.gz",
-  "download_time": "2025-09-09T13:41:11.317846",
+  "download_filename": "alita_mcp-0.1.23.tar.gz",
+  "download_time": "2025-09-11T15:09:13.616675",
   "package_url": "https://pypi.org/project/alita-mcp/"
 }

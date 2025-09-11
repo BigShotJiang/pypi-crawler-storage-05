@@ -1,11 +1,11 @@
 {
   "name": "artissist-logger",
-  "version": "1.0.0",
+  "version": "0.0.17",
   "summary": "Platform-agnostic logging client for Artissist",
   "author": "Artissist",
   "license": null,
   "home_page": "https://github.com/artissist/logger",
-  "download_filename": "artissist_logger-1.0.0-py3-none-any.whl",
-  "download_time": "2025-09-11T14:31:59.624178",
+  "download_filename": "artissist_logger-0.0.17.tar.gz",
+  "download_time": "2025-09-11T15:08:49.957704",
   "package_url": "https://pypi.org/project/artissist-logger/"
 }

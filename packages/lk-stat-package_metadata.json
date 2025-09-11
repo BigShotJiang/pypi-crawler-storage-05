@@ -1,0 +1,11 @@
+{
+  "name": "lk-stat-package",
+  "version": "0.1.4",
+  "summary": "A Cython-based package for computing the Laffler-Kinman statistic.",
+  "author": "Princy Ranaivomanana",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lk_stat_package-0.1.4-cp39-cp39-macosx_10_9_x86_64.whl",
+  "download_time": "2025-09-11T15:09:00.619380",
+  "package_url": "https://pypi.org/project/lk-stat-package/"
+}

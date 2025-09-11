@@ -1,0 +1,11 @@
+{
+  "name": "extracthero",
+  "version": "0.1.5.1",
+  "summary": "LLM-driven extraction from raw HTML and website screenshots, preserving spatial context with optional validation.",
+  "author": "Enes Kuzucu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "extracthero-0.1.5.1.tar.gz",
+  "download_time": "2025-09-11T15:09:08.826688",
+  "package_url": "https://pypi.org/project/extracthero/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "llm_common",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llm_common-1.1.1.tar.gz",
-  "download_time": "2025-09-11T11:24:49.837097",
+  "download_filename": "llm_common-1.1.2.tar.gz",
+  "download_time": "2025-09-11T15:09:21.769649",
   "package_url": "https://pypi.org/project/llm_common/"
 }
