@@ -1,11 +1,11 @@
 {
   "name": "tree-sitter-streamdevice-proto",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "tree-sitter grammar for StreamDevice's .proto files",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tree_sitter_streamdevice_proto-0.2.0.tar.gz",
-  "download_time": "2025-09-11T15:08:31.029758",
+  "download_filename": "tree_sitter_streamdevice_proto-0.2.1.tar.gz",
+  "download_time": "2025-09-11T15:12:01.995232",
   "package_url": "https://pypi.org/project/tree-sitter-streamdevice-proto/"
 }
