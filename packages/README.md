@@ -1,14 +1,25 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-11T22:40:28.562661
-- **Total Packages**: 87
-- **Total Size**: 6.24 MB
+- **Download Time**: 2025-09-11T22:49:02.292481
+- **Total Packages**: 84
+- **Total Size**: 11.53 MB
 
 ## Packages List
+- monarch-py
+- msgraph-core
+- arpakitlib
+- onc-toolbox
+- utic-public-types
+- dash
+- nsidc-metgenc
 - postprocessing-seismo-lib
-- collinear
+- databricks-vectorsearch
 - aind-dynamic-foraging-data-utils
+- sqlmesh
+- fprime-tools
+- neurograd
+- collinear
 - authentik-client
 - superquantx
 - niti
@@ -32,7 +43,6 @@
 - dewan-utils
 - eq-api-connector
 - llmling-agent
-- neurograd
 - shiny
 - python-fasthtml
 - ephios
@@ -45,7 +55,6 @@
 - gmail-cli
 - evo-schemas
 - alxhttp
-- arpakitlib
 - jaxace
 - ddx-python
 - bench-ai
@@ -81,15 +90,3 @@
 - regula-documentreader-webclient
 - medicafe
 - finbourne-horizon-sdk
-- cuenca-validations
-- hf-xet
-- drylab-tools-sdk
-- opengamedata-common
-- statsig-python-core
-- haske
-- sumologiccse
-- meltanolabs-tap-postgres
-- swarmauri_tool_githubloader
-- meltanolabs-target-postgres
-- swarmauri_certs_ocspverify
-- wmill-pg
