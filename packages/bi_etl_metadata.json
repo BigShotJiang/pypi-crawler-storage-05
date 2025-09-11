@@ -1,0 +1,11 @@
+{
+  "name": "bi_etl",
+  "version": "1.8.1",
+  "summary": "Python ETL Framework",
+  "author": "Derek Wood",
+  "license": "MIT",
+  "home_page": "https://github.com/arcann/bi_etl",
+  "download_filename": "bi_etl-1.8.1.tar.gz",
+  "download_time": "2025-09-11T20:12:33.161281",
+  "package_url": "https://pypi.org/project/bi_etl/"
+}

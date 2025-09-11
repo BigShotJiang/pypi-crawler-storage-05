@@ -1,11 +1,11 @@
 {
   "name": "bunnets",
-  "version": "0.8.6",
-  "summary": "A wee cap to keep your data classes neat and tidy",
+  "version": "0.9.0",
+  "summary": "Tidy wee caps to keep your code neat",
   "author": "Maff",
   "license": null,
   "home_page": null,
-  "download_filename": "bunnets-0.8.6.tar.gz",
-  "download_time": "2025-09-11T19:09:26.284000",
+  "download_filename": "bunnets-0.9.0.tar.gz",
+  "download_time": "2025-09-11T20:12:23.962295",
   "package_url": "https://pypi.org/project/bunnets/"
 }

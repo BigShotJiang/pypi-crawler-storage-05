@@ -1,0 +1,11 @@
+{
+  "name": "x6c1",
+  "version": "3.0.0",
+  "summary": "A comprehensive tool for converting between hexadecimal representations and their corresponding text or numeric values",
+  "author": "celestine1729",
+  "license": null,
+  "home_page": "https://github.com/celestine1729/x6c1",
+  "download_filename": "x6c1-3.0.0.tar.gz",
+  "download_time": "2025-09-11T20:11:56.091632",
+  "package_url": "https://pypi.org/project/x6c1/"
+}

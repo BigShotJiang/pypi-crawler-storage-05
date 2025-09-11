@@ -1,0 +1,11 @@
+{
+  "name": "picnik",
+  "version": "1.1.1",
+  "summary": "A package to make isoconversional computations for non-isothermal kinetics",
+  "author": "ErickErock",
+  "license": "MIT",
+  "home_page": "https://github.com/ErickErock/pICNIK",
+  "download_filename": "picnik-1.1.1.tar.gz",
+  "download_time": "2025-09-11T20:12:10.211545",
+  "package_url": "https://pypi.org/project/picnik/"
+}

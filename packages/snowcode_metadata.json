@@ -1,0 +1,11 @@
+{
+  "name": "snowcode",
+  "version": "0.1.1",
+  "summary": "Snowcode: Code Less, Build Better",
+  "author": "snowcode",
+  "license": "MIT",
+  "home_page": "https://github.com/snowcell-cloud/Snowcode",
+  "download_filename": "snowcode-0.1.1.tar.gz",
+  "download_time": "2025-09-11T20:12:28.729802",
+  "package_url": "https://pypi.org/project/snowcode/"
+}

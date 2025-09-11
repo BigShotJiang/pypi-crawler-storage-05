@@ -1,0 +1,11 @@
+{
+  "name": "tikos",
+  "version": "0.3.1",
+  "summary": "Tikos Platform Library",
+  "author": "Don Liyanage, Tikos Technologies Ltd",
+  "license": "Apache-2.0",
+  "home_page": "http://packages.python.org/tikos",
+  "download_filename": "tikos-0.3.1.tar.gz",
+  "download_time": "2025-09-11T20:12:32.646338",
+  "package_url": "https://pypi.org/project/tikos/"
+}

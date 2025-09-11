@@ -1,11 +1,11 @@
 {
   "name": "mcp-ui",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Python SDK for building MCP UI resources (iframe, panels, text blocks, etc.) in a type-safe way.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_ui-0.1.1.tar.gz",
-  "download_time": "2025-09-11T19:09:48.365035",
+  "download_filename": "mcp_ui-0.1.2.tar.gz",
+  "download_time": "2025-09-11T20:12:01.338092",
   "package_url": "https://pypi.org/project/mcp-ui/"
 }
