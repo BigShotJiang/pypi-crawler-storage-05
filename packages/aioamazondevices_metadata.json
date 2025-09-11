@@ -1,11 +1,11 @@
 {
   "name": "aioamazondevices",
-  "version": "6.2.0",
+  "version": "6.2.1",
   "summary": "Python library to control Amazon devices",
   "author": "Simone Chemelli",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "aioamazondevices-6.2.0.tar.gz",
-  "download_time": "2025-09-10T20:12:12.811712",
+  "download_filename": "aioamazondevices-6.2.1.tar.gz",
+  "download_time": "2025-09-11T08:53:13.805719",
   "package_url": "https://pypi.org/project/aioamazondevices/"
 }

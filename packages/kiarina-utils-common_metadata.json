@@ -1,11 +1,11 @@
 {
   "name": "kiarina-utils-common",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Common utility functions for the kiarina namespace packages",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kiarina_utils_common-1.0.0.tar.gz",
-  "download_time": "2025-09-10T16:13:54.951298",
+  "download_filename": "kiarina_utils_common-1.0.1-py3-none-any.whl",
+  "download_time": "2025-09-11T08:53:01.625109",
   "package_url": "https://pypi.org/project/kiarina-utils-common/"
 }

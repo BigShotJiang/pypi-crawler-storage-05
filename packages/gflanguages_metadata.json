@@ -1,0 +1,11 @@
+{
+  "name": "gflanguages",
+  "version": "0.7.7",
+  "summary": "A python API for evaluating language support in the Google Fonts collection.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gflanguages-0.7.7.tar.gz",
+  "download_time": "2025-09-11T08:53:37.169356",
+  "package_url": "https://pypi.org/project/gflanguages/"
+}

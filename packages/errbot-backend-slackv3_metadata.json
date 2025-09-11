@@ -1,0 +1,11 @@
+{
+  "name": "errbot-backend-slackv3",
+  "version": "0.3.2",
+  "summary": "Errbot SlackV3 backend plugin",
+  "author": "Errbot",
+  "license": null,
+  "home_page": null,
+  "download_filename": "errbot_backend_slackv3-0.3.2.tar.gz",
+  "download_time": "2025-09-11T08:53:35.583027",
+  "package_url": "https://pypi.org/project/errbot-backend-slackv3/"
+}

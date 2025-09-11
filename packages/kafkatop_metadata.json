@@ -1,11 +1,11 @@
 {
   "name": "kafkatop",
-  "version": "1.15",
+  "version": "1.16",
   "summary": "A real-time monitoring tool for Apache Kafka that displays consumer lag and event rates",
   "author": "Spiros Ioannou",
   "license": null,
   "home_page": null,
-  "download_filename": "kafkatop-1.15.tar.gz",
-  "download_time": "2025-09-11T07:48:44.989640",
+  "download_filename": "kafkatop-1.16.tar.gz",
+  "download_time": "2025-09-11T08:53:10.705844",
   "package_url": "https://pypi.org/project/kafkatop/"
 }

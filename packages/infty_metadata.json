@@ -1,0 +1,11 @@
+{
+  "name": "infty",
+  "version": "0.1.1",
+  "summary": "A continual learning optimizer and visualization toolkit",
+  "author": "taofeng weili",
+  "license": "MIT",
+  "home_page": "https://github.com/THUDM/INFTY",
+  "download_filename": "infty-0.1.1-py3-none-any.whl",
+  "download_time": "2025-09-11T08:53:06.321671",
+  "package_url": "https://pypi.org/project/infty/"
+}

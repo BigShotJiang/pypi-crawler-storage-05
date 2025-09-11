@@ -1,11 +1,11 @@
 {
   "name": "hike",
-  "version": "1.1.4",
+  "version": "1.2.0",
   "summary": "A Markdown browser for the terminal",
   "author": "Dave Pearson",
   "license": null,
   "home_page": null,
-  "download_filename": "hike-1.1.4.tar.gz",
-  "download_time": "2025-09-09T16:13:33.008859",
+  "download_filename": "hike-1.2.0.tar.gz",
+  "download_time": "2025-09-11T08:53:29.372108",
   "package_url": "https://pypi.org/project/hike/"
 }

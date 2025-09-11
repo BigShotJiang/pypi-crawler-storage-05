@@ -1,0 +1,11 @@
+{
+  "name": "simars",
+  "version": "0.1.0",
+  "summary": "FastText-based response similarity analyzer for human raters",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simars-0.1.0-py3-none-any.whl",
+  "download_time": "2025-09-11T08:53:04.719787",
+  "package_url": "https://pypi.org/project/simars/"
+}

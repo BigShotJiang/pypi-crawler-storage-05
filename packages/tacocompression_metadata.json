@@ -1,0 +1,11 @@
+{
+  "name": "tacocompression",
+  "version": "0.9.0",
+  "summary": "Implementation of TACO: A Lightweight Tree-Based Approximate Compression Method for Time Series",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tacocompression-0.9.0.tar.gz",
+  "download_time": "2025-09-11T08:53:30.735202",
+  "package_url": "https://pypi.org/project/tacocompression/"
+}
