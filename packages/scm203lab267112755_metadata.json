@@ -1,0 +1,11 @@
+{
+  "name": "scm203lab267112755",
+  "version": "0.1.0",
+  "summary": "Numerical methods: root finding and ODE solvers (Secant, False Position, Runge-Kutta).",
+  "author": "Lewan",
+  "license": null,
+  "home_page": "https://github.com/yourusername/mypackage",
+  "download_filename": "scm203lab267112755-0.1.0.tar.gz",
+  "download_time": "2025-09-11T05:49:15.903245",
+  "package_url": "https://pypi.org/project/scm203lab267112755/"
+}
