@@ -1,0 +1,11 @@
+{
+  "name": "ccsi-foqus",
+  "version": "3.27.0",
+  "summary": "FOQUS tool for Simulation based Optimization, Uncertainty Quantification, and Surrogate modeling",
+  "author": "CCSI FOQUS Team",
+  "license": "BSD 3-Clause Variant (See LICENSE.md details)",
+  "home_page": "http://www.acceleratecarboncapture.org/",
+  "download_filename": "ccsi_foqus-3.27.0-py3-none-any.whl",
+  "download_time": "2025-09-11T22:12:38.751586",
+  "package_url": "https://pypi.org/project/ccsi-foqus/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_certs_cfssl",
+  "version": "0.2.0.dev5",
+  "summary": "CFSSL-backed certificate service for Swarmauri",
+  "author": "Swarmauri",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "swarmauri_certs_cfssl-0.2.0.dev5.tar.gz",
+  "download_time": "2025-09-11T22:12:13.557027",
+  "package_url": "https://pypi.org/project/swarmauri_certs_cfssl/"
+}

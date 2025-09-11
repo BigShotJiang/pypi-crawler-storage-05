@@ -1,0 +1,11 @@
+{
+  "name": "conananas",
+  "version": "0.1.0",
+  "summary": "An ananas for conan",
+  "author": "Philipp Unger",
+  "license": "MIT",
+  "home_page": "https://github.com/philippun1/conananas",
+  "download_filename": "conananas-0.1.0-py3-none-any.whl",
+  "download_time": "2025-09-11T22:12:16.784561",
+  "package_url": "https://pypi.org/project/conananas/"
+}

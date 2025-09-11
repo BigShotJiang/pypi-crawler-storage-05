@@ -1,11 +1,11 @@
 {
   "name": "PyGSP",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Graph Signal Processing in Python",
   "author": "EPFL LTS2",
   "license": "BSD",
   "home_page": null,
-  "download_filename": "pygsp-0.6.0.tar.gz",
-  "download_time": "2025-09-11T21:34:26.549552",
+  "download_filename": "pygsp-0.6.1.tar.gz",
+  "download_time": "2025-09-11T22:12:34.496034",
   "package_url": "https://pypi.org/project/PyGSP/"
 }

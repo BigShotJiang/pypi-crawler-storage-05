@@ -1,0 +1,11 @@
+{
+  "name": "meltanolabs-tap-postgres",
+  "version": "0.4.0",
+  "summary": "Singer tap for Postgres, built with the Meltano SDK for Singer Targets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "meltanolabs_tap_postgres-0.4.0.tar.gz",
+  "download_time": "2025-09-11T22:12:00.886249",
+  "package_url": "https://pypi.org/project/meltanolabs-tap-postgres/"
+}

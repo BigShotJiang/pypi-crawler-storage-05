@@ -1,11 +1,11 @@
 {
   "name": "hla-compass",
-  "version": "1.4.1",
+  "version": "1.5.0",
   "summary": "Python SDK for HLA-Compass bioinformatics platform - Build powerful modules for immuno-peptidomics analysis",
   "author": "Alithea Bio",
   "license": null,
   "home_page": "https://github.com/AlitheaBio/HLA-Compass-platform",
-  "download_filename": "hla_compass-1.4.1.tar.gz",
-  "download_time": "2025-09-11T21:48:34.359464",
+  "download_filename": "hla_compass-1.5.0.tar.gz",
+  "download_time": "2025-09-11T22:12:08.950844",
   "package_url": "https://pypi.org/project/hla-compass/"
 }
