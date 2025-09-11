@@ -1,0 +1,11 @@
+{
+  "name": "telemetrix-lite",
+  "version": "0.1.0",
+  "summary": "Lite, teacher-friendly wrapper for Telemetrix (digital/analog/sonar/LCD) + RFID helpers (PN532 UART, RC522 bridge).",
+  "author": null,
+  "license": "MIT License\r\n        \r\n        Copyright (c) 2025 Barmaja Robotics\r\n        \r\n        Permission is hereby granted... THE SOFTWARE IS PROVIDED “AS IS”...",
+  "home_page": null,
+  "download_filename": "telemetrix_lite-0.1.0-py3-none-any.whl",
+  "download_time": "2025-09-11T11:09:54.642778",
+  "package_url": "https://pypi.org/project/telemetrix-lite/"
+}

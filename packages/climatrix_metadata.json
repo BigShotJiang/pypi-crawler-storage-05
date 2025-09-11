@@ -1,11 +1,11 @@
 {
   "name": "climatrix",
-  "version": "1.0a22",
+  "version": "1.0a23",
   "summary": "Tool for climate data research",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "climatrix-1.0a22.tar.gz",
-  "download_time": "2025-09-10T19:25:28.588946",
+  "download_filename": "climatrix-1.0a23.tar.gz",
+  "download_time": "2025-09-11T11:10:01.947417",
   "package_url": "https://pypi.org/project/climatrix/"
 }

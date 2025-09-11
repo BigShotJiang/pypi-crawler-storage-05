@@ -1,0 +1,11 @@
+{
+  "name": "pytest-google-cloud-storage",
+  "version": "1.1.1",
+  "summary": "Pytest custom features, e.g. fixtures and various tests. Aimed to emulate Google Cloud Storage service",
+  "author": "Jankovn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_google_cloud_storage-1.1.1.tar.gz",
+  "download_time": "2025-09-11T11:09:53.603457",
+  "package_url": "https://pypi.org/project/pytest-google-cloud-storage/"
+}

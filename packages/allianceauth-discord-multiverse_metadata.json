@@ -1,11 +1,11 @@
 {
   "name": "allianceauth-discord-multiverse",
-  "version": "0.0.1b2",
+  "version": "0.0.1b3",
   "summary": "Service module for managing an unlimited number of discord servers from a single auth instance. It can run side by side with the core auth discord service, or completely standalone.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "allianceauth_discord_multiverse-0.0.1b2.tar.gz",
-  "download_time": "2025-09-08T13:38:49.423639",
+  "download_filename": "allianceauth_discord_multiverse-0.0.1b3.tar.gz",
+  "download_time": "2025-09-11T11:09:25.351679",
   "package_url": "https://pypi.org/project/allianceauth-discord-multiverse/"
 }
