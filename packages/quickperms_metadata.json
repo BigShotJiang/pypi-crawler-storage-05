@@ -1,11 +1,11 @@
 {
   "name": "quickperms",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Quick Permission System Inspired by LuckPerms",
   "author": "BinHawk",
   "license": null,
   "home_page": null,
-  "download_filename": "quickperms-0.1.0.tar.gz",
-  "download_time": "2025-09-11T05:42:03.158823",
+  "download_filename": "quickperms-0.1.1.tar.gz",
+  "download_time": "2025-09-11T06:17:24.651793",
   "package_url": "https://pypi.org/project/quickperms/"
 }

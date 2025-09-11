@@ -1,0 +1,11 @@
+{
+  "name": "discord-self",
+  "version": "2.0.1.post3",
+  "summary": "A Python wrapper for the Discord user API",
+  "author": "Steven Van Ingelgem",
+  "license": "MIT",
+  "home_page": "https://github.com/svaningelgem/discord_self",
+  "download_filename": "discord_self-2.0.1.post3.tar.gz",
+  "download_time": "2025-09-11T06:17:33.922485",
+  "package_url": "https://pypi.org/project/discord-self/"
+}

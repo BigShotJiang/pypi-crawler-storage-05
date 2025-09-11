@@ -1,0 +1,11 @@
+{
+  "name": "snake-query-sdk",
+  "version": "1.0.1",
+  "summary": "Python SDK for Snake Query API - Natural language data querying with AI",
+  "author": "Snake Query",
+  "license": null,
+  "home_page": "https://github.com/snakequery/snake-query-python-sdk",
+  "download_filename": "snake_query_sdk-1.0.1.tar.gz",
+  "download_time": "2025-09-11T06:17:25.226814",
+  "package_url": "https://pypi.org/project/snake-query-sdk/"
+}

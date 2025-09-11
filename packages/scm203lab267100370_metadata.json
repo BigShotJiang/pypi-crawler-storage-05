@@ -1,11 +1,11 @@
 {
   "name": "scm203lab267100370",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "This my package. Can use to Roots of Equation in One Variable and Initial Value Problems for a frist-order differential equation ",
   "author": "THITIRAT",
   "license": null,
   "home_page": "https://github.com/Cartoonmee/scm203lab267100370",
-  "download_filename": "scm203lab267100370-0.1.0.tar.gz",
-  "download_time": "2025-09-11T05:31:39.627442",
+  "download_filename": "scm203lab267100370-0.1.1.tar.gz",
+  "download_time": "2025-09-11T06:17:52.111572",
   "package_url": "https://pypi.org/project/scm203lab267100370/"
 }

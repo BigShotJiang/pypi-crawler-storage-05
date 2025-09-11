@@ -1,13 +1,69 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-11T05:49:58.204393
-- **Total Packages**: 82
-- **Total Size**: 2.71 MB
+- **Download Time**: 2025-09-11T06:18:02.865615
+- **Total Packages**: 80
+- **Total Size**: 11.09 MB
 
 ## Packages List
+- llm-azure-ai-foundry
+- pulumi-kong
+- attoworld
+- algopython
+- pyxantech
+- ioa-observe-sdk
+- pulumi-keycloak
+- authentik-client
+- pulumi-kafka
+- reywechat
+- pulumi-gitlab
+- jntts-cli
+- langchain-trigger-server
+- pyg-nightly
+- pulumi-http
+- quickperms
+- snake-query-sdk
+- pulumi-harness
 - mcpcn-split-screen-mcp
+- funimage
+- alation-ai-agent-langchain
+- nc-user-terminator
+- alation-ai-agent-mcp
+- pulumi-docker
+- executorlib
+- toxo
+- fraiseql
+- velithon
+- pulumi-github
+- discord-self
+- mlog-util
+- pulumi-fastly
+- bindiffscript
+- ipgs
+- wujihandpy
+- pulumi-f5bigip
+- pulumi-datadog
+- pulumi-digitalocean
+- google-sheets-mcp
+- bio-SMART
+- pulumi-external
+- ewox
+- ewoxdbgraph
+- pulumi-databricks
+- ut-eviq
+- emout
+- scm20367104703
+- fastfermion
+- crewplus
+- c3d-parser
+- pulumi-dnsimple
+- scm203lab267101691
+- visflow
+- pytornis
 - freshrelease-mcp
+- fabricks
+- pulumi-dbtcloud
+- safari-sdk
 - codeaira-python
 - scm203lab267100370
 - world
@@ -20,8 +76,6 @@
 - kami-client
 - moose-lib
 - pulumi-confluentcloud
-- mlog-util
-- fabricks
 - orionis
 - codeflash
 - langevaluate
@@ -30,61 +84,5 @@
 - ai-ebash
 - ggsci
 - concord-sc
-- quickperms
 - gpframe
 - pulumi-azuread
-- pulumi-cloudinit
-- day2
-- authentik-client
-- pydna
-- aduib-rpc
-- pulumi-cloudamqp
-- pulumi-azuredevops
-- django-w-blog
-- mcp-apple-notes
-- d4rktg
-- lt-tensor
-- intentkit
-- evolib
-- unifyai
-- pulumi-alicloud
-- gekim
-- pydra-tasks-fsl
-- scm-kit
-- driverlessai
-- datamule
-- moresso
-- isrpa
-- langgraph-api
-- maleo-metadata
-- beswarm
-- doc2dict
-- core-system-grpc
-- aient
-- pulumi-auth0
-- cobrak
-- opendp
-- blackbear_media_scoring
-- runbooks
-- pulumi-artifactory
-- azure-ai-voicelive
-- chemotools
-- cached-llm
-- seliky
-- akshare
-- kh2d-solver
-- p1-taskqueue
-- toxo
-- pulumi-archive
-- simple-tracker-redis
-- stremthru
-- pulumi-akamai
-- gemini-cli-bridge
-- pulumi-aiven
-- aiauto-client
-- lazynwb
-- gpusnatcher
-- BenMillerScripts
-- crewplus
-- b10-transfer
-- taha
