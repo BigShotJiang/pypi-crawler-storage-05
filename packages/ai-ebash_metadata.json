@@ -1,11 +1,11 @@
 {
   "name": "ai-ebash",
-  "version": "0.2.4",
+  "version": "0.2.6",
   "summary": "Console utility for integrating artificial intelligence into a Linux terminal.",
   "author": "Andrey Bochkarev",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ai_ebash-0.2.4.tar.gz",
-  "download_time": "2025-09-11T19:09:35.776772",
+  "download_filename": "ai_ebash-0.2.6.tar.gz",
+  "download_time": "2025-09-11T19:24:11.043746",
   "package_url": "https://pypi.org/project/ai-ebash/"
 }

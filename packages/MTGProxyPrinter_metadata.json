@@ -1,0 +1,11 @@
+{
+  "name": "MTGProxyPrinter",
+  "version": "0.34.0",
+  "summary": "MTGProxyPrinter allows efficient printing of Magic: The Gathering cards for playtesting purposes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mtgproxyprinter-0.34.0.tar.gz",
+  "download_time": "2025-09-11T19:24:17.832385",
+  "package_url": "https://pypi.org/project/MTGProxyPrinter/"
+}
