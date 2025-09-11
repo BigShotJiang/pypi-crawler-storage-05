@@ -1,11 +1,11 @@
 {
   "name": "zpic",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A fork of the https://github.com/zpic-plasma/zpic project which attempts to integrate the python functionality as a standalone pip package for convenience",
   "author": "Ricardo Teixeira",
   "license": null,
   "home_page": null,
-  "download_filename": "zpic-0.1.0.tar.gz",
-  "download_time": "2025-09-08T19:08:38.201085",
+  "download_filename": "zpic-0.1.2-cp310-cp310-macosx_15_0_arm64.whl",
+  "download_time": "2025-09-11T17:35:47.860210",
   "package_url": "https://pypi.org/project/zpic/"
 }
