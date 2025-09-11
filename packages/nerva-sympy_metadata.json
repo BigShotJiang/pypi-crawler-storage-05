@@ -1,0 +1,11 @@
+{
+  "name": "nerva-sympy",
+  "version": "0.22.0",
+  "summary": "Validation of neural network equations in SymPy.",
+  "author": "Wieger Wesselink",
+  "license": null,
+  "home_page": "https://github.com/wiegerw/nerva-sympy",
+  "download_filename": "nerva_sympy-0.22.0.tar.gz",
+  "download_time": "2025-09-11T16:13:47.841358",
+  "package_url": "https://pypi.org/project/nerva-sympy/"
+}

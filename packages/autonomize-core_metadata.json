@@ -1,0 +1,11 @@
+{
+  "name": "autonomize-core",
+  "version": "0.1.12",
+  "summary": "Autonomize Core contains the unified authentication source to access platform.",
+  "author": "Varun Prakash",
+  "license": "Proprietary",
+  "home_page": "https://github.com/autonomize-ai/autonomize-core",
+  "download_filename": "autonomize_core-0.1.12.tar.gz",
+  "download_time": "2025-09-11T16:13:23.969760",
+  "package_url": "https://pypi.org/project/autonomize-core/"
+}

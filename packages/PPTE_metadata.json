@@ -1,0 +1,11 @@
+{
+  "name": "PPTE",
+  "version": "0.7.0",
+  "summary": "PPTEs: A Pangenome Polymorphic Transposable Elements simulation toolkit",
+  "author": "JIAN MIAO",
+  "license": null,
+  "home_page": "https://github.com/yourusername/ppte",
+  "download_filename": "ppte-0.7.0.tar.gz",
+  "download_time": "2025-09-11T16:13:34.551043",
+  "package_url": "https://pypi.org/project/PPTE/"
+}

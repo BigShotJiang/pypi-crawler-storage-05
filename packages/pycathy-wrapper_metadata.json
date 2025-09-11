@@ -1,0 +1,11 @@
+{
+  "name": "pycathy-wrapper",
+  "version": "0.1.4",
+  "summary": "pyCATHY is a Python package to create, run, and post-process CATHY forward and inverse models.",
+  "author": "B.Mary",
+  "license": null,
+  "home_page": "https://github.com/BenjMy/pycathy_wrapper",
+  "download_filename": "pycathy_wrapper-0.1.4-py3-none-any.whl",
+  "download_time": "2025-09-11T16:13:20.715531",
+  "package_url": "https://pypi.org/project/pycathy-wrapper/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-footnotes",
+  "version": "0.14.0",
+  "summary": "Add footnotes to rich text in your Wagtail pages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wagtail_footnotes-0.14.0.tar.gz",
+  "download_time": "2025-09-11T16:13:36.125043",
+  "package_url": "https://pypi.org/project/wagtail-footnotes/"
+}

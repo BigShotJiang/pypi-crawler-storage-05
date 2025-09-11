@@ -1,0 +1,11 @@
+{
+  "name": "sionna-vispy",
+  "version": "1.1.0",
+  "summary": "VisPy scene previewer for Sionna",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sionna_vispy-1.1.0.tar.gz",
+  "download_time": "2025-09-11T16:13:56.319225",
+  "package_url": "https://pypi.org/project/sionna-vispy/"
+}

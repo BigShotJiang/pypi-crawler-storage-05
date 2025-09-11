@@ -1,11 +1,11 @@
 {
   "name": "ciqual-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "MCP server for ANSES Ciqual French food composition database with SQL interface",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ciqual_mcp-0.1.1.tar.gz",
-  "download_time": "2025-09-10T21:26:38.928070",
+  "download_filename": "ciqual_mcp-0.1.2.tar.gz",
+  "download_time": "2025-09-11T16:13:52.674999",
   "package_url": "https://pypi.org/project/ciqual-mcp/"
 }

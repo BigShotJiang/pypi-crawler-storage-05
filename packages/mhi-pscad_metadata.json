@@ -1,0 +1,11 @@
+{
+  "name": "mhi-pscad",
+  "version": "3.0.10",
+  "summary": "Manitoba Hydro International: PSCAD Automation library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mhi_pscad-3.0.10-py3-none-any.whl",
+  "download_time": "2025-09-11T16:13:51.092470",
+  "package_url": "https://pypi.org/project/mhi-pscad/"
+}
