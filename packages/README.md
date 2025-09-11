@@ -1,11 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-11T09:48:49.067740
-- **Total Packages**: 89
-- **Total Size**: 12.52 MB
+- **Download Time**: 2025-09-11T10:12:24.181079
+- **Total Packages**: 79
+- **Total Size**: 22.5 MB
 
 ## Packages List
+- uproxier
+- eindhoven
+- exomiser-ml
+- olab-prediction-market-sdk
+- ms-enclave
+- xync-client
+- jyinit
+- authentik-client
+- oarepo-runtime
+- sautech
+- specpulse
+- DDS-All
+- giserpy
+- vital
+- bdd-trace
+- bscommon
+- clickzetta-connector
+- pars-hitmotop
+- mtecconnect3dcp
+- territories-dashboard-lib
+- aem-page-verifier
+- PYield
+- tinycoder
+- loggerric
+- simli-ai
+- codemie-mcp-datasources
+- indieweb-utils
+- codemie-mcp-assistants
+- compit-inext-api
+- aepybamm
+- tol-sdk
+- imas-mcp
+- fwdi
+- io4edge-client
+- dm-aioaiagent
+- sinch
+- vectorvein
+- ledger2bql
+- torchrecurrent
+- chutes
+- user-simulator
+- zepben.ewb
+- graphysio
+- aiohttp-oauth2-client
+- pyzxing
+- google-adk-extras
+- zepben.eas
+- maverick-coref-de
+- bitbuffet
+- isar
+- codemie-sdk-python
 - clearconf
 - kracknet
 - WebexCompassSDK
@@ -14,7 +65,6 @@
 - tacomaker
 - wildkcat
 - pretix-easyverein
-- chutes
 - mitransient
 - medvision-segmentation
 - gdsfactoryplus
@@ -25,7 +75,6 @@
 - fps
 - datatailr
 - shell-lib
-- authentik-client
 - geoarray
 - scc-firewall-manager-sdk
 - skeletoken
@@ -36,62 +85,3 @@
 - rds-proxy-password-rotation
 - tensorcircuit-ng
 - ress
-- academia-mcp
-- codegrade
-- html-test-report
-- inoopa_utils
-- wauo
-- django-toconline
-- py-mdr
-- hpylib
-- adam-community
-- p-template-generator
-- onesecondtrader
-- gdal-utils
-- backend.ai-test
-- backend.ai-storage-proxy
-- backend.ai-plugin
-- backend.ai-manager
-- backend.ai-logging
-- backend.ai-kernel-helper
-- pypne
-- backend.ai-kernel
-- fastapi-template-cli
-- backend.ai-install
-- backend.ai-common
-- backend.ai-client
-- backend.ai-cli
-- backend.ai-appproxy-worker
-- backend.ai-appproxy-coordinator
-- backend.ai-appproxy-common
-- backend.ai-account-manager
-- backend.ai-accelerator-mock
-- backend.ai-accelerator-cuda-open
-- GDAL
-- unitlab
-- fundrive
-- bscommon
-- Whispey
-- voximplant-apiclient
-- locust
-- legit-api-client
-- dtx-models
-- pylammpsmpi
-- tuxsuite
-- CalypSSO
-- dbt-clickhouse
-- acquire
-- ogcore
-- llwp
-- checkthat-ai
-- code-index-mcp
-- auth0-python
-- ai-ebash
-- Brevia
-- comrak-ext
-- asteroid-odyssey
-- exploitai
-- scm20367104703
-- emutrader
-- pytroll-collectors
-- pydvdid2

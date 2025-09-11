@@ -1,0 +1,11 @@
+{
+  "name": "giserpy",
+  "version": "2025.9.10",
+  "summary": "主要模块包括： Messenger - 信使消息事件订阅与发布类； MapGisProject - MapGis工程文件（MPJ）读取类； MapGisColorLib - MapGis色库（青品黄黑-红绿蓝）读取类； MapGisFile - MapGis点线面文件读取类； Projection - 几何要素坐标投影变换类； MapGrid - 国际标准比例尺图幅分幅网格与编号类；Geometry - 地学几何要素加载、编码、转换与序列化类",
+  "author": "Geosite Development Team of CGS",
+  "license": null,
+  "home_page": "http://www.xacgs.cn",
+  "download_filename": "giserpy-2025.9.10-py310-none-macosx_13_0_x86_64.whl",
+  "download_time": "2025-09-11T10:11:46.960592",
+  "package_url": "https://pypi.org/project/giserpy/"
+}

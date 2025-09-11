@@ -1,11 +1,11 @@
 {
   "name": "DDS-All",
-  "version": "0.1.6",
-  "summary": null,
+  "version": "0.2.2",
+  "summary": "为解决不同版本Python的兼容性问题，提供多版本的预编译二进制文件",
   "author": "JackyJia",
   "license": null,
   "home_page": null,
-  "download_filename": "dds_all-0.1.6.tar.gz",
-  "download_time": "2025-09-09T11:33:11.563703",
+  "download_filename": "DDS_All-0.2.2.tar.gz",
+  "download_time": "2025-09-11T10:11:46.385514",
   "package_url": "https://pypi.org/project/DDS-All/"
 }

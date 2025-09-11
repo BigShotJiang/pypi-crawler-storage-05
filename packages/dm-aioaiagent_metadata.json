@@ -1,0 +1,11 @@
+{
+  "name": "dm-aioaiagent",
+  "version": "0.5.5",
+  "summary": "This is my custom aioaiagent client",
+  "author": "dimka4621",
+  "license": null,
+  "home_page": "https://pypi.org/project/dm-aioaiagent",
+  "download_filename": "dm_aioaiagent-0.5.5.tar.gz",
+  "download_time": "2025-09-11T10:11:59.165269",
+  "package_url": "https://pypi.org/project/dm-aioaiagent/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "io4edge-client",
+  "version": "1.6.2",
+  "summary": "A python library for io4edge devices",
+  "author": "Ci4Rail GmbH",
+  "license": null,
+  "home_page": "https://github.com/ci4rail/io4edge-client-python",
+  "download_filename": "io4edge_client-1.6.2.tar.gz",
+  "download_time": "2025-09-11T10:11:58.633429",
+  "package_url": "https://pypi.org/project/io4edge-client/"
+}

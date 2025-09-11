@@ -1,0 +1,11 @@
+{
+  "name": "aiohttp-oauth2-client",
+  "version": "2.0.1",
+  "summary": "OAuth2 support for aiohttp client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiohttp_oauth2_client-2.0.1.tar.gz",
+  "download_time": "2025-09-11T10:12:04.478487",
+  "package_url": "https://pypi.org/project/aiohttp-oauth2-client/"
+}

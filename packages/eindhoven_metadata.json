@@ -1,0 +1,11 @@
+{
+  "name": "eindhoven",
+  "version": "5.1.0",
+  "summary": "Asynchronous Python client providing Open Data information of Eindhoven",
+  "author": "Klaas Schoute",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eindhoven-5.1.0.tar.gz",
+  "download_time": "2025-09-11T10:11:41.107152",
+  "package_url": "https://pypi.org/project/eindhoven/"
+}

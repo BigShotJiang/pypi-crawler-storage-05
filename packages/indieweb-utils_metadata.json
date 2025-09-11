@@ -1,0 +1,11 @@
+{
+  "name": "indieweb-utils",
+  "version": "0.10.0",
+  "summary": "Building blocks for IndieWeb applications.",
+  "author": "capjamesg",
+  "license": null,
+  "home_page": "https://github.com/capjamesg/indieweb-utils",
+  "download_filename": "indieweb_utils-0.10.0.tar.gz",
+  "download_time": "2025-09-11T10:11:54.457944",
+  "package_url": "https://pypi.org/project/indieweb-utils/"
+}

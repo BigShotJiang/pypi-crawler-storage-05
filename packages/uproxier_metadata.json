@@ -1,11 +1,11 @@
 {
   "name": "uproxier",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "HTTP/HTTPS proxy with rules engine and web UI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uproxier-0.1.4.tar.gz",
-  "download_time": "2025-09-11T09:12:17.165189",
+  "download_filename": "uproxier-0.1.6.tar.gz",
+  "download_time": "2025-09-11T10:11:40.575935",
   "package_url": "https://pypi.org/project/uproxier/"
 }
