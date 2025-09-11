@@ -1,11 +1,11 @@
 {
   "name": "wx-logs",
-  "version": "0.7.18",
+  "version": "0.7.19",
   "summary": null,
   "author": "Tom Hayden",
   "license": null,
   "home_page": null,
-  "download_filename": "wx_logs-0.7.18.tar.gz",
-  "download_time": "2025-09-09T19:08:49.559940",
+  "download_filename": "wx_logs-0.7.19.tar.gz",
+  "download_time": "2025-09-11T18:50:18.582750",
   "package_url": "https://pypi.org/project/wx-logs/"
 }

@@ -1,20 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-11T18:38:02.354316
-- **Total Packages**: 79
-- **Total Size**: 28.04 MB
+- **Download Time**: 2025-09-11T18:50:57.706315
+- **Total Packages**: 82
+- **Total Size**: 30.15 MB
 
 ## Packages List
+- pybog
+- py2dag
+- mcdreforged
+- sqlmesh
+- neurograd
+- IQL
+- ai-ebash
+- imprintlab
+- wx-logs
+- synapkit
+- nl2flow
+- alibabacloud-cs20151215
+- langfair
+- vritraai
+- promptwright
+- moose-lib
+- sage-agent-internal
+- pulumi-provider-boilerplate
+- DashAI
+- maleo-infra
+- mcp-ui
+- a1facts
+- otdf-python
+- alibabacloud-gpdb20160503
+- ritm-annotation
+- skypilot-kevin
+- svc-infra
+- sinapsis-anomaly-detection
+- sinapsis-anomalib
+- breez-sdk-spark
+- omnigenome
+- omnigenbench
+- bellows
+- pulumi-xyz
+- PyEmailerAJM
+- authentik-client
+- zigpy-deconz
+- msgraph-sdk
+- gammarers.aws-resource-naming
+- langgraph-api
 - jsonchain
 - openmander
 - funcdesc
-- ai-ebash
 - alibabacloud-clickhouse20230522
 - teds
-- pulumi-provider-boilerplate
 - qawolf-socket-pypi
-- neurograd
 - kececinumbers
 - linkml-solr
 - nodestream-plugin-github
@@ -29,13 +66,10 @@
 - gdcmd
 - ai-lls-lib
 - aicodec
-- authentik-client
 - b10-transfer
 - leap-model-parser
-- pulumi-xyz
 - dub
 - hyperbrowser
-- otdf-python
 - pogosim
 - sundew-algorithms
 - dbt-protos
@@ -54,34 +88,3 @@
 - cirq-web
 - cirq-core
 - cirq-google
-- cirq
-- cirq-ionq
-- cirq-aqt
-- maleo-schemas
-- datachain
-- operetta
-- sqlmesh
-- terra-scientific-pipelines-service-api-client
-- radboy
-- scikit-reducedmodel
-- wmill-pg
-- evalassist
-- quantum-scoring-sdk
-- wmill
-- windmill-api
-- datamule
-- scxpand
-- yta-video-ffmpeg
-- dsf
-- pingdat
-- music-drummer
-- m4rkw-tracing
-- doc2dict
-- universalinit
-- listofdicts
-- rl_cli
-- pinarkive-sdk
-- econagents
-- chemschema
-- eth-prototype
-- whoopapi
