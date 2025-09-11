@@ -1,0 +1,11 @@
+{
+  "name": "tacomaker",
+  "version": "0.1.0",
+  "summary": "A Python package for creating and editing TACO datasets",
+  "author": "Cesar Aybar",
+  "license": null,
+  "home_page": "https://github.com/tacofoundation/tacomaker/",
+  "download_filename": "tacomaker-0.1.0.tar.gz",
+  "download_time": "2025-09-11T09:48:03.168569",
+  "package_url": "https://pypi.org/project/tacomaker/"
+}

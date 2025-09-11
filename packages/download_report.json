@@ -1,8 +1,21 @@
 {
-  "download_time": "2025-09-11T09:41:36.616761",
-  "total_packages_downloaded": 85,
-  "total_size_mb": 3.08,
+  "download_time": "2025-09-11T09:48:49.067740",
+  "total_packages_downloaded": 89,
+  "total_size_mb": 12.52,
   "packages": [
+    "clearconf",
+    "kracknet",
+    "WebexCompassSDK",
+    "ondil",
+    "velithon",
+    "tacomaker",
+    "wildkcat",
+    "pretix-easyverein",
+    "chutes",
+    "mitransient",
+    "medvision-segmentation",
+    "gdsfactoryplus",
+    "kh2d-solver",
     "energyzero",
     "spakky-core",
     "autisticstuff",
@@ -78,15 +91,6 @@
     "scm20367104703",
     "emutrader",
     "pytroll-collectors",
-    "pydvdid2",
-    "instance_checker",
-    "graphsense-ethereum-etl",
-    "walnutpi",
-    "trismik",
-    "django-amis",
-    "mergify-cli",
-    "sweatstack",
-    "pystromligning",
-    "akshare"
+    "pydvdid2"
   ]
 }
