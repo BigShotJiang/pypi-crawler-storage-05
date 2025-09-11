@@ -1,0 +1,11 @@
+{
+  "name": "gymix",
+  "version": "1.0.2",
+  "summary": "Official Python SDK for Gymix API - Gym management and backup services",
+  "author": "Gymix Team",
+  "license": "MIT",
+  "home_page": "https://github.com/mrssd/gymix-python-sdk",
+  "download_filename": "gymix-1.0.2.tar.gz",
+  "download_time": "2025-09-11T21:11:39.519529",
+  "package_url": "https://pypi.org/project/gymix/"
+}

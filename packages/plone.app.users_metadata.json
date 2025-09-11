@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.users",
+  "version": "3.1.4",
+  "summary": "A package for all things users and groups related (specific to plone)",
+  "author": "Plone Foundation",
+  "license": "GPL version 2",
+  "home_page": "https://pypi.org/project/plone.app.users",
+  "download_filename": "plone_app_users-3.1.4.tar.gz",
+  "download_time": "2025-09-11T21:11:20.997499",
+  "package_url": "https://pypi.org/project/plone.app.users/"
+}

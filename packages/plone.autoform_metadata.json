@@ -1,0 +1,11 @@
+{
+  "name": "plone.autoform",
+  "version": "2.0.4",
+  "summary": "Tools to construct z3c.form forms",
+  "author": "Martin Aspeli",
+  "license": "LGPL",
+  "home_page": "http://github.com/plone/plone.autoform",
+  "download_filename": "plone_autoform-2.0.4.tar.gz",
+  "download_time": "2025-09-11T21:11:34.485212",
+  "package_url": "https://pypi.org/project/plone.autoform/"
+}

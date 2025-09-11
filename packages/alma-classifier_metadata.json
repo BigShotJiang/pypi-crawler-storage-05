@@ -1,11 +1,11 @@
 {
   "name": "alma-classifier",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Epigenomic diagnosis of acute leukemia (research use only)",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "alma_classifier-0.2.0.tar.gz",
-  "download_time": "2025-09-11T19:09:28.953136",
+  "download_filename": "alma_classifier-0.2.1.tar.gz",
+  "download_time": "2025-09-11T21:11:41.699966",
   "package_url": "https://pypi.org/project/alma-classifier/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.textfield",
+  "version": "3.0.1",
+  "summary": "Text field with MIME type support",
+  "author": "Martin Aspeli",
+  "license": "GPL",
+  "home_page": "https://pypi.org/project/plone.app.textfield",
+  "download_filename": "plone_app_textfield-3.0.1.tar.gz",
+  "download_time": "2025-09-11T21:11:18.834981",
+  "package_url": "https://pypi.org/project/plone.app.textfield/"
+}

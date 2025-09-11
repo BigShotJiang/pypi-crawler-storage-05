@@ -1,0 +1,11 @@
+{
+  "name": "SnowSignal",
+  "version": "0.1.4.1",
+  "summary": "UDP Broadcast Relay",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "snowsignal-0.1.4.1.tar.gz",
+  "download_time": "2025-09-11T21:11:19.972385",
+  "package_url": "https://pypi.org/project/SnowSignal/"
+}

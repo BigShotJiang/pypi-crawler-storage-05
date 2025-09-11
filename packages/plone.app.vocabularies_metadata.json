@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.vocabularies",
+  "version": "6.0.4",
+  "summary": "Collection of generally useful vocabularies for Plone.",
+  "author": "Plone Foundation",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/plone/plone.app.vocabularies",
+  "download_filename": "plone_app_vocabularies-6.0.4.tar.gz",
+  "download_time": "2025-09-11T21:11:32.289853",
+  "package_url": "https://pypi.org/project/plone.app.vocabularies/"
+}

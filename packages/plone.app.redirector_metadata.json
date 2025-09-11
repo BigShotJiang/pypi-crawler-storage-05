@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.redirector",
+  "version": "3.0.5",
+  "summary": "redirection tool",
+  "author": "Plone Foundation",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/plone/plone.app.redirector",
+  "download_filename": "plone_app_redirector-3.0.5.tar.gz",
+  "download_time": "2025-09-11T21:11:13.902154",
+  "package_url": "https://pypi.org/project/plone.app.redirector/"
+}

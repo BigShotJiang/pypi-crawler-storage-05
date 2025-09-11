@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.registry",
+  "version": "2.0.7",
+  "summary": "Zope 2 and Plone  integration for plone.registry",
+  "author": "Martin Aspeli",
+  "license": "GPL",
+  "home_page": "https://pypi.org/project/plone.app.registry",
+  "download_filename": "plone_app_registry-2.0.7.tar.gz",
+  "download_time": "2025-09-11T21:11:17.296001",
+  "package_url": "https://pypi.org/project/plone.app.registry/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "envgen-cli",
+  "version": "0.2.1",
+  "summary": "Smart .env generator with auto-passwords, rich UI, and dotenv-vault support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "envgen_cli-0.2.1.tar.gz",
+  "download_time": "2025-09-11T21:11:43.788734",
+  "package_url": "https://pypi.org/project/envgen-cli/"
+}

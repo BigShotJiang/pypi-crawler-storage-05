@@ -1,0 +1,11 @@
+{
+  "name": "ganzua",
+  "version": "0.2.0",
+  "summary": "extract dependency information from lockfiles",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ganzua-0.2.0.tar.gz",
+  "download_time": "2025-09-11T21:11:31.777299",
+  "package_url": "https://pypi.org/project/ganzua/"
+}

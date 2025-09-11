@@ -1,0 +1,11 @@
+{
+  "name": "aiobmsble",
+  "version": "0.3.0",
+  "summary": "Asynchronous Python library to query battery management systems via Bluetooth Low Energy.",
+  "author": "Patrick Loschmidt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiobmsble-0.3.0.tar.gz",
+  "download_time": "2025-09-11T21:11:25.181102",
+  "package_url": "https://pypi.org/project/aiobmsble/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "universal-video-downloader",
+  "version": "1.0.0",
+  "summary": "Download videos and audio from YouTube, TikTok, Instagram, Facebook, X, Reddit, Vimeo, DailyMotion, and more",
+  "author": "Aarif5856",
+  "license": "MIT",
+  "home_page": "https://github.com/Aarif5856/UniversalVideoDownloader",
+  "download_filename": "universal_video_downloader-1.0.0-py3-none-any.whl",
+  "download_time": "2025-09-11T21:11:46.357822",
+  "package_url": "https://pypi.org/project/universal-video-downloader/"
+}

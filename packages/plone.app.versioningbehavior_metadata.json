@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.versioningbehavior",
+  "version": "2.0.5",
+  "summary": "Provides a behavior for using CMFEditions with dexterity content types",
+  "author": "Jonas Baumann, 4teamwork GmbH",
+  "license": "GPL version 2",
+  "home_page": "http://plone.org/products/dexterity",
+  "download_filename": "plone_app_versioningbehavior-2.0.5.tar.gz",
+  "download_time": "2025-09-11T21:11:30.246880",
+  "package_url": "https://pypi.org/project/plone.app.versioningbehavior/"
+}
