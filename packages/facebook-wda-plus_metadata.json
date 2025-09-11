@@ -1,11 +1,11 @@
 {
   "name": "facebook-wda-plus",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "基于 openatx/facebook-wda 升级改造的 iOS 自动化库，增强触摸动作等功能",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "facebook_wda_plus-0.1.0.tar.gz",
-  "download_time": "2025-09-10T19:25:17.004480",
+  "download_filename": "facebook_wda_plus-0.1.1.tar.gz",
+  "download_time": "2025-09-11T02:15:59.530206",
   "package_url": "https://pypi.org/project/facebook-wda-plus/"
 }

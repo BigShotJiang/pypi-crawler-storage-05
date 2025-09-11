@@ -1,0 +1,11 @@
+{
+  "name": "puffmatic",
+  "version": "0.1.0a4",
+  "summary": "Quickly generate files and installer images for unattended OpenBSD installation.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "puffmatic-0.1.0a4.tar.gz",
+  "download_time": "2025-09-11T02:16:10.335218",
+  "package_url": "https://pypi.org/project/puffmatic/"
+}

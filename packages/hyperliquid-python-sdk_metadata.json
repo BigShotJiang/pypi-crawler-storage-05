@@ -1,0 +1,11 @@
+{
+  "name": "hyperliquid-python-sdk",
+  "version": "0.19.0",
+  "summary": "SDK for Hyperliquid API trading with Python.",
+  "author": "Hyperliquid",
+  "license": "MIT",
+  "home_page": "https://github.com/hyperliquid-dex/hyperliquid-python-sdk",
+  "download_filename": "hyperliquid_python_sdk-0.19.0.tar.gz",
+  "download_time": "2025-09-11T02:16:07.746500",
+  "package_url": "https://pypi.org/project/hyperliquid-python-sdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "x-make-persistent-env-var-x",
-  "version": "11.0.0",
+  "version": "12.0.0",
   "summary": "Generic persistent environment variable setter for Windows (User scope).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "x_make_persistent_env_var_x-11.0.0.tar.gz",
-  "download_time": "2025-09-10T18:53:50.781212",
+  "download_filename": "x_make_persistent_env_var_x-12.0.0.tar.gz",
+  "download_time": "2025-09-11T02:16:14.985769",
   "package_url": "https://pypi.org/project/x-make-persistent-env-var-x/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "toxo",
+  "version": "1.0.0",
+  "summary": "No-Code LLM Training Platform - Load and use .toxo trained models",
+  "author": "ToxoTune",
+  "license": "Proprietary",
+  "home_page": "https://toxotune.com",
+  "download_filename": "toxo-1.0.0.tar.gz",
+  "download_time": "2025-09-11T02:16:32.034222",
+  "package_url": "https://pypi.org/project/toxo/"
+}

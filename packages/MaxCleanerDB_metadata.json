@@ -1,11 +1,11 @@
 {
   "name": "MaxCleanerDB",
-  "version": "3.0.9.1",
+  "version": "3.0.9.3",
   "summary": "easy to set up alternative to SQl, bugs and leak proof by design and also support multiple console interactions",
   "author": "henry",
   "license": null,
   "home_page": null,
-  "download_filename": "maxcleanerdb-3.0.9.1.tar.gz",
-  "download_time": "2025-09-10T05:40:48.838501",
+  "download_filename": "maxcleanerdb-3.0.9.3.tar.gz",
+  "download_time": "2025-09-11T02:15:51.202336",
   "package_url": "https://pypi.org/project/MaxCleanerDB/"
 }

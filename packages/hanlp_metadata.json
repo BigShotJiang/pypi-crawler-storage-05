@@ -1,0 +1,11 @@
+{
+  "name": "hanlp",
+  "version": "2.1.2",
+  "summary": "HanLP: Han Language Processing",
+  "author": "hankcs",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/hankcs/HanLP",
+  "download_filename": "hanlp-2.1.2.tar.gz",
+  "download_time": "2025-09-11T02:16:24.769818",
+  "package_url": "https://pypi.org/project/hanlp/"
+}

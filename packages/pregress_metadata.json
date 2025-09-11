@@ -1,0 +1,11 @@
+{
+  "name": "pregress",
+  "version": "1.0.9",
+  "summary": "Python Regression Analysis.",
+  "author": "Daniel McGibney",
+  "license": null,
+  "home_page": "https://github.com/danmcgib/pregress",
+  "download_filename": "pregress-1.0.9.tar.gz",
+  "download_time": "2025-09-11T02:16:27.905932",
+  "package_url": "https://pypi.org/project/pregress/"
+}

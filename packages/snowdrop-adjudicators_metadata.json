@@ -1,0 +1,11 @@
+{
+  "name": "snowdrop-adjudicators",
+  "version": "0.0.1",
+  "summary": "Adjudicators for the Tangled game",
+  "author": "Geordie Rose",
+  "license": "MIT",
+  "home_page": "https://github.com/snowdropquantum/snowdrop-adjudicators",
+  "download_filename": "snowdrop_adjudicators-0.0.1.tar.gz",
+  "download_time": "2025-09-11T02:16:27.392907",
+  "package_url": "https://pypi.org/project/snowdrop-adjudicators/"
+}

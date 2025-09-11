@@ -1,11 +1,11 @@
 {
   "name": "headless-waf-builder",
-  "version": "1.0.0",
+  "version": "0.0.1b1",
   "summary": "Headless Wagtail Advanced Form Builder - Complete REST API for modern frontend frameworks",
   "author": null,
   "license": "BSD",
   "home_page": null,
-  "download_filename": "headless_waf_builder-1.0.0.tar.gz",
-  "download_time": "2025-09-07T23:08:13.655363",
+  "download_filename": "headless_waf_builder-0.0.1b1.tar.gz",
+  "download_time": "2025-09-11T02:16:05.692888",
   "package_url": "https://pypi.org/project/headless-waf-builder/"
 }

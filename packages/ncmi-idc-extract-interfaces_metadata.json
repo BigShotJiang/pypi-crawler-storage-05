@@ -1,11 +1,11 @@
 {
   "name": "ncmi-idc-extract-interfaces",
-  "version": "0.1.8",
+  "version": "0.1.17",
   "summary": null,
   "author": "Petridis, Ross (NCMI, Hobart)",
   "license": null,
   "home_page": null,
-  "download_filename": "ncmi_idc_extract_interfaces-0.1.8.tar.gz",
-  "download_time": "2025-09-11T00:46:44.434366",
+  "download_filename": "ncmi_idc_extract_interfaces-0.1.17.tar.gz",
+  "download_time": "2025-09-11T02:15:58.471010",
   "package_url": "https://pypi.org/project/ncmi-idc-extract-interfaces/"
 }
