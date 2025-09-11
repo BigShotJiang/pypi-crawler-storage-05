@@ -1,11 +1,11 @@
 {
   "name": "toxo",
-  "version": "1.0.6",
-  "summary": "Smart Layer for Context Augmented Language Models (CALM) - Convert any LLM into CALM",
+  "version": "1.0.8",
+  "summary": "TOXO Python Library - Smart Layer Platform that converts ANY black-box LLM (GPT, Gemini, Claude) into Context Augmented Language Models (CALM). No LLM retraining needed - just attach .toxo layers for instant domain expertise. Revolutionary AI enhancement technology.",
   "author": "ToxoTune",
   "license": "Proprietary",
   "home_page": "https://toxotune.com",
-  "download_filename": "toxo-1.0.6.tar.gz",
-  "download_time": "2025-09-11T06:47:56.597870",
+  "download_filename": "toxo-1.0.8.tar.gz",
+  "download_time": "2025-09-11T22:30:50.642096",
   "package_url": "https://pypi.org/project/toxo/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "jaxace",
+  "version": "0.1.0",
+  "summary": "JAX/Flax implementation of AbstractCosmologicalEmulators.jl interface",
+  "author": "marcobonici",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jaxace-0.1.0.tar.gz",
+  "download_time": "2025-09-11T22:30:36.697978",
+  "package_url": "https://pypi.org/project/jaxace/"
+}

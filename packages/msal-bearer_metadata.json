@@ -1,0 +1,11 @@
+{
+  "name": "msal-bearer",
+  "version": "1.4.0",
+  "summary": "Python package to get auth token interactively for a public client application using msal and msal-extension for caching.",
+  "author": "Åsmund Våge Fannemel",
+  "license": "MIT",
+  "home_page": "https://github.com/Equinor/msal-bearer",
+  "download_filename": "msal_bearer-1.4.0.tar.gz",
+  "download_time": "2025-09-11T22:30:50.110605",
+  "package_url": "https://pypi.org/project/msal-bearer/"
+}

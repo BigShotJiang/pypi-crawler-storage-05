@@ -1,11 +1,11 @@
 {
   "name": "xcsf",
-  "version": "1.4.9",
+  "version": "1.4.10",
   "summary": "XCSF learning classifier system: rule-based evolutionary machine learning",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xcsf-1.4.9.tar.gz",
-  "download_time": "2025-09-11T20:12:29.314355",
+  "download_filename": "xcsf-1.4.10.tar.gz",
+  "download_time": "2025-09-11T22:30:47.396677",
   "package_url": "https://pypi.org/project/xcsf/"
 }

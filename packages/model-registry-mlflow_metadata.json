@@ -1,0 +1,11 @@
+{
+  "name": "model-registry-mlflow",
+  "version": "0.0.1",
+  "summary": "Kubeflow Model Registry MLflow Integration Plugin",
+  "author": "Dhiraj Bokde",
+  "license": null,
+  "home_page": null,
+  "download_filename": "model_registry_mlflow-0.0.1.tar.gz",
+  "download_time": "2025-09-11T22:30:38.806860",
+  "package_url": "https://pypi.org/project/model-registry-mlflow/"
+}

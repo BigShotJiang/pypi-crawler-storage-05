@@ -1,18 +1,70 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-11T22:12:48.003229
-- **Total Packages**: 85
-- **Total Size**: 24.39 MB
+- **Download Time**: 2025-09-11T22:31:14.328117
+- **Total Packages**: 91
+- **Total Size**: 36.24 MB
 
 ## Packages List
+- bench-sdk
+- devsecops-engine-tools
+- sparclclient
+- lookup-license
+- clarifai
+- dewan-utils
+- eq-api-connector
+- llmling-agent
+- neurograd
+- shiny
+- python-fasthtml
+- ephios
+- authentik-client
+- gentrig
+- writer-sdk
+- good-common
+- fileglancer-central
+- autoblocksai
+- hla-compass
+- gmail-cli
+- evo-schemas
+- alxhttp
+- postprocessing-seismo-lib
+- arpakitlib
+- jaxace
+- ddx-python
+- bench-ai
+- model-registry-mlflow
+- judgeval
+- chromadb-client
+- pjdev-postgres
+- pjdev-sqlmodel
+- pjdev-decorators
+- pjdev-pydantic
+- pjdev-op
+- pjdev-message-broker
+- pjdev-excel
+- terminator
+- ob-dj-store
+- terminator-py
+- chuk-virtual-shell
+- cdktf-cdktf-provider-snowflake
+- dbt-metricflow
+- xcsf
+- mavenagi
+- openstarlab-spaceEval
+- depictio-cli
+- msal-bearer
+- toxo
+- Odin-code-review-github-ai-partner
+- ml-goodput-measurement
+- uedgetools
+- langchain-code
 - calitp-data-analysis
 - cdktf-cdktf-provider-pagerduty
 - cdktf-cdktf-provider-newrelic
 - regula-documentreader-webclient
 - medicafe
 - finbourne-horizon-sdk
-- authentik-client
 - cuenca-validations
 - hf-xet
 - drylab-tools-sdk
@@ -32,7 +84,6 @@
 - gdcmd
 - foundry-platform-sdk
 - getserving
-- hla-compass
 - specpulse
 - earthdata-varinfo
 - swarmauri_certs_acme
@@ -46,48 +97,3 @@
 - swarmauri_mre_crypto_shamir
 - conananas
 - specifyx
-- trame-tauri
-- swarmauri_keyprovider_pkcs11
-- swarmauri_keyprovider_file
-- swarmauri_keyprovider_remote_jwks
-- swarmauri_certs_composite
-- squyrrel
-- metricflow
-- django-ragamuffin
-- tigrbl-kms
-- airweave-sdk
-- swarmauri_middleware_stdio
-- swarmauri_middleware_ratelimit
-- llmling-agent
-- coiled
-- swarmauri_middleware_exceptionhandling
-- swarmauri_middleware_cachecontrol
-- json_tabulator
-- swarmauri_evaluator_constanttime
-- swarmauri_tokens_rotatingjwt
-- langchain-code
-- universal-scraper
-- process-inspector
-- bear-tools
-- postprocessing-seismo-lib
-- PyGSP
-- blockchyp
-- daylight-evapotranspiration
-- pyrox-client
-- arpakitlib
-- ccsi-foqus
-- acryl-datahub-cloud
-- torustrateinterface
-- funcdesc
-- mle-kit-mcp
-- fal
-- sqlmesh
-- abstra
-- matlab-simulink-mcp
-- modelswrkpi
-- ryland
-- drawly
-- pyrauli
-- pandas-plots
-- copick
-- yt-dlp-host-api
