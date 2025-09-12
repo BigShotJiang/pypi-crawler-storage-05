@@ -1,24 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-12T03:38:37.365705
-- **Total Packages**: 73
-- **Total Size**: 6.27 MB
+- **Download Time**: 2025-09-12T03:51:19.042994
+- **Total Packages**: 74
+- **Total Size**: 11.52 MB
 
 ## Packages List
+- pkscreener
+- hmr
+- edaflow
+- pycompool
+- fts-tool
+- devstack-cli
+- odoo-addon-product-form-sale-link
+- odoo-addon-product-customerinfo-sale
+- dataset-build
+- TMDBTraktSyncer
+- bear-epoch-time
+- smartmetertx2mongo
+- mkdocs-mini-blog
+- IMDBTraktSyncer
+- pytbox
+- faster-eth-utils
+- keras-nightly
+- multicall
+- faster-app
+- scxpand
+- authentik-client
+- rltools
+- odoo-addon-report-qweb-field-option
+- odoo-addon-report-py3o
+- odoo-addon-report-wkhtmltopdf-param
+- odoo-addon-report-qweb-pdf-watermark
+- odoo-addon-report-xml
 - radboy
 - imppat-downloader
 - openapi-navigator
 - lexe-wrapper
-- edaflow
 - galaxysled
 - leaguewizard
 - odoo-addon-product-catalog-stock
 - odoo-addon-product-customerinfo
-- pgmini-migrate
 - agentmind
 - pyThermoDB
-- authentik-client
 - npcpy
 - QNPI-InRealisticWaveguides
 - beancode
@@ -27,7 +51,6 @@
 - large-file-upload-sdk
 - odoo-addon-openupgrade-scripts
 - svc-infra
-- scxpand
 - modelscope-image-mcp
 - office-assistant-mcp
 - chord-progression-network
@@ -57,25 +80,3 @@
 - kaq-quant-common
 - pythonic-fp
 - hex-renderer-py
-- odoo-addon-edi-stock-oca
-- odoo-addon-edi-oca
-- odoo-addon-edi-account-oca
-- odoo-addon-edi-sale-oca
-- parameterizable
-- pysilica
-- pytrilogy
-- layoutlens
-- rust-pyfunc
-- whose-encoder
-- pulumi-aws-native
-- llm-web-kit
-- naif-eop-high-prec
-- endnote-utils
-- Appium-Python-Client
-- getserving
-- duowen-agent
-- odoo-addon-account-due-list
-- odoo-addon-account-invoice-transmit-method
-- odoo-addon-account-invoice-supplierinfo-update
-- ggsci
-- spoon-ai-sdk

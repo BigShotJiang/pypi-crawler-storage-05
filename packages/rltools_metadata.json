@@ -1,0 +1,11 @@
+{
+  "name": "rltools",
+  "version": "2.1.0",
+  "summary": "A Python wrapper for RLtools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rltools-2.1.0.tar.gz",
+  "download_time": "2025-09-12T03:50:49.434839",
+  "package_url": "https://pypi.org/project/rltools/"
+}
