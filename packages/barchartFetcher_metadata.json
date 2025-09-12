@@ -1,0 +1,11 @@
+{
+  "name": "barchartFetcher",
+  "version": "1.1.0",
+  "summary": "Client utilities for fetching market data from Barchart",
+  "author": "nndjoli",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "barchartfetcher-1.1.0.tar.gz",
+  "download_time": "2025-09-12T10:12:31.209933",
+  "package_url": "https://pypi.org/project/barchartFetcher/"
+}

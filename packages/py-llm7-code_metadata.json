@@ -1,0 +1,11 @@
+{
+  "name": "py-llm7-code",
+  "version": "2025.9.121057",
+  "summary": "LLM7-powered generator that creates a minimal single-function Python package and runner from a natural-language spec.",
+  "author": "Eugene Evstafev",
+  "license": "MIT",
+  "home_page": "https://github.com/chigwell/py_llm7_code",
+  "download_filename": "py_llm7_code-2025.9.121057.tar.gz",
+  "download_time": "2025-09-12T10:12:27.689417",
+  "package_url": "https://pypi.org/project/py-llm7-code/"
+}

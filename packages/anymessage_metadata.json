@@ -1,0 +1,11 @@
+{
+  "name": "anymessage",
+  "version": "0.1.0",
+  "summary": "Asynchronous Python SDK for AnyMessage email service",
+  "author": "Alexander",
+  "license": "MIT",
+  "home_page": "https://github.com/whoissoee/anymessage-sdk",
+  "download_filename": "anymessage-0.1.0.tar.gz",
+  "download_time": "2025-09-12T10:12:34.731746",
+  "package_url": "https://pypi.org/project/anymessage/"
+}

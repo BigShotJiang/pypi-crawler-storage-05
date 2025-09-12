@@ -1,11 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-12T09:49:48.663584
-- **Total Packages**: 85
-- **Total Size**: 9.62 MB
+- **Download Time**: 2025-09-12T10:13:08.369559
+- **Total Packages**: 89
+- **Total Size**: 30.64 MB
 
 ## Packages List
+- test-server
+- aheadworks-deploy-manager
+- softauto
+- rose-nielsen-sdk
+- dicube
+- eq-api-connector
+- narwhals
+- g4f
+- l2sl
+- chift
+- sigmaflow
+- faster-app
+- sora-sdk
+- arpakitlib
+- sqlai
+- china_stock_data
+- evotoolkit
+- energy-reports-pkg
+- caluma
+- unicorn-eval
+- py-llm7-code
+- anomavision
+- torchrecurrent
+- mazinsmath
+- pymosquitto
+- rhamaa
+- barchartFetcher
+- bev
+- bkflow-django-webhook
+- oarepo-runtime
+- issue-solver
+- nvfuser-cu126
+- anymessage
+- PySide6-ElaWidgetTools
+- PyQt6-ElaWidgetTools
+- PyQt5-ElaWidgetTools
+- nvfuser-cu129
+- nvfuser-cu128
+- cacholong-cloud-cli
+- viadot2
+- pinarkive-sdk
+- agenta
+- docsloader
+- authentik-client
+- ruranges
+- sdncenter-currency-converter
+- pyhyapi
+- commodutil
+- ibmcloudant
+- mcpcn-split-screen-mcp
+- aider-code
+- process-gpt-agent-sdk
 - bw-essentials-core
 - bn-byneuron
 - funcnodes-react-flow
@@ -19,7 +71,6 @@
 - p-template-generator
 - webtap-tool
 - cowsee
-- mcpcn-split-screen-mcp
 - cyst-core
 - ljobx
 - dify-oapi2
@@ -27,7 +78,6 @@
 - scxpand-cuda
 - geo-explorer
 - bilifm
-- arpakitlib
 - unitypredict
 - unitypredict-engines
 - kete
@@ -39,55 +89,9 @@
 - maleo-mixins
 - hdn-research-environment
 - brostel
-- authentik-client
 - openapi-to-fastapi
 - pyodide-cli
 - axosyslog-light
 - cdntools
 - beeai-cli
 - gptqmodel
-- demodapk
-- beeai-sdk
-- mergething
-- rose-nielsen-sdk
-- olarmflowclient
-- cloudx-proxy
-- feincms3
-- pyarchernet
-- promptimus
-- syngen-databricks
-- syngen
-- gslides-api
-- mhd-model
-- OctoBot-Trading
-- bomiot
-- flet-extended-interactive-viewer
-- gpframe
-- edwh-restic-plugin
-- RF-Track
-- ioxio-data-product-definition-tooling
-- zenith-web
-- maai
-- monoscope-django
-- calista
-- aheadworks-deploy-manager
-- ai-ebash
-- oxylabs-mcp
-- marearts-crystal
-- aerospot-autoreport
-- maas-task-backoff-framework
-- word-document-content-adder-mcp
-- alibabacloud-elasticsearch20170613
-- plonemeeting.portal.core
-- simple-carla
-- powertrain-build
-- neurograd
-- aia-chaser
-- tlkcore
-- qpay-client
-- torchoutil
-- tranche
-- mxcubeweb
-- nrfcloud-utils
-- ryland
-- monzoh

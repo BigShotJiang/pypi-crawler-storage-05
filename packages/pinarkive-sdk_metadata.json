@@ -1,11 +1,11 @@
 {
   "name": "pinarkive-sdk",
-  "version": "2.1.46",
-  "summary": "Python SDK for the Pinarkive API v2.1 - Easy IPFS file management with directory DAG uploads, file renaming, and enhanced API key management. Includes type hints for better IDE support.",
+  "version": "2.2.1",
+  "summary": "Python SDK for the Pinarkive API v2.2.1 - Easy IPFS file management with directory DAG uploads, file renaming, and enhanced API key management. Includes type hints for better IDE support.",
   "author": "ITCS VIP, Joel_da",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pinarkive_sdk-2.1.46.tar.gz",
-  "download_time": "2025-09-11T18:37:59.686948",
+  "download_filename": "pinarkive_sdk-2.2.1.tar.gz",
+  "download_time": "2025-09-12T10:12:40.034974",
   "package_url": "https://pypi.org/project/pinarkive-sdk/"
 }

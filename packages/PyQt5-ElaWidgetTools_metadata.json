@@ -1,11 +1,11 @@
 {
   "name": "PyQt5-ElaWidgetTools",
-  "version": "0.0.9",
+  "version": "0.1",
   "summary": null,
   "author": "HIllya51",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyqt5_elawidgettools-0.0.9-cp37-abi3-win32.whl",
-  "download_time": "2025-09-09T14:31:54.363619",
+  "download_filename": "pyqt5_elawidgettools-0.1-cp37-abi3-manylinux1_x86_64.whl",
+  "download_time": "2025-09-12T10:12:37.112203",
   "package_url": "https://pypi.org/project/PyQt5-ElaWidgetTools/"
 }
