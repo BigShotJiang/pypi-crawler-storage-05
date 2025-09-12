@@ -1,8 +1,13 @@
 {
-  "download_time": "2025-09-12T22:11:47.240370",
-  "total_packages_downloaded": 82,
-  "total_size_mb": 24.19,
+  "download_time": "2025-09-12T22:30:53.140507",
+  "total_packages_downloaded": 83,
+  "total_size_mb": 1.02,
   "packages": [
+    "pulumi",
+    "prompture",
+    "snowcli-tools",
+    "inventree-droplet-plugin",
+    "dragonfly-core",
     "kitconcept.core",
     "masbench",
     "nautobot-device-onboarding",
@@ -80,10 +85,6 @@
     "aibox-data-lake",
     "yandex-yc-text2yql-data-app",
     "aigyminsper",
-    "aplr",
-    "dtpyfw",
-    "multidimio",
-    "mink",
-    "sql-blocks"
+    "aplr"
   ]
 }
