@@ -1,11 +1,11 @@
 {
   "name": "argsclass",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Simple class-based argument parsing for python scripts",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "argsclass-0.3.0.tar.gz",
-  "download_time": "2025-09-09T14:32:24.255141",
+  "download_filename": "argsclass-0.4.0.tar.gz",
+  "download_time": "2025-09-12T04:48:47.384184",
   "package_url": "https://pypi.org/project/argsclass/"
 }

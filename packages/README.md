@@ -1,28 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-12T04:35:04.453554
-- **Total Packages**: 81
-- **Total Size**: 19.75 MB
+- **Download Time**: 2025-09-12T04:49:17.952706
+- **Total Packages**: 75
+- **Total Size**: 11.01 MB
 
 ## Packages List
+- thoth-dbmanager
+- mcpcap
+- PyWebWinUI3
+- PySigmaKoki
+- maai
+- iamdata
+- QNPI-InRealisticWaveguides
+- fraiseql
+- cv2-enumerate-cameras
+- kaq-quant-common
+- devstack-cli
+- pkbrokers
+- edaflow
+- shell-lib
+- authentik-client
+- chord-progression-network
+- genmine
+- moonbase-sdk
+- argsclass
+- leaguewizard
+- checksum-dict
 - evmspec
 - lmsstat
 - gradio-creditspanel
 - modelswrkpi
-- pkbrokers
 - socketsecurity
 - MeUtils
-- mcpcap
 - rbx.cp
-- authentik-client
 - encoding-mcp
 - mp-api
 - jobtty
 - radboy
 - xensegripper
 - apafib
-- chord-progression-network
 - janito
 - dconfusion
 - prime
@@ -48,14 +65,12 @@
 - robotframework-schemathesislibrary
 - chromedriver-binary
 - clinicedc
-- edaflow
 - odoo-addon-product-customerinfo-picking
 - bruce-li-tc
 - py-embedbuilder
 - scxpand
 - biosteam
 - thermosteam
-- leaguewizard
 - NikGapps
 - openapi-navigator
 - comfyui-frontend-package
@@ -66,24 +81,3 @@
 - pkscreener
 - hmr
 - pycompool
-- fts-tool
-- devstack-cli
-- odoo-addon-product-form-sale-link
-- odoo-addon-product-customerinfo-sale
-- dataset-build
-- TMDBTraktSyncer
-- bear-epoch-time
-- smartmetertx2mongo
-- mkdocs-mini-blog
-- IMDBTraktSyncer
-- pytbox
-- faster-eth-utils
-- keras-nightly
-- multicall
-- faster-app
-- rltools
-- odoo-addon-report-qweb-field-option
-- odoo-addon-report-py3o
-- odoo-addon-report-wkhtmltopdf-param
-- odoo-addon-report-qweb-pdf-watermark
-- odoo-addon-report-xml
