@@ -1,11 +1,11 @@
 {
   "name": "wnetalign",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "Python implementation of spectral alignment using Wasserstein metric",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wnetalign-0.9.0.tar.gz",
-  "download_time": "2025-09-12T18:51:03.972024",
+  "download_filename": "wnetalign-0.9.1.tar.gz",
+  "download_time": "2025-09-12T19:14:30.309626",
   "package_url": "https://pypi.org/project/wnetalign/"
 }

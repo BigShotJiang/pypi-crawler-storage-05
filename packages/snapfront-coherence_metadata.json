@@ -1,11 +1,11 @@
 {
   "name": "snapfront-coherence",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "Snapfront Coherence Python SDK: WCT_phi and coherence-band client with retries, timeouts, and typed errors.",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "snapfront_coherence-0.2.6.tar.gz",
-  "download_time": "2025-09-12T15:11:54.574357",
+  "download_filename": "snapfront_coherence-0.2.7.tar.gz",
+  "download_time": "2025-09-12T19:14:06.754641",
   "package_url": "https://pypi.org/project/snapfront-coherence/"
 }

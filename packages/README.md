@@ -1,11 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-12T18:51:38.080557
-- **Total Packages**: 92
-- **Total Size**: 8.64 MB
+- **Download Time**: 2025-09-12T19:14:55.764849
+- **Total Packages**: 90
+- **Total Size**: 4.0 MB
 
 ## Packages List
+- sportsball
+- pydantic-rng
+- snapfront-coherence
+- pulumi-splunk
+- xmltodict
+- niflheim-x
+- hei-calculator
+- otpylib
+- pdf-suite
+- pulumi-gitlab
+- pulumi-snowflake
+- pulumi-juniper-mist
+- dbos
+- growthbook
+- ez-constructs
+- jupyterlab-unicore-shell
+- dbt_coves
 - django-outbox-pattern
 - gitbranch-clean
 - pulumi-databricks
@@ -27,10 +44,8 @@
 - pulumi-datadog
 - streamlit-lexical-extended
 - zampie_utils
-- pydantic-rng
 - pulumi-random
 - Taelcore
-- pulumi-splunk
 - authentik-client
 - pulumi-xyz
 - pulumi-vsphere
@@ -49,7 +64,6 @@
 - pulumi-postgresql
 - pulumi-slack
 - pulumi-provider-boilerplate
-- pulumi-gitlab
 - libjam
 - pulumi-signalfx
 - pulumi-nomad
@@ -82,19 +96,3 @@
 - pulumi-mailgun
 - great-expectations-cloud
 - kaqing
-- pulumi-http
-- pulumi-ise
-- pulumi-keycloak
-- custom-onecyclelr
-- pulumi-github
-- zippa
-- inngest
-- steer-core
-- steer-materials
-- amzn-sagemaker-checkpointing
-- pulumi-dbtcloud
-- pulumi-f5bigip
-- ucnhistory
-- pulumi-consul
-- pulumi-confluentcloud
-- ppp-connectors
