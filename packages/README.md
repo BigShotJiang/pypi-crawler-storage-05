@@ -1,11 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-12T23:35:00.412198
-- **Total Packages**: 82
-- **Total Size**: 0.88 MB
+- **Download Time**: 2025-09-12T23:49:24.551769
+- **Total Packages**: 77
+- **Total Size**: 10.69 MB
 
 ## Packages List
+- vantage-cli
+- pulumi-cloudinit
+- thds.atacama
+- thds.mops
+- thds.humenc
+- thds.core
+- thds.adls
+- albionSmallLibs
+- pulumi-aws-apigateway
+- pulumi-azuredevops
+- pulumi-azuread
+- pulumi-cloudamqp
+- onefootball-wrapper
+- korpy
+- digit-bin-index
+- telerun
+- neurograd
+- claude-trace-viewer
+- arize_toolkit
+- chuk-virtual-shell
+- omnimancer-cli
+- pulumi-alicloud
+- authentik-client
+- libdyson-rest
+- pulumi-pagerduty
+- lila-framework
+- terminator
+- memmachine
+- pulumi-auth0
 - terminator-py
 - fastapi-oidc-jwks
 - pulumi-newrelic
@@ -17,7 +46,6 @@
 - railtracks
 - pulumi-artifactory
 - pulumi-ns1
-- pulumi-cloudinit
 - pulumi-splunk
 - pulumi-archive
 - pulumi-akamai
@@ -26,9 +54,7 @@
 - skyblock-repo
 - kececinumbers
 - radboy
-- pulumi-alicloud
 - pulumi-aiven
-- authentik-client
 - dttlib
 - blocks-cli
 - pulumi-databricks
@@ -44,11 +70,6 @@
 - pydantic-ai
 - clai
 - masquerade-spatial
-- lila-framework
-- albionSmallLibs
-- pulumi-azuredevops
-- vantage-cli
-- pulumi-cloudamqp
 - pandas-slim
 - pulumi-mongodbatlas
 - pulumi-confluentcloud
@@ -62,29 +83,3 @@
 - Shady
 - markup-ai-api
 - crumpy
-- pulumi-vault
-- pulumi
-- pulumi-external
-- pulumi-nomad
-- langchain-trigger-server
-- pulumi-snowflake
-- rbx.cp
-- xiaoranli
-- pulumi-opsgenie
-- pulumi-slack
-- onefootball-wrapper
-- comfyui-manager
-- pygeist
-- struktx-ai
-- pulumi-aws-apigateway
-- UW-RestClients-MyPlan
-- dwind
-- cruntils
-- flwr-nightly
-- pulumi-vsphere
-- pygpt-net
-- pulumi-tailscale
-- pulumi-docker
-- trame-dataclass
-- pulumi-digitalocean
-- tempit-manager

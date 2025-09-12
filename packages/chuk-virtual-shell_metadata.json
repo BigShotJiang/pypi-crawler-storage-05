@@ -1,11 +1,11 @@
 {
   "name": "chuk-virtual-shell",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chuk_virtual_shell-0.1.3.tar.gz",
-  "download_time": "2025-09-11T23:48:18.765251",
+  "download_filename": "chuk_virtual_shell-0.1.4.tar.gz",
+  "download_time": "2025-09-12T23:48:54.417066",
   "package_url": "https://pypi.org/project/chuk-virtual-shell/"
 }
