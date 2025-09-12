@@ -1,0 +1,11 @@
+{
+  "name": "pysnc",
+  "version": "1.2.0",
+  "summary": "Python SNC (REST) API",
+  "author": "Matthew Gill",
+  "license": "MIT",
+  "home_page": "https://github.com/ServiceNow/PySNC",
+  "download_filename": "pysnc-1.2.0.tar.gz",
+  "download_time": "2025-09-12T19:26:45.397479",
+  "package_url": "https://pypi.org/project/pysnc/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ampy-config",
-  "version": "1.1.3",
+  "version": "1.1.5",
   "summary": "Typed configuration & secrets facade for AmpyFin (layering, validation, secrets, control-plane)",
   "author": "AmpyFin contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ampy_config-1.1.3.tar.gz",
-  "download_time": "2025-09-09T17:28:30.670026",
+  "download_filename": "ampy_config-1.1.5.tar.gz",
+  "download_time": "2025-09-12T19:27:17.527898",
   "package_url": "https://pypi.org/project/ampy-config/"
 }

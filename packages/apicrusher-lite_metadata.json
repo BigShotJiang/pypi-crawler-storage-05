@@ -1,0 +1,11 @@
+{
+  "name": "apicrusher-lite",
+  "version": "1.0.0",
+  "summary": "Basic AI model router for cost optimization",
+  "author": "APICrusher",
+  "license": null,
+  "home_page": "https://github.com/apicrusher/apicrusher-lite",
+  "download_filename": "apicrusher_lite-1.0.0.tar.gz",
+  "download_time": "2025-09-12T19:27:03.711523",
+  "package_url": "https://pypi.org/project/apicrusher-lite/"
+}

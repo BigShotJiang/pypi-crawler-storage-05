@@ -1,0 +1,11 @@
+{
+  "name": "gold-fifo-tax",
+  "version": "0.1.0",
+  "summary": "FIFO-based capital gains calculator for gold and similar assets with CII indexation (India).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gold_fifo_tax-0.1.0.tar.gz",
+  "download_time": "2025-09-12T19:26:40.053960",
+  "package_url": "https://pypi.org/project/gold-fifo-tax/"
+}

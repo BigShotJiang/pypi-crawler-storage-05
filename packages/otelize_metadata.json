@@ -1,0 +1,11 @@
+{
+  "name": "otelize",
+  "version": "0.2.0",
+  "summary": "A Python decorator to add OTEL auto-instrumentation to your functions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "otelize-0.2.0.tar.gz",
+  "download_time": "2025-09-12T19:27:19.779501",
+  "package_url": "https://pypi.org/project/otelize/"
+}

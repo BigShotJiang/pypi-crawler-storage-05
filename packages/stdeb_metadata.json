@@ -1,0 +1,11 @@
+{
+  "name": "stdeb",
+  "version": "0.11.0",
+  "summary": "Python to Debian source package conversion utility",
+  "author": "Andrew Straw",
+  "license": "MIT",
+  "home_page": "http://github.com/astraw/stdeb",
+  "download_filename": "stdeb-0.11.0.tar.gz",
+  "download_time": "2025-09-12T19:27:12.872147",
+  "package_url": "https://pypi.org/project/stdeb/"
+}
