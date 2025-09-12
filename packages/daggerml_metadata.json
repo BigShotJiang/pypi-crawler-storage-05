@@ -1,11 +1,11 @@
 {
   "name": "daggerml",
-  "version": "0.0.38",
+  "version": "0.0.38.post1",
   "summary": "DaggerML",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "daggerml-0.0.38.tar.gz",
-  "download_time": "2025-09-10T04:33:01.205548",
+  "download_filename": "daggerml-0.0.38.post1.tar.gz",
+  "download_time": "2025-09-12T03:04:16.540301",
   "package_url": "https://pypi.org/project/daggerml/"
 }

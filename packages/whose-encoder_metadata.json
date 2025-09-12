@@ -1,0 +1,11 @@
+{
+  "name": "whose-encoder",
+  "version": "0.4.0",
+  "summary": "一个将文件编码为'苹果'/'安卓'文本，以及解码还原的工具",
+  "author": "Ruo1.-_1",
+  "license": null,
+  "home_page": null,
+  "download_filename": "whose_encoder-0.4.0.tar.gz",
+  "download_time": "2025-09-12T03:03:54.116411",
+  "package_url": "https://pypi.org/project/whose-encoder/"
+}

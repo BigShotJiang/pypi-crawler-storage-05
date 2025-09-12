@@ -1,0 +1,11 @@
+{
+  "name": "spider-mcp-client",
+  "version": "0.1.6",
+  "summary": "Official Python client for Spider MCP web scraping API",
+  "author": "Spider MCP Team",
+  "license": "MIT",
+  "home_page": "https://github.com/spider-mcp/spider-mcp-client",
+  "download_filename": "spider_mcp_client-0.1.6.tar.gz",
+  "download_time": "2025-09-12T03:04:10.805876",
+  "package_url": "https://pypi.org/project/spider-mcp-client/"
+}

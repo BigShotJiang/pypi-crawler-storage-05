@@ -1,0 +1,11 @@
+{
+  "name": "rgg-save-tool",
+  "version": "0.1.1",
+  "summary": "A tool for encrypting and decrypting RGG Studios game saves. (DE Only)",
+  "author": "GarnetSunset",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rgg_save_tool-0.1.1.tar.gz",
+  "download_time": "2025-09-12T03:04:22.839281",
+  "package_url": "https://pypi.org/project/rgg-save-tool/"
+}

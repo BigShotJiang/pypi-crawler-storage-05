@@ -1,11 +1,11 @@
 {
   "name": "Appium-Python-Client",
-  "version": "5.2.3",
+  "version": "5.2.4",
   "summary": "Python client for Appium",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "appium_python_client-5.2.3.tar.gz",
-  "download_time": "2025-09-10T06:16:15.747592",
+  "download_filename": "appium_python_client-5.2.4.tar.gz",
+  "download_time": "2025-09-12T03:03:58.096054",
   "package_url": "https://pypi.org/project/Appium-Python-Client/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fastvid",
+  "version": "0.1.6",
+  "summary": "A GUI tool for video processing (acceleration, GIF conversion, compression).",
+  "author": "mellon",
+  "license": null,
+  "home_page": "https://github.com/yourusername/fastvid",
+  "download_filename": "fastvid-0.1.6.tar.gz",
+  "download_time": "2025-09-12T03:04:25.539550",
+  "package_url": "https://pypi.org/project/fastvid/"
+}

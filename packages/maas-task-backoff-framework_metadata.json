@@ -1,11 +1,11 @@
 {
   "name": "maas-task-backoff-framework",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "基于Redis的任务退避重试、调度框架，支持多种退避策略",
   "author": "xinzf",
   "license": "MIT",
   "home_page": "https://github.com/xiaofucoding/maas-task-backoff-framework.git/",
-  "download_filename": "maas-task-backoff-framework-1.0.3.tar.gz",
-  "download_time": "2025-09-09T05:11:21.307016",
+  "download_filename": "maas-task-backoff-framework-1.0.4.tar.gz",
+  "download_time": "2025-09-12T03:04:09.198078",
   "package_url": "https://pypi.org/project/maas-task-backoff-framework/"
 }

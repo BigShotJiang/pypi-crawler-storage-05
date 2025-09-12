@@ -1,0 +1,11 @@
+{
+  "name": "ihook",
+  "version": "0.2.1",
+  "summary": "`ihook` is a Python module that allows you to configure functions to call when importing modules.",
+  "author": "Jianzhang Chen",
+  "license": "MIT",
+  "home_page": "https://github.com/JezaChen/ihook",
+  "download_filename": "ihook-0.2.1.tar.gz",
+  "download_time": "2025-09-12T03:04:23.385260",
+  "package_url": "https://pypi.org/project/ihook/"
+}
