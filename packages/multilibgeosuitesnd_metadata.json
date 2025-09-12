@@ -1,0 +1,11 @@
+{
+  "name": "multilibgeosuitesnd",
+  "version": "0.0.10.1",
+  "summary": "Parser for the GeoSuite<tm> SND export format forked with bugfixes",
+  "author": "Jakob Drage Roti",
+  "license": null,
+  "home_page": "https://github.com/Multiconsult-Group/10563014-geo-libgeosuitesnd",
+  "download_filename": "multilibgeosuitesnd-0.0.10.1.tar.gz",
+  "download_time": "2025-09-12T10:49:16.307415",
+  "package_url": "https://pypi.org/project/multilibgeosuitesnd/"
+}

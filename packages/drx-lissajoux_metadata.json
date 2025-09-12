@@ -1,0 +1,11 @@
+{
+  "name": "drx-lissajoux",
+  "version": "1.0.3",
+  "summary": "DrX Lissajoux API",
+  "author": "DrX Works",
+  "license": null,
+  "home_page": "https://drx.works/",
+  "download_filename": "drx_lissajoux-1.0.3.tar.gz",
+  "download_time": "2025-09-12T10:49:10.216830",
+  "package_url": "https://pypi.org/project/drx-lissajoux/"
+}

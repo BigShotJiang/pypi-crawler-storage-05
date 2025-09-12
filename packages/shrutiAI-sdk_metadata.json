@@ -1,0 +1,11 @@
+{
+  "name": "shrutiAI-sdk",
+  "version": "1.0.0",
+  "summary": "A Python SDK for interacting with shrutiAI API",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/shrutiAI-sdk",
+  "download_filename": "shrutiai_sdk-1.0.0.tar.gz",
+  "download_time": "2025-09-12T10:49:29.709732",
+  "package_url": "https://pypi.org/project/shrutiAI-sdk/"
+}

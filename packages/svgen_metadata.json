@@ -1,11 +1,11 @@
 {
   "name": "svgen",
-  "version": "0.8.6",
+  "version": "0.8.7",
   "summary": "A tool for working with scalable vector graphics.",
   "author": "Libre Embedded",
   "license": null,
   "home_page": "https://github.com/libre-embedded/svgen",
-  "download_filename": "svgen-0.8.6.tar.gz",
-  "download_time": "2025-09-11T03:10:20.323210",
+  "download_filename": "svgen-0.8.7.tar.gz",
+  "download_time": "2025-09-12T10:49:17.980023",
   "package_url": "https://pypi.org/project/svgen/"
 }

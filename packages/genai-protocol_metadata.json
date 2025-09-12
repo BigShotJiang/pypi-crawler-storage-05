@@ -1,0 +1,11 @@
+{
+  "name": "genai-protocol",
+  "version": "2.0.0",
+  "summary": "A universal agents connector library that integrates with GenAI.works infrastructure",
+  "author": "Yaroslav Oliinyk, Valentyn Slivko, Ivan Kuzlo, Pavlo Shyrinskykh",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/genai-works-org/genai-protocol",
+  "download_filename": "genai_protocol-2.0.0.tar.gz",
+  "download_time": "2025-09-12T10:49:14.114749",
+  "package_url": "https://pypi.org/project/genai-protocol/"
+}

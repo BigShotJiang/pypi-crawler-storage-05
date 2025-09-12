@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-k3d-screenshot",
+  "version": "0.2.1",
+  "summary": "A directive to include K3D Jupyter's screenshots into a Sphinx document",
+  "author": "Davide Sandona",
+  "license": "MIT License",
+  "home_page": "https://github.com/Davide-sd/sphinx_k3d_screenshot",
+  "download_filename": "sphinx_k3d_screenshot-0.2.1.tar.gz",
+  "download_time": "2025-09-12T10:49:41.342110",
+  "package_url": "https://pypi.org/project/sphinx-k3d-screenshot/"
+}
