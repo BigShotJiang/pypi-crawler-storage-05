@@ -1,11 +1,11 @@
 {
   "name": "KeyisBVMHost",
-  "version": "0.0.0.0.6",
+  "version": "0.0.0.0.7",
   "summary": "KeyisBVMHost",
   "author": "KeyisB",
   "license": "MMB License v1.0",
   "home_page": "https://github.com/KeyisB/libs/tree/main/KeyisBVMHost",
-  "download_filename": "keyisbvmhost-0.0.0.0.6.tar.gz",
-  "download_time": "2025-09-12T13:41:46.267055",
+  "download_filename": "keyisbvmhost-0.0.0.0.7.tar.gz",
+  "download_time": "2025-09-12T14:33:56.955886",
   "package_url": "https://pypi.org/project/KeyisBVMHost/"
 }
