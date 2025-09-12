@@ -1,0 +1,11 @@
+{
+  "name": "oganesson",
+  "version": "0.1.47",
+  "summary": "oganesson enables rapid AI workflows for material science and chemistry",
+  "author": "Sherif Abdulkader Tawfik Abbas",
+  "license": "mit",
+  "home_page": "https://github.com/oganesson-ai/oganesson",
+  "download_filename": "oganesson-0.1.47.tar.gz",
+  "download_time": "2025-09-12T05:41:22.446000",
+  "package_url": "https://pypi.org/project/oganesson/"
+}
