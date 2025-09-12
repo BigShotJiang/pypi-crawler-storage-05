@@ -1,0 +1,11 @@
+{
+  "name": "yams",
+  "version": "2.0.1",
+  "summary": "entity / relation schema",
+  "author": "Logilab",
+  "license": "LGPL",
+  "home_page": "https://forge.extranet.logilab.fr/open-source/yams",
+  "download_filename": "yams-2.0.1.tar.gz",
+  "download_time": "2025-09-12T07:11:57.548968",
+  "package_url": "https://pypi.org/project/yams/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "zope.component",
-  "version": "6.1",
+  "version": "7.0",
   "summary": "Zope Component Architecture",
   "author": "Zope Foundation and Contributors",
   "license": "ZPL-2.1",
   "home_page": "https://github.com/zopefoundation/zope.component",
-  "download_filename": "zope_component-6.1.tar.gz",
-  "download_time": "2025-09-09T06:48:10.378237",
+  "download_filename": "zope_component-7.0.tar.gz",
+  "download_time": "2025-09-12T07:11:54.988100",
   "package_url": "https://pypi.org/project/zope.component/"
 }

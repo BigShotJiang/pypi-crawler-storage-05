@@ -1,0 +1,11 @@
+{
+  "name": "zope.catalog",
+  "version": "6.0",
+  "summary": "Cataloging and Indexing Framework for the Zope Toolkit",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.catalog",
+  "download_filename": "zope_catalog-6.0.tar.gz",
+  "download_time": "2025-09-12T07:11:56.523587",
+  "package_url": "https://pypi.org/project/zope.catalog/"
+}

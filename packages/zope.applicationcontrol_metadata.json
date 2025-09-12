@@ -1,0 +1,11 @@
+{
+  "name": "zope.applicationcontrol",
+  "version": "6.0",
+  "summary": "Zope applicationcontrol",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.applicationcontrol",
+  "download_filename": "zope_applicationcontrol-6.0.tar.gz",
+  "download_time": "2025-09-12T07:12:08.804177",
+  "package_url": "https://pypi.org/project/zope.applicationcontrol/"
+}

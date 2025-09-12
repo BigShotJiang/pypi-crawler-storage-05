@@ -1,0 +1,11 @@
+{
+  "name": "zope.authentication",
+  "version": "6.0",
+  "summary": "Definition of authentication basics for the Zope Framework",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://zopeauthentication.readthedocs.io/",
+  "download_filename": "zope_authentication-6.0.tar.gz",
+  "download_time": "2025-09-12T07:12:07.277564",
+  "package_url": "https://pypi.org/project/zope.authentication/"
+}

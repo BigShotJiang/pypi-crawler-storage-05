@@ -1,0 +1,11 @@
+{
+  "name": "zope.datetime",
+  "version": "6.0",
+  "summary": "Zope datetime",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "http://github.com/zopefoundation/zope.datetime",
+  "download_filename": "zope_datetime-6.0.tar.gz",
+  "download_time": "2025-09-12T07:11:43.214585",
+  "package_url": "https://pypi.org/project/zope.datetime/"
+}

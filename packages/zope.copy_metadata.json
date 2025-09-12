@@ -1,0 +1,11 @@
+{
+  "name": "zope.copy",
+  "version": "6.0",
+  "summary": "Pluggable object copying mechanism",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "http://github.com/zopefoundation/zope.copy",
+  "download_filename": "zope_copy-6.0.tar.gz",
+  "download_time": "2025-09-12T07:11:45.778144",
+  "package_url": "https://pypi.org/project/zope.copy/"
+}

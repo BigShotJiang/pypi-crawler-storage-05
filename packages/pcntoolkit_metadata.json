@@ -1,11 +1,11 @@
 {
   "name": "pcntoolkit",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "Predictive Clinical Neuroscience Toolkit",
   "author": "Andre Marquand, Stijn de Boer, Seyed Mostafa Kia, Saige Rutherford, Charlotte Fraza, Barbora Rehák Bučková, Pieter Barkema, Thomas Wolfers, Mariam Zabihi, Richard Dinga, Johanna Bayer, Maarten Mennes, Hester Huijsdens, Linden Parkes, Pierre Berthet",
   "license": null,
   "home_page": null,
-  "download_filename": "pcntoolkit-1.0.1.tar.gz",
-  "download_time": "2025-09-09T08:54:11.308687",
+  "download_filename": "pcntoolkit-1.1.0.tar.gz",
+  "download_time": "2025-09-12T07:11:38.073170",
   "package_url": "https://pypi.org/project/pcntoolkit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "blackduck-results",
+  "version": "1.0.24",
+  "summary": "Recursively traverse subprojects and report libraries with vulnerable components in a format suitable for integration with other tools and human consumption.",
+  "author": "Fabio Arciniegas",
+  "license": null,
+  "home_page": "https://https://adc.trendmicro.com/fabioa/blackduck-results",
+  "download_filename": "blackduck_results-1.0.24.tar.gz",
+  "download_time": "2025-09-12T07:11:44.239514",
+  "package_url": "https://pypi.org/project/blackduck-results/"
+}

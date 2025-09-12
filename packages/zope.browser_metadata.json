@@ -1,0 +1,11 @@
+{
+  "name": "zope.browser",
+  "version": "4.0",
+  "summary": "Shared Zope Toolkit browser components",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://zopebrowser.readthedocs.io",
+  "download_filename": "zope_browser-4.0.tar.gz",
+  "download_time": "2025-09-12T07:12:05.214369",
+  "package_url": "https://pypi.org/project/zope.browser/"
+}

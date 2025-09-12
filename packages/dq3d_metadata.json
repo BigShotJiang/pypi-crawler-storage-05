@@ -1,11 +1,11 @@
 {
   "name": "dq3d",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "Dual Quaternion for 3d transformation",
   "author": "neka-nat",
   "license": null,
   "home_page": "https://github.com/neka-nat/dq3d",
-  "download_filename": "dq3d-0.3.7.tar.gz",
-  "download_time": "2025-09-12T06:44:01.222210",
+  "download_filename": "dq3d-0.3.8.tar.gz",
+  "download_time": "2025-09-12T07:11:49.361703",
   "package_url": "https://pypi.org/project/dq3d/"
 }
