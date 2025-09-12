@@ -1,0 +1,11 @@
+{
+  "name": "maildirwatch",
+  "version": "0.2.1",
+  "summary": "Watch Maildir for incoming mail and display notifications",
+  "author": "Michał Krzywkowski",
+  "license": "GPLv3",
+  "home_page": "https://github.com/mkcms/maildirwatch",
+  "download_filename": "maildirwatch-0.2.1.tar.gz",
+  "download_time": "2025-09-12T17:10:24.569125",
+  "package_url": "https://pypi.org/project/maildirwatch/"
+}

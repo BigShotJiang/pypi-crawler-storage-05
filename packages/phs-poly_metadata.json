@@ -1,11 +1,11 @@
 {
   "name": "phs-poly",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "PHS+poly approximation procedures",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "phs_poly-0.2.1.tar.gz",
-  "download_time": "2025-09-09T22:28:40.139018",
+  "download_filename": "phs_poly-0.2.3.tar.gz",
+  "download_time": "2025-09-12T17:10:48.964750",
   "package_url": "https://pypi.org/project/phs-poly/"
 }

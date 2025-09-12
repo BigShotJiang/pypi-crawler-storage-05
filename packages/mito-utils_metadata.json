@@ -1,11 +1,11 @@
 {
   "name": "mito-utils",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Utilities for MT-based single cell Lineage Tracing (scLT).",
   "author": "Andrea Cossa",
   "license": null,
   "home_page": "https://github.com/andrecossa5/MiTo",
-  "download_filename": "mito_utils-0.0.4.tar.gz",
-  "download_time": "2025-09-12T16:50:28.061640",
+  "download_filename": "mito_utils-0.0.5.tar.gz",
+  "download_time": "2025-09-12T17:10:34.067039",
   "package_url": "https://pypi.org/project/mito-utils/"
 }
