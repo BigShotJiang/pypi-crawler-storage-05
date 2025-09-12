@@ -1,11 +1,11 @@
 {
   "name": "dttlib",
-  "version": "0.7.0",
+  "version": "0.7.2",
   "summary": "Advanced LIGO core library for online and offline frequency-domain diagnostics tool.",
   "author": "Erik von Reis <erik.vonreis@ligo.org>",
   "license": null,
   "home_page": "https://git.ligo.org/cds/software/cr-tools/dtt_rust",
-  "download_filename": "dttlib-0.7.0.tar.gz",
-  "download_time": "2025-09-12T21:10:29.104530",
+  "download_filename": "dttlib-0.7.2.tar.gz",
+  "download_time": "2025-09-12T23:26:05.570808",
   "package_url": "https://pypi.org/project/dttlib/"
 }

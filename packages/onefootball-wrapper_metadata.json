@@ -1,11 +1,11 @@
 {
   "name": "onefootball-wrapper",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Python API wrapper for OneFootball undocumented API",
   "author": "tommhe14",
   "license": "MIT",
   "home_page": "https://github.com/tommhe14/onefootball-wrapper",
-  "download_filename": "onefootball_wrapper-0.0.2.tar.gz",
-  "download_time": "2025-09-12T20:48:43.874314",
+  "download_filename": "onefootball_wrapper-0.0.3.tar.gz",
+  "download_time": "2025-09-12T23:26:29.682817",
   "package_url": "https://pypi.org/project/onefootball-wrapper/"
 }

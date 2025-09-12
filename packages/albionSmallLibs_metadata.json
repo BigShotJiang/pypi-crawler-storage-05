@@ -1,11 +1,11 @@
 {
   "name": "albionSmallLibs",
-  "version": "0.7.1",
+  "version": "0.7.3",
   "summary": "A simple example package",
   "author": "Your Name",
   "license": null,
   "home_page": "https://github.com/yourusername/albionSmallLibs",
-  "download_filename": "albionsmalllibs-0.7.1.tar.gz",
-  "download_time": "2025-09-10T21:26:56.755166",
+  "download_filename": "albionsmalllibs-0.7.3.tar.gz",
+  "download_time": "2025-09-12T23:26:13.956775",
   "package_url": "https://pypi.org/project/albionSmallLibs/"
 }

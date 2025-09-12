@@ -1,11 +1,11 @@
 {
   "name": "rbx.cp",
-  "version": "0.18.11",
+  "version": "0.18.12",
   "summary": null,
   "author": "Roberto Sales",
   "license": null,
   "home_page": null,
-  "download_filename": "rbx_cp-0.18.11.tar.gz",
-  "download_time": "2025-09-12T21:10:30.705295",
+  "download_filename": "rbx_cp-0.18.12.tar.gz",
+  "download_time": "2025-09-12T23:26:27.585953",
   "package_url": "https://pypi.org/project/rbx.cp/"
 }

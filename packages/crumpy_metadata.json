@@ -1,0 +1,11 @@
+{
+  "name": "crumpy",
+  "version": "0.2.0",
+  "summary": "A python library for visualizing Crumble circuits in Jupyter",
+  "author": "Riverlane",
+  "license": null,
+  "home_page": null,
+  "download_filename": "crumpy-0.2.0.tar.gz",
+  "download_time": "2025-09-12T23:26:23.400157",
+  "package_url": "https://pypi.org/project/crumpy/"
+}

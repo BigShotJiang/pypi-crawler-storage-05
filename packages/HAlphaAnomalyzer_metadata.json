@@ -1,0 +1,11 @@
+{
+  "name": "HAlphaAnomalyzer",
+  "version": "1.1.0",
+  "summary": "\"This software identifies anomalous H-Alpha observations.\"",
+  "author": "\"Mahsa Khazaei, Heba Mahdi, Azim Ahmadzadeh\"",
+  "license": null,
+  "home_page": null,
+  "download_filename": "HAlphaAnomalyzer-1.1.0.tar.gz",
+  "download_time": "2025-09-12T23:26:20.182216",
+  "package_url": "https://pypi.org/project/HAlphaAnomalyzer/"
+}
