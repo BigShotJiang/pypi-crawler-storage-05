@@ -1,11 +1,11 @@
 {
   "name": "nsj-rest-lib2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Biblioteca para permitir a distribuição de rotas dinâmicas numa API, configuradas por meio de EDLs declarativos (em formato JSON).",
   "author": "Nasajon Sistemas",
   "license": null,
   "home_page": "https://github.com/Nasajon/nsj_rest_lib2",
-  "download_filename": "nsj_rest_lib2-0.0.2.tar.gz",
-  "download_time": "2025-09-12T13:42:08.001087",
+  "download_filename": "nsj_rest_lib2-0.0.3.tar.gz",
+  "download_time": "2025-09-12T19:35:14.632313",
   "package_url": "https://pypi.org/project/nsj-rest-lib2/"
 }
