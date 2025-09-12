@@ -1,11 +1,11 @@
 {
   "name": "skyblock-repo",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Cargo/Python package to interface with the Skyblock Repo",
   "author": null,
   "license": "MIT",
   "home_page": "https://skyblockrepo.com",
-  "download_filename": "skyblock_repo-1.0.5.tar.gz",
-  "download_time": "2025-09-12T23:26:05.028597",
+  "download_filename": "skyblock_repo-1.0.6.tar.gz",
+  "download_time": "2025-09-12T23:34:24.075458",
   "package_url": "https://pypi.org/project/skyblock-repo/"
 }
