@@ -1,11 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-12T21:35:11.093557
-- **Total Packages**: 85
-- **Total Size**: 15.78 MB
+- **Download Time**: 2025-09-12T21:50:16.827179
+- **Total Packages**: 81
+- **Total Size**: 5.75 MB
 
 ## Packages List
+- satviz
+- media-downloader
+- ddex-parser
+- ddex-builder
+- a4x-pegasus-wms
+- ipyevents
+- container-manager-mcp
+- ansible-tower-mcp
+- super-collections
+- rxfoundry.clients.swifty_oauth_api
+- rxfoundry.clients.swifty_api
+- neonball
+- pipeline-eds
+- kaqing
+- orionis
+- qsharp-widgets
+- qsharp-jupyterlab
+- qsharp
+- kanditioned
+- nanoslurm
+- pulumi-xyz
+- mcp-devtools
+- sdynpy
+- ynab-amazon-categorizer
+- harlequin-postgres
+- authentik-client
+- sentry-protos
+- d3-identity-client
 - richdem-fork
 - ethereal-sdk
 - pulumi-cloudflare
@@ -27,14 +55,12 @@
 - sportsball
 - neonmoon
 - smriprep-docker
-- kaqing
 - weni-cli
 - kraken-engine
 - pulse-sdk
 - foundry-local-sdk
 - abstra
 - agnomux2
-- authentik-client
 - zuban
 - agnosmodel2
 - django-nativemojo
@@ -50,7 +76,6 @@
 - pycompool
 - yandex-tracker-mcp
 - je-editor-dev
-- pulumi-xyz
 - data-prep-toolkit-transforms
 - gable
 - splynters
@@ -62,32 +87,3 @@
 - ECOv003-L3T-L4T-JET
 - hpe
 - py-cid
-- swesmith
-- vantage-agent
-- saptiva-agents
-- pulse-framework
-- arthur-client
-- ECOv003-granules
-- increase
-- vllm-semantic-router-bench
-- dbt-switch
-- flowcept
-- pulumi-azure
-- pipeline-eds
-- project-version-finder
-- sigfox-manager
-- glasses-detector
-- adonai
-- ecoscape-utilities
-- chalkpy
-- malevich-app
-- aind-dynamic-foraging-basic-analysis
-- unidns
-- malevich-coretools
-- pulumi-http
-- dazllm
-- mulch
-- maniac
-- anomavision
-- bgm-toolkit-labour
-- empowernow-sdk
