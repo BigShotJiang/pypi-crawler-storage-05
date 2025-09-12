@@ -1,23 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-12T11:10:50.545880
-- **Total Packages**: 85
-- **Total Size**: 12.69 MB
+- **Download Time**: 2025-09-12T11:26:14.893252
+- **Total Packages**: 80
+- **Total Size**: 22.29 MB
 
 ## Packages List
-- runreporter
+- memory-graph
+- agent-redis-framework
+- python-eigen-ingenuity-nocli
+- python-eigen-ingenuity
 - bsh-file-validation-check
+- authentik-client
+- sonia-barrera-sdk
+- spakky-core
+- SuPyMode
+- pyobs-core
+- weave
+- wads
+- kingsoftcloud-sdk-python
+- DLMS-SPODES
+- hseb
+- deseasion-backend
+- bgm-toolkit-labour
+- bgm-toolkit-pro
+- faster-app
+- pulser-myqlm
+- lds-merkle-proof-2019-bloxberg2
+- appier-extras
+- reqman4
+- NepTrainKit
+- energy-reports-pkg
+- pltr-cli
+- fracbm
+- taulu
+- tb-nightly
+- runreporter
+- appier
+- kuavo-humanoid-sdk-ws
+- kuavo-humanoid-sdk
+- finney
+- azula
+- alita-sdk
+- django-scrapyd-manager
 - lhub_integ
 - universal-mcp-applications
 - datacontract-helper
-- authentik-client
 - gpframe
 - langchain-g4f-chat
 - bids-manager
-- faster-app
 - pop2net
-- pyobs-core
 - sdncenter-currency-converter
 - koba
 - trollflow2
@@ -47,7 +79,6 @@
 - expandvars
 - leaf-framework
 - iam-units
-- energy-reports-pkg
 - netpyne
 - mallsense-sdk
 - qing-client
@@ -55,39 +86,3 @@
 - litmus-libs
 - tinycoder
 - Brimview-widgets
-- evefile
-- nanoslurm
-- finney
-- chat-limiter
-- kuavo-humanoid-sdk-ws
-- kuavo-humanoid-sdk
-- pyrite-mx
-- CIF2Dist
-- inventory-monitor
-- neurograd
-- rasa-pro
-- audit-log-client
-- fd-adk
-- cribl-control-plane
-- aheadworks-deploy-manager
-- bap-elk-backends
-- konduktor-nightly
-- mhd-model
-- axiomatic-mcp
-- rumdl
-- drx-lissajoux
-- pyiskra
-- nlpcmd
-- fers-calculations
-- extract-youtube
-- kinfer
-- trainy-policy-nightly
-- genai-protocol
-- creditpulse
-- letta-nightly
-- django-refresh-migration
-- multilibgeosuitesnd
-- odoo-addon-edi-oca
-- svgen
-- eyeagent
-- eyetools
