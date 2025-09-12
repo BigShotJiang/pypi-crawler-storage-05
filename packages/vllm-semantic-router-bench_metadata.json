@@ -1,0 +1,11 @@
+{
+  "name": "vllm-semantic-router-bench",
+  "version": "1.0.0",
+  "summary": "Comprehensive benchmark suite for semantic router vs direct vLLM evaluation across multiple reasoning datasets",
+  "author": "vLLM Semantic Router Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/vllm-project/semantic-router",
+  "download_filename": "vllm_semantic_router_bench-1.0.0.tar.gz",
+  "download_time": "2025-09-12T21:27:35.292607",
+  "package_url": "https://pypi.org/project/vllm-semantic-router-bench/"
+}

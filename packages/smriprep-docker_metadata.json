@@ -1,0 +1,11 @@
+{
+  "name": "smriprep-docker",
+  "version": "0.19.1",
+  "summary": "A wrapper for generating Docker commands using regular sMRIPrep syntax",
+  "author": "The NiPreps developers",
+  "license": "3-clause BSD",
+  "home_page": "https://github.com/nipreps/smriprep",
+  "download_filename": "smriprep_docker-0.19.1.tar.gz",
+  "download_time": "2025-09-12T21:27:05.521046",
+  "package_url": "https://pypi.org/project/smriprep-docker/"
+}

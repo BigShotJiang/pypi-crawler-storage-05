@@ -1,0 +1,11 @@
+{
+  "name": "data-prep-toolkit-transforms",
+  "version": "1.1.3",
+  "summary": "Data Preparation Toolkit Transforms using Ray",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "data_prep_toolkit_transforms-1.1.3-py3-none-any.whl",
+  "download_time": "2025-09-12T21:27:23.763717",
+  "package_url": "https://pypi.org/project/data-prep-toolkit-transforms/"
+}

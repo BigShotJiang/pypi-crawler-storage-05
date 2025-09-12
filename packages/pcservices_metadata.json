@@ -1,0 +1,11 @@
+{
+  "name": "pcservices",
+  "version": "0.1.1",
+  "summary": "Utility functions for Spark and BigQuery",
+  "author": "Gang Huang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pcservices-0.1.1.tar.gz",
+  "download_time": "2025-09-12T21:27:27.981608",
+  "package_url": "https://pypi.org/project/pcservices/"
+}

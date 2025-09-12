@@ -1,11 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-12T21:10:54.333551
-- **Total Packages**: 81
-- **Total Size**: 28.42 MB
+- **Download Time**: 2025-09-12T21:27:56.472760
+- **Total Packages**: 84
+- **Total Size**: 37.52 MB
 
 ## Packages List
+- smriprep-docker
+- kaqing
+- weni-cli
+- kraken-engine
+- pulse-sdk
+- foundry-local-sdk
+- abstra
+- agnomux2
+- authentik-client
+- zuban
+- agnosmodel2
+- django-nativemojo
+- pynvl-lib
+- cogflow
+- chopshop
+- mkdocs-material2014
+- weni-agents-toolkit
+- emutrader
+- fetchx
+- py-embedbuilder
+- indicio-indy-plenum
+- pycompool
+- yandex-tracker-mcp
+- je-editor-dev
+- pulumi-xyz
+- data-prep-toolkit-transforms
+- gable
+- splynters
+- data-prep-toolkit
+- pulumi-f5bigip
+- pylord
+- ECOv003-L2T-STARS
+- pcservices
+- ECOv003-L3T-L4T-JET
+- hpe
+- py-cid
+- swesmith
+- sportsball
+- vantage-agent
+- saptiva-agents
+- pulse-framework
+- arthur-client
+- ECOv003-granules
+- increase
+- vllm-semantic-router-bench
 - dbt-switch
 - flowcept
 - pulumi-azure
@@ -13,7 +58,6 @@
 - project-version-finder
 - sigfox-manager
 - glasses-detector
-- authentik-client
 - adonai
 - ecoscape-utilities
 - chalkpy
@@ -27,7 +71,6 @@
 - maniac
 - anomavision
 - bgm-toolkit-labour
-- pulumi-xyz
 - empowernow-sdk
 - bgm-toolkit-pro
 - sqlmesh
@@ -47,43 +90,3 @@
 - wformat
 - pyThermoDB
 - agentspec
-- turbocore
-- tinyagent-py
-- kotadb-client
-- tunacode-cli
-- forgeNN
-- mcp-web-tools
-- Meez
-- signalpilot-ai
-- AIModeler
-- nbs-viewer
-- py-embedbuilder
-- solana-agent
-- sportsball
-- celldega
-- vcs2l
-- rembus
-- NEMO-CE
-- codearkt
-- signalpilot-ai-internal
-- pulse-sdk
-- agent-pilot-sdk
-- thds.atacama
-- thds.mops
-- thds.humenc
-- thds.core
-- thds.adls
-- onefootball-wrapper
-- napari-convpaint
-- earthdaily-earthone-dynamic-compute
-- qubesync
-- sensory-data-client
-- c2cgeoportal-admin
-- c2cgeoportal-geoportal
-- c2cgeoportal-commons
-- fastapi-guard
-- nanoslurm
-- rnbrw
-- snowglobe-sdk
-- svc-infra
-- tom-nonlocalizedevents

@@ -1,0 +1,11 @@
+{
+  "name": "pylord",
+  "version": "0.2.4",
+  "summary": "Python web framework building for APIs",
+  "author": "Kamoliddin Ravshanov",
+  "license": "MIT",
+  "home_page": "https://github.com/ravshanovdev/Sauron",
+  "download_filename": "pylord-0.2.4.tar.gz",
+  "download_time": "2025-09-12T21:27:26.804425",
+  "package_url": "https://pypi.org/project/pylord/"
+}
