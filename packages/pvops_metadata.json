@@ -1,0 +1,11 @@
+{
+  "name": "pvops",
+  "version": "0.7.0",
+  "summary": "pvops is a python library for the analysis of field collected operational data for photovoltaic systems.",
+  "author": "pvOps Developers",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/sandialabs/pvops",
+  "download_filename": "pvops-0.7.0.tar.gz",
+  "download_time": "2025-09-12T19:49:25.594399",
+  "package_url": "https://pypi.org/project/pvops/"
+}

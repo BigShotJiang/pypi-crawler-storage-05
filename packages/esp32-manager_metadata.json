@@ -1,0 +1,11 @@
+{
+  "name": "esp32-manager",
+  "version": "1.0.1",
+  "summary": "A utility to manage files on an ESP32 running MicroPython.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "esp32_manager-1.0.1.tar.gz",
+  "download_time": "2025-09-12T19:49:24.201314",
+  "package_url": "https://pypi.org/project/esp32-manager/"
+}

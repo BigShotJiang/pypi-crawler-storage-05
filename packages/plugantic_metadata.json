@@ -1,0 +1,11 @@
+{
+  "name": "plugantic",
+  "version": "0.1.0",
+  "summary": "Simplified extendable composition with pydantic",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plugantic-0.1.0.tar.gz",
+  "download_time": "2025-09-12T19:49:29.189873",
+  "package_url": "https://pypi.org/project/plugantic/"
+}
