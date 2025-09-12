@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-docmind-api20220711",
+  "version": "1.4.11",
+  "summary": "Alibaba Cloud docmind-api (20220711) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_docmind-api20220711-1.4.11.tar.gz",
+  "download_time": "2025-09-12T08:37:19.184500",
+  "package_url": "https://pypi.org/project/alibabacloud-docmind-api20220711/"
+}

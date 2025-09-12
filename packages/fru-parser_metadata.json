@@ -1,0 +1,11 @@
+{
+  "name": "fru-parser",
+  "version": "0.1.1",
+  "summary": "parses a binary FRU (Field Replaceable Unit) file and extracts information from it.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fru_parser-0.1.1.tar.gz",
+  "download_time": "2025-09-12T08:37:33.304459",
+  "package_url": "https://pypi.org/project/fru-parser/"
+}

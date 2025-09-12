@@ -1,11 +1,11 @@
 {
   "name": "docky",
-  "version": "9.0.3",
+  "version": "9.0.4",
   "summary": "Make developpement with docker simply",
   "author": "Akretion",
   "license": "AGPLv3+",
   "home_page": "https://github.com/akretion/docky/",
-  "download_filename": "docky-9.0.3.tar.gz",
-  "download_time": "2025-09-12T08:15:39.227869",
+  "download_filename": "docky-9.0.4.tar.gz",
+  "download_time": "2025-09-12T08:37:44.960198",
   "package_url": "https://pypi.org/project/docky/"
 }

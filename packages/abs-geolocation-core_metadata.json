@@ -1,0 +1,11 @@
+{
+  "name": "abs-geolocation-core",
+  "version": "0.1.1",
+  "summary": "Shared service for the azure maps location service",
+  "author": "AutoBridgeSystems",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "abs_geolocation_core-0.1.1.tar.gz",
+  "download_time": "2025-09-12T08:37:27.547759",
+  "package_url": "https://pypi.org/project/abs-geolocation-core/"
+}

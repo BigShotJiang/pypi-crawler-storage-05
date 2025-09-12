@@ -1,11 +1,11 @@
 {
   "name": "aigraphcodescan",
-  "version": "1.2.9",
+  "version": "1.3.0",
   "summary": "A tool for security review of code using graph-based analysis",
   "author": "Marcin Kozlowski",
   "license": "AGPL-3.0-only",
   "home_page": "https://github.com/marcinguy-bot/aigraphcodescan",
-  "download_filename": "aigraphcodescan-1.2.9.tar.gz",
-  "download_time": "2025-09-11T16:35:41.559367",
+  "download_filename": "aigraphcodescan-1.3.0.tar.gz",
+  "download_time": "2025-09-12T08:37:18.614403",
   "package_url": "https://pypi.org/project/aigraphcodescan/"
 }
