@@ -1,12 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-12T20:31:51.189861
-- **Total Packages**: 88
-- **Total Size**: 21.34 MB
+- **Download Time**: 2025-09-12T20:41:55.383282
+- **Total Packages**: 89
+- **Total Size**: 3.85 MB
 
 ## Packages List
+- arpakitlib
+- c2cgeoportal-admin
+- c2cgeoportal-geoportal
+- c2cgeoportal-commons
+- fastapi-guard
+- nanoslurm
 - agentspec
+- rnbrw
+- signalpilot-ai-internal
+- snowglobe-sdk
+- svc-infra
+- py-embedbuilder
+- turbocore
+- tom-nonlocalizedevents
+- authentik-client
+- langchain-tool-server
+- openjd-model
+- rbx.cp
+- sparkforge
+- pz-rail-lephare
+- unique_toolkit
+- pyqrackising
+- onefootball-wrapper
 - py-algorand-sdk
 - crashs
 - fedwrap
@@ -18,8 +40,6 @@
 - pocket-agent
 - anyio-sqlite
 - tgmath
-- signalpilot-ai-internal
-- authentik-client
 - mcpwrap
 - treerequests
 - botocore-stubs
@@ -39,7 +59,6 @@
 - neocities-neo
 - langgraph-distributed-utils
 - neon-utils
-- fastapi-guard
 - plain.models
 - plain.admin
 - athena-intelligence
@@ -76,21 +95,3 @@
 - sunholo
 - langflow-nightly
 - bedboss
-- fgo-api-types
-- open-balpy
-- lfx-nightly
-- agno-infra
-- agno
-- fastapi-guard-agent
-- reflex
-- vellum-workflow-server
-- flask-traffic
-- align-utils
-- pytrust
-- connector-sdk-types
-- longdllm
-- connector-py
-- i18n-check
-- pynvl-lib
-- langgraph-executor
-- bgm-toolkit-pro
