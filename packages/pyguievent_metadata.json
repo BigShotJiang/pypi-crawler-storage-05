@@ -1,0 +1,11 @@
+{
+  "name": "pyguievent",
+  "version": "0.0.9",
+  "summary": "A simple tool to create events to PySimpleGUI or PySimpleGUI4",
+  "author": null,
+  "license": "GPL-3.0 license",
+  "home_page": null,
+  "download_filename": "pyguievent-0.0.9.tar.gz",
+  "download_time": "2025-09-12T14:12:03.453455",
+  "package_url": "https://pypi.org/project/pyguievent/"
+}

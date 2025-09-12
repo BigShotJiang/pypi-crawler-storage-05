@@ -1,0 +1,11 @@
+{
+  "name": "simple-catalyst-center",
+  "version": "0.3",
+  "summary": "Simple REST-client for Cisco Catalyst Center",
+  "author": "Wilhelm Putz",
+  "license": "ASL V2",
+  "home_page": "https://github.com/jinjamator/simple_catalyst_center",
+  "download_filename": "simple_catalyst_center-0.3-py3-none-any.whl",
+  "download_time": "2025-09-12T14:12:11.508385",
+  "package_url": "https://pypi.org/project/simple-catalyst-center/"
+}

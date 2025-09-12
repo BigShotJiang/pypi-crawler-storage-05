@@ -1,0 +1,11 @@
+{
+  "name": "synfintabgen",
+  "version": "1.0.1.post0",
+  "summary": "A package for generating synthetic financial tables.",
+  "author": "Ethan Bradley",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "synfintabgen-1.0.1.post0.tar.gz",
+  "download_time": "2025-09-12T14:12:00.291113",
+  "package_url": "https://pypi.org/project/synfintabgen/"
+}

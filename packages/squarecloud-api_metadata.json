@@ -1,0 +1,11 @@
+{
+  "name": "squarecloud-api",
+  "version": "3.8.0",
+  "summary": "SquareCloud API wrapper",
+  "author": "Robert Nogueira",
+  "license": "MIT",
+  "home_page": "https://github.com/squarecloudofc/wrapper-api-py",
+  "download_filename": "squarecloud_api-3.8.0.tar.gz",
+  "download_time": "2025-09-12T14:11:37.945910",
+  "package_url": "https://pypi.org/project/squarecloud-api/"
+}

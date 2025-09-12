@@ -1,11 +1,11 @@
 {
   "name": "eq-api-connector",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "API connector (API SDK) to connect to public client app registrations using delegated permissions (MSAL).",
   "author": "Åsmund Våge Fannemel",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eq_api_connector-0.1.5.tar.gz",
-  "download_time": "2025-09-12T10:12:18.204283",
+  "download_filename": "eq_api_connector-0.1.6.tar.gz",
+  "download_time": "2025-09-12T14:12:01.863652",
   "package_url": "https://pypi.org/project/eq-api-connector/"
 }

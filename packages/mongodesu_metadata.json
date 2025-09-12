@@ -1,11 +1,11 @@
 {
   "name": "mongodesu",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "A mongodb ODM dependant on pymongo with extensive model creation, validation, and relational model mechanism.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mongodesu-2.0.1.tar.gz",
-  "download_time": "2025-09-11T17:28:17.116051",
+  "download_filename": "mongodesu-2.0.2.tar.gz",
+  "download_time": "2025-09-12T14:12:02.920101",
   "package_url": "https://pypi.org/project/mongodesu/"
 }

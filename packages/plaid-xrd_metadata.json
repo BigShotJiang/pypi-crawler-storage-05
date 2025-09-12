@@ -1,0 +1,11 @@
+{
+  "name": "plaid-xrd",
+  "version": "0.0.9",
+  "summary": "plaid is a simple visualization tool intended to quickly evaluate azimuthally integrated powder diffraction data",
+  "author": "Frederik H Gjørup",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/fgjorup/plaid",
+  "download_filename": "plaid_xrd-0.0.9.tar.gz",
+  "download_time": "2025-09-12T14:11:52.942913",
+  "package_url": "https://pypi.org/project/plaid-xrd/"
+}

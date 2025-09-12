@@ -1,11 +1,11 @@
 {
   "name": "sutrakit",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "A comprehensive AI-powered code analysis and automation CLI tool",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sutrakit-0.1.13.tar.gz",
-  "download_time": "2025-09-11T14:32:00.652243",
+  "download_filename": "sutrakit-0.1.14.tar.gz",
+  "download_time": "2025-09-12T14:12:14.168767",
   "package_url": "https://pypi.org/project/sutrakit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "imgtk",
+  "version": "1.2.0",
+  "summary": "Image file manipulation toolkit",
+  "author": null,
+  "license": "LICENSE",
+  "home_page": null,
+  "download_filename": "imgtk-1.2.0.tar.gz",
+  "download_time": "2025-09-12T14:11:51.830754",
+  "package_url": "https://pypi.org/project/imgtk/"
+}

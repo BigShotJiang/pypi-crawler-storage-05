@@ -1,0 +1,11 @@
+{
+  "name": "igsupload",
+  "version": "1.0.1",
+  "summary": "Automated upload of sequencing data (FASTQ/FASTQ.GZIP) to the DEMIS portal (RKI) for the IGS.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "igsupload-1.0.1-py3-none-any.whl",
+  "download_time": "2025-09-12T14:11:45.956465",
+  "package_url": "https://pypi.org/project/igsupload/"
+}

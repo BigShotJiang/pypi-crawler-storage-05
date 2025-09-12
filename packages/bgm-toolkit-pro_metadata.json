@@ -1,11 +1,11 @@
 {
   "name": "bgm-toolkit-pro",
-  "version": "0.2.10",
+  "version": "0.2.12",
   "summary": "Bourdieu-inspired gravity model toolkit (Pro core)",
   "author": "Arturo Rubalcava",
   "license": null,
   "home_page": null,
-  "download_filename": "bgm_toolkit_pro-0.2.10.tar.gz",
-  "download_time": "2025-09-12T13:41:49.880091",
+  "download_filename": "bgm_toolkit_pro-0.2.12.tar.gz",
+  "download_time": "2025-09-12T14:12:09.931822",
   "package_url": "https://pypi.org/project/bgm-toolkit-pro/"
 }

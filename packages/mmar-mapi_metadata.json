@@ -1,11 +1,11 @@
 {
   "name": "mmar-mapi",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "summary": "Common pure/IO utilities for multi-modal architectures team",
   "author": "Eugene Tagin",
   "license": null,
   "home_page": null,
-  "download_filename": "mmar_mapi-1.0.10.tar.gz",
-  "download_time": "2025-09-11T15:29:36.028727",
+  "download_filename": "mmar_mapi-1.0.11.tar.gz",
+  "download_time": "2025-09-12T14:12:13.635092",
   "package_url": "https://pypi.org/project/mmar-mapi/"
 }

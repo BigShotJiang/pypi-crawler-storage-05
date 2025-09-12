@@ -1,11 +1,11 @@
 {
   "name": "data-retrieval-monitor",
-  "version": "0.8.18",
+  "version": "0.8.20",
   "summary": "Plotly Dash board to monitor data retrieval, validation, delays and failures.",
   "author": "Donggeun Kim",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "data_retrieval_monitor-0.8.18.tar.gz",
-  "download_time": "2025-09-11T17:48:47.791104",
+  "download_filename": "data_retrieval_monitor-0.8.20.tar.gz",
+  "download_time": "2025-09-12T14:12:10.462410",
   "package_url": "https://pypi.org/project/data-retrieval-monitor/"
 }

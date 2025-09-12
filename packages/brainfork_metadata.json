@@ -1,0 +1,11 @@
+{
+  "name": "brainfork",
+  "version": "0.1.2",
+  "summary": "An intelligent AI model router for Azure OpenAI that automatically selects the best model for your specific use case",
+  "author": "Pooyan",
+  "license": "MIT",
+  "home_page": "https://github.com/pfekrati/brainfork",
+  "download_filename": "brainfork-0.1.2.tar.gz",
+  "download_time": "2025-09-12T14:11:56.634809",
+  "package_url": "https://pypi.org/project/brainfork/"
+}

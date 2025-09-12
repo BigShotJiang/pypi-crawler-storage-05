@@ -1,0 +1,11 @@
+{
+  "name": "boardfarm3-docsis",
+  "version": "1.0.0",
+  "summary": "An add-on to boardfarm that contains DOCSIS specific libraries.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "boardfarm3_docsis-1.0.0-py3-none-any.whl",
+  "download_time": "2025-09-12T14:11:44.909638",
+  "package_url": "https://pypi.org/project/boardfarm3-docsis/"
+}
