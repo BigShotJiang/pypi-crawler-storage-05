@@ -1,0 +1,11 @@
+{
+  "name": "pyhip",
+  "version": "1.2.1",
+  "summary": "A Python interface to Hip for manipulating unstructured computational grids",
+  "author": "Jens-Dominik Mueller, CERFACS",
+  "license": "CeCILL-B Free Software License Agreement (CECILL-B)",
+  "home_page": "http://www.cerfacs.fr/avbp7x/hip.php",
+  "download_filename": "pyhip-1.2.1-py2.py3-none-any.whl",
+  "download_time": "2025-09-12T18:07:23.329622",
+  "package_url": "https://pypi.org/project/pyhip/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lymia",
+  "version": "0.0.1",
+  "summary": "Easy to use curses wrapper",
+  "author": "RimuEirnarn",
+  "license": null,
+  "home_page": "https://github.com/RimuEirnarn/lymia",
+  "download_filename": "lymia-0.0.1.tar.gz",
+  "download_time": "2025-09-12T18:06:56.284121",
+  "package_url": "https://pypi.org/project/lymia/"
+}

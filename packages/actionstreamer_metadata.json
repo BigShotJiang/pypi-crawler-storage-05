@@ -1,0 +1,11 @@
+{
+  "name": "actionstreamer",
+  "version": "1.3.24",
+  "summary": "A library for the ActionStreamer API.",
+  "author": "ActionStreamer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "actionstreamer-1.3.24.tar.gz",
+  "download_time": "2025-09-12T18:06:48.308763",
+  "package_url": "https://pypi.org/project/actionstreamer/"
+}

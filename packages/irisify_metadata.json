@@ -1,11 +1,11 @@
 {
   "name": "irisify",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Python package for the irisify project.",
-  "author": null,
-  "license": null,
-  "home_page": null,
-  "download_filename": "irisify-0.1.1.tar.gz",
-  "download_time": "2025-09-10T19:25:27.964766",
+  "author": "JuzoCode",
+  "license": "MIT",
+  "home_page": "https://github.com/JuzoCode/irisify",
+  "download_filename": "irisify-0.1.2.tar.gz",
+  "download_time": "2025-09-12T18:07:29.497527",
   "package_url": "https://pypi.org/project/irisify/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "checkpost",
+  "version": "0.3.1",
+  "summary": "Detects and blocks spam and fraud in Django apps without CAPTCHAs, ensuring seamless user experience.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "checkpost-0.3.1.tar.gz",
+  "download_time": "2025-09-12T18:07:18.419495",
+  "package_url": "https://pypi.org/project/checkpost/"
+}
