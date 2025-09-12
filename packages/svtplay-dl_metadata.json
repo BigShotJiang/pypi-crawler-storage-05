@@ -1,0 +1,11 @@
+{
+  "name": "svtplay-dl",
+  "version": "4.137",
+  "summary": "Command-line program to download videos from various video on demand sites",
+  "author": "Johan Andersson",
+  "license": "MIT",
+  "home_page": "https://svtplay-dl.se",
+  "download_filename": "svtplay_dl-4.137.tar.gz",
+  "download_time": "2025-09-12T22:11:19.813305",
+  "package_url": "https://pypi.org/project/svtplay-dl/"
+}

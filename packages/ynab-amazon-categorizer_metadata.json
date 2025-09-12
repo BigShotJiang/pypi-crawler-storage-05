@@ -1,11 +1,11 @@
 {
   "name": "ynab-amazon-categorizer",
-  "version": "0.2.1",
+  "version": "0.3.7",
   "summary": "Automatically categorize Amazon transactions in YNAB with rich item information",
   "author": "dizzlkheinz",
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "ynab_amazon_categorizer-0.2.1.tar.gz",
-  "download_time": "2025-09-12T21:49:43.549351",
+  "download_filename": "ynab_amazon_categorizer-0.3.7.tar.gz",
+  "download_time": "2025-09-12T22:11:18.774106",
   "package_url": "https://pypi.org/project/ynab-amazon-categorizer/"
 }

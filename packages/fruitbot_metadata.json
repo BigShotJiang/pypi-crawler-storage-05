@@ -1,0 +1,11 @@
+{
+  "name": "fruitbot",
+  "version": "1.6.0",
+  "summary": "A simple, easy-to-use and powerful library for automating gameplay in the Fruit Craft game through APIs.",
+  "author": "Amir S.Farahani",
+  "license": null,
+  "home_page": "https://github.com/AmirSF01/fruitcraft",
+  "download_filename": "fruitbot-1.6.0.tar.gz",
+  "download_time": "2025-09-12T22:11:15.637387",
+  "package_url": "https://pypi.org/project/fruitbot/"
+}

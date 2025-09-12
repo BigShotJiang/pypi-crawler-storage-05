@@ -1,11 +1,11 @@
 {
   "name": "pipeline-eds",
-  "version": "0.2.33",
+  "version": "0.2.34",
   "summary": "The official API pipeline library for mulch-based projects. Key target: Emerson Ovation EDS REST API.",
   "author": "George Clayton Bennett",
   "license": "BSD-3",
   "home_page": null,
-  "download_filename": "pipeline_eds-0.2.33.tar.gz",
-  "download_time": "2025-09-12T21:49:37.250070",
+  "download_filename": "pipeline_eds-0.2.34.tar.gz",
+  "download_time": "2025-09-12T22:11:25.576702",
   "package_url": "https://pypi.org/project/pipeline-eds/"
 }
