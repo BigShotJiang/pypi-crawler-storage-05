@@ -1,11 +1,11 @@
 {
   "name": "haske",
-  "version": "0.2.11",
+  "version": "0.2.12",
   "summary": "A high-performance Python web framework with Rust extensions",
   "author": null,
   "license": "MIT License\r\n        ",
   "home_page": null,
-  "download_filename": "haske-0.2.11-py3-none-any.whl",
-  "download_time": "2025-09-11T22:11:59.601481",
+  "download_filename": "haske-0.2.12-py3-none-any.whl",
+  "download_time": "2025-09-12T14:44:23.631707",
   "package_url": "https://pypi.org/project/haske/"
 }

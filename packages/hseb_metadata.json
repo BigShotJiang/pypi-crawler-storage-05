@@ -1,11 +1,11 @@
 {
   "name": "hseb",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hseb-0.0.2.tar.gz",
-  "download_time": "2025-09-12T14:12:15.259365",
+  "download_filename": "hseb-0.0.3.tar.gz",
+  "download_time": "2025-09-12T14:44:25.355963",
   "package_url": "https://pypi.org/project/hseb/"
 }

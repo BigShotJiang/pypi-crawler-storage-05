@@ -1,0 +1,11 @@
+{
+  "name": "nosqllite",
+  "version": "0.1.0",
+  "summary": "A simple nosql data base",
+  "author": "Axel Gard",
+  "license": "MIT",
+  "home_page": "https://github.com/AxelGard/nosqllite",
+  "download_filename": "nosqllite-0.1.0.tar.gz",
+  "download_time": "2025-09-12T14:44:14.861063",
+  "package_url": "https://pypi.org/project/nosqllite/"
+}

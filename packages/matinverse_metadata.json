@@ -1,11 +1,11 @@
 {
   "name": "matinverse",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Inverse Design for Architected Materials",
   "author": null,
   "license": "GPLv3",
   "home_page": null,
-  "download_filename": "matinverse-1.0.4.tar.gz",
-  "download_time": "2025-09-11T23:11:23.749988",
+  "download_filename": "matinverse-1.0.5.tar.gz",
+  "download_time": "2025-09-12T14:44:39.895686",
   "package_url": "https://pypi.org/project/matinverse/"
 }

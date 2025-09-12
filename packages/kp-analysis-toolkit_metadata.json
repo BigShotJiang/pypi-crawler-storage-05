@@ -1,0 +1,11 @@
+{
+  "name": "kp-analysis-toolkit",
+  "version": "2.1.0",
+  "summary": "Python utilities to parse technical information for security audits",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kp_analysis_toolkit-2.1.0.tar.gz",
+  "download_time": "2025-09-12T14:44:07.925288",
+  "package_url": "https://pypi.org/project/kp-analysis-toolkit/"
+}
