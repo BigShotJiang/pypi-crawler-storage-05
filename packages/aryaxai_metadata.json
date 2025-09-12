@@ -1,0 +1,11 @@
+{
+  "name": "aryaxai",
+  "version": "0.0.151",
+  "summary": "Full stack ML Observability with AryaXAI",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://xai.arya.ai/docs/introduction",
+  "download_filename": "aryaxai-0.0.151.tar.gz",
+  "download_time": "2025-09-12T11:10:21.159817",
+  "package_url": "https://pypi.org/project/aryaxai/"
+}

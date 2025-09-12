@@ -1,0 +1,11 @@
+{
+  "name": "in2lambda",
+  "version": "1.0.0",
+  "summary": "Converts content ready for import into Lambda Feedback",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "in2lambda-1.0.0.tar.gz",
+  "download_time": "2025-09-12T11:10:18.042904",
+  "package_url": "https://pypi.org/project/in2lambda/"
+}

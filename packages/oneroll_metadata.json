@@ -1,11 +1,11 @@
 {
   "name": "oneroll",
-  "version": "1.0.1",
+  "version": "1.3.2",
   "summary": "An efficient dice expression parsing tool, based on Rust and PEG grammar",
   "author": "HsiangNianian",
   "license": "AGPL-3.0",
   "home_page": "https://hydroroll.team/",
-  "download_filename": "oneroll-1.0.1.tar.gz",
-  "download_time": "2025-09-11T20:39:01.164986",
+  "download_filename": "oneroll-1.3.2.tar.gz",
+  "download_time": "2025-09-12T11:10:14.380558",
   "package_url": "https://pypi.org/project/oneroll/"
 }

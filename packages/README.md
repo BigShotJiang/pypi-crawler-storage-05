@@ -1,11 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-12T10:49:46.606735
-- **Total Packages**: 84
-- **Total Size**: 19.18 MB
+- **Download Time**: 2025-09-12T11:10:50.545880
+- **Total Packages**: 85
+- **Total Size**: 12.69 MB
 
 ## Packages List
+- runreporter
+- bsh-file-validation-check
+- lhub_integ
+- universal-mcp-applications
+- datacontract-helper
+- authentik-client
+- gpframe
+- langchain-g4f-chat
+- bids-manager
+- faster-app
+- pop2net
+- pyobs-core
+- sdncenter-currency-converter
+- koba
+- trollflow2
+- oneroll
+- figurex
+- gllm-inference-binary
+- fmc-report
+- datatailr
+- scxpand
+- scxpand-cuda
+- in2lambda
+- air
+- apm-cli
+- qmem
+- zenllm
+- pyscratch-pysc
+- aryaxai
+- posthog-agent-toolkit
+- teradata-mcp-server
+- frutsel
+- scientiflow-cli
+- hestia-earth-aggregation
+- dupla
+- v440
+- mtsql
+- elevenlabs-mcp
+- expandvars
+- leaf-framework
+- iam-units
+- energy-reports-pkg
+- netpyne
+- mallsense-sdk
+- qing-client
+- gettex-exchange
+- litmus-libs
+- tinycoder
+- Brimview-widgets
+- evefile
+- nanoslurm
+- finney
 - chat-limiter
 - kuavo-humanoid-sdk-ws
 - kuavo-humanoid-sdk
@@ -19,7 +71,6 @@
 - cribl-control-plane
 - aheadworks-deploy-manager
 - bap-elk-backends
-- datacontract-helper
 - konduktor-nightly
 - mhd-model
 - axiomatic-mcp
@@ -36,57 +87,7 @@
 - letta-nightly
 - django-refresh-migration
 - multilibgeosuitesnd
-- energy-reports-pkg
 - odoo-addon-edi-oca
 - svgen
 - eyeagent
 - eyetools
-- aiotorrent
-- authentik-client
-- model-runner-client
-- specifyx
-- giant-news
-- rara-tools
-- mostlyai
-- orbo
-- fastcs
-- odoo-addon-purchase-order-uninvoiced-amount-line
-- tensorneflow
-- nonebot-adapter-afdian
-- ai-edge-torch-nightly
-- alibabacloud-btripopen20220520
-- jyhelper
-- wads
-- matrix-cli
-- instance_checker
-- shrutiAI-sdk
-- smartmodels
-- swarmtube
-- syncmodels
-- agptools
-- gse-gsatmicro-utils
-- ipfabric_netbox
-- nodejs-wheel-binaries
-- nodejs-wheel
-- GalCraft
-- arpakitlib
-- control-arena
-- gse-gsatmicro-mgr
-- django-omnitenant
-- universal-mcp-applications
-- isee
-- matrix-python-sdk
-- prediction-market-agent-tooling
-- odoo-addon-l10n-it-edi-extension
-- chift
-- mchp-gpio-ctl
-- sphinx-k3d-screenshot
-- image-format-converter-mcp
-- wperf-cmn-visualizer
-- sortinghat-eclipse-foundation
-- issue-solver
-- sortinghat-openinfra
-- perceval-public-inbox
-- perceval-topicbox
-- perceval-pontoon
-- NepTrain
