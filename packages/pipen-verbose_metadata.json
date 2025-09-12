@@ -1,11 +1,11 @@
 {
   "name": "pipen-verbose",
-  "version": "0.14.4",
+  "version": "0.14.5",
   "summary": "Add verbosal information in logs for pipen.",
   "author": "pwwang",
   "license": "MIT",
   "home_page": "https://github.com/pwwang/pipen-verbose",
-  "download_filename": "pipen_verbose-0.14.4.tar.gz",
-  "download_time": "2025-09-12T16:12:12.562315",
+  "download_filename": "pipen_verbose-0.14.5.tar.gz",
+  "download_time": "2025-09-12T16:33:48.487756",
   "package_url": "https://pypi.org/project/pipen-verbose/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tsdistances",
+  "version": "0.1.7",
+  "summary": "tsdistances is a Python library (with Rust backend) for computing various pairwise distances between sets of time series data.",
+  "author": "Alberto Azzari alberto.azzari@univr.it, Andrea Cracco andrea.cracco@univr.it, Francesco Masillo francesco.masillo@univr.it",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tsdistances-0.1.7.tar.gz",
+  "download_time": "2025-09-12T16:33:35.940005",
+  "package_url": "https://pypi.org/project/tsdistances/"
+}

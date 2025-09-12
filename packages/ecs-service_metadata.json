@@ -1,0 +1,11 @@
+{
+  "name": "ecs-service",
+  "version": "0.1.0",
+  "summary": "Reusable CDK construct for an ECS Service",
+  "author": "David Foley",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ecs-service-0.1.0.tar.gz",
+  "download_time": "2025-09-12T16:33:22.771942",
+  "package_url": "https://pypi.org/project/ecs-service/"
+}
