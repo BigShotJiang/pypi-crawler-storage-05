@@ -1,11 +1,11 @@
 {
   "name": "neurograd",
-  "version": "2.6.6",
+  "version": "2.6.8",
   "summary": "A Pure Python Deep Learning Framework with Automatic Differentiation",
   "author": "Bujor Ionut Raul",
   "license": null,
   "home_page": "https://github.com/b-ionut-r/neurograd",
-  "download_filename": "neurograd-2.6.6.tar.gz",
-  "download_time": "2025-09-11T23:48:26.276298",
+  "download_filename": "neurograd-2.6.8.tar.gz",
+  "download_time": "2025-09-12T09:31:55.830146",
   "package_url": "https://pypi.org/project/neurograd/"
 }

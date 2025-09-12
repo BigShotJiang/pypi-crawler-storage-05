@@ -1,0 +1,11 @@
+{
+  "name": "lds-merkle-proof-2019-bloxberg2",
+  "version": "1.0.3",
+  "summary": "MerkleProof2019 module for python",
+  "author": "bloxberg2",
+  "license": "MIT",
+  "home_page": "https://gitlab.mpcdf.mpg.de/cert-issuer/lds-merkle-proof-2019-py",
+  "download_filename": "lds_merkle_proof_2019_bloxberg2-1.0.3.tar.gz",
+  "download_time": "2025-09-12T09:32:31.757200",
+  "package_url": "https://pypi.org/project/lds-merkle-proof-2019-bloxberg2/"
+}

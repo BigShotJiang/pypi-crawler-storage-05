@@ -1,11 +1,11 @@
 {
   "name": "async-param-server",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "A distributed parameter server for managing configuration across processes",
   "author": "Cognexa",
   "license": null,
   "home_page": null,
-  "download_filename": "async_param_server-1.1.1.tar.gz",
-  "download_time": "2025-09-11T09:12:23.302331",
+  "download_filename": "async_param_server-1.1.2.tar.gz",
+  "download_time": "2025-09-12T09:32:18.067658",
   "package_url": "https://pypi.org/project/async-param-server/"
 }

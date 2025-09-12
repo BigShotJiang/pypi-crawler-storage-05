@@ -1,0 +1,11 @@
+{
+  "name": "qpay-client",
+  "version": "0.1.1",
+  "summary": "Async qpay payment API client",
+  "author": "Amraa1",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qpay_client-0.1.1.tar.gz",
+  "download_time": "2025-09-12T09:31:57.862049",
+  "package_url": "https://pypi.org/project/qpay-client/"
+}

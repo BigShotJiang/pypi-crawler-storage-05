@@ -1,0 +1,11 @@
+{
+  "name": "aliyun-python-sdk-dataphin-public",
+  "version": "1.0.13",
+  "summary": "The dataphin-public module of Aliyun Python sdk.",
+  "author": "Aliyun",
+  "license": "Apache",
+  "home_page": "http://develop.aliyun.com/sdk/python",
+  "download_filename": "aliyun-python-sdk-dataphin-public-1.0.13.tar.gz",
+  "download_time": "2025-09-12T09:32:24.076257",
+  "package_url": "https://pypi.org/project/aliyun-python-sdk-dataphin-public/"
+}

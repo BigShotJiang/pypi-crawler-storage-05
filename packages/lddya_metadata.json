@@ -1,0 +1,11 @@
+{
+  "name": "lddya",
+  "version": "5.5.0",
+  "summary": "1.新增数据分析模块。",
+  "author": "lidongdong",
+  "license": "MIT Licence",
+  "home_page": "https://github.com/not_define/please_wait",
+  "download_filename": "lddya-5.5.0.tar.gz",
+  "download_time": "2025-09-12T09:32:06.247406",
+  "package_url": "https://pypi.org/project/lddya/"
+}

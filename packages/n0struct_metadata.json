@@ -1,0 +1,11 @@
+{
+  "name": "n0struct",
+  "version": "0.2.156",
+  "summary": "list/dict extensions allow to load/save/serialize/deserialize xml/json/csv/dsv/fwf/tlv files into/from python structures, compare them and work with them using xpath approach",
+  "author": "pythonist552",
+  "license": "ASL",
+  "home_page": "https://github.com/pythonist552/n0struct/",
+  "download_filename": "n0struct-0.2.156.tar.gz",
+  "download_time": "2025-09-12T09:32:22.911310",
+  "package_url": "https://pypi.org/project/n0struct/"
+}

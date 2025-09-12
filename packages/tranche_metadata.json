@@ -1,0 +1,11 @@
+{
+  "name": "tranche",
+  "version": "0.1.1",
+  "summary": "ConfigParser with layered precedence, provenance, comment-preserving writes, and safe expressions.",
+  "author": "Xylar Asay-Davis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tranche-0.1.1.tar.gz",
+  "download_time": "2025-09-12T09:32:01.500198",
+  "package_url": "https://pypi.org/project/tranche/"
+}

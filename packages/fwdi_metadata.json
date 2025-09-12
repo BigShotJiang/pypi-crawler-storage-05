@@ -1,11 +1,11 @@
 {
   "name": "fwdi",
-  "version": "0.3.31",
+  "version": "0.3.32",
   "summary": "Solve Flat Web library With Lightweight Dependency injection Container",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fwdi-0.3.31-py3-none-any.whl",
-  "download_time": "2025-09-12T02:11:13.209043",
+  "download_filename": "fwdi-0.3.32-py3-none-any.whl",
+  "download_time": "2025-09-12T09:32:06.885518",
   "package_url": "https://pypi.org/project/fwdi/"
 }
