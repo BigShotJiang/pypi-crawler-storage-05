@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-product-customerinfo",
+  "version": "18.0.1.1.0.3",
+  "summary": "Allows to define prices for customers in the products",
+  "author": "AvanzOSC, Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/product-attribute",
+  "download_filename": "odoo_addon_product_customerinfo-18.0.1.1.0.3-py3-none-any.whl",
+  "download_time": "2025-09-12T03:37:56.463522",
+  "package_url": "https://pypi.org/project/odoo-addon-product-customerinfo/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "jyhelper",
-  "version": "1.8.0",
+  "version": "1.8.1",
   "summary": "各种实用、常用的小函数、类",
   "author": "JY",
   "license": null,
   "home_page": "https://pypi.org/project/jyhelper/",
-  "download_filename": "jyhelper-1.8.0.tar.gz",
-  "download_time": "2025-09-11T07:29:29.650059",
+  "download_filename": "jyhelper-1.8.1.tar.gz",
+  "download_time": "2025-09-12T03:38:08.700951",
   "package_url": "https://pypi.org/project/jyhelper/"
 }

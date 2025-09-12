@@ -1,19 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-12T03:04:28.692930
-- **Total Packages**: 76
-- **Total Size**: 44.58 MB
+- **Download Time**: 2025-09-12T03:38:37.365705
+- **Total Packages**: 73
+- **Total Size**: 6.27 MB
 
 ## Packages List
+- radboy
+- imppat-downloader
+- openapi-navigator
+- lexe-wrapper
+- edaflow
+- galaxysled
+- leaguewizard
+- odoo-addon-product-catalog-stock
+- odoo-addon-product-customerinfo
+- pgmini-migrate
+- agentmind
+- pyThermoDB
+- authentik-client
+- npcpy
+- QNPI-InRealisticWaveguides
+- beancode
+- databricks-switch-plugin
+- gpframe
+- large-file-upload-sdk
+- odoo-addon-openupgrade-scripts
+- svc-infra
+- scxpand
+- modelscope-image-mcp
+- office-assistant-mcp
+- chord-progression-network
+- google-vizier-dev
+- GANDLF
+- jyhelper
+- lds-gen
+- foundry-platform-sdk
+- tea-bond
+- internal
+- agently
+- janito
+- maleo-metadata
+- akool-streaming-avatar
+- mxboxutils
+- AutoInspection
+- prefix-free-sorted-cowlist-set
+- geomask
 - semantic-link-labs
 - swanlab
 - gtdbtk
 - langevaluate
 - todds-timer
-- chord-progression-network
 - nt25
-- large-file-upload-sdk
 - driftpy
 - odoo-addon-helpdesk-mgmt
 - kaq-quant-common
@@ -33,52 +71,11 @@
 - llm-web-kit
 - naif-eop-high-prec
 - endnote-utils
-- modelscope-image-mcp
 - Appium-Python-Client
 - getserving
 - duowen-agent
 - odoo-addon-account-due-list
-- svc-infra
 - odoo-addon-account-invoice-transmit-method
 - odoo-addon-account-invoice-supplierinfo-update
 - ggsci
 - spoon-ai-sdk
-- gvsbuild
-- easy_whitelist
-- per-datasets
-- odoo-addon-account-cash-deposit
-- odoo-addon-account-asset-management
-- odoo-addon-account-check-deposit
-- odoo-addon-account-asset-compute-batch
-- authentik-client
-- maas-task-backoff-framework
-- starflow-py
-- spider-mcp-client
-- moose-lib
-- maco-model
-- maco
-- fp-cate
-- yms-faster-rcnn
-- wealthbox
-- fastapi-githubapp
-- alipay-sdk-python
-- vercel-cli
-- daggerml
-- openbridge
-- word-document-text-editor-mcp
-- word-document-comment-extractor-mcp
-- word-document-content-adder-mcp
-- word-document-reader-mcp
-- pyAgrum-nightly
-- word-document-table-editor-mcp
-- mcp-devtools
-- rgg-save-tool
-- ihook
-- nominal-api-protos
-- nominal-api
-- fastvid
-- promptlayer
-- utilskit
-- autocleaneeg-view
-- fastgenerateapi
-- attachments

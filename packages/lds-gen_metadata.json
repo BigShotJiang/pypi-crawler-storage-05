@@ -1,0 +1,11 @@
+{
+  "name": "lds-gen",
+  "version": "0.2",
+  "summary": "Low Discrepancy Sequence Generation",
+  "author": "Wai-Shing Luk",
+  "license": "MIT",
+  "home_page": "https://luk036.github.io/lds-gen/",
+  "download_filename": "lds_gen-0.2.tar.gz",
+  "download_time": "2025-09-12T03:38:09.335298",
+  "package_url": "https://pypi.org/project/lds-gen/"
+}

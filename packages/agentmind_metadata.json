@@ -1,0 +1,11 @@
+{
+  "name": "agentmind",
+  "version": "0.3.0",
+  "summary": "Plug-and-play memory for AI agents. Simple, fast, and powerful.",
+  "author": "muiez",
+  "license": "MIT",
+  "home_page": "https://github.com/muiez/agentmind",
+  "download_filename": "agentmind-0.3.0.tar.gz",
+  "download_time": "2025-09-12T03:37:57.639883",
+  "package_url": "https://pypi.org/project/agentmind/"
+}
