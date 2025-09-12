@@ -1,0 +1,11 @@
+{
+  "name": "netapp-dataops-k8s",
+  "version": "2.6.0",
+  "summary": "NetApp DataOps Toolkit for Kubernetes Environments",
+  "author": "Mike Oglesby",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/NetApp/netapp-data-science-toolkit/",
+  "download_filename": "netapp_dataops_k8s-2.6.0.tar.gz",
+  "download_time": "2025-09-12T16:50:25.938373",
+  "package_url": "https://pypi.org/project/netapp-dataops-k8s/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sp-obs",
-  "version": "0.2.17",
+  "version": "0.3.1",
   "summary": "Observability integration with Spinal",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sp_obs-0.2.17.tar.gz",
-  "download_time": "2025-09-09T21:47:40.473576",
+  "download_filename": "sp_obs-0.3.1.tar.gz",
+  "download_time": "2025-09-12T16:50:35.449234",
   "package_url": "https://pypi.org/project/sp-obs/"
 }

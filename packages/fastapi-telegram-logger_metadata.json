@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-telegram-logger",
+  "version": "0.1.0",
+  "summary": "Logging errors with subsequent sending to the telegram channel for FastAPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_telegram_logger-0.1.0.tar.gz",
+  "download_time": "2025-09-12T16:50:44.337856",
+  "package_url": "https://pypi.org/project/fastapi-telegram-logger/"
+}

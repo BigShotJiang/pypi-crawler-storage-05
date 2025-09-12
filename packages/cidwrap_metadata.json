@@ -1,0 +1,11 @@
+{
+  "name": "cidwrap",
+  "version": "0.1.0",
+  "summary": "A FastAPI wrapper for logging correlation events",
+  "author": "Lathiesh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cidwrap-0.1.0.tar.gz",
+  "download_time": "2025-09-12T16:50:43.818310",
+  "package_url": "https://pypi.org/project/cidwrap/"
+}

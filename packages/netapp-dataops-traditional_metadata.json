@@ -1,0 +1,11 @@
+{
+  "name": "netapp-dataops-traditional",
+  "version": "2.6.0",
+  "summary": "NetApp DataOps Toolkit for Traditional Environments",
+  "author": "Mike Oglesby",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/NetApp/netapp-data-science-toolkit/",
+  "download_filename": "netapp_dataops_traditional-2.6.0.tar.gz",
+  "download_time": "2025-09-12T16:50:28.582343",
+  "package_url": "https://pypi.org/project/netapp-dataops-traditional/"
+}

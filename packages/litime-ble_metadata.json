@@ -1,0 +1,11 @@
+{
+  "name": "litime-ble",
+  "version": "0.1.6",
+  "summary": "Li Time Bluetooth battery reader via BLE (Python, Bleak)",
+  "author": "Cameron K. Brooks",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "litime_ble-0.1.6.tar.gz",
+  "download_time": "2025-09-12T16:50:33.333403",
+  "package_url": "https://pypi.org/project/litime-ble/"
+}

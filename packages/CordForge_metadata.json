@@ -1,0 +1,11 @@
+{
+  "name": "CordForge",
+  "version": "0.2.1",
+  "summary": "Discord Bot Library - UI & Image Manipulation for Making Games",
+  "author": "Robert Lawrence DeForrest Reynolds",
+  "license": null,
+  "home_page": "https://github.com/Robert-DeForrest-Reynolds/CordForge",
+  "download_filename": "cordforge-0.2.1.tar.gz",
+  "download_time": "2025-09-12T16:50:35.971343",
+  "package_url": "https://pypi.org/project/CordForge/"
+}

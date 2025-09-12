@@ -1,0 +1,11 @@
+{
+  "name": "pySISF",
+  "version": "0.5.2",
+  "summary": "A Python toolkit for SISF Images",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysisf-0.5.2.tar.gz",
+  "download_time": "2025-09-12T16:50:22.150025",
+  "package_url": "https://pypi.org/project/pySISF/"
+}

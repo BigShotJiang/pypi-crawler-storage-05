@@ -1,11 +1,11 @@
 {
   "name": "django-ragamuffin",
-  "version": "1.102.0.3",
+  "version": "1.107.1.1",
   "summary": "A Django app for ...",
   "author": "Stellan Östlund",
   "license": "MIT License",
   "home_page": "https://github.com/opentaproject/django_ragamuffin",
-  "download_filename": "django_ragamuffin-1.102.0.3.tar.gz",
-  "download_time": "2025-09-11T23:26:47.623909",
+  "download_filename": "django_ragamuffin-1.107.1.1.tar.gz",
+  "download_time": "2025-09-12T16:50:42.773097",
   "package_url": "https://pypi.org/project/django-ragamuffin/"
 }
