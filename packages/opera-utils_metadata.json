@@ -1,0 +1,11 @@
+{
+  "name": "opera-utils",
+  "version": "0.25.1",
+  "summary": "Miscellaneous utilities for working with OPERA data products",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opera_utils-0.25.1.tar.gz",
+  "download_time": "2025-09-12T15:30:04.414158",
+  "package_url": "https://pypi.org/project/opera-utils/"
+}

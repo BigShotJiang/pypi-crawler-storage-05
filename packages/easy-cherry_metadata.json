@@ -1,11 +1,11 @@
 {
   "name": "easy-cherry",
-  "version": "1.6.2",
-  "summary": "A custom wrapper for the Slack SDK to simplify sending messages and files.",
-  "author": "vinay kr",
+  "version": "1.6.3",
+  "summary": "Your library's description.",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "easy_cherry-1.6.2.tar.gz",
-  "download_time": "2025-09-10T06:43:52.031881",
+  "download_filename": "easy_cherry-1.6.3.tar.gz",
+  "download_time": "2025-09-12T15:30:00.268962",
   "package_url": "https://pypi.org/project/easy-cherry/"
 }

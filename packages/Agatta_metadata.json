@@ -1,0 +1,11 @@
+{
+  "name": "Agatta",
+  "version": "0.9.7",
+  "summary": "Three-item analysis python package",
+  "author": "Valentin Rineau",
+  "license": "GNU General Public License v3.0+",
+  "home_page": "https://github.com/vrineau/Agatta",
+  "download_filename": "agatta-0.9.7.tar.gz",
+  "download_time": "2025-09-12T15:30:24.434934",
+  "package_url": "https://pypi.org/project/Agatta/"
+}

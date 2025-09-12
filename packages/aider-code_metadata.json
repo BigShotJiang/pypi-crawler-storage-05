@@ -1,11 +1,11 @@
 {
   "name": "aider-code",
-  "version": "0.1.1.post66",
+  "version": "0.1.1.post67",
   "summary": "Devflux Aider is AI pair programming in your terminal",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aider_code-0.1.1.post66-py3-none-any.whl",
-  "download_time": "2025-09-12T14:51:17.176352",
+  "download_filename": "aider_code-0.1.1.post67-py3-none-any.whl",
+  "download_time": "2025-09-12T15:30:38.408631",
   "package_url": "https://pypi.org/project/aider-code/"
 }

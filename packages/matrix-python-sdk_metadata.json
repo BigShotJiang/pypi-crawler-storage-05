@@ -1,11 +1,11 @@
 {
   "name": "matrix-python-sdk",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "Python SDK for Matrix Hub — catalog search, entity detail, install, and remote management for agents, tools, and MCP servers.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "matrix_python_sdk-0.1.10.tar.gz",
-  "download_time": "2025-09-12T10:49:38.594036",
+  "download_filename": "matrix_python_sdk-0.1.11.tar.gz",
+  "download_time": "2025-09-12T15:30:12.183133",
   "package_url": "https://pypi.org/project/matrix-python-sdk/"
 }

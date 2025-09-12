@@ -1,11 +1,11 @@
 {
   "name": "pytest-randomly",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "summary": "Pytest plugin to randomly order tests and control random.seed.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_randomly-4.0.0.tar.gz",
-  "download_time": "2025-09-10T13:02:02.325843",
+  "download_filename": "pytest_randomly-4.0.1.tar.gz",
+  "download_time": "2025-09-12T15:30:15.902132",
   "package_url": "https://pypi.org/project/pytest-randomly/"
 }

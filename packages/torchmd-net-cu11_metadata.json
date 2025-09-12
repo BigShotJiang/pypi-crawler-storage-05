@@ -1,11 +1,11 @@
 {
   "name": "torchmd-net-cu11",
-  "version": "2.4.12",
+  "version": "2.4.13",
   "summary": "TorchMD-NET provides state-of-the-art neural networks potentials for biomolecular systems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "torchmd_net_cu11-2.4.12-cp310-cp310-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl",
-  "download_time": "2025-09-11T10:48:50.199206",
+  "download_filename": "torchmd_net_cu11-2.4.13-cp310-cp310-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-09-12T15:30:18.504053",
   "package_url": "https://pypi.org/project/torchmd-net-cu11/"
 }

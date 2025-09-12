@@ -1,11 +1,11 @@
 {
   "name": "lucupy",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "Lucuma core package for the Gemini Automated Scheduler at: https://github.com/gemini-hlsw/scheduler",
   "author": "Sergio Troncoso",
   "license": null,
   "home_page": "https://github.com/gemini-hlsw/lucupy",
-  "download_filename": "lucupy-0.2.5.tar.gz",
-  "download_time": "2025-09-08T15:31:15.784995",
+  "download_filename": "lucupy-0.2.6.tar.gz",
+  "download_time": "2025-09-12T15:30:30.127572",
   "package_url": "https://pypi.org/project/lucupy/"
 }

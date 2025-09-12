@@ -1,11 +1,11 @@
 {
   "name": "iparapheur-internal",
-  "version": "1.18.7",
+  "version": "1.18.8",
   "summary": "iparapheur",
   "author": "Libriciel SCOP",
   "license": null,
   "home_page": null,
-  "download_filename": "iparapheur_internal-1.18.7.tar.gz",
-  "download_time": "2025-09-09T15:51:15.666546",
+  "download_filename": "iparapheur_internal-1.18.8.tar.gz",
+  "download_time": "2025-09-12T15:30:32.750677",
   "package_url": "https://pypi.org/project/iparapheur-internal/"
 }

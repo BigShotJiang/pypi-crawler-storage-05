@@ -1,11 +1,11 @@
 {
   "name": "zlang",
-  "version": "2.8.0",
+  "version": "2.8.1",
   "summary": "Lightweight and expressive programming language similar to Python",
   "author": "magnesium",
   "license": null,
   "home_page": null,
-  "download_filename": "zlang-2.8.0.tar.gz",
-  "download_time": "2025-09-11T15:38:41.034483",
+  "download_filename": "zlang-2.8.1.tar.gz",
+  "download_time": "2025-09-12T15:30:27.543356",
   "package_url": "https://pypi.org/project/zlang/"
 }

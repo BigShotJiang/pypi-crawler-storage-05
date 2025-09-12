@@ -1,0 +1,11 @@
+{
+  "name": "base-version-checker",
+  "version": "0.2.5",
+  "summary": "Dev utility to verify hardcoded versions are in sync & updated",
+  "author": "kmfarley11",
+  "license": null,
+  "home_page": "https://github.com/kmfarley11/version-checker",
+  "download_filename": "base_version_checker-0.2.5.tar.gz",
+  "download_time": "2025-09-12T15:30:03.892514",
+  "package_url": "https://pypi.org/project/base-version-checker/"
+}

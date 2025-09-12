@@ -1,11 +1,11 @@
 {
   "name": "synthetic-transformers",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "transformers library new generate API",
   "author": "Carlos Fernandez",
   "license": "LICENSE",
   "home_page": null,
-  "download_filename": "synthetic_transformers-0.2.1.tar.gz",
-  "download_time": "2025-09-12T15:12:29.852462",
+  "download_filename": "synthetic_transformers-0.2.2.tar.gz",
+  "download_time": "2025-09-12T15:30:22.205727",
   "package_url": "https://pypi.org/project/synthetic-transformers/"
 }
