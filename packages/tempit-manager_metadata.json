@@ -1,0 +1,11 @@
+{
+  "name": "tempit-manager",
+  "version": "0.1.0",
+  "summary": "Manage and jump into temporary working directories",
+  "author": "Idir Oura",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tempit_manager-0.1.0.tar.gz",
+  "download_time": "2025-09-12T23:11:27.268997",
+  "package_url": "https://pypi.org/project/tempit-manager/"
+}

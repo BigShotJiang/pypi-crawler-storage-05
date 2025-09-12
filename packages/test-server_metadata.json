@@ -1,11 +1,11 @@
 {
   "name": "test-server",
-  "version": "0.0.46",
+  "version": "0.0.47",
   "summary": "Server for testing HTTP clients",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "test_server-0.0.46.tar.gz",
-  "download_time": "2025-09-12T10:12:15.044519",
+  "download_filename": "test_server-0.0.47.tar.gz",
+  "download_time": "2025-09-12T23:11:49.601723",
   "package_url": "https://pypi.org/project/test-server/"
 }

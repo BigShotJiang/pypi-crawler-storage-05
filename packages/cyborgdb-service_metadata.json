@@ -1,0 +1,11 @@
+{
+  "name": "cyborgdb-service",
+  "version": "0.12.0",
+  "summary": "REST Server for CyborgDB: The Confidential Vector Database",
+  "author": "Cyborg Inc.",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "cyborgdb_service-0.12.0.tar.gz",
+  "download_time": "2025-09-12T23:11:30.741639",
+  "package_url": "https://pypi.org/project/cyborgdb-service/"
+}
