@@ -1,0 +1,11 @@
+{
+  "name": "flask-vite",
+  "version": "0.6.1",
+  "summary": "Flask+Vite integration.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flask_vite-0.6.1.tar.gz",
+  "download_time": "2025-09-12T15:12:02.877632",
+  "package_url": "https://pypi.org/project/flask-vite/"
+}

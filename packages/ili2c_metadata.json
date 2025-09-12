@@ -1,0 +1,11 @@
+{
+  "name": "ili2c",
+  "version": "0.0.7",
+  "summary": "Python package for ili2c.",
+  "author": "Stefan Ziegler",
+  "license": "MIT license",
+  "home_page": "https://github.com/edigonzales/ili2c-node",
+  "download_filename": "ili2c-0.0.7.tar.gz",
+  "download_time": "2025-09-12T15:11:55.602030",
+  "package_url": "https://pypi.org/project/ili2c/"
+}

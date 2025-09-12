@@ -1,0 +1,11 @@
+{
+  "name": "plotbin",
+  "version": "3.1.8",
+  "summary": "PlotBin: Plotting Binned Maps and Other Utilities",
+  "author": "Michele Cappellari",
+  "license": "Other/Proprietary License",
+  "home_page": "https://purl.org/cappellari/software",
+  "download_filename": "plotbin-3.1.8.tar.gz",
+  "download_time": "2025-09-12T15:12:11.735627",
+  "package_url": "https://pypi.org/project/plotbin/"
+}

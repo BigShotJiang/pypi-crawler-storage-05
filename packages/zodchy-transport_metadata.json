@@ -1,11 +1,11 @@
 {
   "name": "zodchy-transport",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Transport pattern for zodchy architecture",
   "author": "Smairon",
   "license": null,
   "home_page": "https://github.com/smairon/zodchy-transport",
-  "download_filename": "zodchy_transport-0.1.0.tar.gz",
-  "download_time": "2025-09-10T14:10:59.698848",
+  "download_filename": "zodchy_transport-0.1.1.tar.gz",
+  "download_time": "2025-09-12T15:12:12.760086",
   "package_url": "https://pypi.org/project/zodchy-transport/"
 }

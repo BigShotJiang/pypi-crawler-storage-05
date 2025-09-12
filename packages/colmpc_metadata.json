@@ -1,0 +1,11 @@
+{
+  "name": "colmpc",
+  "version": "0.3.0",
+  "summary": "Collision Avoidance for MPC",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/cmake-wheel/colmpc",
+  "download_filename": "colmpc-0.3.0.tar.gz",
+  "download_time": "2025-09-12T15:12:03.430991",
+  "package_url": "https://pypi.org/project/colmpc/"
+}

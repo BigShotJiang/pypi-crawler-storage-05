@@ -1,0 +1,11 @@
+{
+  "name": "brynq-sdk-adp-decidium",
+  "version": "1.0.1",
+  "summary": "ADP Decidium wrapper from BrynQ",
+  "author": "BrynQ",
+  "license": "BrynQ License",
+  "home_page": null,
+  "download_filename": "brynq_sdk_adp_decidium-1.0.1.tar.gz",
+  "download_time": "2025-09-12T15:12:31.900475",
+  "package_url": "https://pypi.org/project/brynq-sdk-adp-decidium/"
+}
