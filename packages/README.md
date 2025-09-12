@@ -1,34 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-12T20:41:55.383282
-- **Total Packages**: 89
-- **Total Size**: 3.85 MB
+- **Download Time**: 2025-09-12T20:49:25.007587
+- **Total Packages**: 85
+- **Total Size**: 9.22 MB
 
 ## Packages List
+- codearkt
+- signalpilot-ai-internal
+- pulse-sdk
+- agent-pilot-sdk
+- thds.atacama
+- thds.mops
+- thds.humenc
+- thds.core
+- thds.adls
+- burla-io
+- rbx.cp
+- onefootball-wrapper
+- napari-convpaint
+- bgm-toolkit-labour
+- py-embedbuilder
+- earthdaily-earthone-dynamic-compute
+- qubesync
+- bgm-toolkit-pro
+- sensory-data-client
 - arpakitlib
 - c2cgeoportal-admin
 - c2cgeoportal-geoportal
 - c2cgeoportal-commons
 - fastapi-guard
 - nanoslurm
-- agentspec
 - rnbrw
-- signalpilot-ai-internal
 - snowglobe-sdk
 - svc-infra
-- py-embedbuilder
 - turbocore
 - tom-nonlocalizedevents
 - authentik-client
 - langchain-tool-server
 - openjd-model
-- rbx.cp
 - sparkforge
 - pz-rail-lephare
 - unique_toolkit
 - pyqrackising
-- onefootball-wrapper
 - py-algorand-sdk
 - crashs
 - fedwrap
@@ -43,7 +57,6 @@
 - mcpwrap
 - treerequests
 - botocore-stubs
-- bgm-toolkit-labour
 - zea
 - uois-toolkit
 - ldpc
@@ -78,20 +91,3 @@
 - ylem
 - hf-xet
 - mlflow-tracing
-- victron-mqtt
-- mlflow-skinny
-- kspl
-- otdf-python
-- kalavai-client
-- behavex
-- fast-agent-mcp
-- xrayscatteringtools
-- pyjess
-- Scrytch
-- pwpy-db
-- safari-sdk
-- google-ads
-- powerbin
-- sunholo
-- langflow-nightly
-- bedboss
