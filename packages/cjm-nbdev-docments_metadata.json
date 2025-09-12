@@ -1,0 +1,11 @@
+{
+  "name": "cjm-nbdev-docments",
+  "version": "0.0.10",
+  "summary": "Tool for validating and updating documentation in nbdev projects for use with the fastcore.docments module.",
+  "author": "Christian J. Mills",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/cj-mills/cjm-nbdev-docments",
+  "download_filename": "cjm_nbdev_docments-0.0.10.tar.gz",
+  "download_time": "2025-09-12T18:14:55.262218",
+  "package_url": "https://pypi.org/project/cjm-nbdev-docments/"
+}

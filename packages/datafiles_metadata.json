@@ -1,0 +1,11 @@
+{
+  "name": "datafiles",
+  "version": "2.3.4",
+  "summary": "File-based ORM for dataclasses.",
+  "author": "Jace Browning",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/datafiles",
+  "download_filename": "datafiles-2.3.4.tar.gz",
+  "download_time": "2025-09-12T18:14:55.784791",
+  "package_url": "https://pypi.org/project/datafiles/"
+}

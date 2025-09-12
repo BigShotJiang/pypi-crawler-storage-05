@@ -1,11 +1,11 @@
 {
   "name": "scxpand",
-  "version": "0.1.38",
+  "version": "0.1.40",
   "summary": "Pan-cancer detection of T-cell clonal expansion from single-cell RNA sequencing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scxpand-0.1.38.tar.gz",
-  "download_time": "2025-09-12T15:12:22.583513",
+  "download_filename": "scxpand-0.1.40.tar.gz",
+  "download_time": "2025-09-12T18:15:03.266173",
   "package_url": "https://pypi.org/project/scxpand/"
 }
