@@ -1,0 +1,11 @@
+{
+  "name": "safetensors-dataset",
+  "version": "0.0.11",
+  "summary": "A simple but handy Python library to save PyTorch datasets in safetensors format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "safetensors_dataset-0.0.11.tar.gz",
+  "download_time": "2025-09-12T11:49:00.148671",
+  "package_url": "https://pypi.org/project/safetensors-dataset/"
+}

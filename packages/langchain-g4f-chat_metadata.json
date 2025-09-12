@@ -1,11 +1,11 @@
 {
   "name": "langchain-g4f-chat",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "LangChain integration for g4f",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langchain_g4f_chat-0.1.6.tar.gz",
-  "download_time": "2025-09-12T11:34:26.535218",
+  "download_filename": "langchain_g4f_chat-0.1.7.tar.gz",
+  "download_time": "2025-09-12T11:49:22.909213",
   "package_url": "https://pypi.org/project/langchain-g4f-chat/"
 }

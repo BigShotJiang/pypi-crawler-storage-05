@@ -1,0 +1,11 @@
+{
+  "name": "MoleculeSculptor",
+  "version": "1.0.0",
+  "summary": "Molecule Segmentation Tool",
+  "author": "Park Jinyong",
+  "license": null,
+  "home_page": "https://github.com/ACCA-KU/MoleculeSculptor",
+  "download_filename": "moleculesculptor-1.0.0.tar.gz",
+  "download_time": "2025-09-12T11:49:21.317616",
+  "package_url": "https://pypi.org/project/MoleculeSculptor/"
+}

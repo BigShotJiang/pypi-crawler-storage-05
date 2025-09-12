@@ -1,0 +1,11 @@
+{
+  "name": "geomanager",
+  "version": "0.5.7",
+  "summary": "Wagtail based Geospatial Data Manager",
+  "author": "Erick Otenyo",
+  "license": "MIT",
+  "home_page": "https://github.com/erick-otenyo/geomanager",
+  "download_filename": "geomanager-0.5.7.tar.gz",
+  "download_time": "2025-09-12T11:49:02.262833",
+  "package_url": "https://pypi.org/project/geomanager/"
+}

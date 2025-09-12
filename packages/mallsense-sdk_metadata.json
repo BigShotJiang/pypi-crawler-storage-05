@@ -1,11 +1,11 @@
 {
   "name": "mallsense-sdk",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Unified Python SDK for Mallsense (Core, Sales, Bills)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mallsense_sdk-0.1.1.tar.gz",
-  "download_time": "2025-09-12T11:10:28.956436",
+  "download_filename": "mallsense_sdk-0.1.2.tar.gz",
+  "download_time": "2025-09-12T11:49:05.438055",
   "package_url": "https://pypi.org/project/mallsense-sdk/"
 }

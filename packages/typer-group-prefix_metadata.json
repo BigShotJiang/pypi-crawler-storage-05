@@ -1,0 +1,11 @@
+{
+  "name": "typer-group-prefix",
+  "version": "0.1.0",
+  "summary": "Prefix handler for typer group options",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "typer_group_prefix-0.1.0.tar.gz",
+  "download_time": "2025-09-12T11:49:10.631974",
+  "package_url": "https://pypi.org/project/typer-group-prefix/"
+}

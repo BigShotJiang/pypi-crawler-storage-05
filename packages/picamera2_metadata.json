@@ -1,0 +1,11 @@
+{
+  "name": "picamera2",
+  "version": "0.3.31",
+  "summary": "The libcamera-based Python interface to Raspberry Pi cameras, based on the original Picamera library",
+  "author": "Raspberry Pi & Raspberry Pi Foundation",
+  "license": "BSD 2-Clause License",
+  "home_page": "https://github.com/RaspberryPi/picamera2",
+  "download_filename": "picamera2-0.3.31.tar.gz",
+  "download_time": "2025-09-12T11:49:13.940990",
+  "package_url": "https://pypi.org/project/picamera2/"
+}
