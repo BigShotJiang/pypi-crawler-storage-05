@@ -1,0 +1,11 @@
+{
+  "name": "alens-importers",
+  "version": "0.10.0",
+  "summary": "Importers for Beancount's beangulp",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "alens_importers-0.10.0.tar.gz",
+  "download_time": "2025-09-12T13:49:34.679446",
+  "package_url": "https://pypi.org/project/alens-importers/"
+}
