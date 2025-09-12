@@ -1,0 +1,11 @@
+{
+  "name": "laufband",
+  "version": "0.2.0",
+  "summary": "Parallel Iteration with File-Based Coordination",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "laufband-0.2.0.tar.gz",
+  "download_time": "2025-09-12T10:34:02.572249",
+  "package_url": "https://pypi.org/project/laufband/"
+}

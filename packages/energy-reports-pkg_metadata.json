@@ -1,11 +1,11 @@
 {
   "name": "energy-reports-pkg",
-  "version": "0.7.5",
+  "version": "0.7.6",
   "summary": "A library used to generating the mindsett energy reports.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "energy_reports_pkg-0.7.5.tar.gz",
-  "download_time": "2025-09-12T10:12:25.905723",
+  "download_filename": "energy_reports_pkg-0.7.6.tar.gz",
+  "download_time": "2025-09-12T10:33:55.846293",
   "package_url": "https://pypi.org/project/energy-reports-pkg/"
 }
