@@ -1,11 +1,11 @@
 {
   "name": "turbocore",
-  "version": "0.15.1",
+  "version": "0.16.1",
   "summary": "A small example package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "turbocore-0.15.1.tar.gz",
-  "download_time": "2025-09-12T20:41:12.265270",
+  "download_filename": "turbocore-0.16.1.tar.gz",
+  "download_time": "2025-09-12T21:10:32.834931",
   "package_url": "https://pypi.org/project/turbocore/"
 }

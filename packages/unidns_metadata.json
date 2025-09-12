@@ -1,0 +1,11 @@
+{
+  "name": "unidns",
+  "version": "0.0.3",
+  "summary": "Rudimentary async DNS client in Python",
+  "author": "Tamas Jos",
+  "license": null,
+  "home_page": "https://github.com/skelsec/unidns",
+  "download_filename": "unidns-0.0.3.tar.gz",
+  "download_time": "2025-09-12T21:10:17.215847",
+  "package_url": "https://pypi.org/project/unidns/"
+}

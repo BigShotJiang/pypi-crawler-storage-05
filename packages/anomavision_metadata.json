@@ -1,11 +1,11 @@
 {
   "name": "anomavision",
-  "version": "3.0.10",
+  "version": "3.0.12",
   "summary": "Advanced Anomaly Detection Environment - Deep learning library for state-of-the-art anomaly detection algorithms",
   "author": "Deep Knowledge",
   "license": "MIT",
   "home_page": "https://github.com/DeepKnowledge1",
-  "download_filename": "anomavision-3.0.10.tar.gz",
-  "download_time": "2025-09-12T18:07:15.135141",
+  "download_filename": "anomavision-3.0.12.tar.gz",
+  "download_time": "2025-09-12T21:10:20.456849",
   "package_url": "https://pypi.org/project/anomavision/"
 }

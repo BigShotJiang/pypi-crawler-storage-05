@@ -1,0 +1,11 @@
+{
+  "name": "AIModeler",
+  "version": "0.94",
+  "summary": "AIModeler - AI and ML model building tool",
+  "author": "Alexander Brown",
+  "license": null,
+  "home_page": "https://github.com/AIModeler/aimodeler",
+  "download_filename": "aimodeler-0.94.tar.gz",
+  "download_time": "2025-09-12T21:10:37.085324",
+  "package_url": "https://pypi.org/project/AIModeler/"
+}

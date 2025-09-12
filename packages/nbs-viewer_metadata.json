@@ -1,11 +1,11 @@
 {
   "name": "nbs-viewer",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "A simple viewer application for data stored in a Blueksy-Tiled database.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nbs_viewer-0.3.3.tar.gz",
-  "download_time": "2025-09-08T16:11:42.218739",
+  "download_filename": "nbs_viewer-0.3.4.tar.gz",
+  "download_time": "2025-09-12T21:10:37.621464",
   "package_url": "https://pypi.org/project/nbs-viewer/"
 }
