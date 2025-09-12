@@ -1,11 +1,11 @@
 {
   "name": "HandsON-BuildHat-API",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "summary": "A third-party API for controlling LEGO SPIKE devices",
   "author": null,
   "license": "Proprietary - Personal/Educational Use Only",
   "home_page": null,
-  "download_filename": "handson_buildhat_api-1.0.14.tar.gz",
-  "download_time": "2025-09-12T08:54:28.482688",
+  "download_filename": "handson_buildhat_api-1.0.15.tar.gz",
+  "download_time": "2025-09-12T09:12:54.468116",
   "package_url": "https://pypi.org/project/HandsON-BuildHat-API/"
 }

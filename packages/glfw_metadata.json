@@ -1,0 +1,11 @@
+{
+  "name": "glfw",
+  "version": "2.10.0",
+  "summary": "A ctypes-based wrapper for GLFW3.",
+  "author": "Florian Rhiem",
+  "license": "MIT",
+  "home_page": "https://github.com/FlorianRhiem/pyGLFW",
+  "download_filename": "glfw-2.10.0.tar.gz",
+  "download_time": "2025-09-12T09:12:29.401729",
+  "package_url": "https://pypi.org/project/glfw/"
+}
