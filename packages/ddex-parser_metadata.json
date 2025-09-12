@@ -1,11 +1,11 @@
 {
   "name": "ddex-parser",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "High-performance DDEX XML parser for Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ddex_parser-0.2.0.tar.gz",
-  "download_time": "2025-09-10T17:37:46.245166",
+  "download_filename": "ddex_parser-0.3.0-cp38-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2025-09-12T05:50:16.379292",
   "package_url": "https://pypi.org/project/ddex-parser/"
 }

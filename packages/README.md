@@ -1,16 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-12T05:42:05.848355
-- **Total Packages**: 83
-- **Total Size**: 6.8 MB
+- **Download Time**: 2025-09-12T05:50:50.142278
+- **Total Packages**: 81
+- **Total Size**: 5.78 MB
 
 ## Packages List
+- pulumi-dbtcloud
+- dsm-services
+- lexe-wrapper
+- duowen-agent
+- edri
+- pulumi-consul
+- neurobridge
+- fers-calculations
+- huez
+- scikit-robot
+- pulumi-confluentcloud
+- mmap-ninja-dataframe
+- hotpartners-twofa
+- tg-bot-screen
+- cumulusci-plus
+- bindiffscript
+- evotoolkit
+- ddex-builder
+- ddex-parser
+- json-to-ical
 - django-w-blog
 - graphon-client
 - oganesson
 - pulumi-azuread
-- hotpartners-twofa
 - pulumi-cloudinit
 - zacro
 - pulumi-aws-apigateway
@@ -20,15 +39,12 @@
 - pulumi-azuredevops
 - pyagenity-api
 - pulumi-cloudamqp
-- huez
 - zscaler-sdk-python
 - aleatorik-pycommon
 - alibabacloud-tingwu20230930
 - rcs
 - mtest-py
-- json-to-ical
 - sense-table
-- neurobridge
 - mlx-gen-parity
 - per-datasets
 - mywheel
@@ -58,7 +74,6 @@
 - pulumi-aiven
 - httptrading
 - provider-hub
-- duowen-agent
 - mcpcap
 - frpy
 - pydzn
@@ -72,20 +87,3 @@
 - imas-mcp
 - llm_batch_helper
 - html2pic
-- synapse-lang
-- ourskyai_platform_api
-- ourskyai_astro_api
-- ourskyai_sda_api
-- chord-progression-network
-- wi1-bot
-- gyb-classification-model
-- bear-dereth
-- QNPI-InRealisticWaveguides
-- faster-eth-abi
-- agent-framework-labs-gaia
-- repo-digest
-- halib
-- npcpy
-- pepflow
-- nominal-api-protos
-- pgmini-migrate
