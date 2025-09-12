@@ -1,0 +1,11 @@
+{
+  "name": "truelink",
+  "version": "1.4.5",
+  "summary": "Extract direct download links from various URL formats",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "truelink-1.4.5.tar.gz",
+  "download_time": "2025-09-12T04:13:34.822545",
+  "package_url": "https://pypi.org/project/truelink/"
+}

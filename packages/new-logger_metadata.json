@@ -1,0 +1,11 @@
+{
+  "name": "new-logger",
+  "version": "0.1.0",
+  "summary": "Loguru-based logger utilities with file and tracker handlers",
+  "author": "anxingle",
+  "license": null,
+  "home_page": null,
+  "download_filename": "new_logger-0.1.0.tar.gz",
+  "download_time": "2025-09-12T04:13:33.782787",
+  "package_url": "https://pypi.org/project/new-logger/"
+}

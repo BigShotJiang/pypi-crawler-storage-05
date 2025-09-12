@@ -1,11 +1,11 @@
 {
   "name": "leaguewizard",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Auto sync your itemsets, perks and spells with mobalytics.gg ones on champion selection.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "leaguewizard-0.2.1.tar.gz",
-  "download_time": "2025-09-12T03:37:55.197149",
+  "download_filename": "leaguewizard-0.2.2.tar.gz",
+  "download_time": "2025-09-12T04:13:42.330630",
   "package_url": "https://pypi.org/project/leaguewizard/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "bruce-li-tc",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "summary": "Advanced Python utilities for time and data processing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bruce_li_tc-0.6.1.tar.gz",
-  "download_time": "2025-09-12T02:11:35.399958",
+  "download_filename": "bruce_li_tc-0.6.2.tar.gz",
+  "download_time": "2025-09-12T04:13:39.704929",
   "package_url": "https://pypi.org/project/bruce-li-tc/"
 }
