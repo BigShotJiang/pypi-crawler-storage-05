@@ -1,11 +1,11 @@
 {
   "name": "inspect-wandb",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "InspectAI <-> Weights and Biases integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "inspect_wandb-0.1.1.tar.gz",
-  "download_time": "2025-09-08T15:48:11.582794",
+  "download_filename": "inspect_wandb-0.1.2.tar.gz",
+  "download_time": "2025-09-12T12:21:36.737013",
   "package_url": "https://pypi.org/project/inspect-wandb/"
 }

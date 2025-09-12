@@ -1,11 +1,11 @@
 {
   "name": "dataset-build",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Build a multilingual dataset for imatrix or quantization calibration of LLMs or embedding models",
   "author": "electroglyph",
   "license": null,
   "home_page": null,
-  "download_filename": "dataset_build-0.1.5-py3-none-any.whl",
-  "download_time": "2025-09-12T06:44:01.748463",
+  "download_filename": "dataset_build-0.1.6-py3-none-any.whl",
+  "download_time": "2025-09-12T12:21:26.438469",
   "package_url": "https://pypi.org/project/dataset-build/"
 }

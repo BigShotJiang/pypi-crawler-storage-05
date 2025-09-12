@@ -1,0 +1,11 @@
+{
+  "name": "brille",
+  "version": "0.8.1",
+  "summary": "Irreducible Brillouin zone symmetry and interpolation.",
+  "author": "Gregory Tucker, Duc Le, Rebecca Fair",
+  "license": null,
+  "home_page": null,
+  "download_filename": "brille-0.8.1.tar.gz",
+  "download_time": "2025-09-12T12:21:27.023863",
+  "package_url": "https://pypi.org/project/brille/"
+}

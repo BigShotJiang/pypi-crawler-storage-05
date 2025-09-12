@@ -1,11 +1,11 @@
 {
   "name": "taulu",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "summary": "Segment a table from an image",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "taulu-0.8.1-cp313-cp313t-macosx_10_12_x86_64.whl",
-  "download_time": "2025-09-12T11:25:47.681457",
+  "download_filename": "taulu-0.8.2-cp313-cp313t-macosx_10_12_x86_64.whl",
+  "download_time": "2025-09-12T12:21:02.300906",
   "package_url": "https://pypi.org/project/taulu/"
 }

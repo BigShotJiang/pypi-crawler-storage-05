@@ -1,0 +1,11 @@
+{
+  "name": "fphysics",
+  "version": "0.1.1",
+  "summary": "A comprehensive physics library providing constants, equations, and formulas",
+  "author": "Shakee",
+  "license": "MIT",
+  "home_page": "https://github.com/n0sync/fphysics",
+  "download_filename": "fphysics-0.1.1.tar.gz",
+  "download_time": "2025-09-12T12:21:41.849724",
+  "package_url": "https://pypi.org/project/fphysics/"
+}

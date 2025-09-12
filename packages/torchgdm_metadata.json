@@ -1,0 +1,11 @@
+{
+  "name": "torchgdm",
+  "version": "0.56",
+  "summary": "Nano-optics + autodiff. Full field scattering simulations in pytorch.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "torchgdm-0.56.tar.gz",
+  "download_time": "2025-09-12T12:21:06.256213",
+  "package_url": "https://pypi.org/project/torchgdm/"
+}

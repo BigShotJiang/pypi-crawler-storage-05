@@ -1,0 +1,11 @@
+{
+  "name": "netscan-s7",
+  "version": "1.0.3",
+  "summary": "A fast multi-threaded network port scanner",
+  "author": "SABIR7718",
+  "license": null,
+  "home_page": null,
+  "download_filename": "netscan_s7-1.0.3.tar.gz",
+  "download_time": "2025-09-12T12:21:09.789078",
+  "package_url": "https://pypi.org/project/netscan-s7/"
+}

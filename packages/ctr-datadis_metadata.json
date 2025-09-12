@@ -1,0 +1,11 @@
+{
+  "name": "ctr-datadis",
+  "version": "0.1.3",
+  "summary": "SDK Python sencillo para la API oficial de Datadis",
+  "author": "CristianTacoronteRivero",
+  "license": null,
+  "home_page": "https://github.com/cristiantr/datadis-python",
+  "download_filename": "ctr_datadis-0.1.3.tar.gz",
+  "download_time": "2025-09-12T12:21:49.906875",
+  "package_url": "https://pypi.org/project/ctr-datadis/"
+}

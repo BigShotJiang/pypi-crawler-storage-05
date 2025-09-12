@@ -1,0 +1,11 @@
+{
+  "name": "OctoBot-Tentacles-Manager",
+  "version": "2.9.17",
+  "summary": "OctoBot project module installer",
+  "author": "Drakkar-Software",
+  "license": "LGPL-3.0",
+  "home_page": "https://github.com/Drakkar-Software/OctoBot-Tentacles-Manager",
+  "download_filename": "OctoBot-Tentacles-Manager-2.9.17.tar.gz",
+  "download_time": "2025-09-12T12:21:32.729878",
+  "package_url": "https://pypi.org/project/OctoBot-Tentacles-Manager/"
+}

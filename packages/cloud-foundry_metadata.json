@@ -1,11 +1,11 @@
 {
   "name": "cloud-foundry",
-  "version": "0.0.29",
+  "version": "0.0.30",
   "summary": "cloud-foundry is a curated set of cloud components that can be used to assemble cloud-based applications.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cloud_foundry-0.0.29.tar.gz",
-  "download_time": "2025-09-10T13:02:29.423913",
+  "download_filename": "cloud_foundry-0.0.30.tar.gz",
+  "download_time": "2025-09-12T12:21:40.146474",
   "package_url": "https://pypi.org/project/cloud-foundry/"
 }
