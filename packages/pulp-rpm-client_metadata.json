@@ -1,11 +1,11 @@
 {
   "name": "pulp-rpm-client",
-  "version": "3.32.0",
+  "version": "3.32.1",
   "summary": "Pulp 3 API",
   "author": "Pulp Team",
-  "license": "GPLv2+",
+  "license": "GPL-2.0-or-later",
   "home_page": null,
-  "download_filename": "pulp_rpm-client-3.32.0.tar.gz",
-  "download_time": "2025-09-10T16:37:08.030540",
+  "download_filename": "pulp_rpm-client-3.32.1.tar.gz",
+  "download_time": "2025-09-12T02:11:34.878236",
   "package_url": "https://pypi.org/project/pulp-rpm-client/"
 }

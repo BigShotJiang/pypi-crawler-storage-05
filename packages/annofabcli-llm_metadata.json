@@ -1,0 +1,11 @@
+{
+  "name": "annofabcli-llm",
+  "version": "0.1.2",
+  "summary": "LLMとannofab-cliを組み合わせたツールです。",
+  "author": "Kurusugawa Computer Inc.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "annofabcli_llm-0.1.2.tar.gz",
+  "download_time": "2025-09-12T02:11:11.026807",
+  "package_url": "https://pypi.org/project/annofabcli-llm/"
+}

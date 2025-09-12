@@ -1,0 +1,11 @@
+{
+  "name": "silent-speech",
+  "version": "0.1.3",
+  "summary": "Real-time audio visualization and voice-to-text chat interface with Gemini AI",
+  "author": "Silent Speech Team",
+  "license": null,
+  "home_page": "https://github.com/laspencer91/silent-speech",
+  "download_filename": "silent_speech-0.1.3.tar.gz",
+  "download_time": "2025-09-12T02:11:22.771475",
+  "package_url": "https://pypi.org/project/silent-speech/"
+}

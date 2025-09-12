@@ -1,0 +1,11 @@
+{
+  "name": "wpdwf",
+  "version": "0.0.1",
+  "summary": "Wrapper over Waveforms SDK - application runtime",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wpdwf-0.0.1.tar.gz",
+  "download_time": "2025-09-12T02:11:15.345469",
+  "package_url": "https://pypi.org/project/wpdwf/"
+}

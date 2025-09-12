@@ -1,0 +1,11 @@
+{
+  "name": "django-ses-backend",
+  "version": "0.1.2",
+  "summary": "Django email backend for AWS SES (Amazon Simple Email Service) without boto3",
+  "author": "Almaz Kunpeissov",
+  "license": "MIT",
+  "home_page": "https://github.com/almazkun/django-ses-backend",
+  "download_filename": "django_ses_backend-0.1.2.tar.gz",
+  "download_time": "2025-09-12T02:11:24.335447",
+  "package_url": "https://pypi.org/project/django-ses-backend/"
+}

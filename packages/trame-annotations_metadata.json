@@ -1,0 +1,11 @@
+{
+  "name": "trame-annotations",
+  "version": "0.5.0",
+  "summary": "Trame widgets for image/video annotations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trame_annotations-0.5.0.tar.gz",
+  "download_time": "2025-09-12T02:11:33.303097",
+  "package_url": "https://pypi.org/project/trame-annotations/"
+}
