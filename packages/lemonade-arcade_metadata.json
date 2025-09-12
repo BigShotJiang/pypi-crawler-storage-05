@@ -1,0 +1,11 @@
+{
+  "name": "lemonade-arcade",
+  "version": "0.1.7",
+  "summary": "AI-powered game generator and arcade using Lemonade Server",
+  "author": "Lemonade SDK",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lemonade_arcade-0.1.7.tar.gz",
+  "download_time": "2025-09-12T15:38:50.829823",
+  "package_url": "https://pypi.org/project/lemonade-arcade/"
+}

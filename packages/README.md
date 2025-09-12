@@ -1,11 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-12T15:30:49.622758
-- **Total Packages**: 92
-- **Total Size**: 51.92 MB
+- **Download Time**: 2025-09-12T15:39:28.353757
+- **Total Packages**: 91
+- **Total Size**: 12.77 MB
 
 ## Packages List
+- enelyzer-api-client
+- SAMPIClyser
+- inventree-brother-plugin
+- ksrpc
+- clanguru
+- authentik-client
+- google-ads
+- Vease-Viewer
+- AnisoCADO
+- time-series-profiler
+- py-lamina
+- marilib-pkg
+- restrict-logins
+- crds
+- apsimNGpy
+- keras-nlp
+- keras-hub
+- OpenGeodeWeb-Back
+- OpenGeodeWeb-Viewer
+- vease-back
+- dsd-flyio
+- lemonade-arcade
+- testpackage-hello
+- teams-alerter
+- pktron
+- semantics-pytorch
+- Flask-Limiter
+- cerebellar-models
 - alumnium
 - easy-cherry
 - delphai-rpc
@@ -21,7 +49,6 @@
 - scalexi-llm
 - bomiot
 - sutrakit
-- authentik-client
 - claude-code-sdk
 - secret-sdk
 - gamspy-ipopth
@@ -30,7 +57,6 @@
 - matrix-python-sdk
 - cybrid-api-bank-python
 - cybrid-api-organization-python
-- enelyzer-api-client
 - Pyckles
 - cybrid-api-id-python
 - context-engine-mcp
@@ -41,7 +67,6 @@
 - torchmd-net-cpu
 - torchmd-net-cu11
 - torchmd-net-cu12
-- pktron
 - palmettobug
 - discord-logging-handler
 - lemonade-sdk
@@ -72,29 +97,3 @@
 - joythief
 - hera-workflows
 - hera
-- inspect-swe
-- Mo-Adly
-- jjrawlins-cdk-iam-policy-builder-helper
-- astar-utils
-- aider-code
-- odoo-addon-l10n-es-vat-book-igic
-- neurograd
-- svgen
-- draive
-- mowidgets
-- elluminate
-- mcp-scan
-- crawlo
-- kbkit
-- HylexCrypt
-- sourcepp
-- snapfront-coherence
-- keymaster-sdk
-- ili2c
-- contrast-agent
-- ampy-proto
-- xradio
-- deepeval
-- pydo
-- lusid-scheduler-sdk
-- teradata-mcp-server

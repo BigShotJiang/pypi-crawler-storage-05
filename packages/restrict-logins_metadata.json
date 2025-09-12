@@ -1,0 +1,11 @@
+{
+  "name": "restrict-logins",
+  "version": "1.0.0",
+  "summary": "A Django application that restricts concurrent user logins by managing active sessions.",
+  "author": "Harshalkumar Ishi",
+  "license": null,
+  "home_page": "https://github.com/harshalkumar-ishi/restrict-logins",
+  "download_filename": "restrict_logins-1.0.0.tar.gz",
+  "download_time": "2025-09-12T15:38:46.104824",
+  "package_url": "https://pypi.org/project/restrict-logins/"
+}

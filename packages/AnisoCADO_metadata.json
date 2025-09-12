@@ -1,0 +1,11 @@
+{
+  "name": "AnisoCADO",
+  "version": "0.4.0",
+  "summary": "Generate off-axis SCAO PSFs for the ELT",
+  "author": "Kieran Leschinski",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/AstarVienna/AnisoCADO/",
+  "download_filename": "anisocado-0.4.0.tar.gz",
+  "download_time": "2025-09-12T15:38:44.027113",
+  "package_url": "https://pypi.org/project/AnisoCADO/"
+}

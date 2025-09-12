@@ -1,0 +1,11 @@
+{
+  "name": "dsd-flyio",
+  "version": "1.1.1",
+  "summary": "A plugin for django-simple-deploy, supporting deployments to Fly.io.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dsd_flyio-1.1.1.tar.gz",
+  "download_time": "2025-09-12T15:38:50.307300",
+  "package_url": "https://pypi.org/project/dsd-flyio/"
+}
