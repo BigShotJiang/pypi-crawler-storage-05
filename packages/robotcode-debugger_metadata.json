@@ -1,0 +1,11 @@
+{
+  "name": "robotcode-debugger",
+  "version": "1.9.0",
+  "summary": "RobotCode Debugger for Robot Framework",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "robotcode_debugger-1.9.0.tar.gz",
+  "download_time": "2025-09-12T15:48:53.005854",
+  "package_url": "https://pypi.org/project/robotcode-debugger/"
+}

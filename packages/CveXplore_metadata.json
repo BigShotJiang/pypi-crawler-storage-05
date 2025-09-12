@@ -1,0 +1,11 @@
+{
+  "name": "CveXplore",
+  "version": "0.3.40",
+  "summary": "Package for interacting with cve-search",
+  "author": "Paul Tikken",
+  "license": "GNU General Public License v3.0",
+  "home_page": "https://github.com/cve-search/CveXplore",
+  "download_filename": "cvexplore-0.3.40.tar.gz",
+  "download_time": "2025-09-12T15:48:59.822753",
+  "package_url": "https://pypi.org/project/CveXplore/"
+}

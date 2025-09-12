@@ -1,0 +1,11 @@
+{
+  "name": "pesaflux",
+  "version": "1.0.0",
+  "summary": "A modern Python SDK for PesaFlux API (STK Push & Transaction Status).",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/pesaflux-sdk",
+  "download_filename": "pesaflux-1.0.0.tar.gz",
+  "download_time": "2025-09-12T15:49:10.827464",
+  "package_url": "https://pypi.org/project/pesaflux/"
+}

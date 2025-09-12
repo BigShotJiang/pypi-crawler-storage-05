@@ -1,11 +1,11 @@
 {
   "name": "fracbm",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Fractional Brownian Noise (fGN) and Fractional Brownian Motion (fBM) generators in Python.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fracbm-0.2.0.tar.gz",
-  "download_time": "2025-09-12T12:21:32.160217",
+  "download_filename": "fracbm-0.2.1.tar.gz",
+  "download_time": "2025-09-12T15:48:52.482954",
   "package_url": "https://pypi.org/project/fracbm/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "llm-dep-extractor",
-  "version": "2025.9.101648",
+  "version": "2025.9.121647",
   "summary": "Minimal Python package: llm_dep_extractor",
   "author": "Eugene Evstafev",
   "license": "MIT",
   "home_page": "https://github.com/chigwell/llm_dep_extractor",
-  "download_filename": "llm_dep_extractor-2025.9.101648.tar.gz",
-  "download_time": "2025-09-10T16:14:02.374420",
+  "download_filename": "llm_dep_extractor-2025.9.121647.tar.gz",
+  "download_time": "2025-09-12T15:48:47.510839",
   "package_url": "https://pypi.org/project/llm-dep-extractor/"
 }
