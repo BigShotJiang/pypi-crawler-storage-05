@@ -1,0 +1,11 @@
+{
+  "name": "encoding-mcp",
+  "version": "1.0.0",
+  "summary": "Windows 빌드 환경에서 필요한 UTF-8 with BOM 인코딩 파일을 생성하고 관리하는 MCP 서버",
+  "author": "Encoding MCP Team",
+  "license": null,
+  "home_page": "https://github.com/whyjp/encoding_mcp",
+  "download_filename": "encoding_mcp-1.0.0.tar.gz",
+  "download_time": "2025-09-12T04:34:19.788221",
+  "package_url": "https://pypi.org/project/encoding-mcp/"
+}
