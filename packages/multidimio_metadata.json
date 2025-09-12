@@ -1,11 +1,11 @@
 {
   "name": "multidimio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Cloud-native, scalable, and user-friendly multi dimensional energy data!",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "multidimio-1.0.0.tar.gz",
-  "download_time": "2025-09-08T02:23:24.848981",
+  "download_filename": "multidimio-1.0.1.tar.gz",
+  "download_time": "2025-09-12T21:34:30.715649",
   "package_url": "https://pypi.org/project/multidimio/"
 }

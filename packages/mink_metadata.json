@@ -1,0 +1,11 @@
+{
+  "name": "mink",
+  "version": "0.0.13",
+  "summary": "mink: MuJoCo inverse kinematics.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mink-0.0.13-py3-none-any.whl",
+  "download_time": "2025-09-12T21:34:31.250676",
+  "package_url": "https://pypi.org/project/mink/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "richdem-fork",
+  "version": "3.0.0",
+  "summary": "High-Performance Terrain Analysis",
+  "author": "Richard Barnes",
+  "license": "GPLv3",
+  "home_page": "https://github.com/quixoticmonk/richdem",
+  "download_filename": "richdem_fork-3.0.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2025-09-12T21:34:22.875336",
+  "package_url": "https://pypi.org/project/richdem-fork/"
+}
