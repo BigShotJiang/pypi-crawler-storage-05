@@ -1,0 +1,11 @@
+{
+  "name": "xshl-session",
+  "version": "0.0.1",
+  "summary": "Python Library for XSHL Session",
+  "author": "MCode GmbH",
+  "license": "GPLv3",
+  "home_page": "https://github.com/mcode-cc/py-xshl-session",
+  "download_filename": "xshl_session-0.0.1.tar.gz",
+  "download_time": "2025-09-12T13:41:45.241162",
+  "package_url": "https://pypi.org/project/xshl-session/"
+}

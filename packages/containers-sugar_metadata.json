@@ -1,11 +1,11 @@
 {
   "name": "containers-sugar",
-  "version": "1.19.1",
+  "version": "1.19.2",
   "summary": "Simplify the usage of containers",
   "author": "Ivan Ogasawara",
   "license": "BSD 3 Clause",
   "home_page": null,
-  "download_filename": "containers_sugar-1.19.1.tar.gz",
-  "download_time": "2025-09-11T03:53:29.970229",
+  "download_filename": "containers_sugar-1.19.2.tar.gz",
+  "download_time": "2025-09-12T13:41:58.215121",
   "package_url": "https://pypi.org/project/containers-sugar/"
 }

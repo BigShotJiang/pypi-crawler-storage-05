@@ -1,11 +1,11 @@
 {
   "name": "langcache",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "summary": "Python Client SDK for LangCache Redis Service",
   "author": "Redis AI Services Team",
   "license": null,
   "home_page": "https://github.com/redis/langcache-sdks.git",
-  "download_filename": "langcache-0.10.0.tar.gz",
-  "download_time": "2025-09-09T08:15:58.981831",
+  "download_filename": "langcache-0.10.1.tar.gz",
+  "download_time": "2025-09-12T13:42:07.490753",
   "package_url": "https://pypi.org/project/langcache/"
 }

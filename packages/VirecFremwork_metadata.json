@@ -1,11 +1,11 @@
 {
   "name": "VirecFremwork",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Validate our data",
   "author": "Sumit Zala",
   "license": null,
   "home_page": null,
-  "download_filename": "VirecFremwork-0.2.1-cp38-cp38-win_amd64.whl",
-  "download_time": "2025-09-12T06:43:56.055267",
+  "download_filename": "virecfremwork-0.2.2.tar.gz",
+  "download_time": "2025-09-12T13:42:02.364371",
   "package_url": "https://pypi.org/project/VirecFremwork/"
 }

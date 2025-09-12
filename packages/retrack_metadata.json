@@ -1,11 +1,11 @@
 {
   "name": "retrack",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "summary": "A business rules engine",
   "author": "Gabriel Guarisa",
   "license": "MIT",
   "home_page": "https://github.com/pier-digital/retrack",
-  "download_filename": "retrack-3.0.0.tar.gz",
-  "download_time": "2025-09-08T13:39:16.318265",
+  "download_filename": "retrack-3.1.0.tar.gz",
+  "download_time": "2025-09-12T13:41:54.510798",
   "package_url": "https://pypi.org/project/retrack/"
 }

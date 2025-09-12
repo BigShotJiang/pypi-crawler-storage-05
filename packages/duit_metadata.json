@@ -1,0 +1,11 @@
+{
+  "name": "duit",
+  "version": "0.1.20",
+  "summary": "Duit is a toolkit to create simple user-interfaces for python.",
+  "author": "Florian Bruggisser",
+  "license": "MIT License",
+  "home_page": "https://github.com/cansik/duit",
+  "download_filename": "duit-0.1.20-py3-none-any.whl",
+  "download_time": "2025-09-12T13:41:50.910858",
+  "package_url": "https://pypi.org/project/duit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "accel-mtrng",
+  "version": "1.0",
+  "summary": "Python bindings for a high-performance C++ random number library",
+  "author": "surya narayan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "accel_mtrng-1.0.tar.gz",
+  "download_time": "2025-09-12T13:41:47.294793",
+  "package_url": "https://pypi.org/project/accel-mtrng/"
+}

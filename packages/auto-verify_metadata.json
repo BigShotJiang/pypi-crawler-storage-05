@@ -1,0 +1,11 @@
+{
+  "name": "auto-verify",
+  "version": "0.1.4",
+  "summary": "Efficient portfolio-based verification of neural network properties",
+  "author": "Corné Spek, Hendrik Baacke, Jan van Rijn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "auto_verify-0.1.4.tar.gz",
+  "download_time": "2025-09-12T13:41:41.639145",
+  "package_url": "https://pypi.org/project/auto-verify/"
+}
