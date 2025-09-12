@@ -1,0 +1,11 @@
+{
+  "name": "brostel",
+  "version": "1.0.0.dev1",
+  "summary": "Telegram formatting tool for telegrinder",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "brostel-1.0.0.dev1.tar.gz",
+  "download_time": "2025-09-12T09:40:04.170219",
+  "package_url": "https://pypi.org/project/brostel/"
+}

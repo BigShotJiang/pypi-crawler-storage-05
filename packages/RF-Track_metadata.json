@@ -1,0 +1,11 @@
+{
+  "name": "RF-Track",
+  "version": "2.5.3",
+  "summary": "The CERN tracking code RF-Track",
+  "author": "Andrea Latina",
+  "license": "Proprietary",
+  "home_page": "https://gitlab.cern.ch/rf-track",
+  "download_filename": "rf_track-2.5.3-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-09-12T09:40:22.900778",
+  "package_url": "https://pypi.org/project/RF-Track/"
+}

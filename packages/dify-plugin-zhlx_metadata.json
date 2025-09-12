@@ -1,0 +1,11 @@
+{
+  "name": "dify-plugin-zhlx",
+  "version": "0.4.5",
+  "summary": "Dify Plugin SDK",
+  "author": null,
+  "license": "Apache2.0",
+  "home_page": null,
+  "download_filename": "dify_plugin_zhlx-0.4.5.tar.gz",
+  "download_time": "2025-09-12T09:40:02.399564",
+  "package_url": "https://pypi.org/project/dify-plugin-zhlx/"
+}
