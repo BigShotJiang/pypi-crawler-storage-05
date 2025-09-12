@@ -1,11 +1,11 @@
 {
   "name": "pytest-asyncio",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "summary": "Pytest support for asyncio",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_asyncio-1.1.1.tar.gz",
-  "download_time": "2025-09-12T06:43:44.576479",
+  "download_filename": "pytest_asyncio-1.2.0.tar.gz",
+  "download_time": "2025-09-12T07:35:09.998934",
   "package_url": "https://pypi.org/project/pytest-asyncio/"
 }

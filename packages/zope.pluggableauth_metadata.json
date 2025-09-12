@@ -1,0 +1,11 @@
+{
+  "name": "zope.pluggableauth",
+  "version": "5.0",
+  "summary": "Pluggable Authentication Utility",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.pluggableauth",
+  "download_filename": "zope_pluggableauth-5.0.tar.gz",
+  "download_time": "2025-09-12T07:35:15.836729",
+  "package_url": "https://pypi.org/project/zope.pluggableauth/"
+}

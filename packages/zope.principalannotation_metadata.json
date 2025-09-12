@@ -1,0 +1,11 @@
+{
+  "name": "zope.principalannotation",
+  "version": "6.0",
+  "summary": "Annotations for Zope Principals",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.principalannotation",
+  "download_filename": "zope_principalannotation-6.0.tar.gz",
+  "download_time": "2025-09-12T07:35:13.721312",
+  "package_url": "https://pypi.org/project/zope.principalannotation/"
+}
