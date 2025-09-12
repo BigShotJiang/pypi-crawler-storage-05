@@ -1,0 +1,11 @@
+{
+  "name": "hhcm-forest",
+  "version": "1.1.20",
+  "summary": "A minimalistic tool to automate source code cloning and building",
+  "author": "Arturo Laurenzi",
+  "license": null,
+  "home_page": "https://none",
+  "download_filename": "hhcm_forest-1.1.20.tar.gz",
+  "download_time": "2025-09-12T09:49:04.381506",
+  "package_url": "https://pypi.org/project/hhcm-forest/"
+}

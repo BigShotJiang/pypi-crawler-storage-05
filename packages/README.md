@@ -1,11 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-12T09:40:55.010798
+- **Download Time**: 2025-09-12T09:49:48.663584
 - **Total Packages**: 85
-- **Total Size**: 20.97 MB
+- **Total Size**: 9.62 MB
 
 ## Packages List
+- bw-essentials-core
+- bn-byneuron
+- funcnodes-react-flow
+- rapidata
+- data-platform-vin-brand-identifier
+- rocket-welder-sdk
+- hhcm-forest
+- emutrader
+- wikipedia-mcp
+- google-sheets-mcpserver
+- p-template-generator
+- webtap-tool
+- cowsee
+- mcpcn-split-screen-mcp
+- cyst-core
+- ljobx
+- dify-oapi2
+- scxpand
+- scxpand-cuda
+- geo-explorer
+- bilifm
+- arpakitlib
+- unitypredict
+- unitypredict-engines
+- kete
+- fers-calculations
 - logger-36
 - inventory-monitor
 - rfs-framework
@@ -15,6 +41,7 @@
 - brostel
 - authentik-client
 - openapi-to-fastapi
+- pyodide-cli
 - axosyslog-light
 - cdntools
 - beeai-cli
@@ -37,7 +64,6 @@
 - flet-extended-interactive-viewer
 - gpframe
 - edwh-restic-plugin
-- mcpcn-split-screen-mcp
 - RF-Track
 - ioxio-data-product-definition-tooling
 - zenith-web
@@ -60,34 +86,8 @@
 - tlkcore
 - qpay-client
 - torchoutil
-- google-sheets-mcpserver
 - tranche
 - mxcubeweb
 - nrfcloud-utils
 - ryland
 - monzoh
-- isee
-- niaarmts
-- MPSPlots
-- lddya
-- fwdi
-- clappia-api-tools
-- odoo-addon-l10n-it-currency-rate-update-boi
-- rnapy
-- azx
-- hud-python
-- PLAlGaN
-- localstack-core
-- ccs-digitalmarketplace-utils
-- grand-challenge-dicom-de-identifier
-- common-packages
-- tbp-nightly
-- seam
-- mcp-image-cutout
-- visier-platform-sdk
-- jjrawlins-cdk-git-tagger
-- alibabacloud-dataphin-public20230630
-- cache-dit
-- async-param-server
-- sigmaflow
-- barcadia

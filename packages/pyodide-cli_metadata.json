@@ -1,0 +1,11 @@
+{
+  "name": "pyodide-cli",
+  "version": "0.4.0",
+  "summary": "\"The command line interface for the Pyodide project\"",
+  "author": "Pyodide developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyodide_cli-0.4.0.tar.gz",
+  "download_time": "2025-09-12T09:49:21.008641",
+  "package_url": "https://pypi.org/project/pyodide-cli/"
+}
