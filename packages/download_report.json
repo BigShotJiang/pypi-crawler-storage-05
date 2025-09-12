@@ -1,20 +1,8 @@
 {
-  "download_time": "2025-09-12T07:35:59.077108",
-  "total_packages_downloaded": 94,
-  "total_size_mb": 3.46,
+  "download_time": "2025-09-12T07:49:41.237666",
+  "total_packages_downloaded": 90,
+  "total_size_mb": 0.03,
   "packages": [
-    "zope.proxy",
-    "gurux-dlms",
-    "faster-app",
-    "pytest-asyncio",
-    "zope.processlifetime",
-    "askui",
-    "holmesgpt",
-    "zope.principalregistry",
-    "scikit-robot",
-    "crawlo",
-    "zope.principalannotation",
-    "ai-edge-litert-nightly",
     "nxlib",
     "ensenso-nxlib",
     "zope.pluggableauth",
@@ -96,6 +84,14 @@
     "tf-models-nightly",
     "jobtty",
     "zope.event",
-    "dlt-plus"
+    "dlt-plus",
+    "pulumi-vault",
+    "neurojack",
+    "zope.errorview",
+    "streamlit-nightly",
+    "openstock",
+    "zope.error",
+    "jcweaver",
+    "hb9imsutils"
   ]
 }
