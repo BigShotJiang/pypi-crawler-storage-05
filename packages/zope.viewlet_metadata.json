@@ -1,0 +1,11 @@
+{
+  "name": "zope.viewlet",
+  "version": "6.0",
+  "summary": "Zope Viewlets",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.viewlet",
+  "download_filename": "zope_viewlet-6.0.tar.gz",
+  "download_time": "2025-09-12T08:15:51.201242",
+  "package_url": "https://pypi.org/project/zope.viewlet/"
+}

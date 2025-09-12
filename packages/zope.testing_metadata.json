@@ -1,0 +1,11 @@
+{
+  "name": "zope.testing",
+  "version": "6.0",
+  "summary": "Zope testing helpers",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.testing",
+  "download_filename": "zope_testing-6.0.tar.gz",
+  "download_time": "2025-09-12T08:15:57.349664",
+  "package_url": "https://pypi.org/project/zope.testing/"
+}

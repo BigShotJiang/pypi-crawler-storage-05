@@ -1,0 +1,11 @@
+{
+  "name": "fairdomseekclient",
+  "version": "0.1.1rc5",
+  "summary": "A python client for fairdomseek platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fairdomseekclient-0.1.1rc5.tar.gz",
+  "download_time": "2025-09-12T08:15:34.443238",
+  "package_url": "https://pypi.org/project/fairdomseekclient/"
+}

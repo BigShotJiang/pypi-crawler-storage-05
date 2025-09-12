@@ -1,11 +1,11 @@
 {
   "name": "smol-html",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Small, dependable HTML cleaner/minifier with sensible defaults",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "smol_html-0.1.5.tar.gz",
-  "download_time": "2025-09-12T07:27:53.111472",
+  "download_filename": "smol_html-0.1.6.tar.gz",
+  "download_time": "2025-09-12T08:15:49.152215",
   "package_url": "https://pypi.org/project/smol-html/"
 }

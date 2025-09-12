@@ -1,0 +1,11 @@
+{
+  "name": "zope.site",
+  "version": "6.0",
+  "summary": "Local registries for zope component architecture",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "http://zopesite.readthedocs.io",
+  "download_filename": "zope_site-6.0.tar.gz",
+  "download_time": "2025-09-12T08:16:03.526005",
+  "package_url": "https://pypi.org/project/zope.site/"
+}

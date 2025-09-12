@@ -1,0 +1,11 @@
+{
+  "name": "zope.traversing",
+  "version": "6.0",
+  "summary": "Resolving paths in the object hierarchy",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.traversing",
+  "download_filename": "zope_traversing-6.0.tar.gz",
+  "download_time": "2025-09-12T08:15:54.785634",
+  "package_url": "https://pypi.org/project/zope.traversing/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rustypdf",
+  "version": "0.1.1",
+  "summary": "CLI tool to compress and merge PDFs (Rust backend via PyO3)",
+  "author": "Shyam Sundar <rampallishyam2@gmail.com>",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rustypdf-0.1.1-cp312-cp312-macosx_11_0_arm64.whl",
+  "download_time": "2025-09-12T08:15:29.564562",
+  "package_url": "https://pypi.org/project/rustypdf/"
+}

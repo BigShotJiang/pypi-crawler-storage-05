@@ -1,0 +1,11 @@
+{
+  "name": "zope.sqlalchemy",
+  "version": "4.0",
+  "summary": "Minimal Zope/SQLAlchemy transaction integration",
+  "author": "Laurence Rowe",
+  "license": "ZPL 2.1",
+  "home_page": "https://github.com/zopefoundation/zope.sqlalchemy",
+  "download_filename": "zope_sqlalchemy-4.0.tar.gz",
+  "download_time": "2025-09-12T08:16:02.502886",
+  "package_url": "https://pypi.org/project/zope.sqlalchemy/"
+}

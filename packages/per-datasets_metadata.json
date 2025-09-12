@@ -1,11 +1,11 @@
 {
   "name": "per-datasets",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "summary": "A Python package for loading petroleum datasets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "per_datasets-0.1.18.tar.gz",
-  "download_time": "2025-09-12T06:54:28.948582",
+  "download_filename": "per_datasets-0.1.19.tar.gz",
+  "download_time": "2025-09-12T08:15:49.664660",
   "package_url": "https://pypi.org/project/per-datasets/"
 }

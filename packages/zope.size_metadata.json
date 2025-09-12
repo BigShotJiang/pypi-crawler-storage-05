@@ -1,0 +1,11 @@
+{
+  "name": "zope.size",
+  "version": "6.0",
+  "summary": "Interfaces and simple adapter that give the size of an object",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "http://github.com/zopefoundation/zope.size",
+  "download_filename": "zope_size-6.0.tar.gz",
+  "download_time": "2025-09-12T08:16:03.014123",
+  "package_url": "https://pypi.org/project/zope.size/"
+}

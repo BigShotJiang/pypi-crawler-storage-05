@@ -1,0 +1,11 @@
+{
+  "name": "zope.testbrowser",
+  "version": "8.0",
+  "summary": "Programmable browser for functional black-box tests",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.testbrowser",
+  "download_filename": "zope_testbrowser-8.0.tar.gz",
+  "download_time": "2025-09-12T08:15:58.883568",
+  "package_url": "https://pypi.org/project/zope.testbrowser/"
+}
