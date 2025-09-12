@@ -1,0 +1,11 @@
+{
+  "name": "sentinel-2-tif",
+  "version": "0.1.1",
+  "summary": "Simplified Sentinel-2 TIF generation and spatial-temporal tools",
+  "author": "Chase Kusterer",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sentinel_2_tif-0.1.1.tar.gz",
+  "download_time": "2025-09-12T20:31:07.769032",
+  "package_url": "https://pypi.org/project/sentinel-2-tif/"
+}

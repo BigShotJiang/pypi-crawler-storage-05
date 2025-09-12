@@ -1,11 +1,11 @@
 {
   "name": "python-terminusgps",
-  "version": "45.8.0",
+  "version": "45.9.0",
   "summary": "Provides abstractions/utilities for working with Wialon API, Authorize.NET API, AWS API, and more.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "python_terminusgps-45.8.0.tar.gz",
-  "download_time": "2025-09-12T18:07:05.210617",
+  "download_filename": "python_terminusgps-45.9.0.tar.gz",
+  "download_time": "2025-09-12T20:31:19.621675",
   "package_url": "https://pypi.org/project/python-terminusgps/"
 }

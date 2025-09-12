@@ -1,11 +1,11 @@
 {
   "name": "fedwrap",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "A library of API wrappers for US Federal Government datasets.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fedwrap-0.0.7.tar.gz",
-  "download_time": "2025-09-09T17:47:47.455358",
+  "download_filename": "fedwrap-0.0.8.tar.gz",
+  "download_time": "2025-09-12T20:31:05.171088",
   "package_url": "https://pypi.org/project/fedwrap/"
 }

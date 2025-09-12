@@ -1,0 +1,11 @@
+{
+  "name": "uois-toolkit",
+  "version": "0.1.1",
+  "summary": "A toolkit for loading Unseen Object Instance Segmentation (UOIS) datasets.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uois_toolkit-0.1.1.tar.gz",
+  "download_time": "2025-09-12T20:31:13.969845",
+  "package_url": "https://pypi.org/project/uois-toolkit/"
+}
