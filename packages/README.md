@@ -1,11 +1,26 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-12T14:44:40.396714
-- **Total Packages**: 95
-- **Total Size**: 37.12 MB
+- **Download Time**: 2025-09-12T14:51:50.716587
+- **Total Packages**: 94
+- **Total Size**: 1.56 MB
 
 ## Packages List
+- binance-sdk-rebate
+- ticklist
+- vnstock-mcp-server
+- binance-sdk-pay
+- polypacket
+- binance-sdk-nft
+- django-bulk-triggers
+- armstrong-checker
+- binance-sdk-mining
+- binance-sdk-margin-trading
+- llm-helper-tools
+- binance-sdk-gift-card
+- gamma-desk
+- sutrakit
+- binance-sdk-fiat
 - binance-sdk-dual-investment
 - binance-sdk-derivatives-trading-usds-futures
 - weexin
@@ -57,7 +72,6 @@
 - human-cupid
 - linkmerce
 - nosqllite
-- sutrakit
 - montecarlodata
 - apolo-app-types
 - specify-cli-mbeacom
@@ -86,18 +100,3 @@
 - claude-code-indexer
 - subprocess-logger
 - golf-mcp
-- cribl-mgmt-plane
-- simplemseed
-- pioreactor
-- llm-helper-tools
-- aip-agents-binary
-- robotframework-databaselibrary
-- pyfibers
-- neurograd
-- django-rehive-extras
-- bifrost
-- pulumi-policy
-- gifnoc
-- todoforai-edge-cli
-- sqlmesh
-- matinverse
