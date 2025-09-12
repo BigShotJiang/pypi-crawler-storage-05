@@ -1,11 +1,11 @@
 {
   "name": "synapse-lang",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "summary": "A revolutionary programming language for scientific computing with parallel execution and uncertainty quantification",
   "author": "Michael Benjamin Crowe",
   "license": "Proprietary",
   "home_page": "https://github.com/MichaelCrowe11/synapse-lang",
-  "download_filename": "synapse_lang-1.0.2.tar.gz",
-  "download_time": "2025-09-09T00:46:14.282985",
+  "download_filename": "synapse_lang-2.0.0.tar.gz",
+  "download_time": "2025-09-12T05:12:32.969636",
   "package_url": "https://pypi.org/project/synapse-lang/"
 }

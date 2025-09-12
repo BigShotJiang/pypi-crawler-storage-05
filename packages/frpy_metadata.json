@@ -1,11 +1,11 @@
 {
   "name": "frpy",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "An api wrapper for Free Rider HD",
   "author": "Calculamatrise",
   "license": "GPL-3.0 license",
   "home_page": "https://github.com/Calculamatrise/frpy",
-  "download_filename": "frpy-0.3.0.tar.gz",
-  "download_time": "2025-09-12T02:11:40.333792",
+  "download_filename": "frpy-0.3.1.tar.gz",
+  "download_time": "2025-09-12T05:12:24.645320",
   "package_url": "https://pypi.org/project/frpy/"
 }

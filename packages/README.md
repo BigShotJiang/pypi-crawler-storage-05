@@ -1,18 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-12T04:49:17.952706
-- **Total Packages**: 75
-- **Total Size**: 11.01 MB
+- **Download Time**: 2025-09-12T05:13:02.524690
+- **Total Packages**: 72
+- **Total Size**: 29.46 MB
 
 ## Packages List
-- thoth-dbmanager
+- duowen-agent
 - mcpcap
-- PyWebWinUI3
+- frpy
+- pydzn
 - PySigmaKoki
+- thoth-dbmanager
+- authentik-client
+- pkscreener
+- spectree
+- mcp-feedback-enhanced-fixed
+- python3-commons
+- mcpadapt-auth
+- sayancpe586fa25
+- eclinical-requester
+- ncatbot
+- imas-mcp
+- llm_batch_helper
+- html2pic
+- synapse-lang
+- ourskyai_platform_api
+- ourskyai_astro_api
+- ourskyai_sda_api
+- chord-progression-network
+- wi1-bot
+- gyb-classification-model
+- bear-dereth
+- QNPI-InRealisticWaveguides
+- faster-eth-abi
+- agent-framework-labs-gaia
+- repo-digest
+- halib
+- npcpy
+- pepflow
+- nominal-api-protos
+- pgmini-migrate
+- nominal-api
+- dml-util
+- bsh-file-validation-check
+- civic-transparency-sdk
+- todo-agent
+- PyWebWinUI3
 - maai
 - iamdata
-- QNPI-InRealisticWaveguides
 - fraiseql
 - cv2-enumerate-cameras
 - kaq-quant-common
@@ -20,8 +56,6 @@
 - pkbrokers
 - edaflow
 - shell-lib
-- authentik-client
-- chord-progression-network
 - genmine
 - moonbase-sdk
 - argsclass
@@ -43,41 +77,4 @@
 - janito
 - dconfusion
 - prime
-- pgmini-migrate
 - rcs
-- stanford-mais
-- VirecFremwork
-- bkflow-django-webhook
-- mcp-data-analyzer-test
-- robhan-cdk-lib.aws-aps
-- robhan-cdk-lib.aws-grafana
-- snowflake-connector-python-nightly
-- robhan-cdk-lib.utils
-- upplib
-- dialogue-guardian
-- hepai
-- just-prompt-sdk
-- cheutils
-- new-logger
-- mcp-devtools
-- truelink
-- greenfield
-- robotframework-schemathesislibrary
-- chromedriver-binary
-- clinicedc
-- odoo-addon-product-customerinfo-picking
-- bruce-li-tc
-- py-embedbuilder
-- scxpand
-- biosteam
-- thermosteam
-- NikGapps
-- openapi-navigator
-- comfyui-frontend-package
-- croad
-- mavenagi
-- snowpark-submit
-- volcengine-python-sdk
-- pkscreener
-- hmr
-- pycompool

@@ -1,0 +1,11 @@
+{
+  "name": "wi1-bot",
+  "version": "2.0.4",
+  "summary": "Discord bot for Radarr/Sonarr integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wi1_bot-2.0.4.tar.gz",
+  "download_time": "2025-09-12T05:12:35.528444",
+  "package_url": "https://pypi.org/project/wi1-bot/"
+}

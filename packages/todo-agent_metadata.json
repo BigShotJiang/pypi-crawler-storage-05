@@ -1,0 +1,11 @@
+{
+  "name": "todo-agent",
+  "version": "0.3.6",
+  "summary": "A natural language interface for todo.sh task management",
+  "author": "codeprimate",
+  "license": null,
+  "home_page": null,
+  "download_filename": "todo_agent-0.3.6.tar.gz",
+  "download_time": "2025-09-12T05:12:44.279925",
+  "package_url": "https://pypi.org/project/todo-agent/"
+}

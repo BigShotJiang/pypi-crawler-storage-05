@@ -1,0 +1,11 @@
+{
+  "name": "html2pic",
+  "version": "0.1.1",
+  "summary": "Convert HTML + CSS to images without a browser",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "html2pic-0.1.1.tar.gz",
+  "download_time": "2025-09-12T05:12:32.458709",
+  "package_url": "https://pypi.org/project/html2pic/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "PySigmaKoki",
-  "version": "2.1.8",
+  "version": "2.1.9",
   "summary": "Python Interface for Instruments by Sigma Koki",
   "author": null,
   "license": "BSD License",
   "home_page": null,
-  "download_filename": "pysigmakoki-2.1.8.tar.gz",
-  "download_time": "2025-09-12T04:48:39.168973",
+  "download_filename": "pysigmakoki-2.1.9.tar.gz",
+  "download_time": "2025-09-12T05:12:25.667329",
   "package_url": "https://pypi.org/project/PySigmaKoki/"
 }

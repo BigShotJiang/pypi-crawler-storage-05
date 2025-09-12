@@ -1,11 +1,11 @@
 {
   "name": "imas-mcp",
-  "version": "2.4.12",
+  "version": "2.4.14",
   "summary": "An IMAS Data Dictionary MCP server",
   "author": null,
   "license": "CC BY-ND 4.0",
   "home_page": null,
-  "download_filename": "imas_mcp-2.4.12.tar.gz",
-  "download_time": "2025-09-11T14:13:14.669095",
+  "download_filename": "imas_mcp-2.4.14.tar.gz",
+  "download_time": "2025-09-12T05:12:31.435999",
   "package_url": "https://pypi.org/project/imas-mcp/"
 }
