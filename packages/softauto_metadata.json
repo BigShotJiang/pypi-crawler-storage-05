@@ -1,11 +1,11 @@
 {
   "name": "softauto",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "One-call EDA + preprocessing + feature selection + plotting + advisor + tuning (robust CV).",
   "author": "Soft Tech Talks",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "softauto-0.3.2.tar.gz",
-  "download_time": "2025-09-12T08:37:14.701679",
+  "download_filename": "softauto-0.3.3.tar.gz",
+  "download_time": "2025-09-12T08:54:32.149885",
   "package_url": "https://pypi.org/project/softauto/"
 }

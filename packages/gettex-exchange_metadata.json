@@ -1,0 +1,11 @@
+{
+  "name": "gettex-exchange",
+  "version": "1.1.0",
+  "summary": "A Python client library for Gettex exchange",
+  "author": "Felix Börner",
+  "license": "MIT",
+  "home_page": "https://github.com/escalate/gettex-exchange",
+  "download_filename": "gettex_exchange-1.1.0.tar.gz",
+  "download_time": "2025-09-12T08:54:19.103919",
+  "package_url": "https://pypi.org/project/gettex-exchange/"
+}

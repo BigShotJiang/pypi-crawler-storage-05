@@ -1,11 +1,11 @@
 {
   "name": "sl-pos2-api",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Shopline POS2 API SDK",
   "author": "Your Name",
   "license": null,
   "home_page": "https://github.com/zzzpeifeng/sl-pos2-api",
-  "download_filename": "sl_pos2_api-0.2.1.tar.gz",
-  "download_time": "2025-09-10T16:14:00.219787",
+  "download_filename": "sl_pos2_api-0.2.2.tar.gz",
+  "download_time": "2025-09-12T08:54:18.587924",
   "package_url": "https://pypi.org/project/sl-pos2-api/"
 }

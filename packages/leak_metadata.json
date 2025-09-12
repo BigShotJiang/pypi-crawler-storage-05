@@ -1,0 +1,11 @@
+{
+  "name": "leak",
+  "version": "2.2.2",
+  "summary": "Show release information about packages on PyPI",
+  "author": "Misha Behersky",
+  "license": "MIT",
+  "home_page": "https://bmwant.link/leak-package/",
+  "download_filename": "leak-2.2.2.tar.gz",
+  "download_time": "2025-09-12T08:54:12.366126",
+  "package_url": "https://pypi.org/project/leak/"
+}

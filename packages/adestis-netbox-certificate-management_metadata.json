@@ -1,11 +1,11 @@
 {
   "name": "adestis-netbox-certificate-management",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "summary": "ADESTIS Certificate Management",
   "author": "ADESTIS GmbH",
   "license": "GPL-3.0-only",
   "home_page": "https://github.com/an-adestis/ADESTIS-Netbox-Certificate-Management",
-  "download_filename": "adestis_netbox_certificate_management-1.0.19.tar.gz",
-  "download_time": "2025-09-11T07:48:39.189537",
+  "download_filename": "adestis_netbox_certificate_management-1.0.20.tar.gz",
+  "download_time": "2025-09-12T08:54:22.224176",
   "package_url": "https://pypi.org/project/adestis-netbox-certificate-management/"
 }
