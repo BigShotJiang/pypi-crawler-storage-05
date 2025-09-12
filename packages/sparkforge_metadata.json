@@ -1,11 +1,11 @@
 {
   "name": "sparkforge",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A powerful data pipeline builder for Apache Spark and Databricks",
   "author": "Odos Matthews",
   "license": "MIT",
   "home_page": "https://github.com/eddiethedean/sparkforge",
-  "download_filename": "sparkforge-0.1.0.tar.gz",
-  "download_time": "2025-09-12T14:33:58.107139",
+  "download_filename": "sparkforge-0.2.0.tar.gz",
+  "download_time": "2025-09-12T20:13:37.620512",
   "package_url": "https://pypi.org/project/sparkforge/"
 }

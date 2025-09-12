@@ -1,0 +1,11 @@
+{
+  "name": "longdllm",
+  "version": "0.1.3",
+  "summary": "Plug-and-play long context adaptation for diffusion language models",
+  "author": "Albert Ge",
+  "license": "MIT",
+  "home_page": "https://github.com/lbertge/longdllm",
+  "download_filename": "longdllm-0.1.3.tar.gz",
+  "download_time": "2025-09-12T20:13:25.584461",
+  "package_url": "https://pypi.org/project/longdllm/"
+}

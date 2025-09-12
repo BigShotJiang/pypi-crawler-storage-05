@@ -1,0 +1,11 @@
+{
+  "name": "featureform-enterprise",
+  "version": "0.16.8",
+  "summary": "Package for the Featureform Enterprise Feature Store",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "featureform_enterprise-0.16.8.tar.gz",
+  "download_time": "2025-09-12T20:13:41.908381",
+  "package_url": "https://pypi.org/project/featureform-enterprise/"
+}

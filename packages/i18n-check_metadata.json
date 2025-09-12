@@ -1,11 +1,11 @@
 {
   "name": "i18n-check",
-  "version": "1.10.1",
+  "version": "1.11.0",
   "summary": "Check i18n/L10n keys and values",
   "author": "i18n-check developers",
   "license": ": OSI Approved :: GNU License",
   "home_page": "https://github.com/activist-org/i18n-check",
-  "download_filename": "i18n_check-1.10.1-py3-none-any.whl",
-  "download_time": "2025-09-07T17:50:27.326482",
+  "download_filename": "i18n_check-1.11.0-py3-none-any.whl",
+  "download_time": "2025-09-12T20:13:26.727553",
   "package_url": "https://pypi.org/project/i18n-check/"
 }

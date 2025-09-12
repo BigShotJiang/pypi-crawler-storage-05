@@ -1,11 +1,11 @@
 {
   "name": "tracapp",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "summary": "common facilities to be used by Prima services",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tracapp-0.4.4-py3-none-any.whl",
-  "download_time": "2025-09-09T23:09:59.117223",
+  "download_filename": "tracapp-0.4.5-py3-none-any.whl",
+  "download_time": "2025-09-12T20:13:41.373077",
   "package_url": "https://pypi.org/project/tracapp/"
 }
