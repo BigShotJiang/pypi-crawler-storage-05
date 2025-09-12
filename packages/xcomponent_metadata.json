@@ -1,11 +1,11 @@
 {
   "name": "xcomponent",
-  "version": "0.6.5",
+  "version": "0.6.6",
   "summary": "A component base template engige - inspired by JSX",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xcomponent-0.6.5.tar.gz",
-  "download_time": "2025-09-09T18:14:15.605958",
+  "download_filename": "xcomponent-0.6.6.tar.gz",
+  "download_time": "2025-09-12T06:43:45.108186",
   "package_url": "https://pypi.org/project/xcomponent/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "zope.app.catalog",
+  "version": "6.0",
+  "summary": "Management pages for Zope Catalog",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "http://github.com/zopefoundation/zope.app.catalog",
+  "download_filename": "zope_app_catalog-6.0.tar.gz",
+  "download_time": "2025-09-12T06:43:31.495661",
+  "package_url": "https://pypi.org/project/zope.app.catalog/"
+}

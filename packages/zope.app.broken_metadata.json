@@ -1,0 +1,11 @@
+{
+  "name": "zope.app.broken",
+  "version": "6.0",
+  "summary": "Zope Broken (ZODB) Object Support",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "http://github.com/zopefoundation/zope.app.broken",
+  "download_filename": "zope_app_broken-6.0.tar.gz",
+  "download_time": "2025-09-12T06:43:32.551422",
+  "package_url": "https://pypi.org/project/zope.app.broken/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zope.annotation",
+  "version": "6.0",
+  "summary": "Object annotation mechanism",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.annotation",
+  "download_filename": "zope_annotation-6.0.tar.gz",
+  "download_time": "2025-09-12T06:43:42.501745",
+  "package_url": "https://pypi.org/project/zope.annotation/"
+}
