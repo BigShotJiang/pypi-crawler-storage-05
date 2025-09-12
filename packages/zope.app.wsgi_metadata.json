@@ -1,0 +1,11 @@
+{
+  "name": "zope.app.wsgi",
+  "version": "6.0",
+  "summary": "WSGI application for the zope.publisher",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.app.wsgi",
+  "download_filename": "zope_app_wsgi-6.0.tar.gz",
+  "download_time": "2025-09-12T06:54:22.281253",
+  "package_url": "https://pypi.org/project/zope.app.wsgi/"
+}

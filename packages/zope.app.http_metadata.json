@@ -1,0 +1,11 @@
+{
+  "name": "zope.app.http",
+  "version": "6.0",
+  "summary": "HTTP Behavior for the Zope Publisher",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.app.http",
+  "download_filename": "zope_app_http-6.0.tar.gz",
+  "download_time": "2025-09-12T06:54:38.443139",
+  "package_url": "https://pypi.org/project/zope.app.http/"
+}

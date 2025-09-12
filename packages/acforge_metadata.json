@@ -1,11 +1,11 @@
 {
   "name": "acforge",
-  "version": "3.1.0",
-  "summary": "CLI for AI Code Forge template management",
+  "version": "3.1.1",
+  "summary": "acforge cli for AI Code Forge configuration management",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "acforge-3.1.0.tar.gz",
-  "download_time": "2025-09-10T14:31:54.537778",
+  "download_filename": "acforge-3.1.1.tar.gz",
+  "download_time": "2025-09-12T06:54:23.506514",
   "package_url": "https://pypi.org/project/acforge/"
 }

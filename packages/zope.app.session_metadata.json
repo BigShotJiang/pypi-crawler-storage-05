@@ -1,0 +1,11 @@
+{
+  "name": "zope.app.session",
+  "version": "6.0",
+  "summary": "Zope session",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.app.session",
+  "download_filename": "zope_app_session-6.0.tar.gz",
+  "download_time": "2025-09-12T06:54:26.333892",
+  "package_url": "https://pypi.org/project/zope.app.session/"
+}

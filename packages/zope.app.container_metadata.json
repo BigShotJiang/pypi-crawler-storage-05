@@ -1,0 +1,11 @@
+{
+  "name": "zope.app.container",
+  "version": "6.0",
+  "summary": "Zope Container",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "http://github.com/zopefoundation/zope.app.container",
+  "download_filename": "zope_app_container-6.0.tar.gz",
+  "download_time": "2025-09-12T06:54:43.820385",
+  "package_url": "https://pypi.org/project/zope.app.container/"
+}

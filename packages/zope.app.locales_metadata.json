@@ -1,0 +1,11 @@
+{
+  "name": "zope.app.locales",
+  "version": "6.0",
+  "summary": "Zope locale extraction and management utilities",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://pypi.org/project/zope.app.locales/",
+  "download_filename": "zope_app_locales-6.0.tar.gz",
+  "download_time": "2025-09-12T06:54:36.322607",
+  "package_url": "https://pypi.org/project/zope.app.locales/"
+}

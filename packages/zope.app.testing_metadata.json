@@ -1,0 +1,11 @@
+{
+  "name": "zope.app.testing",
+  "version": "6.0",
+  "summary": "Zope Application Testing Support",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.app.testing",
+  "download_filename": "zope_app_testing-6.0.tar.gz",
+  "download_time": "2025-09-12T06:54:24.669252",
+  "package_url": "https://pypi.org/project/zope.app.testing/"
+}

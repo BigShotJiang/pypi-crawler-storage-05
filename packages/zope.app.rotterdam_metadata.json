@@ -1,0 +1,11 @@
+{
+  "name": "zope.app.rotterdam",
+  "version": "6.0",
+  "summary": "Rotterdam -- A Zope 3 ZMI Skin",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.app.rotterdam",
+  "download_filename": "zope_app_rotterdam-6.0.tar.gz",
+  "download_time": "2025-09-12T06:54:29.522547",
+  "package_url": "https://pypi.org/project/zope.app.rotterdam/"
+}

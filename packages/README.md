@@ -1,11 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-12T06:44:18.932215
-- **Total Packages**: 93
-- **Total Size**: 43.4 MB
+- **Download Time**: 2025-09-12T06:55:09.567128
+- **Total Packages**: 91
+- **Total Size**: 14.72 MB
 
 ## Packages List
+- lindera-python-cc-cedict
+- zope.app.zcmlfiles
+- authentik-client
+- valetudo-map-parser
+- zope.app.wsgi
+- acforge
+- pydiverse-colspec
+- zope.app.testing
+- hb9imsutils
+- nonebot-plugin-quark-autosave
+- zope.app.session
+- pulumi-random
+- zope.app.security
+- pulumi-slack
+- gridgs-sdk
+- per-datasets
+- zope.app.rotterdam
+- pulumi-signalfx
+- scxpand
+- my-fastapi-scaffold
+- zope.app.publisher
+- py-embedbuilder
+- langchain-trigger-server
+- AnChinSegmenter
+- zope.app.publication
+- pulumi-rancher2
+- zope.app.pagetemplate
+- alibabacloud-gpdb20160503
+- zope.app.locales
+- molass
+- django-vb-connection-pool
+- nexaai
+- zope.app.http
+- cplearn
+- hass-nabucasa
+- pulumi-pagerduty
+- bruce-li-tc
+- pulumi-postgresql
+- zope.app.folder
+- pulumi-rabbitmq
+- pulumi-okta
+- infinity-grid
+- zope.app.container
 - zope.app.component
 - hiddifypanel
 - mistral_common
@@ -39,14 +82,12 @@
 - pytest-asyncio
 - xcomponent
 - physdes-py
-- valetudo-map-parser
 - ozi-core
 - pyodys
 - kitten-mcp-server
 - hb-v5-basic-func
 - vearne-akshare-mcp
 - jobtty
-- cplearn
 - py-adaptive
 - pulumi-null
 - pulumi-newrelic
@@ -56,46 +97,3 @@
 - pulumi-ns1
 - pulumi-meraki
 - pulumi-mongodbatlas
-- authentik-client
-- VirecFremwork
-- pulumi-mysql
-- PyWebWinUI3
-- pyarmor-runtime-000000
-- eagle-eye-scraper
-- lightwheel-sdk
-- pulumi-minio
-- encryptcode
-- oc-logging
-- dq3d
-- dataset-build
-- modelscope-image-mcp
-- yukkuri-mandarin
-- WaveMonitor
-- lunatone-rest-api-client
-- per-datasets
-- rq_geo_toolkit
-- mycelium-ei-lang
-- pulumi-mailgun
-- hud-python
-- pulumi-linode
-- django-reusable
-- fake-bpy-module
-- fake-bpy-module-latest
-- imagekitio
-- aek-auto-mlbuilder
-- whose-encoder
-- anu-ctlab-io
-- nominal-api-protos
-- ellalgo
-- nominal-api
-- heavyedge
-- mcp-feedback-enhanced-fixed
-- cdk8s-awscdk-resolver
-- hmr
-- mmap-ninja-dataframe
-- pulumi-kong
-- fraiseql
-- bomiot-asgi
-- pulumi-keycloak
-- agent-sandbox
-- pulumi-kafka

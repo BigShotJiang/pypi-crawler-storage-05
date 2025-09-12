@@ -1,0 +1,11 @@
+{
+  "name": "zope.app.folder",
+  "version": "6.0",
+  "summary": "Folder Content Type for Zope 3",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "http://github.com/zopefoundation/zope.app.folder",
+  "download_filename": "zope_app_folder-6.0.tar.gz",
+  "download_time": "2025-09-12T06:54:41.577929",
+  "package_url": "https://pypi.org/project/zope.app.folder/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "AnChinSegmenter",
-  "version": "0.9",
+  "version": "1.1",
   "summary": "一个古汉语分词工具",
   "author": "TANG, Xuemei",
   "license": "MIT",
   "home_page": "https://github.com/tangxuemei1995/Ancient-chinese-segmenter",
-  "download_filename": "anchinsegmenter-0.9-py3-none-any.whl",
-  "download_time": "2025-09-11T14:12:58.654945",
+  "download_filename": "anchinsegmenter-1.1-py3-none-any.whl",
+  "download_time": "2025-09-12T06:54:33.237782",
   "package_url": "https://pypi.org/project/AnChinSegmenter/"
 }
