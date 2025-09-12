@@ -1,0 +1,11 @@
+{
+  "name": "pykomodefi",
+  "version": "0.2.6",
+  "summary": "A wrapper for the Komodo DeFi Framework API",
+  "author": "smk",
+  "license": "MIT",
+  "home_page": "https://github.com/smk762/pykomodefi",
+  "download_filename": "pykomodefi-0.2.6.tar.gz",
+  "download_time": "2025-09-12T22:48:50.977440",
+  "package_url": "https://pypi.org/project/pykomodefi/"
+}

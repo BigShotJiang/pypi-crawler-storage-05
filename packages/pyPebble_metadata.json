@@ -1,0 +1,11 @@
+{
+  "name": "pyPebble",
+  "version": "0.1.0",
+  "summary": "Multi purpose N-body sim",
+  "author": "Connor Crawford",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypebble-0.1.0.tar.gz",
+  "download_time": "2025-09-12T22:48:48.172850",
+  "package_url": "https://pypi.org/project/pyPebble/"
+}
