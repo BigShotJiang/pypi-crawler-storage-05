@@ -1,11 +1,11 @@
 {
   "name": "jyinit",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "jyinit - scaffold Python projects (CLI)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jyinit-0.0.7.tar.gz",
-  "download_time": "2025-09-11T11:09:51.525412",
+  "download_filename": "jyinit-0.0.8.tar.gz",
+  "download_time": "2025-09-12T06:17:04.296465",
   "package_url": "https://pypi.org/project/jyinit/"
 }

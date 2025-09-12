@@ -1,11 +1,11 @@
 {
   "name": "pyarmor-runtime-000000",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "summary": "Pyarmor runtime package for protected Python code",
   "author": "Pyarmor",
   "license": null,
-  "home_page": null,
-  "download_filename": "pyarmor_runtime_000000-1.0.0-py3-none-any.whl",
-  "download_time": "2025-09-11T13:25:16.896420",
+  "home_page": "https://github.com/unknown/basic_func",
+  "download_filename": "pyarmor_runtime_000000-0.0.1-py3-none-any.whl",
+  "download_time": "2025-09-12T06:17:08.505272",
   "package_url": "https://pypi.org/project/pyarmor-runtime-000000/"
 }

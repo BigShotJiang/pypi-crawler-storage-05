@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-sonarqube",
+  "version": "1.0.0",
+  "summary": "A Pulumi package for creating and managing xyz cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_sonarqube-1.0.0.tar.gz",
+  "download_time": "2025-09-12T06:17:13.722217",
+  "package_url": "https://pypi.org/project/pulumi-sonarqube/"
+}
