@@ -1,11 +1,11 @@
 {
   "name": "kicad-symbol-tool",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "summary": "A command-line tool that assists with managing KiCad part libraries",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kicad_symbol_tool-0.1.4.tar.gz",
-  "download_time": "2025-09-12T02:11:38.157323",
+  "download_filename": "kicad_symbol_tool-1.0.0.tar.gz",
+  "download_time": "2025-09-12T22:40:00.203630",
   "package_url": "https://pypi.org/project/kicad-symbol-tool/"
 }

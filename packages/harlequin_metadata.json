@@ -1,0 +1,11 @@
+{
+  "name": "harlequin",
+  "version": "2.1.3",
+  "summary": "The SQL IDE for Your Terminal.",
+  "author": "Ted Conbeer",
+  "license": "MIT",
+  "home_page": "https://harlequin.sh",
+  "download_filename": "harlequin-2.1.3.tar.gz",
+  "download_time": "2025-09-12T22:39:51.053244",
+  "package_url": "https://pypi.org/project/harlequin/"
+}

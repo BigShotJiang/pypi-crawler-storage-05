@@ -1,0 +1,11 @@
+{
+  "name": "biology-files",
+  "version": "0.2.12",
+  "summary": "Save and load common biology file formats",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "biology_files-0.2.12.tar.gz",
+  "download_time": "2025-09-12T22:39:52.623819",
+  "package_url": "https://pypi.org/project/biology-files/"
+}

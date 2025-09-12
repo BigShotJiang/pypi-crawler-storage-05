@@ -1,11 +1,11 @@
 {
   "name": "snowglobe-sdk",
-  "version": "0.0.1",
-  "summary": "Simulation engine for AI Agents.",
-  "author": "Snowglobe",
+  "version": "0.1.91",
+  "summary": "A client library for accessing Snowglobe SDK",
+  "author": "Guardrails AI",
   "license": null,
-  "home_page": "https://snowglobe.so",
-  "download_filename": "snowglobe_sdk-0.0.1.tar.gz",
-  "download_time": "2025-09-12T20:41:10.675278",
+  "home_page": null,
+  "download_filename": "snowglobe_sdk-0.1.91.tar.gz",
+  "download_time": "2025-09-12T22:39:57.517117",
   "package_url": "https://pypi.org/project/snowglobe-sdk/"
 }

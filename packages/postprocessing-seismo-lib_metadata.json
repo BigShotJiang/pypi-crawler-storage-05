@@ -1,11 +1,11 @@
 {
   "name": "postprocessing-seismo-lib",
-  "version": "0.1.55",
+  "version": "0.1.56",
   "summary": "A library for building and parsing Seismology API message bodies.",
   "author": "Ryan Tam",
   "license": null,
   "home_page": null,
-  "download_filename": "postprocessing_seismo_lib-0.1.55.tar.gz",
-  "download_time": "2025-09-12T00:46:04.286858",
+  "download_filename": "postprocessing_seismo_lib-0.1.56.tar.gz",
+  "download_time": "2025-09-12T22:39:46.171389",
   "package_url": "https://pypi.org/project/postprocessing-seismo-lib/"
 }

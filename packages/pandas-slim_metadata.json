@@ -1,0 +1,11 @@
+{
+  "name": "pandas-slim",
+  "version": "0.1.1",
+  "summary": "A Python library to reduce pandas DataFrame memory usage",
+  "author": "Remi Ounadjela",
+  "license": null,
+  "home_page": "https://github.com/RemiOunadjela/pandas-slim",
+  "download_filename": "pandas_slim-0.1.1.tar.gz",
+  "download_time": "2025-09-12T22:39:33.557800",
+  "package_url": "https://pypi.org/project/pandas-slim/"
+}
