@@ -1,0 +1,11 @@
+{
+  "name": "redcamel",
+  "version": "0.1.7",
+  "summary": "GUI tool to simulate Reaction Microscope detector images.",
+  "author": "Patrizia Schoch, Hannes Lindenblatt, Magdalena Orlowska",
+  "license": null,
+  "home_page": null,
+  "download_filename": "redcamel-0.1.7.tar.gz",
+  "download_time": "2025-09-12T16:12:22.619680",
+  "package_url": "https://pypi.org/project/redcamel/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "webhook-to-fedora-messaging-messages",
+  "version": "1.4.0",
+  "summary": "A schema package for messages sent by Webhook To Fedora Messaging",
+  "author": "Fedora Infrastructure Team",
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "webhook_to_fedora_messaging_messages-1.4.0.tar.gz",
+  "download_time": "2025-09-12T16:12:33.997827",
+  "package_url": "https://pypi.org/project/webhook-to-fedora-messaging-messages/"
+}

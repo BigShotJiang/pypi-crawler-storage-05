@@ -1,11 +1,11 @@
 {
   "name": "truefoundry",
-  "version": "0.11.12",
+  "version": "0.12.0",
   "summary": "TrueFoundry CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "truefoundry-0.11.12.tar.gz",
-  "download_time": "2025-09-10T11:53:34.652561",
+  "download_filename": "truefoundry-0.12.0.tar.gz",
+  "download_time": "2025-09-12T16:12:44.657836",
   "package_url": "https://pypi.org/project/truefoundry/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "jonf",
+  "version": "0.0.7",
+  "summary": "JONF parser/formatter in Python",
+  "author": "Denis Ryzhkov",
+  "license": "MIT",
+  "home_page": "https://github.com/whyolet/jonf-py",
+  "download_filename": "jonf-0.0.7.tar.gz",
+  "download_time": "2025-09-12T16:12:16.456699",
+  "package_url": "https://pypi.org/project/jonf/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyfreeflow",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Async service toolchain",
   "author": "Giovanni Senatore",
   "license": "AGPL-3.0-or-later",
   "home_page": "https://github.com/senatoreg/pyfreeflow",
-  "download_filename": "pyfreeflow-0.1.3.tar.gz",
-  "download_time": "2025-09-12T07:27:58.271866",
+  "download_filename": "pyfreeflow-0.1.4.tar.gz",
+  "download_time": "2025-09-12T16:12:26.561194",
   "package_url": "https://pypi.org/project/pyfreeflow/"
 }

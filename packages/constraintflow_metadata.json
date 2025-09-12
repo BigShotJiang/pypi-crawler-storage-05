@@ -1,0 +1,11 @@
+{
+  "name": "constraintflow",
+  "version": "0.1.1",
+  "summary": "A DSL and tools for neural network certification",
+  "author": "Avaljot Singh, Yasmin Sarita",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "constraintflow-0.1.1.tar.gz",
+  "download_time": "2025-09-12T16:12:13.654949",
+  "package_url": "https://pypi.org/project/constraintflow/"
+}
