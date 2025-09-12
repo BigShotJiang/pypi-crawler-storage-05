@@ -1,0 +1,11 @@
+{
+  "name": "zope.intid",
+  "version": "6.0",
+  "summary": "Integer Id Utility",
+  "author": "Albertas Agejevas and Gintautas Miliauskas",
+  "license": "ZPL-2.1",
+  "home_page": "http://github.com/zopefoundation/zope.intid",
+  "download_filename": "zope_intid-6.0.tar.gz",
+  "download_time": "2025-09-12T07:27:54.139585",
+  "package_url": "https://pypi.org/project/zope.intid/"
+}

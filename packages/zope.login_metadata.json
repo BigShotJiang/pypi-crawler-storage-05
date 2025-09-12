@@ -1,0 +1,11 @@
+{
+  "name": "zope.login",
+  "version": "4.0",
+  "summary": "Login helpers for zope.publisher / authentication.",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "http://github.com/zopefoundation/zope.login",
+  "download_filename": "zope_login-4.0.tar.gz",
+  "download_time": "2025-09-12T07:27:46.389798",
+  "package_url": "https://pypi.org/project/zope.login/"
+}

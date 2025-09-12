@@ -1,0 +1,11 @@
+{
+  "name": "keycloakauthenticator",
+  "version": "4.0.2",
+  "summary": "KeyCloakAuthenticator: Authenticate JupyterHub users with KeyCloak and OIDC",
+  "author": "SWAN Admins",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/swan-cern/jupyterhub-extensions",
+  "download_filename": "keycloakauthenticator-4.0.2.tar.gz",
+  "download_time": "2025-09-12T07:27:42.797704",
+  "package_url": "https://pypi.org/project/keycloakauthenticator/"
+}

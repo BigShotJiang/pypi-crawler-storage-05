@@ -1,0 +1,11 @@
+{
+  "name": "zope.minmax",
+  "version": "4.0",
+  "summary": "Homogeneous values favoring maximum or minimum for ZODB conflict resolution",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://zopeminmax.readthedocs.io",
+  "download_filename": "zope_minmax-4.0.tar.gz",
+  "download_time": "2025-09-12T07:27:40.206189",
+  "package_url": "https://pypi.org/project/zope.minmax/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zope.locking",
+  "version": "4.0",
+  "summary": "Advisory exclusive locks, shared locks, and freezes (locked to no-one).",
+  "author": "Zope Project",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.locking",
+  "download_filename": "zope_locking-4.0.tar.gz",
+  "download_time": "2025-09-12T07:27:47.416276",
+  "package_url": "https://pypi.org/project/zope.locking/"
+}

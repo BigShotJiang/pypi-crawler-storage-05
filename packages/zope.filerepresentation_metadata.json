@@ -1,0 +1,11 @@
+{
+  "name": "zope.filerepresentation",
+  "version": "7.0",
+  "summary": "File-system Representation Interfaces",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "http://zopefilerepresentation.readthedocs.io",
+  "download_filename": "zope_filerepresentation-7.0.tar.gz",
+  "download_time": "2025-09-12T07:28:10.699118",
+  "package_url": "https://pypi.org/project/zope.filerepresentation/"
+}

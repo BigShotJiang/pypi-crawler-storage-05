@@ -1,0 +1,11 @@
+{
+  "name": "zope.globalrequest",
+  "version": "3.0",
+  "summary": "Global way of retrieving the currently active request.",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL",
+  "home_page": "https://github.com/zopefoundation/zope.globalrequest",
+  "download_filename": "zope_globalrequest-3.0.tar.gz",
+  "download_time": "2025-09-12T07:28:03.918759",
+  "package_url": "https://pypi.org/project/zope.globalrequest/"
+}

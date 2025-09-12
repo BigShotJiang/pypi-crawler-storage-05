@@ -1,11 +1,11 @@
 {
   "name": "runbooks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "CloudOps Automation Toolkit with Enhanced Cloud Foundations Assessment for DevOps and SRE teams.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "runbooks-1.0.0.tar.gz",
-  "download_time": "2025-09-11T05:31:45.914004",
+  "download_filename": "runbooks-1.0.1.tar.gz",
+  "download_time": "2025-09-12T07:27:36.091732",
   "package_url": "https://pypi.org/project/runbooks/"
 }

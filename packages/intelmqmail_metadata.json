@@ -1,0 +1,11 @@
+{
+  "name": "intelmqmail",
+  "version": "1.4.0",
+  "summary": "A mail sending module for IntelMQ",
+  "author": "Intevation GmbH",
+  "license": "GNU Affero General Public License",
+  "home_page": "https://github.com/intevation/intelmq-mailgen",
+  "download_filename": "intelmqmail-1.4.0.tar.gz",
+  "download_time": "2025-09-12T07:28:06.050360",
+  "package_url": "https://pypi.org/project/intelmqmail/"
+}

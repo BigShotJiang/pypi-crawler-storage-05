@@ -1,0 +1,11 @@
+{
+  "name": "zope.mimetype",
+  "version": "4.0",
+  "summary": "A simple package for working with MIME content types",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.mimetype",
+  "download_filename": "zope_mimetype-4.0.tar.gz",
+  "download_time": "2025-09-12T07:27:44.852295",
+  "package_url": "https://pypi.org/project/zope.mimetype/"
+}

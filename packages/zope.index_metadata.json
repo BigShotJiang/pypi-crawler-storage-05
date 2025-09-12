@@ -1,0 +1,11 @@
+{
+  "name": "zope.index",
+  "version": "8.0",
+  "summary": "Indices for using with catalog like text, field, etc.",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.index",
+  "download_filename": "zope_index-8.0.tar.gz",
+  "download_time": "2025-09-12T07:27:59.303254",
+  "package_url": "https://pypi.org/project/zope.index/"
+}

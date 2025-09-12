@@ -1,0 +1,11 @@
+{
+  "name": "zope.lifecycleevent",
+  "version": "6.0",
+  "summary": "Object life-cycle events",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "http://github.com/zopefoundation/zope.lifecycleevent",
+  "download_filename": "zope_lifecycleevent-6.0.tar.gz",
+  "download_time": "2025-09-12T07:27:51.560642",
+  "package_url": "https://pypi.org/project/zope.lifecycleevent/"
+}

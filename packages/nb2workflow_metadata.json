@@ -1,0 +1,11 @@
+{
+  "name": "nb2workflow",
+  "version": "1.3.115",
+  "summary": "convert notebook to workflow",
+  "author": "Volodymyr Savchenko",
+  "license": "GPLv3",
+  "home_page": "https://github.com/volodymyrss/nb2workflow",
+  "download_filename": "nb2workflow-1.3.115.tar.gz",
+  "download_time": "2025-09-12T07:27:38.659747",
+  "package_url": "https://pypi.org/project/nb2workflow/"
+}
