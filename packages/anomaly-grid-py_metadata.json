@@ -1,11 +1,11 @@
 {
   "name": "anomaly-grid-py",
-  "version": "0.1.0",
-  "summary": "Python bindings for anomaly detection using Markov models",
+  "version": "0.3.0",
+  "summary": "High-performance sequence anomaly detection with minimal dependencies",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "anomaly_grid_py-0.1.0.tar.gz",
-  "download_time": "2025-09-10T20:41:47.796816",
+  "download_filename": "anomaly_grid_py-0.3.0.tar.gz",
+  "download_time": "2025-09-12T00:46:21.043511",
   "package_url": "https://pypi.org/project/anomaly-grid-py/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "Geode-Conversion",
-  "version": "6.4.8",
+  "version": "6.5.0",
   "summary": "Conversion module for Geode-solutions OpenGeode modules",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "geode_conversion-6.4.8-cp310-cp310-manylinux_2_28_x86_64.whl",
-  "download_time": "2025-09-11T13:49:09.862372",
+  "download_filename": "geode_conversion-6.5.0-cp312-cp312-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-09-12T00:45:55.408687",
   "package_url": "https://pypi.org/project/Geode-Conversion/"
 }

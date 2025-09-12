@@ -1,11 +1,11 @@
 {
   "name": "novalang",
-  "version": "2.2.2",
-  "summary": "NovaLang - Universal Programming Language with Enhanced Parser and AUTO_MYSQL_BACKEND Support",
+  "version": "2.2.3",
+  "summary": "NovaLang - Universal Programming Language with Enhanced Parser and Template-Specific Compilation Targets",
   "author": "martinmaboya",
   "license": "MIT",
   "home_page": "https://github.com/martinmaboya/novalang",
-  "download_filename": "novalang-2.2.2.tar.gz",
-  "download_time": "2025-09-11T23:48:26.869999",
+  "download_filename": "novalang-2.2.3.tar.gz",
+  "download_time": "2025-09-12T00:46:26.834157",
   "package_url": "https://pypi.org/project/novalang/"
 }

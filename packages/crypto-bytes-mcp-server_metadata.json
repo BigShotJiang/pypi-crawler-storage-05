@@ -1,0 +1,11 @@
+{
+  "name": "crypto-bytes-mcp-server",
+  "version": "0.1.0",
+  "summary": "Crypto Bytes is a Model Context Protocol server that delivers curated crypto news.",
+  "author": "Micky Multani",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "crypto_bytes_mcp_server-0.1.0.tar.gz",
+  "download_time": "2025-09-12T00:46:34.536789",
+  "package_url": "https://pypi.org/project/crypto-bytes-mcp-server/"
+}
