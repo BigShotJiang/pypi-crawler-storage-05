@@ -1,0 +1,11 @@
+{
+  "name": "kakuyomub",
+  "version": "0.2.2",
+  "summary": "Convert kakuyomu articles to one epub file",
+  "author": "XHLin-gamer",
+  "license": "MIT Licence",
+  "home_page": "https://github.com/XHLin-gamer/kakuyomub",
+  "download_filename": "kakuyomub-0.2.2.tar.gz",
+  "download_time": "2025-09-12T13:25:41.019745",
+  "package_url": "https://pypi.org/project/kakuyomub/"
+}

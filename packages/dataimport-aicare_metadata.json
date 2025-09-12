@@ -1,0 +1,11 @@
+{
+  "name": "dataimport-aicare",
+  "version": "0.1.2",
+  "summary": "Small package for frequently used functions for the AI-CARE dataset",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataimport_aicare-0.1.2.tar.gz",
+  "download_time": "2025-09-12T13:25:27.347958",
+  "package_url": "https://pypi.org/project/dataimport-aicare/"
+}

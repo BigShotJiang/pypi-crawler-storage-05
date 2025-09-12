@@ -1,11 +1,11 @@
 {
   "name": "mosamatic2",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "summary": null,
   "author": "Ralph Brecheisen",
   "license": null,
   "home_page": null,
-  "download_filename": "mosamatic2-2.0.4.tar.gz",
-  "download_time": "2025-09-11T12:19:49.283813",
+  "download_filename": "mosamatic2-2.0.5-py3-none-any.whl",
+  "download_time": "2025-09-12T13:25:03.432722",
   "package_url": "https://pypi.org/project/mosamatic2/"
 }

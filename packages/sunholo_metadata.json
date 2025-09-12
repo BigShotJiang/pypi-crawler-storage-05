@@ -1,11 +1,11 @@
 {
   "name": "sunholo",
-  "version": "0.144.1",
+  "version": "0.144.2",
   "summary": "AI DevOps - a package to help deploy GenAI to the Cloud.",
   "author": null,
   "license": "Apache License, Version 2.0",
   "home_page": null,
-  "download_filename": "sunholo-0.144.1.tar.gz",
-  "download_time": "2025-09-12T12:21:12.133341",
+  "download_filename": "sunholo-0.144.2.tar.gz",
+  "download_time": "2025-09-12T13:25:05.185917",
   "package_url": "https://pypi.org/project/sunholo/"
 }

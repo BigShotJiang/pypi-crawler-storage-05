@@ -1,11 +1,11 @@
 {
   "name": "imeon-inverter-api",
-  "version": "0.3.17",
+  "version": "0.4.0",
   "summary": "A standalone API to collect data from the Imeon Energy Inverters. Uses HTTP POST/GET.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "imeon-inverter-api-0.3.17.tar.gz",
-  "download_time": "2025-09-08T09:33:48.150889",
+  "download_filename": "imeon-inverter-api-0.4.0.tar.gz",
+  "download_time": "2025-09-12T13:25:34.791719",
   "package_url": "https://pypi.org/project/imeon-inverter-api/"
 }

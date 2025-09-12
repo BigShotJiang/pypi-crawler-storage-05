@@ -1,11 +1,11 @@
 {
   "name": "PlasMAAG-core",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plasmaag_core-0.0.2.tar.gz",
-  "download_time": "2025-09-12T10:33:56.371310",
+  "download_filename": "plasmaag_core-0.0.4.tar.gz",
+  "download_time": "2025-09-12T13:25:21.458882",
   "package_url": "https://pypi.org/project/PlasMAAG-core/"
 }

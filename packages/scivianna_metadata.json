@@ -1,11 +1,11 @@
 {
   "name": "scivianna",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Python generic module to visualize simulation geometries and results.",
   "author": "CEA",
   "license": null,
   "home_page": null,
-  "download_filename": "scivianna-0.1.4.tar.gz",
-  "download_time": "2025-09-12T12:21:13.833880",
+  "download_filename": "scivianna-0.1.5.tar.gz",
+  "download_time": "2025-09-12T13:25:42.134029",
   "package_url": "https://pypi.org/project/scivianna/"
 }

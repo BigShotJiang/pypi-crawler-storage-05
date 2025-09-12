@@ -1,11 +1,11 @@
 {
   "name": "conjuno",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Console Jupyter Notebook",
   "author": "Michael Tatton",
   "license": null,
   "home_page": "https://conjuno.com",
-  "download_filename": "conjuno-0.2.0.tar.gz",
-  "download_time": "2025-09-11T12:20:11.633582",
+  "download_filename": "conjuno-0.2.1.tar.gz",
+  "download_time": "2025-09-12T13:25:10.819618",
   "package_url": "https://pypi.org/project/conjuno/"
 }

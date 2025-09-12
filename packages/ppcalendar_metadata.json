@@ -1,0 +1,11 @@
+{
+  "name": "ppcalendar",
+  "version": "0.2.5",
+  "summary": "Beautiful terminal calendar with seasonal colors",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "ppcalendar-0.2.5.tar.gz",
+  "download_time": "2025-09-12T13:25:38.180813",
+  "package_url": "https://pypi.org/project/ppcalendar/"
+}
