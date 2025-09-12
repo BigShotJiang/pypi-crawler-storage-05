@@ -1,11 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-12T11:26:14.893252
-- **Total Packages**: 80
-- **Total Size**: 22.29 MB
+- **Download Time**: 2025-09-12T11:35:05.300049
+- **Total Packages**: 78
+- **Total Size**: 6.9 MB
 
 ## Packages List
+- capital-com-mcp-server
+- runreporter
+- langchain-g4f-chat
+- mohflow
+- aicodec
+- ddnnife
+- rustup
+- sphinx-notionbuilder
+- scivianna
+- tbint-logger
+- torchx-nightly
+- odoo-addon-repair-quality-control
+- CheckmarxPythonSDK
+- vizro
+- cosyvoice2-fr-infer
+- cosyvoice2-eu
+- lnbits
+- axiomatic-mcp
 - memory-graph
 - agent-redis-framework
 - python-eigen-ingenuity-nocli
@@ -35,7 +53,6 @@
 - fracbm
 - taulu
 - tb-nightly
-- runreporter
 - appier
 - kuavo-humanoid-sdk-ws
 - kuavo-humanoid-sdk
@@ -47,7 +64,6 @@
 - universal-mcp-applications
 - datacontract-helper
 - gpframe
-- langchain-g4f-chat
 - bids-manager
 - pop2net
 - sdncenter-currency-converter
@@ -68,21 +84,3 @@
 - pyscratch-pysc
 - aryaxai
 - posthog-agent-toolkit
-- teradata-mcp-server
-- frutsel
-- scientiflow-cli
-- hestia-earth-aggregation
-- dupla
-- v440
-- mtsql
-- elevenlabs-mcp
-- expandvars
-- leaf-framework
-- iam-units
-- netpyne
-- mallsense-sdk
-- qing-client
-- gettex-exchange
-- litmus-libs
-- tinycoder
-- Brimview-widgets
