@@ -1,0 +1,11 @@
+{
+  "name": "mywheel",
+  "version": "0.2",
+  "summary": "Network Optimization Python Code",
+  "author": "Wai-Shing Luk",
+  "license": "MIT",
+  "home_page": "https://github.com/luk036/mywheel",
+  "download_filename": "mywheel-0.2.tar.gz",
+  "download_time": "2025-09-12T05:31:09.740961",
+  "package_url": "https://pypi.org/project/mywheel/"
+}

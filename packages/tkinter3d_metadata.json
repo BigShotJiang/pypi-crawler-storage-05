@@ -1,0 +1,11 @@
+{
+  "name": "tkinter3d",
+  "version": "0.0.1",
+  "summary": "a tkinter extention for 3d displaying",
+  "author": "MatthewKim12",
+  "license": null,
+  "home_page": "https://github.com/MatthewKim12/tkinter3d",
+  "download_filename": "tkinter3d-0.0.1.tar.gz",
+  "download_time": "2025-09-12T05:31:18.899184",
+  "package_url": "https://pypi.org/project/tkinter3d/"
+}
