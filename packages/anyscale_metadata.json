@@ -1,0 +1,11 @@
+{
+  "name": "anyscale",
+  "version": "0.26.57",
+  "summary": "Command Line Interface for Anyscale",
+  "author": "Anyscale Inc.",
+  "license": "AS License",
+  "home_page": null,
+  "download_filename": "anyscale-0.26.57.tar.gz",
+  "download_time": "2025-09-12T18:37:20.610671",
+  "package_url": "https://pypi.org/project/anyscale/"
+}

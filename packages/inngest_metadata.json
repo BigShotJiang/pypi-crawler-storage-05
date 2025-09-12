@@ -1,0 +1,11 @@
+{
+  "name": "inngest",
+  "version": "0.5.6",
+  "summary": "Python SDK for Inngest",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "inngest-0.5.6.tar.gz",
+  "download_time": "2025-09-12T18:37:29.899215",
+  "package_url": "https://pypi.org/project/inngest/"
+}

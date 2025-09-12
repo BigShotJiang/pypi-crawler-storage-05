@@ -1,11 +1,11 @@
 {
   "name": "hhd",
-  "version": "3.19.10",
+  "version": "3.19.11",
   "summary": "Handheld Daemon, a tool for configuring handheld devices.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hhd-3.19.10.tar.gz",
-  "download_time": "2025-09-10T15:48:32.214173",
+  "download_filename": "hhd-3.19.11.tar.gz",
+  "download_time": "2025-09-12T18:37:22.188019",
   "package_url": "https://pypi.org/project/hhd/"
 }

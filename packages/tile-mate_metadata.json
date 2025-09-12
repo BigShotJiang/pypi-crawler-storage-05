@@ -1,0 +1,11 @@
+{
+  "name": "tile-mate",
+  "version": "0.0.15",
+  "summary": "Create rasters from global tiles",
+  "author": "Alexander Handwerger, Charlie Marshak, and OPERA Project Science Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tile_mate-0.0.15.tar.gz",
+  "download_time": "2025-09-12T18:37:21.155821",
+  "package_url": "https://pypi.org/project/tile-mate/"
+}
