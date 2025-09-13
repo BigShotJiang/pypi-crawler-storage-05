@@ -1,0 +1,11 @@
+{
+  "name": "mt5-grpc-server",
+  "version": "0.2.1",
+  "summary": "MetaTrader 5 gRPC Server for remote trading operations",
+  "author": "starmel",
+  "license": null,
+  "home_page": "https://github.com/Starmel/Metatrader5-gRPC-server",
+  "download_filename": "mt5_grpc_server-0.2.1.tar.gz",
+  "download_time": "2025-09-13T11:10:01.970998",
+  "package_url": "https://pypi.org/project/mt5-grpc-server/"
+}

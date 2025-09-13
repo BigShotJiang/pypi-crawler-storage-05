@@ -1,11 +1,11 @@
 {
   "name": "flet-extended-interactive-viewer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Flet-Extended-Interactive-Viewer is a Flet control that provides multiple customization options for displaying two-dimensional content.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flet_extended_interactive_viewer-0.1.0.tar.gz",
-  "download_time": "2025-09-12T09:40:19.396774",
+  "download_filename": "flet_extended_interactive_viewer-0.1.1.tar.gz",
+  "download_time": "2025-09-13T11:10:04.165883",
   "package_url": "https://pypi.org/project/flet-extended-interactive-viewer/"
 }

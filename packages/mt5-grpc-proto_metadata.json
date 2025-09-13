@@ -1,0 +1,11 @@
+{
+  "name": "mt5-grpc-proto",
+  "version": "0.2.1",
+  "summary": "Protocol Buffers and gRPC service definitions for MetaTrader 5 RPC Server",
+  "author": "starmel",
+  "license": null,
+  "home_page": "https://github.com/Starmel/Metatrader5-gRPC-server",
+  "download_filename": "mt5_grpc_proto-0.2.1.tar.gz",
+  "download_time": "2025-09-13T11:10:03.053347",
+  "package_url": "https://pypi.org/project/mt5-grpc-proto/"
+}

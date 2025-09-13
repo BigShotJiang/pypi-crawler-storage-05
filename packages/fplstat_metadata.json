@@ -1,11 +1,11 @@
 {
   "name": "fplstat",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Python package for Fantasy Premier League data analysis and transformations",
   "author": "James Leslie",
   "license": null,
   "home_page": null,
-  "download_filename": "fplstat-0.1.0.tar.gz",
-  "download_time": "2025-09-13T10:31:37.584604",
+  "download_filename": "fplstat-0.1.1.tar.gz",
+  "download_time": "2025-09-13T11:10:13.084646",
   "package_url": "https://pypi.org/project/fplstat/"
 }

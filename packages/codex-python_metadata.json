@@ -1,11 +1,11 @@
 {
   "name": "codex-python",
-  "version": "0.2.3",
-  "summary": null,
+  "version": "0.2.7",
+  "summary": "A minimal Python library scaffold for codex-python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codex_python-0.2.3.tar.gz",
-  "download_time": "2025-09-11T16:13:18.579496",
+  "download_filename": "codex_python-0.2.7.tar.gz",
+  "download_time": "2025-09-13T11:10:08.542997",
   "package_url": "https://pypi.org/project/codex-python/"
 }
