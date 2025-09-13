@@ -1,8 +1,16 @@
 {
-  "download_time": "2025-09-13T05:40:06.424225",
-  "total_packages_downloaded": 77,
-  "total_size_mb": 4.34,
+  "download_time": "2025-09-13T05:49:46.284508",
+  "total_packages_downloaded": 81,
+  "total_size_mb": 2.84,
   "packages": [
+    "pyparsing",
+    "minesweeper-cli",
+    "pulumi-cloudflare",
+    "f5-tts",
+    "dhisana",
+    "cook-builder",
+    "linkmerce",
+    "trajectoryeval",
     "eas-sdk",
     "authentik-client",
     "goray",
@@ -75,10 +83,6 @@
     "bool-hybrid-array",
     "PolarFlow",
     "pkbrokers",
-    "radboy",
-    "bear-dereth",
-    "unpage",
-    "py-encase",
-    "mybox"
+    "radboy"
   ]
 }

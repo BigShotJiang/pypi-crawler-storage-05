@@ -1,0 +1,11 @@
+{
+  "name": "minesweeper-cli",
+  "version": "1.0.0",
+  "summary": "Classic Minesweeper game for the terminal with colorful CLI interface",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "minesweeper_cli-1.0.0.tar.gz",
+  "download_time": "2025-09-13T05:49:04.674735",
+  "package_url": "https://pypi.org/project/minesweeper-cli/"
+}
