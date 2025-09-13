@@ -1,0 +1,11 @@
+{
+  "name": "Zerodha-Tradehull",
+  "version": "1.0.3",
+  "summary": "A Zerodha Codebase from TradeHull",
+  "author": "TradeHull",
+  "license": null,
+  "home_page": "https://github.com/TradeHull/Zerodha_Tradehull",
+  "download_filename": "zerodha_tradehull-1.0.3-py3-none-any.whl",
+  "download_time": "2025-09-13T07:10:57.883526",
+  "package_url": "https://pypi.org/project/Zerodha-Tradehull/"
+}

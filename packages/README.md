@@ -1,11 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-13T06:51:17.563086
-- **Total Packages**: 76
-- **Total Size**: 2.59 MB
+- **Download Time**: 2025-09-13T07:11:46.400622
+- **Total Packages**: 83
+- **Total Size**: 15.78 MB
 
 ## Packages List
+- Zerodha-Tradehull
+- streamlit-nightly
+- context-engine-mcp
+- scatterbin
+- smoosense
+- radarr
+- lidarr
+- authentik-client
+- PyWebWinUI3
+- readarr
+- overseerr
+- prowlarr
+- whisparr
+- hybrid-groups
+- remnd
+- emerge
+- runbooks
+- bool-hybrid-array
+- tf-models-nightly
+- livekit-plugins-nextevi
+- openfund-taker
+- openfund-maker
+- matridge
+- qa-generator
+- fastlib-py
+- modelgen
+- entari-plugin-browser
+- openapiart
+- pyrf24
+- Promium
+- abs-auth-rbac-core
+- libhikvision
 - gitsafe-cli
 - dycw-utilities
 - dhisana
@@ -17,7 +49,6 @@
 - aasp
 - simpletuner
 - pulumi-cloudflare
-- authentik-client
 - slidgram
 - py-embedbuilder
 - dao-treasury
@@ -58,27 +89,3 @@
 - pypi-zc-tools
 - vohuudien-check
 - sch-lib
-- dtfilterthumbor
-- geopointdb
-- pyg-nightly
-- akari-bot-webui
-- deck2pdf
-- tnsa-api-text
-- txtemo
-- zenith-web
-- sqsgenerator
-- tiny-retinaface
-- cartography
-- pysimlin
-- tnsa-api
-- iceoryx2
-- pythagoras
-- akari-bot-webrender
-- ai-assistant-provider
-- victron-mqtt
-- haveno-client
-- openapi-python-client
-- pyparsing
-- minesweeper-cli
-- f5-tts
-- cook-builder

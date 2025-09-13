@@ -1,0 +1,11 @@
+{
+  "name": "qa-generator",
+  "version": "0.1.0",
+  "summary": "A Python package to generate question-answer pairs from plain text",
+  "author": "QA Generator Team",
+  "license": "MIT",
+  "home_page": "https://github.com/hemanth/qa-generator",
+  "download_filename": "qa_generator-0.1.0.tar.gz",
+  "download_time": "2025-09-13T07:11:13.368969",
+  "package_url": "https://pypi.org/project/qa-generator/"
+}

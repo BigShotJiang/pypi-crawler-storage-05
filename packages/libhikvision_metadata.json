@@ -1,0 +1,11 @@
+{
+  "name": "libhikvision",
+  "version": "0.3.10",
+  "summary": "Parse Hikvision datadirs that Hikvision IP cameras store the videos",
+  "author": "bkbilly",
+  "license": null,
+  "home_page": "https://github.com/bkbilly/libHikvision",
+  "download_filename": "libhikvision-0.3.10.tar.gz",
+  "download_time": "2025-09-13T07:11:18.345176",
+  "package_url": "https://pypi.org/project/libhikvision/"
+}
