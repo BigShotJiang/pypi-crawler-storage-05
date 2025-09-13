@@ -1,0 +1,11 @@
+{
+  "name": "denoengineV1",
+  "version": "0.1.0",
+  "summary": "Basit bir 3D oyun motoru (OpenGL + GLFW)",
+  "author": "DenoTUBE",
+  "license": null,
+  "home_page": null,
+  "download_filename": "denoenginev1-0.1.0.tar.gz",
+  "download_time": "2025-09-13T15:34:41.434935",
+  "package_url": "https://pypi.org/project/denoengineV1/"
+}
