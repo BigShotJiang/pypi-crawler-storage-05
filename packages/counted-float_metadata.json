@@ -1,0 +1,11 @@
+{
+  "name": "counted-float",
+  "version": "0.8.4",
+  "summary": "Count floating-point operations in Python code & benchmark relative flop costs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "counted_float-0.8.4.tar.gz",
+  "download_time": "2025-09-13T09:27:32.294433",
+  "package_url": "https://pypi.org/project/counted-float/"
+}

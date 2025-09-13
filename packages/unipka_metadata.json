@@ -1,11 +1,11 @@
 {
   "name": "unipka",
-  "version": "0.2.0",
+  "version": "0.0.1",
   "summary": "Unoffical wrapper around UnipKa",
   "author": "Finlay MacLean",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "unipka-0.2.0.tar.gz",
-  "download_time": "2025-09-10T09:30:11.105456",
+  "download_filename": "unipka-0.0.1.tar.gz",
+  "download_time": "2025-09-13T09:27:37.411793",
   "package_url": "https://pypi.org/project/unipka/"
 }

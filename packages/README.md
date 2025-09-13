@@ -1,19 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-13T09:12:10.531325
-- **Total Packages**: 74
-- **Total Size**: 15.73 MB
+- **Download Time**: 2025-09-13T09:28:06.892851
+- **Total Packages**: 78
+- **Total Size**: 2.83 MB
 
 ## Packages List
+- fragment-api-py
+- unrealon
+- aicodec
+- picapica
+- authentik-client
+- energymeter2mqtt
+- xync-client
+- srunx
+- textual-canvas
+- quant1x
+- coco-api
+- kh2d-solver
+- Upassword
+- mcpcn-splitscreen
+- wawebpy
+- counted-float
+- maleo-infra
+- scxpand
+- scxpand-cuda
+- tbp-nightly
+- imgshape
+- antback
+- llm-dep-extractor
+- unipka
+- oelint-adv
+- byzh-ai
+- espnet
 - scikit-robot
 - pymaya
 - biobridge
 - shell-lib
 - vibegit-mcp
-- authentik-client
 - voice-of-python
-- coco-api
 - base-api-utils
 - autogluon
 - autogluon.timeseries
@@ -24,7 +49,6 @@
 - autogluon.common
 - siiha-sdk
 - grimbert
-- mcpcn-splitscreen
 - autonfs
 - wodcraft
 - bool-hybrid-array
@@ -37,7 +61,6 @@
 - PetroMap
 - ultracompress-module
 - makdo
-- quant1x
 - tfp-nightly
 - mentai-cli
 - dmsbbquery
@@ -61,22 +84,3 @@
 - kuzu
 - fraiseql
 - sl-pos2-api
-- json-to-clickhouse
-- skypatrol
-- peaq-robot-sdk
-- mns-common
-- AstrBot
-- domain-event-pattern
-- lsy-testcase-to-xmind-mcp
-- limoon
-- cleanframe
-- dodopayments
-- nvfuser-cu128
-- nvfuser-cu126
-- pulse-sdk
-- nvfuser-cu129
-- peelee
-- geneva
-- bluer-ugv
-- pyphaser
-- simpletuner

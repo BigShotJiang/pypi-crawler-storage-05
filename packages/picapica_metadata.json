@@ -1,0 +1,11 @@
+{
+  "name": "picapica",
+  "version": "0.0.0",
+  "summary": "A tiny persistent key–value store built on SQLite.",
+  "author": "Michael Dunne",
+  "license": null,
+  "home_page": null,
+  "download_filename": "picapica-0.0.0.tar.gz",
+  "download_time": "2025-09-13T09:27:25.604493",
+  "package_url": "https://pypi.org/project/picapica/"
+}
