@@ -1,11 +1,11 @@
 {
   "name": "html-to-markdown",
-  "version": "1.10.0",
+  "version": "1.11.0",
   "summary": "A modern, type-safe Python library for converting HTML to Markdown with comprehensive tag support and customizable options",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "html_to_markdown-1.10.0.tar.gz",
-  "download_time": "2025-09-08T16:11:37.025788",
+  "download_filename": "html_to_markdown-1.11.0.tar.gz",
+  "download_time": "2025-09-13T10:11:28.737215",
   "package_url": "https://pypi.org/project/html-to-markdown/"
 }

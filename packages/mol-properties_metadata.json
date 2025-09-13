@@ -1,11 +1,11 @@
 {
   "name": "mol-properties",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "summary": "CLI tool to calculate molecular properties and drug-likeness",
   "author": "Your Name",
   "license": null,
   "home_page": "https://github.com/yourusername/mol-properties",
-  "download_filename": "mol_properties-1.0.0.tar.gz",
-  "download_time": "2025-09-13T03:49:42.867991",
+  "download_filename": "mol-properties-1.0.4.tar.gz",
+  "download_time": "2025-09-13T10:11:30.860097",
   "package_url": "https://pypi.org/project/mol-properties/"
 }

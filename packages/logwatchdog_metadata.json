@@ -1,0 +1,11 @@
+{
+  "name": "logwatchdog",
+  "version": "1.0.2",
+  "summary": "Comprehensive Windows log monitoring and management solution",
+  "author": "Pandiyaraj Karuppasamy",
+  "license": "MIT",
+  "home_page": "https://github.com/pandiyarajk/logwatchdog",
+  "download_filename": "logwatchdog-1.0.2.tar.gz",
+  "download_time": "2025-09-13T10:11:25.116450",
+  "package_url": "https://pypi.org/project/logwatchdog/"
+}

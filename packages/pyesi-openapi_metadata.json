@@ -1,0 +1,11 @@
+{
+  "name": "pyesi-openapi",
+  "version": "0.1.2",
+  "summary": "PyESI (OpenAPI) - EVE Stable Infrastructure (ESI)",
+  "author": "arxbombus",
+  "license": null,
+  "home_page": "https://github.com/arxbombus/pyesi-openapi",
+  "download_filename": "pyesi_openapi-0.1.2.tar.gz",
+  "download_time": "2025-09-13T10:11:25.769147",
+  "package_url": "https://pypi.org/project/pyesi-openapi/"
+}

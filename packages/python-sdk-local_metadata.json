@@ -1,11 +1,11 @@
 {
   "name": "python-sdk-local",
-  "version": "0.0.151",
+  "version": "0.0.154",
   "summary": "PyPI Package for Circles Python SDK Local Python",
   "author": "Circles",
   "license": null,
   "home_page": "https://github.com/circles-zone/python-sdk-local-python-package",
-  "download_filename": "python_sdk_local-0.0.151.tar.gz",
-  "download_time": "2025-09-12T08:15:32.226745",
+  "download_filename": "python_sdk_local-0.0.154.tar.gz",
+  "download_time": "2025-09-13T10:11:36.695987",
   "package_url": "https://pypi.org/project/python-sdk-local/"
 }

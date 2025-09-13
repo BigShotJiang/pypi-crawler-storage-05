@@ -1,19 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-13T09:51:05.498985
-- **Total Packages**: 81
-- **Total Size**: 23.53 MB
+- **Download Time**: 2025-09-13T10:12:11.681646
+- **Total Packages**: 77
+- **Total Size**: 8.37 MB
 
 ## Packages List
+- BlazeCache
+- jiratui
+- authentik-client
+- deploy-remote
+- logwatchdog
+- pyesi-openapi
+- half-sample
 - maleo-middlewares
+- fastlib-py
+- specpulse
+- html-to-markdown
+- maleo-exceptions
+- energyapi
+- maleo-infra
+- mol-properties
+- seadexarr
+- maleo-schemas
+- discord-logging-handler
+- maleo-dtos
+- maliang-table
+- files-db2
+- yawbdl
+- rnet
+- maleo-logging
+- python-sdk-local
+- maleo-utils
+- torch_to_nnef
+- abstract-windows
+- prismatools
+- mentai-cli
+- vkmini
+- airow
+- flixopt
 - prometheux-chain
 - t2v-metrics
 - pythagix
 - q2report
 - scxpand
 - scxpand-cuda
-- authentik-client
 - passagemath-sws2rst
 - passagemath-standard
 - passagemath-setup
@@ -26,7 +57,6 @@
 - nostr-tools
 - passagemath-gap-pkg-sonata-data
 - passagemath-gap-pkg-simpcomp-data
-- maleo-exceptions
 - passagemath-gap-pkg-primgrp-data
 - passagemath-gap-pkg-numericalsgps-data
 - passagemath-gap-pkg-irredsol-data
@@ -53,37 +83,3 @@
 - passagemath-database-mutation-class
 - passagemath-database-kohel
 - passagemath-database-jones-numfield
-- passagemath-database-cunningham
-- passagemath-database-cremona-ellcurve
-- passagemath-coxeter3
-- passagemath-conf
-- passagemath-combinat
-- passagemath-cmr
-- passagemath-cliquer
-- passagemath-cddlib
-- passagemath-categories
-- passagemath-buckygen
-- passagemath-brial
-- passagemath-bliss
-- passagemath-benzene
-- pysui
-- fast-agent-mcp
-- financial-services-register-api
-- FastAPI-fastkit
-- fragment-api-py
-- unrealon
-- aicodec
-- picapica
-- energymeter2mqtt
-- xync-client
-- srunx
-- textual-canvas
-- quant1x
-- coco-api
-- kh2d-solver
-- mcpcn-splitscreen
-- wawebpy
-- counted-float
-- maleo-infra
-- tbp-nightly
-- imgshape
