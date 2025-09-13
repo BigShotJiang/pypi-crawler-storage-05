@@ -1,0 +1,11 @@
+{
+  "name": "dmsbbquery",
+  "version": "0.4.0",
+  "summary": "A Python interface for querying the DMS Backbone system via XML. Provides abstract base classes and concrete implementations to construct, send, and parse XML requests for dealer stock information, order data, business partner data and system availability.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dmsbbquery-0.4.0.tar.gz",
+  "download_time": "2025-09-13T08:49:34.369599",
+  "package_url": "https://pypi.org/project/dmsbbquery/"
+}
