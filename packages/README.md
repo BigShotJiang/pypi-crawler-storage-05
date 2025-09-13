@@ -1,14 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-13T05:12:05.956585
-- **Total Packages**: 72
-- **Total Size**: 2.64 MB
+- **Download Time**: 2025-09-13T05:30:47.262672
+- **Total Packages**: 74
+- **Total Size**: 23.16 MB
 
 ## Packages List
+- eth-event
+- authentik-client
+- byzh-extra
+- byzh-core
+- pulumi-artifactory
+- byzh-ai
+- claude-trace-viewer
+- hestia-earth-aggregation
+- cdc-cluster
+- NepTrainKit
+- FourCIPP
+- pyomp
+- structural-starterkit
+- brewinglib-generic
+- brewinglib-cli
+- brewing
+- opendp
+- jsonchain
+- pulumi-oci
+- memium
+- mineru-vl-utils
 - pyrandyos
 - faster-eth-abi
-- authentik-client
 - pyLiveKML
 - pytest-homeassistant-custom-component
 - pypi-zc-tools
@@ -16,7 +36,6 @@
 - lsy-testcase-to-xmind-mcp
 - briefconf
 - zenith-web
-- cdc-cluster
 - snowpy3
 - cyberstorm-schemas
 - pipen-report
@@ -49,7 +68,6 @@
 - omdev-cli
 - omdev-cext
 - velocity-python
-- pulumi-oci
 - bool-hybrid-array
 - PolarFlow
 - pkbrokers
@@ -60,21 +78,5 @@
 - mybox
 - odoo14-addon-ssi-consulting
 - BrainX
-- brewinglib-generic
-- brewinglib-cli
-- brewing
 - tree-sitter-jsdoc
 - keras-nlp-nightly
-- keras-hub-nightly
-- agentrouter
-- pulumi-aws-apigateway
-- lineshopping-api-mcp
-- certcc-ssvc
-- github-switcher
-- CheckmarxPythonSDK
-- pyrekit
-- square-common-bl
-- chromedriver-binary
-- cdktf-cdktf-provider-cloudflare
-- scxpand
-- scxpand-cuda
