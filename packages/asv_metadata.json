@@ -1,0 +1,11 @@
+{
+  "name": "asv",
+  "version": "0.6.5",
+  "summary": "Airspeed Velocity: A simple Python history benchmarking tool",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "asv-0.6.5.tar.gz",
+  "download_time": "2025-09-13T16:33:52.865047",
+  "package_url": "https://pypi.org/project/asv/"
+}

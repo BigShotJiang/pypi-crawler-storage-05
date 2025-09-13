@@ -1,11 +1,11 @@
 {
   "name": "cb-bsdl-parser",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cb_bsdl_parser-0.4.0.tar.gz",
-  "download_time": "2025-09-12T15:49:04.511824",
+  "download_filename": "cb_bsdl_parser-0.4.1.tar.gz",
+  "download_time": "2025-09-13T16:33:58.673084",
   "package_url": "https://pypi.org/project/cb-bsdl-parser/"
 }

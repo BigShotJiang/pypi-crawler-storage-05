@@ -1,11 +1,11 @@
 {
   "name": "aliyah-predictor",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Empirical and classical linear predictors with agreement metrics",
   "author": "Kevin Clarke",
   "license": null,
   "home_page": "https://github.com/yourusername/aliyah-predictor",
-  "download_filename": "aliyah_predictor-0.1.1.tar.gz",
-  "download_time": "2025-09-13T03:16:24.986096",
+  "download_filename": "aliyah_predictor-0.1.2.tar.gz",
+  "download_time": "2025-09-13T16:33:56.091917",
   "package_url": "https://pypi.org/project/aliyah-predictor/"
 }

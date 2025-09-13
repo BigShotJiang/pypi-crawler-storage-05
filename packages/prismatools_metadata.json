@@ -1,11 +1,11 @@
 {
   "name": "prismatools",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "prismatools is an open-source Python package for reading, analyzing, and visualizing hyperspectral imagery from the PRISMA mission.",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "prismatools-0.0.1.tar.gz",
-  "download_time": "2025-09-13T10:11:38.806940",
+  "download_filename": "prismatools-0.0.2.tar.gz",
+  "download_time": "2025-09-13T16:33:57.650350",
   "package_url": "https://pypi.org/project/prismatools/"
 }

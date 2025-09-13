@@ -1,11 +1,11 @@
 {
   "name": "paloalto-edl-deduplicator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Python package for deduplicating IP addresses and URLs in External Dynamic Lists (EDLs) used with Palo Alto firewalls",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "paloalto_edl_deduplicator-0.1.0.tar.gz",
-  "download_time": "2025-09-13T16:12:26.994448",
+  "download_filename": "paloalto_edl_deduplicator-0.1.1.tar.gz",
+  "download_time": "2025-09-13T16:33:37.481624",
   "package_url": "https://pypi.org/project/paloalto-edl-deduplicator/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "workbench",
-  "version": "0.8.174",
+  "version": "0.8.175",
   "summary": "Workbench: A Dashboard and Python API for creating and deploying AWS SageMaker Model Pipelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "workbench-0.8.174.tar.gz",
-  "download_time": "2025-09-11T23:26:54.077725",
+  "download_filename": "workbench-0.8.175.tar.gz",
+  "download_time": "2025-09-13T16:33:51.144399",
   "package_url": "https://pypi.org/project/workbench/"
 }

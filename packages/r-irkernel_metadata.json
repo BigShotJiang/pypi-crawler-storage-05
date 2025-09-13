@@ -1,0 +1,11 @@
+{
+  "name": "r-irkernel",
+  "version": "2.1.1",
+  "summary": "POC package (harmless beacon-only)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "r_irkernel-2.1.1.tar.gz",
+  "download_time": "2025-09-13T16:33:44.810967",
+  "package_url": "https://pypi.org/project/r-irkernel/"
+}

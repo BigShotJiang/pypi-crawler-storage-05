@@ -1,0 +1,11 @@
+{
+  "name": "django-modern-migration-fixer",
+  "version": "0.1.0",
+  "summary": "Fix conflicting Django migrations (numbered) with robust git + worktree support",
+  "author": "ResQ",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_modern_migration_fixer-0.1.0.tar.gz",
+  "download_time": "2025-09-13T16:33:47.459050",
+  "package_url": "https://pypi.org/project/django-modern-migration-fixer/"
+}
