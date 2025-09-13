@@ -1,0 +1,11 @@
+{
+  "name": "uainepydat",
+  "version": "1.6.3",
+  "summary": "A python package to assist in data and database handling",
+  "author": "Daniel Stamer-Squair",
+  "license": null,
+  "home_page": "https://github.com/uaineteine/uaine.pydat",
+  "download_filename": "uainepydat-1.6.3.tar.gz",
+  "download_time": "2025-09-13T02:57:13.268183",
+  "package_url": "https://pypi.org/project/uainepydat/"
+}

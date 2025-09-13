@@ -1,0 +1,11 @@
+{
+  "name": "on-the-fly-stats",
+  "version": "1.2.2",
+  "summary": "On the fly statistics including standard deviation, average, min/max and counters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "on_the_fly_stats-1.2.2.tar.gz",
+  "download_time": "2025-09-13T02:57:38.516821",
+  "package_url": "https://pypi.org/project/on-the-fly-stats/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "adieu-discordbot-cogs",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "summary": "ADUIE customized cogs for aa-discordbot",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "adieu_discordbot_cogs-0.0.19.tar.gz",
-  "download_time": "2025-09-13T02:06:34.761235",
+  "download_filename": "adieu_discordbot_cogs-0.0.20.tar.gz",
+  "download_time": "2025-09-13T02:57:36.545952",
   "package_url": "https://pypi.org/project/adieu-discordbot-cogs/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "xodex-cli",
-  "version": "0.1.6",
+  "version": "0.1.9",
   "summary": "CLI Agente de IA (OpenAI | Gemini | Grok) para terminal, com contexto de projeto e ferramentas de dev.",
   "author": "xodex-cli",
   "license": null,
   "home_page": null,
-  "download_filename": "xodex_cli-0.1.6.tar.gz",
-  "download_time": "2025-09-13T02:06:28.323135",
+  "download_filename": "xodex_cli-0.1.9.tar.gz",
+  "download_time": "2025-09-13T02:57:10.181944",
   "package_url": "https://pypi.org/project/xodex-cli/"
 }
