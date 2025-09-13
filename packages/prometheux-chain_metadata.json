@@ -1,11 +1,11 @@
 {
   "name": "prometheux-chain",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Prometheux chain is a Python SDK designed to build, evolve and deploy your new knowledge graphs.",
   "author": "Prometheux Limited",
   "license": null,
   "home_page": "https://github.com/prometheuxresearch/prometheux_chain",
-  "download_filename": "prometheux_chain-0.2.3.tar.gz",
-  "download_time": "2025-09-10T18:42:33.949612",
+  "download_filename": "prometheux_chain-0.2.4.tar.gz",
+  "download_time": "2025-09-13T09:50:11.758350",
   "package_url": "https://pypi.org/project/prometheux-chain/"
 }

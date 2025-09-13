@@ -1,16 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-13T09:35:36.061257
-- **Total Packages**: 83
-- **Total Size**: 36.63 MB
+- **Download Time**: 2025-09-13T09:51:05.498985
+- **Total Packages**: 81
+- **Total Size**: 23.53 MB
 
 ## Packages List
+- maleo-middlewares
+- prometheux-chain
+- t2v-metrics
+- pythagix
+- q2report
+- scxpand
+- scxpand-cuda
+- authentik-client
+- passagemath-sws2rst
+- passagemath-standard
+- passagemath-setup
+- passagemath-repl
+- passagemath-pari-seadata-small
+- passagemath-pari-nftables
+- passagemath-pari-nflistdata
+- resono
+- passagemath-pari-galdata
 - nostr-tools
+- passagemath-gap-pkg-sonata-data
+- passagemath-gap-pkg-simpcomp-data
 - maleo-exceptions
+- passagemath-gap-pkg-primgrp-data
+- passagemath-gap-pkg-numericalsgps-data
+- passagemath-gap-pkg-irredsol-data
 - passagemath-gap-pkg-factint-data
 - fmtr.tools
 - passagemath-gap
+- passagemath-gap-pkg-difsets-data
 - passagemath-frobby
 - passagemath-gap-pkg-ctbllib-data
 - passagemath-fricas
@@ -51,7 +74,6 @@
 - unrealon
 - aicodec
 - picapica
-- authentik-client
 - energymeter2mqtt
 - xync-client
 - srunx
@@ -59,33 +81,9 @@
 - quant1x
 - coco-api
 - kh2d-solver
-- Upassword
 - mcpcn-splitscreen
 - wawebpy
 - counted-float
 - maleo-infra
-- scxpand
-- scxpand-cuda
 - tbp-nightly
 - imgshape
-- antback
-- llm-dep-extractor
-- unipka
-- oelint-adv
-- byzh-ai
-- espnet
-- scikit-robot
-- pymaya
-- biobridge
-- shell-lib
-- vibegit-mcp
-- voice-of-python
-- base-api-utils
-- autogluon
-- autogluon.timeseries
-- autogluon.multimodal
-- autogluon.tabular
-- autogluon.features
-- autogluon.core
-- autogluon.common
-- siiha-sdk
