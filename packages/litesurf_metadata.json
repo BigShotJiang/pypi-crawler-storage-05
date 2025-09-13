@@ -1,0 +1,11 @@
+{
+  "name": "litesurf",
+  "version": "0.0.1",
+  "summary": "A simple CLI-based web browser and HTML parser",
+  "author": "Ishan Bhat",
+  "license": null,
+  "home_page": "https://github.com/bhatishan2003/litesurf",
+  "download_filename": "litesurf-0.0.1.tar.gz",
+  "download_time": "2025-09-13T12:18:58.238404",
+  "package_url": "https://pypi.org/project/litesurf/"
+}

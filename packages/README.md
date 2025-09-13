@@ -1,11 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-13T11:50:00.905265
-- **Total Packages**: 78
-- **Total Size**: 1.72 MB
+- **Download Time**: 2025-09-13T12:19:17.866038
+- **Total Packages**: 75
+- **Total Size**: 23.87 MB
 
 ## Packages List
+- nonebot-plugin-llm-extension
+- ictasks
+- dtouch
+- ff-logger
+- workit
+- ScriptCollection
+- splitter-mr
+- wvanisher
+- mcpcn-splitscreen
+- detection-dataset-annotator
+- satnogs-db-api-client
+- qt-icon-browser
+- d4rktg
+- authentik-client
+- moon-sol-sdk
+- cdk8s-plus-33
+- dltlint
+- mlx-openai-server
+- forgram
+- agent-redis-framework
+- kradle
+- bool-hybrid-array
+- obsidian-cli
+- scxpand
+- scxpand-cuda
+- my-python-suite
+- AnalysisWeb
+- scoutsdk
+- kivy-deps.sdl3-dev
+- kivy-deps.sdl3
+- circular-clustering
+- AMR
+- jira-agile-toolbox
+- geo-activity-playground
+- SuperClaude
+- ksrpc
+- ulid-tool
+- base-api-utils
+- py-ste
+- litesurf
+- metocean-stats
+- searchallpdf
+- mcp-databend
+- rusty-runways
+- rfscrapper
+- prometheus-xmpp-alerts
+- flet-extended-interactive-viewer
+- prodigy-plus-schedule-free
+- django-quill-safe
 - snail-job-python
 - kececinumbers
 - dodopayments
@@ -17,17 +66,13 @@
 - huetracer
 - django-pipeline
 - pkg-deploy
-- d4rktg
-- bool-hybrid-array
 - eai-camp
 - delta-trace-db
 - seareport-data
-- dltlint
 - vidurl
 - modelgen
 - fh-cli
 - pixel-sdk
-- authentik-client
 - ures
 - pydashboard
 - ghstats-cli
@@ -36,51 +81,3 @@
 - maleo-metadata
 - torchx-nightly
 - pydantic
-- mchat-core
-- leggen
-- mcp-server-email-cuhksz
-- audiomentations
-- pymiele
-- topsy
-- mle-kit-mcp
-- iceoryx2
-- scxpand
-- scxpand-cuda
-- tb-nightly
-- skdr-eval
-- tmplot
-- agent-redis-framework
-- py-document-chunker
-- libscca-python
-- mydict
-- centering-lgram
-- nlbone
-- imsy-htc
-- mt5-grpc-server
-- gradboard
-- mt5-grpc-proto
-- fastlib-py
-- flet-extended-interactive-viewer
-- dtpyfw
-- streamsnatcher
-- disposable-email-domains
-- iterable-tompy
-- python-pooldose
-- codex-python
-- s3dgraphy
-- codex_native
-- almabtrieb
-- wisp-python
-- programming-game
-- opsramp-analytics-utils
-- flixopt
-- fplstat
-- pyiron-atomistics
-- rewact
-- mcpcn-splitscreen
-- maleo-managers
-- konduktor-nightly
-- trainy-policy-nightly
-- letta-nightly
-- maleo-google
-- PyPtt

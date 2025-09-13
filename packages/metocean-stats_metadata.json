@@ -1,0 +1,11 @@
+{
+  "name": "metocean-stats",
+  "version": "1.1.1",
+  "summary": "metocean-stats - Tool for generation of metocean statistics",
+  "author": "Konstantinos Christakos MET Norway & NTNU",
+  "license": "LGPLv3.0",
+  "home_page": "https://github.com/MET-OM/metocean-stats",
+  "download_filename": "metocean_stats-1.1.1-py3-none-any.whl",
+  "download_time": "2025-09-13T12:18:58.921442",
+  "package_url": "https://pypi.org/project/metocean-stats/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "d4rktg",
-  "version": "0.4.0",
+  "version": "0.4.3",
   "summary": "A module for create with easy and fast",
   "author": "D4rkShell",
   "license": null,
   "home_page": null,
-  "download_filename": "d4rktg-0.4.0.tar.gz",
-  "download_time": "2025-09-13T11:49:25.967024",
+  "download_filename": "d4rktg-0.4.3.tar.gz",
+  "download_time": "2025-09-13T12:18:43.061797",
   "package_url": "https://pypi.org/project/d4rktg/"
 }

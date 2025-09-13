@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-llm-extension",
+  "version": "0.1.0",
+  "summary": "利用 LLM 将自然语言转换为机器人指令 / Convert natural language messages into bot commands using LLMs",
+  "author": "KomoriDev",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_llm_extension-0.1.0.tar.gz",
+  "download_time": "2025-09-13T12:18:35.786207",
+  "package_url": "https://pypi.org/project/nonebot-plugin-llm-extension/"
+}

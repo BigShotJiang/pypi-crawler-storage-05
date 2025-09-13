@@ -1,0 +1,11 @@
+{
+  "name": "prodigy-plus-schedule-free",
+  "version": "2.0.0",
+  "summary": "Automatic learning rate optimiser based on Prodigy and Schedule-Free",
+  "author": "Logan Booker",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/LoganBooker/prodigy-plus-schedule-free",
+  "download_filename": "prodigy_plus_schedule_free-2.0.0.tar.gz",
+  "download_time": "2025-09-13T12:19:02.715026",
+  "package_url": "https://pypi.org/project/prodigy-plus-schedule-free/"
+}

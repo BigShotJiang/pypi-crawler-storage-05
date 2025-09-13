@@ -1,0 +1,11 @@
+{
+  "name": "django-quill-safe",
+  "version": "0.1.0",
+  "summary": "Safe and minimal integration of Quill editor in Django using JSON delta format only.",
+  "author": "Abhilash Ramachandran",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_quill_safe-0.1.0.tar.gz",
+  "download_time": "2025-09-13T12:19:03.237381",
+  "package_url": "https://pypi.org/project/django-quill-safe/"
+}

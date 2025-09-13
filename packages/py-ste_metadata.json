@@ -1,0 +1,11 @@
+{
+  "name": "py-ste",
+  "version": "1.1.0",
+  "summary": "A Python package for evolving unitaries and states under the Schrödinger equation using first-order Suzuki-Trotter and computing switching functions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_ste-1.1.0.tar.gz",
+  "download_time": "2025-09-13T12:18:57.717545",
+  "package_url": "https://pypi.org/project/py-ste/"
+}
