@@ -1,11 +1,11 @@
 {
   "name": "pixel-sdk",
-  "version": "1.0.8",
+  "version": "1.0.10",
   "summary": "Python client library for the pixel app",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pixel_sdk-1.0.8-py3-none-any.whl",
-  "download_time": "2025-09-13T11:10:06.363453",
+  "download_filename": "pixel_sdk-1.0.10-py3-none-any.whl",
+  "download_time": "2025-09-13T11:23:54.990161",
   "package_url": "https://pypi.org/project/pixel-sdk/"
 }

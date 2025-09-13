@@ -1,11 +1,11 @@
 {
   "name": "scxpand-cuda",
-  "version": "0.1.51",
+  "version": "0.1.53",
   "summary": "Pan-cancer detection of T-cell clonal expansion from single-cell RNA sequencing (CUDA-enabled)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scxpand_cuda-0.1.51.tar.gz",
-  "download_time": "2025-09-13T10:40:20.070195",
+  "download_filename": "scxpand_cuda-0.1.53.tar.gz",
+  "download_time": "2025-09-13T11:24:14.981379",
   "package_url": "https://pypi.org/project/scxpand-cuda/"
 }

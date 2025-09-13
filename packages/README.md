@@ -1,63 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-13T11:10:42.476427
-- **Total Packages**: 78
-- **Total Size**: 9.3 MB
+- **Download Time**: 2025-09-13T11:24:24.290069
+- **Total Packages**: 74
+- **Total Size**: 0.32 MB
 
 ## Packages List
-- imsy-htc
-- authentik-client
-- mt5-grpc-server
-- gradboard
-- mt5-grpc-proto
-- fastlib-py
-- flet-extended-interactive-viewer
-- mle-kit-mcp
-- dtpyfw
-- streamsnatcher
-- pixel-sdk
-- disposable-email-domains
-- iterable-tompy
-- python-pooldose
-- codex-python
-- s3dgraphy
-- codex_native
-- almabtrieb
-- wisp-python
-- programming-game
-- opsramp-analytics-utils
-- flixopt
-- fplstat
-- pyiron-atomistics
-- rewact
-- mcpcn-splitscreen
-- maleo-managers
-- konduktor-nightly
-- trainy-policy-nightly
-- letta-nightly
-- maleo-google
-- PyPtt
-- fmtr.tools
-- benqprojector
 - druglikeness
-- scxpand
-- scxpand-cuda
-- byzh-ai
 - specpulse
+- python-pooldose
 - vachanatts
 - odfdo
 - movie-downloader
 - update-playlist
 - scikit-na
+- authentik-client
 - maleo-database
 - leakage-buster
+- fplstat
 - quant1x
 - files-db2
 - complexity-meter
 - wmill-pg
 - wmill
 - windmill-api
+- mle-kit-mcp
 - gnuhealth-dentistry
 - gnuhealth
 - deploy-remote
@@ -68,6 +35,7 @@
 - habluetooth
 - Weights-Calc
 - tf-keras-nightly
+- pixel-sdk
 - ai-edge-torch-nightly
 - pyesi-openapi
 - BlazeCache
@@ -75,6 +43,7 @@
 - logwatchdog
 - half-sample
 - maleo-middlewares
+- fastlib-py
 - html-to-markdown
 - maleo-exceptions
 - energyapi
@@ -84,3 +53,30 @@
 - maleo-schemas
 - discord-logging-handler
 - maleo-dtos
+- maliang-table
+- yawbdl
+- rnet
+- maleo-logging
+- python-sdk-local
+- maleo-utils
+- torch_to_nnef
+- abstract-windows
+- prismatools
+- mentai-cli
+- vkmini
+- airow
+- flixopt
+- prometheux-chain
+- t2v-metrics
+- pythagix
+- scxpand
+- scxpand-cuda
+- passagemath-sws2rst
+- passagemath-standard
+- passagemath-setup
+- passagemath-repl
+- passagemath-pari-seadata-small
+- passagemath-pari-nftables
+- passagemath-pari-nflistdata
+- resono
+- passagemath-pari-galdata
