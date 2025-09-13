@@ -1,11 +1,11 @@
 {
   "name": "vibegit-mcp",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "VibeGit MCP server for AI conversation logging and analysis",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vibegit_mcp-0.1.4.tar.gz",
-  "download_time": "2025-09-13T09:11:33.142810",
+  "download_filename": "vibegit_mcp-0.1.5.tar.gz",
+  "download_time": "2025-09-13T13:31:01.246928",
   "package_url": "https://pypi.org/project/vibegit-mcp/"
 }
