@@ -1,11 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-13T13:39:12.382472
-- **Total Packages**: 80
-- **Total Size**: 0.38 MB
+- **Download Time**: 2025-09-13T13:50:04.812316
+- **Total Packages**: 78
+- **Total Size**: 13.25 MB
 
 ## Packages List
+- ccxt-ir
+- agentrouter
+- yandex-tracker-mcp
+- modusa
+- finbourne-access-sdk
+- obsidian-cli
+- iplooker
+- constrained-opt-mcp
+- monopoly-core
+- pynitors
+- dashlab
+- ipyslides
+- sunholo
+- gravybox
+- polyclash
+- mosstool
 - mx-process-manager
 - authentik-client
 - beancode
@@ -33,7 +49,6 @@
 - d4rktg
 - TemporalVAE
 - synthgenai
-- iplooker
 - saitech-wapp
 - logger-local
 - nbdev-apl
@@ -46,15 +61,12 @@
 - nbdev-stdlib
 - bump-my-version
 - limoon
-- sunholo
 - llm-perf-tools
 - stepcount
 - tgmath
 - fastapi-timeout
-- yandex-tracker-mcp
 - Bac-info
 - patchllm
-- obsidian-cli
 - ingredient-parser-nlp
 - misterio
 - sentor-ml
@@ -72,17 +84,3 @@
 - troml
 - rbacx
 - universal-mcp-applications
-- exotelpy
-- bauklotz
-- pyqrackising
-- tensorcircuit-nightly
-- MacroStat
-- flac2all
-- dodopayments
-- MorphoTreeViz
-- python-swos-lite
-- dtouch
-- mle-kit-mcp
-- AbstractAgents
-- scxpand
-- scxpand-cuda

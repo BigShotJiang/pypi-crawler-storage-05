@@ -1,0 +1,11 @@
+{
+  "name": "gravybox",
+  "version": "0.85",
+  "summary": "A big box of gravy for all of your FastAPI-ripping docker-aboded itty-bits. Enjoy at leisure.",
+  "author": "(~)",
+  "license": null,
+  "home_page": "https://github.com/clementinegroup/gravybox",
+  "download_filename": "gravybox-0.85.tar.gz",
+  "download_time": "2025-09-13T13:49:30.613119",
+  "package_url": "https://pypi.org/project/gravybox/"
+}
