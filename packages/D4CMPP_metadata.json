@@ -1,11 +1,11 @@
 {
   "name": "D4CMPP",
-  "version": "1.26.1",
+  "version": "1.26.2",
   "summary": "Molecular property prediction based on Graph Convolution Network published by Deep4Chem",
   "author": "Park Jinyong",
   "license": null,
   "home_page": "https://github.com/phillip1998/D4C_MPP",
-  "download_filename": "d4cmpp-1.26.1.tar.gz",
-  "download_time": "2025-09-11T11:24:31.702366",
+  "download_filename": "d4cmpp-1.26.2.tar.gz",
+  "download_time": "2025-09-13T06:38:22.147072",
   "package_url": "https://pypi.org/project/D4CMPP/"
 }

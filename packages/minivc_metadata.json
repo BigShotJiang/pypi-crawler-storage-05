@@ -1,0 +1,11 @@
+{
+  "name": "minivc",
+  "version": "0.2.0",
+  "summary": "A minimal, Git-like version control tool (CLI, stdlib only).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "minivc-0.2.0.tar.gz",
+  "download_time": "2025-09-13T06:38:35.208188",
+  "package_url": "https://pypi.org/project/minivc/"
+}

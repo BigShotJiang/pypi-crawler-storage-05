@@ -1,11 +1,11 @@
 {
   "name": "tonydbc",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "summary": "A high-level database connector for MariaDB",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tonydbc-1.3.2.tar.gz",
-  "download_time": "2025-09-12T16:33:26.946582",
+  "download_filename": "tonydbc-1.3.3.tar.gz",
+  "download_time": "2025-09-13T06:38:26.980982",
   "package_url": "https://pypi.org/project/tonydbc/"
 }
