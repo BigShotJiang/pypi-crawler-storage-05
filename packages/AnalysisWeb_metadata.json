@@ -1,11 +1,11 @@
 {
   "name": "AnalysisWeb",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "AnalysisWeb",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "analysisweb-0.0.1.tar.gz",
-  "download_time": "2025-09-13T12:18:50.915696",
+  "download_filename": "analysisweb-0.0.3.tar.gz",
+  "download_time": "2025-09-13T15:28:02.751777",
   "package_url": "https://pypi.org/project/AnalysisWeb/"
 }

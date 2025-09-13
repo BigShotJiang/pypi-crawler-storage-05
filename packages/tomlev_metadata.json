@@ -1,11 +1,11 @@
 {
   "name": "tomlev",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Type-safe TOML configuration management with environment variable substitution and automatic validation for modern Python applications.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tomlev-1.0.1.tar.gz",
-  "download_time": "2025-09-08T23:29:11.593576",
+  "download_filename": "tomlev-1.0.2.tar.gz",
+  "download_time": "2025-09-13T15:28:01.074043",
   "package_url": "https://pypi.org/project/tomlev/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "passagemath-meataxe",
-  "version": "10.6.19",
+  "version": "10.6.21",
   "summary": "passagemath: Matrices over small finite fields with meataxe",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_meataxe-10.6.19.tar.gz",
-  "download_time": "2025-09-10T15:11:50.630789",
+  "download_filename": "passagemath_meataxe-10.6.21.tar.gz",
+  "download_time": "2025-09-13T15:27:44.674817",
   "package_url": "https://pypi.org/project/passagemath-meataxe/"
 }

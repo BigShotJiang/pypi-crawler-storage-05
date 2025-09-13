@@ -1,11 +1,11 @@
 {
   "name": "passagemath-macaulay2",
-  "version": "10.6.19",
+  "version": "10.6.21",
   "summary": "passagemath: Computing in commutative algebra, algebraic geometry and related fields with Macaulay2",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_macaulay2-10.6.19.tar.gz",
-  "download_time": "2025-09-10T15:11:56.069984",
+  "download_filename": "passagemath_macaulay2-10.6.21.tar.gz",
+  "download_time": "2025-09-13T15:27:47.158221",
   "package_url": "https://pypi.org/project/passagemath-macaulay2/"
 }

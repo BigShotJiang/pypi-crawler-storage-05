@@ -1,11 +1,11 @@
 {
   "name": "ulid-tool",
-  "version": "5",
+  "version": "6.1",
   "summary": "Minimalistic implementation of the ULID specification for python (https://github.com/ulid/spec). No integrated type or specification checks but system integrity check.",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "ulid_tool-5.tar.gz",
-  "download_time": "2025-09-13T13:31:01.768165",
+  "download_filename": "ulid_tool-6.1.tar.gz",
+  "download_time": "2025-09-13T15:28:01.584355",
   "package_url": "https://pypi.org/project/ulid-tool/"
 }

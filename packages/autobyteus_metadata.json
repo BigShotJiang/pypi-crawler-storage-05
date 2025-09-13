@@ -1,0 +1,11 @@
+{
+  "name": "autobyteus",
+  "version": "1.1.7",
+  "summary": "Multi-Agent framework",
+  "author": "Ryan Zheng",
+  "license": null,
+  "home_page": "https://github.com/AutoByteus/autobyteus",
+  "download_filename": "autobyteus-1.1.7.tar.gz",
+  "download_time": "2025-09-13T15:28:12.608870",
+  "package_url": "https://pypi.org/project/autobyteus/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "paper-voice",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Convert academic papers to high-quality audio with precise mathematical explanations and intelligent content processing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "paper_voice-0.2.0.tar.gz",
-  "download_time": "2025-09-13T02:06:52.558276",
+  "download_filename": "paper_voice-0.3.0.tar.gz",
+  "download_time": "2025-09-13T15:28:03.846367",
   "package_url": "https://pypi.org/project/paper-voice/"
 }
