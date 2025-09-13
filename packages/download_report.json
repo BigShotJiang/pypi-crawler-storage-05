@@ -1,17 +1,10 @@
 {
-  "download_time": "2025-09-13T15:35:27.004091",
-  "total_packages_downloaded": 82,
-  "total_size_mb": 2.24,
+  "download_time": "2025-09-13T15:50:11.900716",
+  "total_packages_downloaded": 84,
+  "total_size_mb": 0.46,
   "packages": [
-    "neurograd",
-    "saitech-wapp",
-    "anomaly-grid-py",
-    "pysterling",
-    "kinematicsolver",
-    "kspl",
-    "denoengineV1",
-    "pixel-sdk",
     "rayml",
+    "neurograd",
     "sportsball",
     "api-eazy",
     "rusticlone",
@@ -24,6 +17,7 @@
     "greeum",
     "vision-data-curation",
     "passagemath-symbolics",
+    "passagemath-standard-no-symbolics",
     "authentik-client",
     "passagemath-sirocco",
     "passagemath-singular",
@@ -33,6 +27,7 @@
     "data-toolkit",
     "passagemath-qepcad",
     "passagemath-polyhedra",
+    "pixel-sdk",
     "passagemath-plot",
     "passagemath-plantri",
     "passagemath-planarity",
@@ -84,6 +79,13 @@
     "anytraverse",
     "moxn-types",
     "pay-with-crypto",
-    "tempit-manager"
+    "tempit-manager",
+    "pttechnologies",
+    "avalan",
+    "setch-py",
+    "py_log_mjk",
+    "lilya",
+    "mi-mtts",
+    "autobyteus"
   ]
 }
