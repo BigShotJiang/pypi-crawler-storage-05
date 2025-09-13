@@ -1,11 +1,11 @@
 {
   "name": "txtanim",
-  "version": "1.0.1",
-  "summary": "Simple terminal animations library for Python",
-  "author": "Neunix",
+  "version": "1.0.2",
+  "summary": "Terminal text animations for Python.",
+  "author": "Neunix Studios",
   "license": null,
   "home_page": null,
-  "download_filename": "txtanim-1.0.1.tar.gz",
-  "download_time": "2025-09-09T05:11:29.754914",
+  "download_filename": "txtanim-1.0.2.tar.gz",
+  "download_time": "2025-09-13T14:09:54.636078",
   "package_url": "https://pypi.org/project/txtanim/"
 }

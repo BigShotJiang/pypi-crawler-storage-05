@@ -1,0 +1,11 @@
+{
+  "name": "orionac-ai",
+  "version": "0.2.0",
+  "summary": "Python client for Orionac AI API",
+  "author": "Zakaria",
+  "license": null,
+  "home_page": "https://github.com/RishiR123/orionac-ai",
+  "download_filename": "orionac_ai-0.2.0.tar.gz",
+  "download_time": "2025-09-13T14:09:45.378061",
+  "package_url": "https://pypi.org/project/orionac-ai/"
+}
