@@ -1,0 +1,11 @@
+{
+  "name": "txtemo",
+  "version": "0.1.0",
+  "summary": "ONNX-based emotion detection using quantized RoBERTa",
+  "author": "Pranesh S",
+  "license": null,
+  "home_page": null,
+  "download_filename": "txtemo-0.1.0.tar.gz",
+  "download_time": "2025-09-13T06:16:10.809068",
+  "package_url": "https://pypi.org/project/txtemo/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "geopointdb",
+  "version": "1.2.0",
+  "summary": "Offline geolocation and geocoding package using SQLite (~200000+ world cities)",
+  "author": "Pulkit Saini",
+  "license": "MIT",
+  "home_page": "https://github.com/Pulkit-Py/geopointdb",
+  "download_filename": "geopointdb-1.2.0.tar.gz",
+  "download_time": "2025-09-13T06:16:07.312765",
+  "package_url": "https://pypi.org/project/geopointdb/"
+}

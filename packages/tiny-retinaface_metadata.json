@@ -1,0 +1,11 @@
+{
+  "name": "tiny-retinaface",
+  "version": "0.1.0",
+  "summary": "A fast and simplified implementation of biubug6/Pytorch_Retinaface inference module",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tiny_retinaface-0.1.0.tar.gz",
+  "download_time": "2025-09-13T06:16:13.010593",
+  "package_url": "https://pypi.org/project/tiny-retinaface/"
+}

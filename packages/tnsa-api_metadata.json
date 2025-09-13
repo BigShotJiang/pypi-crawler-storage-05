@@ -1,0 +1,11 @@
+{
+  "name": "tnsa-api",
+  "version": "2.1.2",
+  "summary": "A powerful, OpenAI-compatible Python SDK for TNSA NGen3 Pro and Lite Models",
+  "author": "TNSA AI",
+  "license": "MIT",
+  "home_page": "https://www.tnsaai.com",
+  "download_filename": "tnsa_api-2.1.2.tar.gz",
+  "download_time": "2025-09-13T06:16:15.129704",
+  "package_url": "https://pypi.org/project/tnsa-api/"
+}
