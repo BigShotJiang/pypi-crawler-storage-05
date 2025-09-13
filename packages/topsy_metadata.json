@@ -1,0 +1,11 @@
+{
+  "name": "topsy",
+  "version": "0.8.1",
+  "summary": "topsy - An astrophysics simulation visualization package based on webgpu, using pynbody for reading data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "topsy-0.8.1.tar.gz",
+  "download_time": "2025-09-13T11:35:02.579556",
+  "package_url": "https://pypi.org/project/topsy/"
+}

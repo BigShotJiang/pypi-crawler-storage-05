@@ -1,0 +1,11 @@
+{
+  "name": "morphoTreeAdjust",
+  "version": "0.2",
+  "summary": "MorphoTreeAdjust is a C++/Python implementation for adjusting the morpholofical trees.",
+  "author": "Wonder Alexandre Luz Alves",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/wonderalexandre/ComponentTreeLearn",
+  "download_filename": "morphotreeadjust-0.2.tar.gz",
+  "download_time": "2025-09-13T11:34:54.898431",
+  "package_url": "https://pypi.org/project/morphoTreeAdjust/"
+}

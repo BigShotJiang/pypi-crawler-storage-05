@@ -1,0 +1,11 @@
+{
+  "name": "mydict",
+  "version": "2.1.1",
+  "summary": "A Python dict subclass which tries to act like JavaScript objects, so you can use the dot-notation (d.foo) to access members of the object.",
+  "author": "León Domingo",
+  "license": "MIT",
+  "home_page": "https://github.com/leon-domingo/mydict",
+  "download_filename": "mydict-2.1.1.tar.gz",
+  "download_time": "2025-09-13T11:35:09.171896",
+  "package_url": "https://pypi.org/project/mydict/"
+}

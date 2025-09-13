@@ -1,11 +1,11 @@
 {
   "name": "iceoryx2",
-  "version": "0.7.0rc4",
-  "summary": "Lock-Free Zero-Copy Interprocess Communication",
+  "version": "0.7.0",
+  "summary": "Lock-Free Zero-Copy Inter-process Communication",
   "author": "Contributors of eclipse-iceoryx",
   "license": null,
   "home_page": "https://iceoryx.io",
-  "download_filename": "iceoryx2-0.7.0rc4.tar.gz",
-  "download_time": "2025-09-13T06:16:15.705577",
+  "download_filename": "iceoryx2-0.7.0.tar.gz",
+  "download_time": "2025-09-13T11:35:03.766818",
   "package_url": "https://pypi.org/project/iceoryx2/"
 }

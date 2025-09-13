@@ -1,0 +1,11 @@
+{
+  "name": "pymiele",
+  "version": "0.5.4",
+  "summary": "Python library for Miele integration with Home Assistant",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pymiele-0.5.4.tar.gz",
+  "download_time": "2025-09-13T11:35:01.998894",
+  "package_url": "https://pypi.org/project/pymiele/"
+}

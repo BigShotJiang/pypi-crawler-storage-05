@@ -1,0 +1,11 @@
+{
+  "name": "fast-gaussian-initialization",
+  "version": "0.0.2",
+  "summary": "A library for fast CPU-based initialization of 3D Gaussian Splatting models from point clouds.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fast_gaussian_initialization-0.0.2.tar.gz",
+  "download_time": "2025-09-13T11:34:55.536374",
+  "package_url": "https://pypi.org/project/fast-gaussian-initialization/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "audiomentations",
-  "version": "0.43.0",
+  "version": "0.43.1",
   "summary": "A Python library for audio data augmentation. Inspired by albumentations. Useful for machine learning.",
   "author": "Iver Jordal",
   "license": "MIT",
   "home_page": "https://github.com/iver56/audiomentations",
-  "download_filename": "audiomentations-0.43.0.tar.gz",
-  "download_time": "2025-09-09T18:50:13.321099",
+  "download_filename": "audiomentations-0.43.1.tar.gz",
+  "download_time": "2025-09-13T11:35:01.412843",
   "package_url": "https://pypi.org/project/audiomentations/"
 }
