@@ -1,0 +1,11 @@
+{
+  "name": "vecorel-cli",
+  "version": "0.2.8",
+  "summary": "CLI tools such as validation and file format conversion for vecorel.",
+  "author": "Matthias Mohr",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vecorel_cli-0.2.8.tar.gz",
+  "download_time": "2025-09-13T14:34:36.905163",
+  "package_url": "https://pypi.org/project/vecorel-cli/"
+}

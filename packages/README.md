@@ -1,15 +1,22 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-13T14:28:37.064575
-- **Total Packages**: 87
-- **Total Size**: 11.16 MB
+- **Download Time**: 2025-09-13T14:35:18.968317
+- **Total Packages**: 85
+- **Total Size**: 4.13 MB
 
 ## Packages List
+- TyphonBreaker
+- mini-gpr
+- PyWebWinUI3
 - psa-car-controller
-- inferno-torch
+- vecorel-cli
+- trapster
+- tictacsync
 - d4rktg
-- optima-vis
+- deformers
+- LLMlight
+- inferno-torch
 - raya-pdi
 - augments-mcp-server
 - simplelinks
@@ -37,7 +44,6 @@
 - neurograd
 - py-template-expander
 - saitech-wapp
-- trapster
 - space-coder-monopoly-calc
 - rolint
 - path2dream-agents
@@ -85,11 +91,3 @@
 - iplooker
 - constrained-opt-mcp
 - monopoly-core
-- pynitors
-- dashlab
-- ipyslides
-- sunholo
-- gravybox
-- polyclash
-- mosstool
-- mx-process-manager

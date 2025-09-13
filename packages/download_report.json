@@ -1,12 +1,19 @@
 {
-  "download_time": "2025-09-13T14:28:37.064575",
-  "total_packages_downloaded": 87,
-  "total_size_mb": 11.16,
+  "download_time": "2025-09-13T14:35:18.968317",
+  "total_packages_downloaded": 85,
+  "total_size_mb": 4.13,
   "packages": [
+    "TyphonBreaker",
+    "mini-gpr",
+    "PyWebWinUI3",
     "psa-car-controller",
-    "inferno-torch",
+    "vecorel-cli",
+    "trapster",
+    "tictacsync",
     "d4rktg",
-    "optima-vis",
+    "deformers",
+    "LLMlight",
+    "inferno-torch",
     "raya-pdi",
     "augments-mcp-server",
     "simplelinks",
@@ -34,7 +41,6 @@
     "neurograd",
     "py-template-expander",
     "saitech-wapp",
-    "trapster",
     "space-coder-monopoly-calc",
     "rolint",
     "path2dream-agents",
@@ -81,14 +87,6 @@
     "obsidian-cli",
     "iplooker",
     "constrained-opt-mcp",
-    "monopoly-core",
-    "pynitors",
-    "dashlab",
-    "ipyslides",
-    "sunholo",
-    "gravybox",
-    "polyclash",
-    "mosstool",
-    "mx-process-manager"
+    "monopoly-core"
   ]
 }
