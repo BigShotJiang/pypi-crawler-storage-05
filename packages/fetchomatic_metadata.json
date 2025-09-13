@@ -1,0 +1,11 @@
+{
+  "name": "fetchomatic",
+  "version": "1.0.0",
+  "summary": "A comprehensive networking framework with semantic methods",
+  "author": "Aayush Bohora",
+  "license": "MIT",
+  "home_page": "https://github.com/Aayushbohora/smartfetchpy",
+  "download_filename": "fetchomatic-1.0.0-py3-none-any.whl",
+  "download_time": "2025-09-13T06:50:46.038748",
+  "package_url": "https://pypi.org/project/fetchomatic/"
+}
