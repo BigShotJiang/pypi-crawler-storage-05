@@ -1,11 +1,11 @@
 {
   "name": "square-administration",
-  "version": "3.4.4",
+  "version": "3.4.5",
   "summary": "common business layer for my personal server.",
   "author": "Parth Mukesh Mangtani",
   "license": null,
   "home_page": "https://github.com/thepmsquare/square_administration",
-  "download_filename": "square_administration-3.4.4.tar.gz",
-  "download_time": "2025-09-13T06:38:37.616508",
+  "download_filename": "square_administration-3.4.5.tar.gz",
+  "download_time": "2025-09-13T07:34:32.531144",
   "package_url": "https://pypi.org/project/square-administration/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "treelang",
+  "version": "0.7.3",
+  "summary": "LLM function calling on steroids using Abstract Syntax Trees.",
+  "author": "csolar",
+  "license": "MIT",
+  "home_page": "https://github.com/cs0lar/treelang",
+  "download_filename": "treelang-0.7.3.tar.gz",
+  "download_time": "2025-09-13T07:34:34.106899",
+  "package_url": "https://pypi.org/project/treelang/"
+}

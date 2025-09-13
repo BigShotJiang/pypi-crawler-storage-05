@@ -1,11 +1,11 @@
 {
   "name": "connectonion",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "A simple Python framework for creating AI agents with behavior tracking",
   "author": "ConnectOnion Team",
   "license": null,
   "home_page": "https://github.com/connectonion/connectonion",
-  "download_filename": "connectonion-0.0.6.tar.gz",
-  "download_time": "2025-09-12T13:42:01.313716",
+  "download_filename": "connectonion-0.0.7.tar.gz",
+  "download_time": "2025-09-13T07:34:32.019665",
   "package_url": "https://pypi.org/project/connectonion/"
 }

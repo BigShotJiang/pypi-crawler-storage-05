@@ -1,11 +1,11 @@
 {
   "name": "pygryfsmart",
-  "version": "0.3.3.6",
+  "version": "0.3.3.7",
   "summary": "Library for the GryfSmart system",
   "author": "@karlowiczpl",
   "license": "MIT",
   "home_page": "https://github.com/karlowiczpl/pygryfsmart",
-  "download_filename": "pygryfsmart-0.3.3.6.tar.gz",
-  "download_time": "2025-09-09T20:30:50.380197",
+  "download_filename": "pygryfsmart-0.3.3.7.tar.gz",
+  "download_time": "2025-09-13T07:34:33.595227",
   "package_url": "https://pypi.org/project/pygryfsmart/"
 }

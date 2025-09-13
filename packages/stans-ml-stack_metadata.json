@@ -1,0 +1,11 @@
+{
+  "name": "stans-ml-stack",
+  "version": "0.1.4",
+  "summary": "A comprehensive machine learning environment optimized for AMD GPUs",
+  "author": "Stanley Chisango (Scooter Lacroix)",
+  "license": null,
+  "home_page": "https://github.com/scooter-lacroix/Stans_MLStack",
+  "download_filename": "stans_ml_stack-0.1.4.tar.gz",
+  "download_time": "2025-09-13T07:34:33.084272",
+  "package_url": "https://pypi.org/project/stans-ml-stack/"
+}

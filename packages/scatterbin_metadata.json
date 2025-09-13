@@ -1,11 +1,11 @@
 {
   "name": "scatterbin",
-  "version": "0.1.1",
+  "version": "0.0.2",
   "summary": "Adjustable binning of scatter plot data",
   "author": "Stephen Curran",
   "license": null,
   "home_page": "https://github.com/steviecurran/scatterbin",
-  "download_filename": "scatterbin-0.1.1.tar.gz",
-  "download_time": "2025-09-13T07:10:59.647587",
+  "download_filename": "scatterbin-0.0.2.tar.gz",
+  "download_time": "2025-09-13T07:34:47.494276",
   "package_url": "https://pypi.org/project/scatterbin/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rapidfireai",
+  "version": "0.9.11",
+  "summary": "RapidFire AI: Rapid Experimentation Engine for Customizing LLMs",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rapidfireai-0.9.11.tar.gz",
+  "download_time": "2025-09-13T07:34:45.411105",
+  "package_url": "https://pypi.org/project/rapidfireai/"
+}
