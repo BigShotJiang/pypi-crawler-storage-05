@@ -1,0 +1,11 @@
+{
+  "name": "update-playlist",
+  "version": "0.2.1",
+  "summary": "A modular playlist manager to download and manage Spotify playlists.",
+  "author": "Antonio Labate",
+  "license": null,
+  "home_page": "https://github.com/totolab/update_playlist",
+  "download_filename": "update_playlist-0.2.1.tar.gz",
+  "download_time": "2025-09-13T10:31:34.651933",
+  "package_url": "https://pypi.org/project/update-playlist/"
+}
