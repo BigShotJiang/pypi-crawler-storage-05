@@ -1,0 +1,11 @@
+{
+  "name": "lightpads",
+  "version": "0.0.2",
+  "summary": "Python client library for controlling Lightpads™ interactive play systems — set colors, detect pad hits, and build custom games.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lightpads-0.0.2.tar.gz",
+  "download_time": "2025-09-13T14:49:27.840347",
+  "package_url": "https://pypi.org/project/lightpads/"
+}

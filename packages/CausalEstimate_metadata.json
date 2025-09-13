@@ -1,0 +1,11 @@
+{
+  "name": "CausalEstimate",
+  "version": "0.10.0",
+  "summary": "A library for estimates of causal effects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "causalestimate-0.10.0.tar.gz",
+  "download_time": "2025-09-13T14:49:31.490943",
+  "package_url": "https://pypi.org/project/CausalEstimate/"
+}

@@ -1,17 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-13T14:35:18.968317
-- **Total Packages**: 85
-- **Total Size**: 4.13 MB
+- **Download Time**: 2025-09-13T14:49:58.550167
+- **Total Packages**: 78
+- **Total Size**: 5.79 MB
 
 ## Packages List
-- TyphonBreaker
+- maleo-metadata
+- autosrp
+- neurograd
+- optima-vis
+- samudra-ai
+- jbag
+- x-4357-make-markdown-x
+- configset
+- sportsball
+- gnuhealth-dentistry
+- servc
+- gnuhealth
+- mi-maica
+- ipybox
+- cruntils
+- fractalic
+- ljobx
+- meshcore-cli
+- mem8
+- lightpads
+- fiboa-cli
+- forgram
+- trapster
+- trgenpy
+- authentik-client
+- django-simple-deploy
+- CausalEstimate
+- programming-game
 - mini-gpr
 - PyWebWinUI3
 - psa-car-controller
 - vecorel-cli
-- trapster
 - tictacsync
 - d4rktg
 - deformers
@@ -32,7 +58,6 @@
 - odoo-addon-l10n-br-fiscal
 - odoo-addon-l10n-br-sale-stock
 - odoo-addon-l10n-br-sped-ecd
-- authentik-client
 - sparrow-mlp
 - aws-clients-python-lib
 - pyconvexity
@@ -41,7 +66,6 @@
 - fastlib-py
 - modem-info
 - biblemate
-- neurograd
 - py-template-expander
 - saitech-wapp
 - space-coder-monopoly-calc
@@ -57,37 +81,6 @@
 - mandelbrot-viewer
 - kscreen-switch
 - cc-clients-python-lib
-- maleo-metadata
 - uois-toolkit
 - agentrouter
 - maai
-- relyapi
-- bootify
-- miniml-jax
-- repology-mcp-server
-- lithops
-- qbit-manage
-- syntax-diagrams
-- txtanim
-- aioamazondevices
-- achatbot
-- spx-sdk
-- aiagents4pharma
-- rusty-runways
-- cmsketch
-- scientiflow-cli
-- sutrakit
-- tensordict-nightly
-- vg_tools
-- kreuzberg
-- scxpand
-- scxpand-cuda
-- lftools-uv
-- ccxt-ir
-- yandex-tracker-mcp
-- modusa
-- finbourne-access-sdk
-- obsidian-cli
-- iplooker
-- constrained-opt-mcp
-- monopoly-core

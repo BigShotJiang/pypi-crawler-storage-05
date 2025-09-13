@@ -1,11 +1,11 @@
 {
   "name": "gnuhealth-dentistry",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "summary": "Dental health package for GNU Health HIS.",
   "author": "GNU Solidario",
   "license": "GPL-3.0-or-later",
   "home_page": "https://www.gnuhealth.org",
-  "download_filename": "gnuhealth_dentistry-5.0.1.tar.gz",
-  "download_time": "2025-09-13T10:31:42.327383",
+  "download_filename": "gnuhealth_dentistry-5.0.2.tar.gz",
+  "download_time": "2025-09-13T14:49:22.016185",
   "package_url": "https://pypi.org/project/gnuhealth-dentistry/"
 }

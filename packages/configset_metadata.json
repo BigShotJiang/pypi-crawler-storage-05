@@ -1,11 +1,11 @@
 {
   "name": "configset",
-  "version": "1.85",
+  "version": "1.86",
   "summary": "A powerful and flexible configuration management library that supports both INI and JSON formats with automatic type conversion, list/dictionary parsing, and class-based interfaces.",
   "author": "Hadi Cahyadi",
   "license": "MIT",
   "home_page": "https://github.com/cumulus13/configset",
-  "download_filename": "configset-1.85.tar.gz",
-  "download_time": "2025-09-10T00:48:37.827616",
+  "download_filename": "configset-1.86.tar.gz",
+  "download_time": "2025-09-13T14:49:20.923143",
   "package_url": "https://pypi.org/project/configset/"
 }

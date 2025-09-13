@@ -1,11 +1,11 @@
 {
   "name": "programming-game",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "summary": "A Python client for the Programming Game.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "programming_game-0.0.13.tar.gz",
-  "download_time": "2025-09-13T12:56:29.355676",
+  "download_filename": "programming_game-0.0.14.tar.gz",
+  "download_time": "2025-09-13T14:49:32.009108",
   "package_url": "https://pypi.org/project/programming-game/"
 }
