@@ -1,11 +1,11 @@
 {
   "name": "greeum",
-  "version": "2.6.4.post1",
-  "summary": "Universal memory module for LLMs with Context Preservation System, PreCompact Hook integration, and intelligent context processing",
+  "version": "3.0.0.post1",
+  "summary": "Context-Dependent Neural Memory System for LLMs with GraphIndex beam search, STM/LTM consolidation, and semantic tagging",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "greeum-2.6.4.post1.tar.gz",
-  "download_time": "2025-09-12T20:13:37.087013",
+  "download_filename": "greeum-3.0.0.post1.tar.gz",
+  "download_time": "2025-09-13T03:16:22.348184",
   "package_url": "https://pypi.org/project/greeum/"
 }

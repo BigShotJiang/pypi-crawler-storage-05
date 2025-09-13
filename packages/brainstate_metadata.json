@@ -1,0 +1,11 @@
+{
+  "name": "brainstate",
+  "version": "0.1.9",
+  "summary": "A ``State``-based Transformation System for Program Compilation and Augmentation.",
+  "author": "BrainState Developers",
+  "license": "Apache-2.0 license",
+  "home_page": "https://github.com/chaobrain/brainstate",
+  "download_filename": "brainstate-0.1.9.tar.gz",
+  "download_time": "2025-09-13T03:16:23.945251",
+  "package_url": "https://pypi.org/project/brainstate/"
+}
