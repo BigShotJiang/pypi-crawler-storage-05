@@ -1,11 +1,11 @@
 {
   "name": "pdd-cli",
-  "version": "0.0.54",
+  "version": "0.0.55",
   "summary": "PDD (Prompt-Driven Development) Command Line Interface",
   "author": "Greg Tanaka",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pdd_cli-0.0.54-py3-none-any.whl",
-  "download_time": "2025-09-07T23:32:10.706579",
+  "download_filename": "pdd_cli-0.0.55-py3-none-any.whl",
+  "download_time": "2025-09-13T03:34:22.351842",
   "package_url": "https://pypi.org/project/pdd-cli/"
 }

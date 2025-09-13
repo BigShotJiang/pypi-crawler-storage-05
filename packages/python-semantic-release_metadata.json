@@ -1,11 +1,11 @@
 {
   "name": "python-semantic-release",
-  "version": "10.4.0",
+  "version": "10.4.1",
   "summary": "Automatic Semantic Versioning for Python projects",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "python_semantic_release-10.4.0.tar.gz",
-  "download_time": "2025-09-08T07:11:28.139330",
+  "download_filename": "python_semantic_release-10.4.1.tar.gz",
+  "download_time": "2025-09-13T03:34:18.424425",
   "package_url": "https://pypi.org/project/python-semantic-release/"
 }

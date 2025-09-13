@@ -1,0 +1,11 @@
+{
+  "name": "braintools",
+  "version": "0.0.10",
+  "summary": "The Toolbox for Brain Modeling Ecosystem.",
+  "author": "BrainTools Developers",
+  "license": "Apache-2.0 license",
+  "home_page": "https://github.com/chaobrain/braintools",
+  "download_filename": "braintools-0.0.10.tar.gz",
+  "download_time": "2025-09-13T03:34:26.082028",
+  "package_url": "https://pypi.org/project/braintools/"
+}

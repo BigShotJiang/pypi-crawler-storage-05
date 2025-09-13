@@ -1,18 +1,32 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-13T03:16:59.664740
-- **Total Packages**: 76
-- **Total Size**: 19.91 MB
+- **Download Time**: 2025-09-13T03:34:58.207165
+- **Total Packages**: 75
+- **Total Size**: 3.78 MB
 
 ## Packages List
+- mhjsmap
+- pyvoteview
+- python-semantic-release
+- cdktf-cdktf-provider-upcloud
+- rs-fusion-datasets
+- authentik-client
+- certcc-ssvc
+- secrets-cache
+- django-nativemojo
+- pdd-cli
+- lsy-testcase-to-xmind-mcp
+- odoo-addons-oca-operating-unit
+- anonymizer-lib
+- gcardvault
+- sportsball
+- braintools
 - pyarchernet
 - GANDLF
 - geomask
-- authentik-client
 - odoo-addon-l10n-es-verifactu-oca
 - mtflib
-- mhjsmap
 - greeum
 - chromatic-python
 - odoo-addon-l10n-it-edi-extension
@@ -23,7 +37,6 @@
 - pygamejr
 - hsi-preprocessing-toolkit
 - opsguide-mcp
-- sportsball
 - MeUtils
 - nonebot-plugin-fakemsg
 - nonebot-adapter-afdian
@@ -66,19 +79,5 @@
 - jmesflat
 - bioregistry
 - ritm-annotation
-- lsy-testcase-to-xmind-mcp
 - aigentsphere
 - adieu-discordbot-cogs
-- pyAgrum-nightly
-- on-the-fly-stats
-- agilicus
-- vercel-cli
-- pdfkb-mcp
-- fastapi-router-viz
-- pyasan
-- cowayaio
-- sqlbot
-- vserial
-- sbvoicedb
-- zenx
-- streamlit-lexical-extended

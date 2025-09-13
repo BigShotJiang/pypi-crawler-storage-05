@@ -1,11 +1,11 @@
 {
   "name": "mhjsmap",
-  "version": "1.0.8",
+  "version": "1.0.10",
   "summary": "A MCP server for AMap route planning and visualization",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mhjsmap-1.0.8.tar.gz",
-  "download_time": "2025-09-13T03:16:21.819857",
+  "download_filename": "mhjsmap-1.0.10.tar.gz",
+  "download_time": "2025-09-13T03:34:17.257086",
   "package_url": "https://pypi.org/project/mhjsmap/"
 }
