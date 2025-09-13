@@ -1,11 +1,11 @@
 {
   "name": "tenets",
-  "version": "0.1.1",
+  "version": "0.3.2",
   "summary": "Context that feeds your prompts",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tenets-0.1.1.tar.gz",
-  "download_time": "2025-09-11T16:13:22.399867",
+  "download_filename": "tenets-0.3.2.tar.gz",
+  "download_time": "2025-09-13T04:13:10.036102",
   "package_url": "https://pypi.org/project/tenets/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "artifacts",
+  "version": "20250913",
+  "summary": "ForensicArtifacts.com Artifact Repository.",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/ForensicArtifacts/artifacts",
+  "download_filename": "artifacts-20250913.tar.gz",
+  "download_time": "2025-09-13T04:13:08.171051",
+  "package_url": "https://pypi.org/project/artifacts/"
+}
