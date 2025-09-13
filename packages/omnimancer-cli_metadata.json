@@ -1,11 +1,11 @@
 {
   "name": "omnimancer-cli",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A unified command-line interface for multiple AI language models",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "omnimancer_cli-0.1.5.tar.gz",
-  "download_time": "2025-09-13T04:33:05.481924",
+  "download_filename": "omnimancer_cli-0.1.6.tar.gz",
+  "download_time": "2025-09-13T04:49:20.549032",
   "package_url": "https://pypi.org/project/omnimancer-cli/"
 }
