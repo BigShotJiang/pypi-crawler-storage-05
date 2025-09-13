@@ -1,11 +1,11 @@
 {
   "name": "PyBenChatBot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "PyBEN ChatBot enables anyone to run a custom chatbot on its own python module",
   "author": "Ben Moskovitch",
   "license": null,
   "home_page": null,
-  "download_filename": "pybenchatbot-1.0.0.tar.gz",
-  "download_time": "2025-09-13T07:49:33.810937",
+  "download_filename": "pybenchatbot-1.0.1.tar.gz",
+  "download_time": "2025-09-13T08:15:01.964306",
   "package_url": "https://pypi.org/project/PyBenChatBot/"
 }

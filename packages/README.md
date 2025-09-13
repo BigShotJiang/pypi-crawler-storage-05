@@ -1,11 +1,41 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-13T07:50:13.861644
-- **Total Packages**: 79
-- **Total Size**: 3.71 MB
+- **Download Time**: 2025-09-13T08:15:28.984331
+- **Total Packages**: 74
+- **Total Size**: 13.57 MB
 
 ## Packages List
+- geneva
+- bluer-ugv
+- pyphaser
+- mentai-cli
+- simpletuner
+- nlbone
+- authentik-client
+- pyglove
+- golem-vm-provider
+- async-websocket-pool
+- cleanframe
+- waldur-api-client
+- gpusitter
+- blendify
+- uv-dynamic-versioning
+- orka-reasoning
+- context-engine-mcp
+- byzh-core
+- python-jsonpath
+- wodcraft
+- connectonion
+- emr-py
+- TemporalVAE
+- PyBenChatBot
+- nonebot-plugin-apod
+- adams-torch
+- modusa
+- PyGObject
+- newrcc
+- tessdb-dao
 - ultracompress-module
 - scxpand
 - kybra-simple-db
@@ -14,9 +44,6 @@
 - agentlab-py
 - dhv
 - cloudoll
-- modusa
-- tessdb-dao
-- PyBenChatBot
 - runbooks
 - robhan-cdk-lib.aws-grafana
 - gitenvy
@@ -25,11 +52,8 @@
 - robhan-cdk-lib.utils
 - japanese-address-parser-py
 - tortitle
-- gpusitter
 - make-argocd-fly
-- authentik-client
 - chatnificent
-- connectonion
 - square-administration
 - stans-ml-stack
 - pygryfsmart
@@ -37,9 +61,7 @@
 - quote0
 - rockface
 - m4rkw-tracing
-- context-engine-mcp
 - koba
-- pyphaser
 - sleamdge
 - keepassxc-cli-integration
 - matteridge
@@ -58,30 +80,3 @@
 - scatterbin
 - smoosense
 - radarr
-- lidarr
-- PyWebWinUI3
-- readarr
-- overseerr
-- prowlarr
-- whisparr
-- hybrid-groups
-- remnd
-- emerge
-- tf-models-nightly
-- livekit-plugins-nextevi
-- openfund-taker
-- openfund-maker
-- matridge
-- qa-generator
-- fastlib-py
-- modelgen
-- entari-plugin-browser
-- openapiart
-- pyrf24
-- Promium
-- abs-auth-rbac-core
-- libhikvision
-- gitsafe-cli
-- dycw-utilities
-- dhisana
-- autohack-next
