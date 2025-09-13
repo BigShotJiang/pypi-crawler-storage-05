@@ -1,11 +1,11 @@
 {
   "name": "fastapi-timeout",
-  "version": "0.1.1",
+  "version": "0.1.1.post1",
   "summary": "Configurable timeout middleware for FastAPI applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastapi_timeout-0.1.1.tar.gz",
-  "download_time": "2025-09-13T08:49:38.014911",
+  "download_filename": "fastapi_timeout-0.1.1.post1.tar.gz",
+  "download_time": "2025-09-13T13:16:44.606853",
   "package_url": "https://pypi.org/project/fastapi-timeout/"
 }

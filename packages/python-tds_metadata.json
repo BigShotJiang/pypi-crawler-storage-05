@@ -1,0 +1,11 @@
+{
+  "name": "python-tds",
+  "version": "1.17.1",
+  "summary": "Python DBAPI driver for MSSQL using pure Python TDS (Tabular Data Stream) protocol implementation",
+  "author": "Mikhail Denisenko",
+  "license": "MIT",
+  "home_page": "https://github.com/denisenkom/pytds",
+  "download_filename": "python_tds-1.17.1.tar.gz",
+  "download_time": "2025-09-13T13:16:51.516279",
+  "package_url": "https://pypi.org/project/python-tds/"
+}

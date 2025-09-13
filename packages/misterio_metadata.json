@@ -1,11 +1,11 @@
 {
   "name": "misterio",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "misterio CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "misterio-0.1.2.tar.gz",
-  "download_time": "2025-09-07T17:50:33.892228",
+  "download_filename": "misterio-0.1.3.tar.gz",
+  "download_time": "2025-09-13T13:16:48.332175",
   "package_url": "https://pypi.org/project/misterio/"
 }
