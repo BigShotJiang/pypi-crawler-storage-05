@@ -1,11 +1,11 @@
 {
   "name": "passagemath-categories",
-  "version": "10.6.20",
+  "version": "10.6.21",
   "summary": "passagemath: Sage categories and basic rings",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_categories-10.6.20-cp310-cp310-win_amd64.whl",
-  "download_time": "2025-09-11T08:53:32.400247",
+  "download_filename": "passagemath_categories-10.6.21.tar.gz",
+  "download_time": "2025-09-13T09:35:09.316399",
   "package_url": "https://pypi.org/project/passagemath-categories/"
 }

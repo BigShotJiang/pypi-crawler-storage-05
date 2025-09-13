@@ -1,11 +1,11 @@
 {
   "name": "passagemath-database-mutation-class",
-  "version": "10.6.18",
+  "version": "10.6.21",
   "summary": "passagemath: Database of exceptional mutation classes of quivers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_database_mutation_class-10.6.18.tar.gz",
-  "download_time": "2025-09-09T15:50:49.146517",
+  "download_filename": "passagemath_database_mutation_class-10.6.21.tar.gz",
+  "download_time": "2025-09-13T09:35:03.461546",
   "package_url": "https://pypi.org/project/passagemath-database-mutation-class/"
 }
