@@ -1,11 +1,11 @@
 {
   "name": "m4rkw-transmission",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "db",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "m4rkw_transmission-0.1.0-py3-none-any.whl",
-  "download_time": "2025-09-13T16:33:35.808025",
+  "download_filename": "m4rkw_transmission-0.1.1-py3-none-any.whl",
+  "download_time": "2025-09-13T16:42:45.716895",
   "package_url": "https://pypi.org/project/m4rkw-transmission/"
 }

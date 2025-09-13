@@ -1,0 +1,11 @@
+{
+  "name": "hexfrost-core",
+  "version": "0.0.1",
+  "summary": "This is the core library for the Hexfrost project, providing essential functionalities and tools for building and managing applications.",
+  "author": "Kaziamov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hexfrost_core-0.0.1.tar.gz",
+  "download_time": "2025-09-13T16:42:45.135110",
+  "package_url": "https://pypi.org/project/hexfrost-core/"
+}
