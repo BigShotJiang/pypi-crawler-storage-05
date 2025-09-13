@@ -1,0 +1,11 @@
+{
+  "name": "eai-camp",
+  "version": "0.0.1",
+  "summary": "Enterprise AI Agent Compliance & Audit Management Platform",
+  "author": "EAI-CAMP Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/eai-camp",
+  "download_filename": "eai_camp-0.0.1.tar.gz",
+  "download_time": "2025-09-13T11:49:27.130173",
+  "package_url": "https://pypi.org/project/eai-camp/"
+}

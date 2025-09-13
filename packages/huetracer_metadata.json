@@ -1,0 +1,11 @@
+{
+  "name": "huetracer",
+  "version": "0.0.15",
+  "summary": "Analyze cell-cell interaction with spatial transcriptome data.",
+  "author": "Masachika Ikegami",
+  "license": null,
+  "home_page": "https://github.com/MANO-B/HueTracer",
+  "download_filename": "huetracer-0.0.15.tar.gz",
+  "download_time": "2025-09-13T11:49:24.234197",
+  "package_url": "https://pypi.org/project/huetracer/"
+}

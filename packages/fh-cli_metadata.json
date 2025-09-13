@@ -1,0 +1,11 @@
+{
+  "name": "fh-cli",
+  "version": "0.1.6",
+  "summary": "Quickly scaffold FastHTML apps!",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fh_cli-0.1.6.tar.gz",
+  "download_time": "2025-09-13T11:49:30.297732",
+  "package_url": "https://pypi.org/project/fh-cli/"
+}
