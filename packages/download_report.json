@@ -1,8 +1,15 @@
 {
-  "download_time": "2025-09-13T03:34:58.207165",
-  "total_packages_downloaded": 75,
-  "total_size_mb": 3.78,
+  "download_time": "2025-09-13T03:50:26.616583",
+  "total_packages_downloaded": 78,
+  "total_size_mb": 2.28,
   "packages": [
+    "vantage-cli",
+    "keras-nightly",
+    "mol-properties",
+    "suzaku",
+    "agency-swarm",
+    "odoo-addon-queue-job",
+    "odoo-addons-oca-purchase-workflow",
     "mhjsmap",
     "pyvoteview",
     "python-semantic-release",
@@ -73,10 +80,6 @@
     "pyportal",
     "singleton-base",
     "odoo-addon-account-analytic-distribution-manual",
-    "jmesflat",
-    "bioregistry",
-    "ritm-annotation",
-    "aigentsphere",
-    "adieu-discordbot-cogs"
+    "jmesflat"
   ]
 }
