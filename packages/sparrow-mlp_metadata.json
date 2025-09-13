@@ -1,11 +1,11 @@
 {
   "name": "sparrow-mlp",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "summary": "A library for building dynamic and self-pruning MLPs with Mixture of Experts and Layer Skipping.",
   "author": "AmirReza",
   "license": null,
   "home_page": "https://github.com/amirahali2008wp-sudo/sparrow-mlp",
-  "download_filename": "sparrow_mlp-3.0.1.tar.gz",
-  "download_time": "2025-09-13T14:09:53.096354",
+  "download_filename": "sparrow_mlp-3.0.2.tar.gz",
+  "download_time": "2025-09-13T14:28:01.780790",
   "package_url": "https://pypi.org/project/sparrow-mlp/"
 }

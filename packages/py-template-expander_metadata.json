@@ -1,0 +1,11 @@
+{
+  "name": "py-template-expander",
+  "version": "2025.9.131516",
+  "summary": "A simple Python library for expanding template strings with optional groups and character sets.",
+  "author": "Eugene Evstafev",
+  "license": "MIT",
+  "home_page": "https://github.com/chigwell/py_template_expander",
+  "download_filename": "py_template_expander-2025.9.131516.tar.gz",
+  "download_time": "2025-09-13T14:28:06.645745",
+  "package_url": "https://pypi.org/project/py-template-expander/"
+}
