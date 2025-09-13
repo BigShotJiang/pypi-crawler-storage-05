@@ -1,0 +1,11 @@
+{
+  "name": "waterfurnace",
+  "version": "1.2.0",
+  "summary": "Python interface for waterfurnace geothermal systems",
+  "author": "Sean Dague",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/sdague/waterfurnace",
+  "download_filename": "waterfurnace-1.2.0.tar.gz",
+  "download_time": "2025-09-13T12:56:46.330420",
+  "package_url": "https://pypi.org/project/waterfurnace/"
+}

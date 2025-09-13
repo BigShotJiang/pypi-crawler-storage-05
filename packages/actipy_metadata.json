@@ -1,0 +1,11 @@
+{
+  "name": "actipy",
+  "version": "3.8.0",
+  "summary": "Python package to process wearable accelerometer data",
+  "author": "Shing Chan, Aiden Doherty",
+  "license": "See LICENSE.md",
+  "home_page": "https://github.com/OxWearables/actipy",
+  "download_filename": "actipy-3.8.0.tar.gz",
+  "download_time": "2025-09-13T12:57:01.581412",
+  "package_url": "https://pypi.org/project/actipy/"
+}

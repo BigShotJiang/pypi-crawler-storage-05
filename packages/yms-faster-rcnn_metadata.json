@@ -1,11 +1,11 @@
 {
   "name": "yms-faster-rcnn",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "summary": "My awesome package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yms_faster_rcnn-0.1.16.tar.gz",
-  "download_time": "2025-09-12T03:04:13.513815",
+  "download_filename": "yms_faster_rcnn-0.1.17.tar.gz",
+  "download_time": "2025-09-13T12:56:56.365521",
   "package_url": "https://pypi.org/project/yms-faster-rcnn/"
 }

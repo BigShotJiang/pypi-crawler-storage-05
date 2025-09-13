@@ -1,0 +1,11 @@
+{
+  "name": "hytest",
+  "version": "0.9.0",
+  "summary": "A generic automation framework for QA testing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hytest-0.9.0.tar.gz",
+  "download_time": "2025-09-13T12:56:51.634498",
+  "package_url": "https://pypi.org/project/hytest/"
+}

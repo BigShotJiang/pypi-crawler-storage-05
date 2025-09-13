@@ -1,11 +1,11 @@
 {
   "name": "sqlbot",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "SQLBot - Database Query Bot with AI-powered natural language processing",
   "author": "SQLBot Team",
   "license": null,
   "home_page": null,
-  "download_filename": "sqlbot-1.0.7.tar.gz",
-  "download_time": "2025-09-13T02:57:42.511590",
+  "download_filename": "sqlbot-1.0.8.tar.gz",
+  "download_time": "2025-09-13T12:56:56.886364",
   "package_url": "https://pypi.org/project/sqlbot/"
 }

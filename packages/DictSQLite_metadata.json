@@ -1,0 +1,11 @@
+{
+  "name": "DictSQLite",
+  "version": "1.8.0",
+  "summary": "You can handle basic SQLite operations in Python like Dict.",
+  "author": "Disnana",
+  "license": "MIT (Custom License with Specific Terms)",
+  "home_page": "https://github.com/disnana/DictSQLite",
+  "download_filename": "DictSQLite-1.8.0.tar.gz",
+  "download_time": "2025-09-13T12:57:00.021690",
+  "package_url": "https://pypi.org/project/DictSQLite/"
+}
