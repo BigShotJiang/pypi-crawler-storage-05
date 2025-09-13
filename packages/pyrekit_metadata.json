@@ -1,0 +1,11 @@
+{
+  "name": "pyrekit",
+  "version": "0.1.18",
+  "summary": "A toolkit to create react apps with python backend and includes pywebview to make desktop apps.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyrekit-0.1.18.tar.gz",
+  "download_time": "2025-09-13T04:33:02.855915",
+  "package_url": "https://pypi.org/project/pyrekit/"
+}

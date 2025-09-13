@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-jsdoc",
+  "version": "0.25.0",
+  "summary": "JSDoc grammar for tree-sitter",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tree_sitter_jsdoc-0.25.0-cp310-abi3-macosx_10_9_x86_64.whl",
+  "download_time": "2025-09-13T04:32:55.877977",
+  "package_url": "https://pypi.org/project/tree-sitter-jsdoc/"
+}

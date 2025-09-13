@@ -1,11 +1,11 @@
 {
   "name": "dtfilterthumbor2",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "dantri filter",
   "author": "xuantrangk54",
   "license": "MIT",
   "home_page": "https://medium-multiply.readthedocs.io/",
-  "download_filename": "dtfilterthumbor2-1.0.4.tar.gz",
-  "download_time": "2025-09-13T04:13:46.432842",
+  "download_filename": "dtfilterthumbor2-1.0.5.tar.gz",
+  "download_time": "2025-09-13T04:33:00.184935",
   "package_url": "https://pypi.org/project/dtfilterthumbor2/"
 }
