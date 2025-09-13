@@ -1,11 +1,11 @@
 {
   "name": "lsy-testcase-to-xmind-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Add your description here",
   "author": "郦士元",
   "license": null,
   "home_page": null,
-  "download_filename": "lsy_testcase_to_xmind_mcp-0.1.1.tar.gz",
-  "download_time": "2025-09-13T03:34:22.889292",
+  "download_filename": "lsy_testcase_to_xmind_mcp-0.1.2.tar.gz",
+  "download_time": "2025-09-13T05:11:27.254853",
   "package_url": "https://pypi.org/project/lsy-testcase-to-xmind-mcp/"
 }

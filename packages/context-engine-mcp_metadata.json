@@ -1,11 +1,11 @@
 {
   "name": "context-engine-mcp",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "MCP-based contextual flag system for AI assistants",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "context_engine_mcp-1.0.7.tar.gz",
-  "download_time": "2025-09-12T22:11:14.088909",
+  "download_filename": "context_engine_mcp-1.0.8.tar.gz",
+  "download_time": "2025-09-13T05:11:35.810943",
   "package_url": "https://pypi.org/project/context-engine-mcp/"
 }

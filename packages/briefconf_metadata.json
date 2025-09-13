@@ -1,0 +1,11 @@
+{
+  "name": "briefconf",
+  "version": "0.1.3",
+  "summary": "A lightweight configuration base class for small to medium-sized Python projects.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "briefconf-0.1.3.tar.gz",
+  "download_time": "2025-09-13T05:11:27.863182",
+  "package_url": "https://pypi.org/project/briefconf/"
+}

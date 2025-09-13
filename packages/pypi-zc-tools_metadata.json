@@ -1,0 +1,11 @@
+{
+  "name": "pypi-zc-tools",
+  "version": "1.0.0",
+  "summary": "数据生成工具",
+  "author": "jochen",
+  "license": "MIT License",
+  "home_page": "https://gitee.com/zc_ceshi/pypi_zc_tools",
+  "download_filename": "pypi_zc_tools-1.0.0.tar.gz",
+  "download_time": "2025-09-13T05:11:26.034842",
+  "package_url": "https://pypi.org/project/pypi-zc-tools/"
+}

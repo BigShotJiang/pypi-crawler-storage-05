@@ -1,0 +1,11 @@
+{
+  "name": "snowpy3",
+  "version": "2025.9.12.2",
+  "summary": "Python 3 Library to interact with and manage a ServiceNow instance via JSONv2",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "snowpy3-2025.9.12.2.tar.gz",
+  "download_time": "2025-09-13T05:11:29.658844",
+  "package_url": "https://pypi.org/project/snowpy3/"
+}
