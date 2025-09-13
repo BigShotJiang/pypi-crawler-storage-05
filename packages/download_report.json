@@ -1,12 +1,8 @@
 {
-  "download_time": "2025-09-13T07:11:46.400622",
-  "total_packages_downloaded": 83,
-  "total_size_mb": 15.78,
+  "download_time": "2025-09-13T07:27:03.201163",
+  "total_packages_downloaded": 81,
+  "total_size_mb": 0.01,
   "packages": [
-    "Zerodha-Tradehull",
-    "streamlit-nightly",
-    "context-engine-mcp",
-    "scatterbin",
     "smoosense",
     "radarr",
     "lidarr",
@@ -85,6 +81,8 @@
     "pygeoinf",
     "pypi-zc-tools",
     "vohuudien-check",
-    "sch-lib"
+    "sch-lib",
+    "dtfilterthumbor",
+    "geopointdb"
   ]
 }
