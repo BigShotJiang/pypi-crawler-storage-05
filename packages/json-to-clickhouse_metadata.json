@@ -1,0 +1,11 @@
+{
+  "name": "json-to-clickhouse",
+  "version": "0.1.20",
+  "summary": null,
+  "author": "Vladimir Muzychenko",
+  "license": null,
+  "home_page": null,
+  "download_filename": "json_to_clickhouse-0.1.20.tar.gz",
+  "download_time": "2025-09-13T08:34:07.961495",
+  "package_url": "https://pypi.org/project/json-to-clickhouse/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "anyio-sqlite",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "anyio bridge to the standard sqlite3 module",
   "author": "beerpsi",
   "license": null,
   "home_page": null,
-  "download_filename": "anyio_sqlite-0.1.1.tar.gz",
-  "download_time": "2025-09-12T20:31:08.801999",
+  "download_filename": "anyio_sqlite-0.2.1.tar.gz",
+  "download_time": "2025-09-13T08:34:03.603479",
   "package_url": "https://pypi.org/project/anyio-sqlite/"
 }

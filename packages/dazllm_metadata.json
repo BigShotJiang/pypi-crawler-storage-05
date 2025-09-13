@@ -1,11 +1,11 @@
 {
   "name": "dazllm",
-  "version": "0.24.0",
+  "version": "0.25.0",
   "summary": "Simple, unified interface for all major LLMs",
   "author": "Darren Oakey",
   "license": "MIT",
   "home_page": "https://github.com/darrenoakey/dazllm",
-  "download_filename": "dazllm-0.24.0.tar.gz",
-  "download_time": "2025-09-12T21:10:18.805908",
+  "download_filename": "dazllm-0.25.0.tar.gz",
+  "download_time": "2025-09-13T08:34:08.514218",
   "package_url": "https://pypi.org/project/dazllm/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "PetroMap",
+  "version": "0.1.1",
+  "summary": "A Contour Mapping Utility for Oil and Gas Engineers",
+  "author": "Nashat Jumaah Omar",
+  "license": null,
+  "home_page": "https://github.com/Nashat90/",
+  "download_filename": "petromap-0.1.1.tar.gz",
+  "download_time": "2025-09-13T08:34:03.065381",
+  "package_url": "https://pypi.org/project/PetroMap/"
+}

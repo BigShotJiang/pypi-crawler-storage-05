@@ -1,11 +1,11 @@
 {
   "name": "cleanframe",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A Python library for cleaning and validating pandas DataFrames.",
   "author": "Fayez Hesham",
   "license": null,
   "home_page": "https://github.com/fayezhesham/cleanframe",
-  "download_filename": "cleanframe-0.2.0.tar.gz",
-  "download_time": "2025-09-13T08:14:54.029754",
+  "download_filename": "cleanframe-0.2.1.tar.gz",
+  "download_time": "2025-09-13T08:34:12.826596",
   "package_url": "https://pypi.org/project/cleanframe/"
 }

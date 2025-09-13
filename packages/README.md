@@ -1,22 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-13T08:15:28.984331
-- **Total Packages**: 74
-- **Total Size**: 13.57 MB
+- **Download Time**: 2025-09-13T08:34:41.456587
+- **Total Packages**: 70
+- **Total Size**: 2.49 MB
 
 ## Packages List
+- PetroMap
+- anyio-sqlite
+- wodcraft
+- kuzu
+- bool-hybrid-array
+- fraiseql
+- multimodal-sdk
+- sl-pos2-api
+- authentik-client
+- json-to-clickhouse
+- dazllm
+- skypatrol
+- peaq-robot-sdk
+- mns-common
+- AstrBot
+- domain-event-pattern
+- lsy-testcase-to-xmind-mcp
+- limoon
+- cleanframe
+- dodopayments
+- nvfuser-cu128
+- nvfuser-cu126
+- pulse-sdk
+- nvfuser-cu129
+- peelee
 - geneva
 - bluer-ugv
 - pyphaser
 - mentai-cli
 - simpletuner
 - nlbone
-- authentik-client
 - pyglove
 - golem-vm-provider
 - async-websocket-pool
-- cleanframe
 - waldur-api-client
 - gpusitter
 - blendify
@@ -25,7 +48,6 @@
 - context-engine-mcp
 - byzh-core
 - python-jsonpath
-- wodcraft
 - connectonion
 - emr-py
 - TemporalVAE
@@ -54,29 +76,3 @@
 - tortitle
 - make-argocd-fly
 - chatnificent
-- square-administration
-- stans-ml-stack
-- pygryfsmart
-- treelang
-- quote0
-- rockface
-- m4rkw-tracing
-- koba
-- sleamdge
-- keepassxc-cli-integration
-- matteridge
-- novara
-- neutraltemplate
-- bool-hybrid-array
-- pretix-cashfree
-- geobox
-- tritonparse
-- onnxscript
-- py-encase
-- rapidfireai
-- pwnkit
-- Zerodha-Tradehull
-- streamlit-nightly
-- scatterbin
-- smoosense
-- radarr
