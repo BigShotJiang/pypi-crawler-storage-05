@@ -1,10 +1,18 @@
 {
-  "download_time": "2025-09-13T05:30:47.262672",
-  "total_packages_downloaded": 74,
-  "total_size_mb": 23.16,
+  "download_time": "2025-09-13T05:40:06.424225",
+  "total_packages_downloaded": 77,
+  "total_size_mb": 4.34,
   "packages": [
-    "eth-event",
+    "eas-sdk",
     "authentik-client",
+    "goray",
+    "mtflib",
+    "AstrBot",
+    "lazyad",
+    "mhjsmap",
+    "bettere2b",
+    "square-administration",
+    "eth-event",
     "byzh-extra",
     "byzh-core",
     "pulumi-artifactory",
@@ -36,7 +44,6 @@
     "snowpy3",
     "cyberstorm-schemas",
     "pipen-report",
-    "mhjsmap",
     "tree-sitter-regex",
     "iagitbetter",
     "toastapi",
@@ -72,10 +79,6 @@
     "bear-dereth",
     "unpage",
     "py-encase",
-    "mybox",
-    "odoo14-addon-ssi-consulting",
-    "BrainX",
-    "tree-sitter-jsdoc",
-    "keras-nlp-nightly"
+    "mybox"
   ]
 }

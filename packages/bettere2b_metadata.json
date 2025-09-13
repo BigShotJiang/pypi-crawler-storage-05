@@ -1,0 +1,11 @@
+{
+  "name": "bettere2b",
+  "version": "1.0.0",
+  "summary": "BetterE2B - Drop-in replacement for e2b-code-interpreter with dynamic subdomain support",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/playauraai/bettere2b",
+  "download_filename": "bettere2b-1.0.0.tar.gz",
+  "download_time": "2025-09-13T05:39:30.259290",
+  "package_url": "https://pypi.org/project/bettere2b/"
+}

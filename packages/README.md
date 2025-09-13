@@ -1,13 +1,21 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-13T05:30:47.262672
-- **Total Packages**: 74
-- **Total Size**: 23.16 MB
+- **Download Time**: 2025-09-13T05:40:06.424225
+- **Total Packages**: 77
+- **Total Size**: 4.34 MB
 
 ## Packages List
-- eth-event
+- eas-sdk
 - authentik-client
+- goray
+- mtflib
+- AstrBot
+- lazyad
+- mhjsmap
+- bettere2b
+- square-administration
+- eth-event
 - byzh-extra
 - byzh-core
 - pulumi-artifactory
@@ -39,7 +47,6 @@
 - snowpy3
 - cyberstorm-schemas
 - pipen-report
-- mhjsmap
 - tree-sitter-regex
 - iagitbetter
 - toastapi
@@ -76,7 +83,3 @@
 - unpage
 - py-encase
 - mybox
-- odoo14-addon-ssi-consulting
-- BrainX
-- tree-sitter-jsdoc
-- keras-nlp-nightly
