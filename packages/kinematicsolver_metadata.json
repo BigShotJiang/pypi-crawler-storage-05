@@ -1,0 +1,11 @@
+{
+  "name": "kinematicsolver",
+  "version": "1.0.0",
+  "summary": "An algebra-based kinematic variables solver for UAM",
+  "author": "Mahir Masudur Rahman",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kinematicsolver-1.0.0.tar.gz",
+  "download_time": "2025-09-13T02:06:33.726037",
+  "package_url": "https://pypi.org/project/kinematicsolver/"
+}

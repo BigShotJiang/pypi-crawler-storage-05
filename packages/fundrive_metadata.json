@@ -1,11 +1,11 @@
 {
   "name": "fundrive",
-  "version": "2.0.36",
+  "version": "2.0.39",
   "summary": "fundrive",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fundrive-2.0.36-py3-none-any.whl",
-  "download_time": "2025-09-12T14:11:58.713919",
+  "download_filename": "fundrive-2.0.39-py3-none-any.whl",
+  "download_time": "2025-09-13T02:06:35.309530",
   "package_url": "https://pypi.org/project/fundrive/"
 }
