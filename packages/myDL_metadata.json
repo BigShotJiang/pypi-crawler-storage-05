@@ -1,11 +1,11 @@
 {
   "name": "myDL",
-  "version": "0.0.18",
+  "version": "0.0.20",
   "summary": "my deep learning",
   "author": "jimmybow",
   "license": "BSD",
   "home_page": "https://github.com/jimmybow/myDL",
-  "download_filename": "mydl-0.0.18.tar.gz",
-  "download_time": "2025-09-13T13:16:49.929051",
+  "download_filename": "mydl-0.0.20.tar.gz",
+  "download_time": "2025-09-13T16:12:21.155230",
   "package_url": "https://pypi.org/project/myDL/"
 }

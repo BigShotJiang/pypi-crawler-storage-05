@@ -1,0 +1,11 @@
+{
+  "name": "dishka",
+  "version": "1.7.0",
+  "summary": "Cute DI framework with scopes and agreeable API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "dishka-1.7.0.tar.gz",
+  "download_time": "2025-09-13T16:12:18.972712",
+  "package_url": "https://pypi.org/project/dishka/"
+}

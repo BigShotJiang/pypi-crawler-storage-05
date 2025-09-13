@@ -1,11 +1,11 @@
 {
   "name": "pay-with-crypto",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A Python library for handling cryptocurrency payments.",
   "author": "kirillketrik",
   "license": "MIT",
   "home_page": "https://github.com/kirillketrik/pay-with-crypto",
-  "download_filename": "pay_with_crypto-0.1.0.tar.gz",
-  "download_time": "2025-09-13T15:28:08.499952",
+  "download_filename": "pay_with_crypto-0.2.0.tar.gz",
+  "download_time": "2025-09-13T16:12:21.677064",
   "package_url": "https://pypi.org/project/pay-with-crypto/"
 }

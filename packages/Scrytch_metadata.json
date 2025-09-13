@@ -1,11 +1,11 @@
 {
   "name": "Scrytch",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "A Python project which imitates Scratch game logic",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scrytch-1.0.1.tar.gz",
-  "download_time": "2025-09-12T20:13:12.018796",
+  "download_filename": "scrytch-1.0.3.tar.gz",
+  "download_time": "2025-09-13T16:12:16.815326",
   "package_url": "https://pypi.org/project/Scrytch/"
 }

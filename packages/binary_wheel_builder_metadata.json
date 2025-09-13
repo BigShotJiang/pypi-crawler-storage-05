@@ -1,0 +1,11 @@
+{
+  "name": "binary_wheel_builder",
+  "version": "3.14.1",
+  "summary": "Bundle CLI applications or other binary data as wheel to use them in code or as standalone binary",
+  "author": "Timo Reymann",
+  "license": null,
+  "home_page": "https://github.com/timo-reymann/python-binary-wheel-builder",
+  "download_filename": "binary_wheel_builder-3.14.1.tar.gz",
+  "download_time": "2025-09-13T16:12:32.864060",
+  "package_url": "https://pypi.org/project/binary_wheel_builder/"
+}

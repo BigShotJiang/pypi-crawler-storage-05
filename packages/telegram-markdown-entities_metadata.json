@@ -1,0 +1,11 @@
+{
+  "name": "telegram-markdown-entities",
+  "version": "0.1.0",
+  "summary": "Convert Markdown into plain text and Telegram message entities.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "telegram_markdown_entities-0.1.0.tar.gz",
+  "download_time": "2025-09-13T16:12:11.489013",
+  "package_url": "https://pypi.org/project/telegram-markdown-entities/"
+}
