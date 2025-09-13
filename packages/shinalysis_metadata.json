@@ -1,0 +1,11 @@
+{
+  "name": "shinalysis",
+  "version": "0.1.1",
+  "summary": "This package contains functions that support basic calibration and analysis of interferograms produced using spatial heterodyne interferometers.",
+  "author": "Cole",
+  "license": null,
+  "home_page": null,
+  "download_filename": "shinalysis-0.1.1.tar.gz",
+  "download_time": "2025-09-13T00:44:21.874519",
+  "package_url": "https://pypi.org/project/shinalysis/"
+}

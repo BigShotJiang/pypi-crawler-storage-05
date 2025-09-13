@@ -1,11 +1,11 @@
 {
   "name": "rnbrw",
-  "version": "0.1.7",
+  "version": "0.1.7.2",
   "summary": "Renewal Non-Backtracking Random Walk (RNBRW) for scalable community detection",
   "author": "Behnaz Moradi-Jamei",
   "license": null,
   "home_page": "https://github.com/lBehnaz-m/RNBRW/",
-  "download_filename": "rnbrw-0.1.7.tar.gz",
-  "download_time": "2025-09-12T20:48:51.691110",
+  "download_filename": "rnbrw-0.1.7.2.tar.gz",
+  "download_time": "2025-09-13T00:44:41.647603",
   "package_url": "https://pypi.org/project/rnbrw/"
 }

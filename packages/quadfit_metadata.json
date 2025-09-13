@@ -1,11 +1,11 @@
 {
   "name": "quadfit",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Fork of QuadrilateralFitter rewritten in C. QuadrilateralFitter is an efficient and easy-to-use Python library for fitting irregular quadrilaterals from irregular polygons or any noisy data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quadfit-1.0.0.tar.gz",
-  "download_time": "2025-09-12T18:06:52.468211",
+  "download_filename": "quadfit-1.1.0.tar.gz",
+  "download_time": "2025-09-13T00:44:36.370074",
   "package_url": "https://pypi.org/project/quadfit/"
 }
