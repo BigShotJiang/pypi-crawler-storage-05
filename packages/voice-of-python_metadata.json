@@ -1,0 +1,11 @@
+{
+  "name": "voice-of-python",
+  "version": "0.1.0",
+  "summary": "Offline multilingual voice bot with Vosk ASR and pyttsx3 TTS",
+  "author": "Ujjal Bhattacharya",
+  "license": null,
+  "home_page": "https://github.com/henry-n2/voice_of_python",
+  "download_filename": "voice_of_python-0.1.0.tar.gz",
+  "download_time": "2025-09-13T09:11:34.221073",
+  "package_url": "https://pypi.org/project/voice-of-python/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pymaya",
+  "version": "0.5.1",
+  "summary": "Python client to interact with maya.tase.co.il",
+  "author": "Ben Sterenson",
+  "license": null,
+  "home_page": "https://github.com/BenSterenson/pymaya",
+  "download_filename": "pymaya-0.5.1.tar.gz",
+  "download_time": "2025-09-13T09:11:31.409733",
+  "package_url": "https://pypi.org/project/pymaya/"
+}
